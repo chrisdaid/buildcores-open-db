@@ -1,0 +1,32 @@
+{
+  "opendb_id": "b232b003-0e7a-4804-b8b1-b2448f99a6c2",
+  "metadata": {
+    "name": "Silverstone SG13 Mini-ITX Tower White / Black",
+    "manufacturer": "Silverstone",
+    "part_numbers": [
+      "SST-SG13WB                                                    SG13WB"
+    ],
+    "series": "SG13",
+    "variant": ""
+  },
+  "form_factor": "Mini-ITX Tower",
+  "color": [
+    "WHITE",
+    "BLACK"
+  ],
+  "power_supply": "None",
+  "side_panel": "None",
+  "has_transparent_side_panel": false,
+  "front_panel_usb": "USB 3.2 Gen 1 Type-A",
+  "max_video_card_length": 267,
+  "max_cpu_cooler_height": null,
+  "internal_3_5_bays": 1,
+  "internal_2_5_bays": 1,
+  "expansion_slots": 2,
+  "dimensions": "285 x 222 x 181",
+  "volume": 11.452,
+  "weight": null,
+  "general_product_information": {
+    "newegg_sku": "9SIBM22K7Z4231"
+  }
+}

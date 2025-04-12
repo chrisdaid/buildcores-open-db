@@ -1,0 +1,145 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "title": "Monitor Schema",
+  "description": "Schema for monitor components",
+  "required": [
+    "screen_size",
+    "resolution",
+    "refresh_rate",
+    "panel_type",
+    "metadata"
+  ],
+  "properties": {
+    "opendb_id": {
+      "type": "string",
+      "description": "Unique identifier for the document (UUID v4)"
+    },
+    "screen_size": {
+      "type": "number",
+      "description": "Screen size in inches"
+    },
+    "resolution": {
+      "type": "object",
+      "description": "Resolution of the monitor",
+      "required": ["horizontalRes", "verticalRes"],
+      "properties": {
+        "horizontalRes": {
+          "type": "number",
+          "description": "Horizontal resolution in pixels"
+        },
+        "verticalRes": {
+          "type": "number",
+          "description": "Vertical resolution in pixels"
+        }
+      }
+    },
+    "refresh_rate": {
+      "type": "number",
+      "description": "Maximum refresh rate in Hz"
+    },
+    "panel_type": {
+      "type": "string",
+      "description": "Type of panel (IPS, VA, TN, OLED, etc.)"
+    },
+    "response_time": {
+      "type": "number",
+      "description": "Gray-to-gray response time in milliseconds"
+    },
+    "color": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "The color of this product (e.g., ['Black', 'Red']). Each color of the product should be included in the array."
+    },
+    "viewing_angle": {
+      "type": "string",
+      "description": "Viewing angles (e.g., '178°/178°')"
+    },
+    "aspect_ratio": {
+      "type": "string",
+      "description": "Aspect ratio (e.g., '16:9', '21:9')"
+    },
+    "connectors": {
+      "type": "string",
+      "description": "Available ports and connections"
+    },
+    "max_brightness": {
+      "type": "string",
+      "description": "Maximum brightness in nits"
+    },
+    "hdr": {
+      "type": "string",
+      "description": "HDR support and certification"
+    },
+    "adaptive_sync": {
+      "type": "string",
+      "description": "Adaptive sync technology (G-Sync, FreeSync, etc.)"
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Product metadata",
+      "required": ["name", "manufacturer"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Standardized product name"
+        },
+        "manufacturer": {
+          "type": "string",
+          "description": "Brand/manufacturer name"
+        },
+        "part_numbers": {
+          "type": "array",
+          "description": "Array of part numbers associated with this monitor",
+          "items": {
+            "type": "string"
+          }
+        },
+        "series": {
+          "type": "string",
+          "description": "Product series"
+        },
+        "variant": {
+          "type": "string",
+          "description": "Product variant"
+        },
+        "model": {
+          "type": "string",
+          "description": "Model number"
+        }
+      }
+    },
+    "general_product_information": {
+      "type": "object",
+      "description": "General product information and retailer SKUs",
+      "properties": {
+        "amazon_sku": {
+          "type": "string",
+          "description": "Amazon product SKU"
+        },
+        "newegg_sku": {
+          "type": "string",
+          "description": "Newegg product SKU"
+        },
+        "bestbuy_sku": {
+          "type": "number",
+          "description": "Best Buy product SKU"
+        },
+        "walmart_sku": {
+          "type": "number",
+          "description": "Walmart product SKU"
+        },
+        "adorama_sku": {
+          "type": "string",
+          "description": "Adorama product SKU"
+        },
+        "manufacturer_url": {
+          "type": "string",
+          "description": "Official manufacturer product URL"
+        }
+      }
+    }
+  }
+}

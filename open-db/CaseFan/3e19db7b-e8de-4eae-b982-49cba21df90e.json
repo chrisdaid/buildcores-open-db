@@ -1,0 +1,27 @@
+{
+  "opendb_id": "3e19db7b-e8de-4eae-b982-49cba21df90e",
+  "metadata": {
+    "name": "NZXT F140Q 140mm White PWM",
+    "manufacturer": "NZXT",
+    "series": "F140Q",
+    "variant": "140mm White"
+  },
+  "size": 140,
+  "color": [
+    "WHITE"
+  ],
+  "quantity": 1,
+  "min_airflow": 102.9,
+  "max_airflow": null,
+  "min_noise_level": 29.8,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": 1.77,
+  "flow_direction": "Standard",
+  "general_product_information": {
+    "newegg_sku": "N82E16835146151"
+  }
+}

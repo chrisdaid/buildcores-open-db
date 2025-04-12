@@ -1,0 +1,32 @@
+{
+  "opendb_id": "aa862395-92a6-4f30-aae7-b7a3d39bf1b1",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "OLOy MD4U082619BBDA Black / Red DDR4-2666 CL19 16GB (2x8GB)",
+    "manufacturer": "OLOy",
+    "part_numbers": [
+      "MD4U082619BBDA"
+    ],
+    "series": "MD4U082619BBDA",
+    "variant": "2666 CL19"
+  },
+  "speed": 2666,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM (DDR4)",
+  "capacity": 16,
+  "color": [
+    "BLACK",
+    "RED"
+  ],
+  "cas_latency": 19,
+  "timings": "19-19-19-43",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "general_product_information": {}
+}

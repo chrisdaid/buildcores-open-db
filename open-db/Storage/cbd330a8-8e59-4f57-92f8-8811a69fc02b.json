@@ -1,0 +1,20 @@
+{
+  "opendb_id": "cbd330a8-8e59-4f57-92f8-8811a69fc02b",
+  "metadata": {
+    "name": "Western Digital Purple 3TB HDD 3.5\" 5400RPM SATA",
+    "manufacturer": "Western Digital",
+    "part_numbers": [
+      "WD33PURZ"
+    ],
+    "series": "Purple",
+    "variant": "3000GB"
+  },
+  "capacity": 3000,
+  "type": "5400 RPM",
+  "form_factor": "3.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "general_product_information": {
+    "newegg_sku": "1Z4-0002-01N29"
+  }
+}

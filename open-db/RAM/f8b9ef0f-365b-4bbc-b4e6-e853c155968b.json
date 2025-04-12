@@ -1,0 +1,31 @@
+{
+  "opendb_id": "f8b9ef0f-365b-4bbc-b4e6-e853c155968b",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "metadata": {
+    "name": "OLOy OWL Orange DDR4-3200 CL16 32GB (2x16GB)",
+    "manufacturer": "OLOy",
+    "part_numbers": [
+      "ND4U1632161DHTDA"
+    ],
+    "series": "OWL",
+    "variant": "3200 CL16"
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM (DDR4)",
+  "capacity": 32,
+  "color": [
+    "ORANGE"
+  ],
+  "cas_latency": 16,
+  "timings": "16-20-20-38",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "general_product_information": {}
+}

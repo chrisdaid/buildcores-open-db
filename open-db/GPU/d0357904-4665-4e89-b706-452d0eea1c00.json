@@ -1,0 +1,45 @@
+{
+  "opendb_id": "d0357904-4665-4e89-b706-452d0eea1c00",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 0,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "metadata": {
+    "name": "Palit GeForce RTX 5080 GameRock Black 16GB GDDR7 Black",
+    "manufacturer": "Palit",
+    "part_numbers": [
+      "NE75080019T2-GB2030G"
+    ],
+    "series": "GeForce RTX 5080",
+    "variant": "Palit"
+  },
+  "chipset_manufacturer": "GeForce",
+  "chipset": "GeForce RTX 5080",
+  "memory": 16,
+  "memory_type": "GDDR7",
+  "core_base_clock": 2295,
+  "core_boost_clock": 2617,
+  "effective_memory_clock": 0,
+  "memory_bus": 256,
+  "interface": "PCIe x16",
+  "color": [
+    "BLACK"
+  ],
+  "length": 332,
+  "tdp": 360,
+  "total_slot_width": 4,
+  "cooling": "3 Fans",
+  "video_outputs": {
+    "hdmi_2_1": 1,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 3,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 0,
+    "dvi_d": 0,
+    "vga": 0,
+    "_id": "67f9c502865ad0c3553e9194"
+  },
+  "general_product_information": {}
+}

@@ -1,0 +1,20 @@
+{
+  "opendb_id": "e96bfd81-7b11-4c86-a250-c0528324cb6d",
+  "metadata": {
+    "name": "Seagate FireCuda 510 2TB SSD M.2-2280 PCIe 3.0 x4 NVMe",
+    "manufacturer": "Seagate",
+    "part_numbers": [
+      "ZP2000GM30001"
+    ],
+    "series": "FireCuda",
+    "variant": "2000GB"
+  },
+  "capacity": 2000,
+  "type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 X4",
+  "nvme": true,
+  "general_product_information": {
+    "newegg_sku": "N82E16820248080"
+  }
+}

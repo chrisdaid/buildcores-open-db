@@ -1,0 +1,27 @@
+{
+  "opendb_id": "5684bb1a-1f06-43ff-806d-e68eb48b048a",
+  "metadata": {
+    "name": "MSI MPG F120 120mm White ARGB PWM 2-Pack",
+    "manufacturer": "MSI",
+    "series": "MPG",
+    "variant": "120mm White"
+  },
+  "size": 120,
+  "color": [
+    "WHITE"
+  ],
+  "quantity": 2,
+  "min_airflow": 50.79,
+  "max_airflow": null,
+  "min_noise_level": 25.7,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+  "controller": "None",
+  "static_pressure": 1.05,
+  "flow_direction": "Standard",
+  "general_product_information": {
+    "newegg_sku": "N82E16835846053"
+  }
+}

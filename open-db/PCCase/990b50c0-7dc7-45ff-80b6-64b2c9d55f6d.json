@@ -1,0 +1,32 @@
+{
+  "opendb_id": "990b50c0-7dc7-45ff-80b6-64b2c9d55f6d",
+  "metadata": {
+    "name": "Corsair 3500X ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
+    "manufacturer": "Corsair",
+    "part_numbers": [
+      "CC-9011276-WW"
+    ],
+    "series": "3500X",
+    "variant": ""
+  },
+  "form_factor": "ATX Mid Tower",
+  "color": [
+    "BLACK"
+  ],
+  "power_supply": "None",
+  "side_panel": "Tempered Glass",
+  "has_transparent_side_panel": true,
+  "front_panel_usb": "USB 3.2 Gen 2 Type-C                                                    USB 3.2 Gen 1 Type-A",
+  "max_video_card_length": 410,
+  "max_cpu_cooler_height": null,
+  "internal_3_5_bays": 2,
+  "internal_2_5_bays": 2,
+  "expansion_slots": 7,
+  "dimensions": "460 x 240 x 506",
+  "volume": 55.862,
+  "weight": null,
+  "general_product_information": {
+    "newegg_sku": "N82E16811139212",
+    "walmart_sku": 6433601293
+  }
+}
