@@ -25,6 +25,7 @@
   "effective_memory_clock": 0,
   "memory_bus": 192,
   "interface": "PCI Express 4.0 x16",
+  "color": [],
   "frame_sync": null,
   "length": 261,
   "tdp": 285,
@@ -41,7 +42,6 @@
     "vga": 0,
     "_id": "67e35a7cb0a21467a2e43515"
   },
-  "color": [],
   "general_product_information": {
     "bestbuy_sku": 6539986,
     "walmart_sku": 3756993363
