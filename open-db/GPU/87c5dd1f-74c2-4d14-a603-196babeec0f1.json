@@ -15,17 +15,17 @@
     "series": "GeForce RTX 5080",
     "variant": "Asus"
   },
-  "chipset_manufacturer": "GeForce",
+  "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 5080",
   "memory": 16,
   "memory_type": "GDDR7",
-  "core_base_clock": 2300,
-  "core_boost_clock": 2300,
+  "core_base_clock": 2295,
+  "core_boost_clock": 2655,
   "effective_memory_clock": 0,
   "memory_bus": 256,
   "interface": "PCIe x16",
   "frame_sync": "G-Sync",
-  "length": 306,
+  "length": 304,
   "tdp": 360,
   "case_expansion_slot_width": 2,
   "total_slot_width": 3,
@@ -42,6 +42,7 @@
   },
   "color": [],
   "general_product_information": {
-    "newegg_sku": "N82E16814126744"
+    "newegg_sku": "N82E16814126744",
+    "amazon_sku": "B0DTYJQQD2"
   }
 }
