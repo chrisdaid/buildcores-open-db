@@ -1,28 +1,41 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "type": "object",
+  "type": [
+    "object",
+    "null"
+  ],
   "title": "Operating System Schema",
   "description": "Schema for operating system components",
   "required": [
-    "name",
-    "version",
-    "architecture"
+    "metadata"
   ],
   "properties": {
     "opendb_id": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Unique identifier for the document (UUID v4)"
     },
     "name": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Operating system name (e.g., Windows, macOS, Linux)"
     },
     "version": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Operating system version (e.g., 11 Home, 13.0 Sonoma, Ubuntu 22.04)"
     },
     "architecture": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Supported CPU architecture",
       "enum": [
         "x64",
@@ -31,7 +44,10 @@
       ]
     },
     "license_type": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Type of license",
       "enum": [
         "OEM",
@@ -40,55 +56,102 @@
       ]
     },
     "metadata": {
-      "type": "object",
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "name"
+      ],
       "properties": {
         "name": {
           "type": "string",
           "description": "Full product name"
         },
         "manufacturer": {
-          "type": "string",
-          "description": "OS manufacturer"
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Product manufacturer"
         },
-        "part_numbers": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          },
-          "description": "Array of manufacturer's part numbers/SKUs"
+        "part_number": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Manufacturer part number"
+        },
+        "series": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Product series name"
+        },
+        "variant": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Specific variant in the series"
         },
         "releaseYear": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Year of release"
         }
       }
     },
     "general_product_information": {
-      "type": "object",
+      "type": [
+        "object",
+        "null"
+      ],
       "description": "General product information and retailer SKUs",
       "properties": {
         "amazon_sku": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Amazon product SKU"
         },
         "newegg_sku": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Newegg product SKU"
         },
         "bestbuy_sku": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Best Buy product SKU"
         },
         "walmart_sku": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Walmart product SKU"
         },
         "adorama_sku": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Adorama product SKU"
         },
         "manufacturer_url": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Official manufacturer product URL"
         }
       }
