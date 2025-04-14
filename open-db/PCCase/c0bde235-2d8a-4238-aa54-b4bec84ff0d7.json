@@ -1,13 +1,13 @@
 {
   "opendb_id": "c0bde235-2d8a-4238-aa54-b4bec84ff0d7",
   "metadata": {
-    "name": "LIAN LI O11 Dynamic EVO XL O11DEXL Black Aluminum / Steel / Tempered Glass ATX Mid Tower Computer Case ----- O11DEXL-X",
+    "name": "LIAN LI O11 Dynamic EVO XL White",
     "manufacturer": "LIAN LI",
     "part_numbers": [
-      "O11DEXL-X"
+      "O11DEXL-W"
     ],
-    "series": "O11 Dynamic EVO XL",
-    "variant": "O11DEXL-X"
+    "series": "O11DEXL-W",
+    "variant": "White"
   },
   "form_factor": "EATX Full Tower",
   "power_supply": null,
@@ -26,6 +26,6 @@
   "color": [],
   "general_product_information": {
     "amazon_sku": "B0CHM85TND",
-    "newegg_sku": "9SIA25VK9R9239"
+    "newegg_sku": "2AM-000Z-000B5"
   }
 }
