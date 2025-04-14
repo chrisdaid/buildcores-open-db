@@ -1,85 +1,136 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "type": "object",
+  "type": [
+    "object",
+    "null"
+  ],
   "title": "CPU Schema",
   "description": "Schema for CPU components",
   "required": [
-    "series",
-    "microarchitecture",
-    "socket",
-    "cores"
+    "metadata"
   ],
   "properties": {
     "opendb_id": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Unique identifier for the document (UUID v4)"
     },
     "series": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "The CPU series (e.g., Intel Core i9, AMD Ryzen 9, Intel Core Ultra 5)"
     },
     "microarchitecture": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "The microarchitecture of the CPU (e.g., Raptor Lake Refresh, Zen 4)"
     },
     "coreFamily": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "The specific core family (e.g., Raptor Cove, Granite Ridge)"
     },
     "socket": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "The type of socket the CPU uses (e.g., LGA 1851, AM5)"
     },
     "cores": {
-      "type": "object",
+      "type": [
+        "object",
+        "null"
+      ],
       "required": [
         "total",
         "threads"
       ],
       "properties": {
         "total": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "The total number of physical cores in the CPU"
         },
         "performance": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "The number of performance cores (hybrid CPUs only)"
         },
         "efficiency": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "The number of efficiency cores (hybrid CPUs only)"
         },
         "threads": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "The number of logical threads the CPU can handle"
         }
       }
     },
     "clocks": {
-      "type": "object",
+      "type": [
+        "object",
+        "null"
+      ],
       "properties": {
         "performance": {
-          "type": "object",
+          "type": [
+            "object",
+            "null"
+          ],
           "properties": {
             "base": {
-              "type": "number",
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "The base clock speed of the performance cores in GHz"
             },
             "boost": {
-              "type": "number",
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "The maximum boost clock speed of the performance cores in GHz"
             }
           }
         },
         "efficiency": {
-          "type": "object",
+          "type": [
+            "object",
+            "null"
+          ],
           "properties": {
             "base": {
-              "type": "number",
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "The base clock speed of the efficiency cores in GHz (if applicable)"
             },
             "boost": {
-              "type": "number",
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "The maximum boost clock speed of the efficiency cores in GHz (if applicable)"
             }
           }
@@ -87,31 +138,52 @@
       }
     },
     "cache": {
-      "type": "object",
+      "type": [
+        "object",
+        "null"
+      ],
       "properties": {
         "l1": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Breakdown of L1 cache configuration"
         },
         "l2": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "The total amount of L2 cache in MB"
         },
         "l3": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "The total amount of L3 cache in MB"
         }
       }
     },
     "specifications": {
-      "type": "object",
+      "type": [
+        "object",
+        "null"
+      ],
       "properties": {
         "tdp": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "The Thermal Design Power of the CPU in Watts"
         },
         "integratedGraphics": {
-          "type": "object",
+          "type": [
+            "object",
+            "null"
+          ],
           "properties": {
             "model": {
               "type": [
@@ -121,11 +193,17 @@
               "description": "The model of integrated graphics, if present"
             },
             "baseClock": {
-              "type": "number",
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Base clock of integrated graphics"
             },
             "boostClock": {
-              "type": "number",
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Boost clock of integrated graphics"
             }
           }
@@ -133,32 +211,103 @@
       }
     },
     "general_product_information": {
-      "type": "object",
+      "type": [
+        "object",
+        "null"
+      ],
       "description": "General product information and retailer SKUs",
       "properties": {
         "amazon_sku": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Amazon product SKU"
         },
         "newegg_sku": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Newegg product SKU"
         },
         "bestbuy_sku": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Best Buy product SKU"
         },
         "walmart_sku": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Walmart product SKU"
         },
         "adorama_sku": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Adorama product SKU"
         },
         "manufacturer_url": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Official manufacturer product URL"
+        }
+      }
+    },
+    "metadata": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "name"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Full product name"
+        },
+        "manufacturer": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Product manufacturer"
+        },
+        "part_number": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Manufacturer part number"
+        },
+        "series": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Product series name"
+        },
+        "variant": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Specific variant in the series"
+        },
+        "releaseYear": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Year of release"
         }
       }
     }

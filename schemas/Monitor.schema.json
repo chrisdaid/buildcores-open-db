@@ -1,142 +1,229 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "type": "object",
+  "type": [
+    "object",
+    "null"
+  ],
   "title": "Monitor Schema",
   "description": "Schema for monitor components",
   "required": [
-    "screen_size",
-    "resolution",
-    "refresh_rate",
-    "panel_type",
     "metadata"
   ],
   "properties": {
     "opendb_id": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Unique identifier for the document (UUID v4)"
     },
     "screen_size": {
-      "type": "number",
+      "type": [
+        "number",
+        "null"
+      ],
       "description": "Screen size in inches"
     },
     "resolution": {
-      "type": "object",
+      "type": [
+        "object",
+        "null"
+      ],
       "description": "Resolution of the monitor",
-      "required": ["horizontalRes", "verticalRes"],
+      "required": [
+        "horizontalRes",
+        "verticalRes"
+      ],
       "properties": {
         "horizontalRes": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Horizontal resolution in pixels"
         },
         "verticalRes": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Vertical resolution in pixels"
         }
       }
     },
     "refresh_rate": {
-      "type": "number",
+      "type": [
+        "number",
+        "null"
+      ],
       "description": "Maximum refresh rate in Hz"
     },
     "panel_type": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Type of panel (IPS, VA, TN, OLED, etc.)"
     },
     "response_time": {
-      "type": "number",
+      "type": [
+        "number",
+        "null"
+      ],
       "description": "Gray-to-gray response time in milliseconds"
     },
     "color": {
-      "type": "array",
+      "type": [
+        "array",
+        "null"
+      ],
       "items": {
-        "type": "string"
+        "type": [
+          "string",
+          "null"
+        ]
       },
       "description": "The color of this product (e.g., ['Black', 'Red']). Each color of the product should be included in the array."
     },
     "viewing_angle": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Viewing angles (e.g., '178°/178°')"
     },
     "aspect_ratio": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Aspect ratio (e.g., '16:9', '21:9')"
     },
     "connectors": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Available ports and connections"
     },
     "max_brightness": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Maximum brightness in nits"
     },
     "hdr": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "HDR support and certification"
     },
     "adaptive_sync": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Adaptive sync technology (G-Sync, FreeSync, etc.)"
     },
     "metadata": {
-      "type": "object",
-      "description": "Product metadata",
-      "required": ["name", "manufacturer"],
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "name"
+      ],
       "properties": {
         "name": {
           "type": "string",
-          "description": "Standardized product name"
+          "description": "Full product name"
         },
         "manufacturer": {
-          "type": "string",
-          "description": "Brand/manufacturer name"
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Product manufacturer"
         },
-        "part_numbers": {
-          "type": "array",
-          "description": "Array of part numbers associated with this monitor",
-          "items": {
-            "type": "string"
-          }
+        "part_number": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Manufacturer part number"
         },
         "series": {
-          "type": "string",
-          "description": "Product series"
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Product series name"
         },
         "variant": {
-          "type": "string",
-          "description": "Product variant"
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Specific variant in the series"
         },
-        "model": {
-          "type": "string",
-          "description": "Model number"
+        "releaseYear": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Year of release"
         }
       }
     },
     "general_product_information": {
-      "type": "object",
+      "type": [
+        "object",
+        "null"
+      ],
       "description": "General product information and retailer SKUs",
       "properties": {
         "amazon_sku": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Amazon product SKU"
         },
         "newegg_sku": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Newegg product SKU"
         },
         "bestbuy_sku": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Best Buy product SKU"
         },
         "walmart_sku": {
-          "type": "number",
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Walmart product SKU"
         },
         "adorama_sku": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Adorama product SKU"
         },
         "manufacturer_url": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Official manufacturer product URL"
         }
       }
