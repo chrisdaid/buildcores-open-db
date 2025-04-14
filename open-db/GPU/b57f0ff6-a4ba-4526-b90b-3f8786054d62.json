@@ -43,7 +43,7 @@
   "general_product_information": {
     "newegg_sku": "N82E16814126776",
     "amazon_sku": "B0DTYJQQD2",
-    "bestbuy_sku": "6615831",
+    "bestbuy_sku": 6615831,
     "manufacturer_url": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rtx5080-16g/"
   }
 }
