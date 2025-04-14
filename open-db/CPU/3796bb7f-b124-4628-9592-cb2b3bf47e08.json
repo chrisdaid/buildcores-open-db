@@ -45,6 +45,7 @@
   "coreFamily": "Vermeer",
   "socket": "AM4",
   "general_product_information": {
+    "amazon_sku": "B08166SLDF",
     "newegg_sku": "N82E16819113666",
     "bestbuy_sku": 6438943,
     "walmart_sku": 182785024

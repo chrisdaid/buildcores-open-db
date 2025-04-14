@@ -43,6 +43,7 @@
   "coreFamily": "Comet Lake",
   "socket": "LGA1200",
   "general_product_information": {
+    "amazon_sku": "B086MHTK5C",
     "newegg_sku": "9SIA2W0JYA3495",
     "walmart_sku": 437827630
   }

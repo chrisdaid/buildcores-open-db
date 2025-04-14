@@ -25,5 +25,7 @@
   "dimensions": "400 x 289 x 440",
   "volume": 50.864,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0BTMH432P"
+  }
 }

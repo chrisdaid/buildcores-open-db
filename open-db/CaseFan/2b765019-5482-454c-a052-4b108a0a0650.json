@@ -20,5 +20,7 @@
   "connector": "4-Pin",
   "controller": "None",
   "static_pressure": 0,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B07PM9MWLS"
+  }
 }

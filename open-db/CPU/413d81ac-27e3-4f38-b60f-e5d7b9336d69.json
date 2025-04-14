@@ -42,5 +42,7 @@
   "microarchitecture": "Sandy Bridge",
   "coreFamily": "Sandy Bridge-EP",
   "socket": "LGA2011",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B007H29FRS"
+  }
 }

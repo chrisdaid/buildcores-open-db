@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B07W1SYTTT",
     "newegg_sku": "1B0-003G-00061",
     "walmart_sku": 631058256,
     "adorama_sku": "IDSSSD4TG"

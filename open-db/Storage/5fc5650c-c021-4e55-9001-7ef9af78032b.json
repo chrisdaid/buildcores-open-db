@@ -16,6 +16,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B07YQJSGWY",
     "newegg_sku": "9SIBKT3JVT2305",
     "adorama_sku": "KG400S371920"
   }

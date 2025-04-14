@@ -46,6 +46,7 @@
   "coreFamily": "Alder Lake",
   "socket": "LGA1700",
   "general_product_information": {
+    "amazon_sku": "B09NPJX7PV",
     "newegg_sku": "N82E16819118357",
     "walmart_sku": 876549698
   }

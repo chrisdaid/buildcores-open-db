@@ -42,7 +42,9 @@
     "vga": 0,
     "_id": "67f9c747865ad0c3553eb5ff"
   },
+  "core_count": 5376,
   "general_product_information": {
+    "amazon_sku": "B0BMWHJ5Q7",
     "walmart_sku": 2800437794
   }
 }

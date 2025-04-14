@@ -15,6 +15,7 @@
   "interface": "SATA III",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B083WNX8H6",
     "newegg_sku": "9SIBKYEK6R4178",
     "walmart_sku": 170632880
   }

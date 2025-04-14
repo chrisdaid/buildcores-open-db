@@ -22,5 +22,7 @@
   "connector": "3-Pin + Molex 4-Pin",
   "controller": "None",
   "static_pressure": 58,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B08HHWRXGJ"
+  }
 }

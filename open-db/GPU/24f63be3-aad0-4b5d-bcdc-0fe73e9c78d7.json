@@ -41,7 +41,9 @@
     "_id": "67e89c7511815510c7c78d9d"
   },
   "color": [],
+  "core_count": 4096,
   "general_product_information": {
+    "amazon_sku": "B0CDM3QK7Q",
     "newegg_sku": "N82E16814930102"
   }
 }

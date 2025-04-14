@@ -25,5 +25,7 @@
   "dimensions": "420 x 269.5 x 380",
   "volume": 43.012,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B09138FCV5"
+  }
 }

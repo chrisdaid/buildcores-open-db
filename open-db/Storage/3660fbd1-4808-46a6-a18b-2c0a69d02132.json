@@ -15,6 +15,7 @@
   "interface": "SATA 6Gb/s",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B07H241VJY",
     "newegg_sku": "9SIA17PJCD9352"
   }
 }

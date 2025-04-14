@@ -25,5 +25,7 @@
   "dimensions": "400 x 200 x 455",
   "volume": 36.4,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B083LYL7V5"
+  }
 }

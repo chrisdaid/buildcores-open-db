@@ -15,6 +15,7 @@
   "interface": "PCIe Gen4 x4, NVMe 1.3 compliant",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B07TKYWB3K",
     "newegg_sku": "9SIBK19JMM4326"
   }
 }

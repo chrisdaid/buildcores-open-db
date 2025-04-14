@@ -7,5 +7,7 @@
       "PRO-PK2-5G                                                    PK-2 - 5g"
     ]
   },
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B008M514CS"
+  }
 }

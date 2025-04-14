@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B013JPKUU2",
     "newegg_sku": "9SIAH8WK979089",
     "walmart_sku": 48151458
   }

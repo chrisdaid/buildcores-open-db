@@ -42,7 +42,9 @@
     "vga": 0,
     "_id": "67f9c5c3865ad0c3553e9dac"
   },
+  "core_count": 0,
   "general_product_information": {
+    "amazon_sku": "B098TZ3RMZ",
     "bestbuy_sku": 6471960,
     "walmart_sku": 133707592
   }

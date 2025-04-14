@@ -95,5 +95,7 @@
   "back_panel_ports": [
     "1 x 1 Gb/s Ports"
   ],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B09B5PZ7QQ"
+  }
 }

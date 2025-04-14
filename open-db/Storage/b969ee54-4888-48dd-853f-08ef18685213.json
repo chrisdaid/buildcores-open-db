@@ -15,6 +15,7 @@
   "interface": "M.2 PCIe 5.0 X4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B0CTS93WML",
     "newegg_sku": "N82E16820156401",
     "walmart_sku": 5474062317,
     "adorama_sku": "CT20T705SSD5"

@@ -16,6 +16,7 @@
   "interface": "M.2 PCIe 4.0 X4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B09K3H2YHX",
     "newegg_sku": "N82E16820242655",
     "walmart_sku": 186276275,
     "adorama_sku": "KGSFYRS1000G"

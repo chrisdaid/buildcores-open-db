@@ -48,5 +48,7 @@
   "microarchitecture": "Raptor Lake",
   "coreFamily": "Raptor Lake",
   "socket": "LGA1700",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0BJ92P6NP"
+  }
 }

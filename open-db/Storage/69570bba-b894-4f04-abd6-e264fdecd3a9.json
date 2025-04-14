@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B08TZPS4QQ",
     "newegg_sku": "1B4-005X-001D5",
     "bestbuy_sku": 6523111,
     "walmart_sku": 262132179,

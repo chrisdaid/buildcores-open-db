@@ -23,5 +23,7 @@
   "dimensions": "480 x 230 x 505",
   "volume": 55.752,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B09VP3NVML"
+  }
 }

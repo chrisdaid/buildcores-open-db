@@ -15,6 +15,7 @@
   "interface": "PCIE 4 x 4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B07SNGBW84",
     "newegg_sku": "N82E16820236549",
     "bestbuy_sku": 6356723,
     "walmart_sku": 843177187

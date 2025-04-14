@@ -43,6 +43,7 @@
   "coreFamily": "Comet Lake",
   "socket": "LGA1200",
   "general_product_information": {
+    "amazon_sku": "B093BMJ16V",
     "walmart_sku": 492019747
   }
 }

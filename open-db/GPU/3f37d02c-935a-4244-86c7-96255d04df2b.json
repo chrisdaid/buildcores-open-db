@@ -41,5 +41,8 @@
     "_id": "67bb9643656a333a9fdf5ffa"
   },
   "color": [],
-  "general_product_information": {}
+  "core_count": 5120,
+  "general_product_information": {
+    "amazon_sku": "B08WHX22TV"
+  }
 }

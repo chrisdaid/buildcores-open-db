@@ -15,6 +15,7 @@
   "interface": "M.2 PCIe 5.0 X4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B0CM43DR1N",
     "walmart_sku": 5153433746
   }
 }

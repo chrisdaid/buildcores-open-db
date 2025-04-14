@@ -48,6 +48,7 @@
   "coreFamily": "Phoenix 2",
   "socket": "AM5",
   "general_product_information": {
+    "amazon_sku": "B0CQ4JV8D5",
     "newegg_sku": "N82E16819113815",
     "bestbuy_sku": 6573541,
     "walmart_sku": 5304036723

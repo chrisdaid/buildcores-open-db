@@ -23,6 +23,7 @@
   "controller": null,
   "static_pressure": 0.3,
   "general_product_information": {
+    "amazon_sku": "B08KW9TBNH",
     "walmart_sku": 727145148
   }
 }

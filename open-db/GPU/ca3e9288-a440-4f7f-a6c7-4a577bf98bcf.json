@@ -42,5 +42,8 @@
     "vga": 0,
     "_id": "67f9c794865ad0c3553ebab0"
   },
-  "general_product_information": {}
+  "core_count": 5120,
+  "general_product_information": {
+    "amazon_sku": "B09258PCFS"
+  }
 }

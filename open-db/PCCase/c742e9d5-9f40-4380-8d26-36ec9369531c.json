@@ -23,5 +23,7 @@
   "volume": 43.012,
   "weight": 0,
   "color": [],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B08P5X7TXF"
+  }
 }

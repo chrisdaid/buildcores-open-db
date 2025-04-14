@@ -43,6 +43,7 @@
   "coreFamily": "Skylake-S",
   "socket": "LGA1151",
   "general_product_information": {
+    "amazon_sku": "B015XEW9BA",
     "walmart_sku": 166711535
   }
 }

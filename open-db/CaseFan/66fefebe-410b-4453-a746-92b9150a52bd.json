@@ -22,5 +22,7 @@
   "connector": "6-pin,Proprietary",
   "controller": "Proprietary,6-pin",
   "static_pressure": 0,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B07DHM6SW9"
+  }
 }

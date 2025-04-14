@@ -41,7 +41,9 @@
     "vga": 0,
     "_id": "67f9c665865ad0c3553ea7ce"
   },
+  "core_count": 5120,
   "general_product_information": {
+    "amazon_sku": "B09M38TVL2",
     "bestbuy_sku": 6482512
   }
 }

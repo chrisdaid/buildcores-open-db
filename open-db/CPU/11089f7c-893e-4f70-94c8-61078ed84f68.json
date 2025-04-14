@@ -43,6 +43,7 @@
   "coreFamily": "Coffee Lake Refresh",
   "socket": "LGA1151",
   "general_product_information": {
+    "amazon_sku": "B07S4MSXJL",
     "newegg_sku": "9SIAM8PJT67588",
     "walmart_sku": 533238798
   }

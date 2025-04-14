@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B075YPRCWC",
     "walmart_sku": 299058219,
     "adorama_sku": "SET3000DM007"
   }

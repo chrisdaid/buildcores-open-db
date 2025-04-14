@@ -15,6 +15,7 @@
   "interface": "M.2 PCIe 3.0 X4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B0892TWDP1",
     "newegg_sku": "9SIAD6HBM34685",
     "bestbuy_sku": 6450787,
     "walmart_sku": 108903839

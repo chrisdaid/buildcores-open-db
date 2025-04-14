@@ -15,6 +15,7 @@
   "interface": "PCIe x16",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B082DZ8HLT",
     "newegg_sku": "9SIAGBAK455123"
   }
 }

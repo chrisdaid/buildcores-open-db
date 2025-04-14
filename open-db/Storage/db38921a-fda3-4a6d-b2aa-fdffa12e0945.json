@@ -15,6 +15,7 @@
   "interface": "PCIe Gen 3 x4 (NVMe)",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B07MQ468S8",
     "newegg_sku": "9SIBTK0K9J9477",
     "walmart_sku": 327310958
   }

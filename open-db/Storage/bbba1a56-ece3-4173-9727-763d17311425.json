@@ -15,6 +15,7 @@
   "interface": "SATA 6 Gbps",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B07SL9WBCR",
     "bestbuy_sku": 6431941,
     "walmart_sku": 364084167
   }

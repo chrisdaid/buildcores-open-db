@@ -41,7 +41,9 @@
     "_id": "67d3101868a3131be601daa4"
   },
   "color": [],
+  "core_count": 10240,
   "general_product_information": {
+    "amazon_sku": "B08HSYLTW1",
     "walmart_sku": 139670474
   }
 }

@@ -22,5 +22,7 @@
   "volume": 7.3,
   "weight": 4.88,
   "color": [],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0BY1PWP61"
+  }
 }

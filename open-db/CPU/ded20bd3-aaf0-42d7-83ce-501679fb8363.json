@@ -46,6 +46,7 @@
   "coreFamily": "Raptor Lake",
   "socket": "LGA1700",
   "general_product_information": {
+    "amazon_sku": "B0BQ6CTTMK",
     "newegg_sku": "N82E16819118432",
     "bestbuy_sku": 6530252,
     "walmart_sku": 1516606336

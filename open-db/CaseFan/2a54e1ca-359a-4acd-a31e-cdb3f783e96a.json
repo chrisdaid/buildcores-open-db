@@ -23,6 +23,7 @@
   "controller": "None",
   "static_pressure": 2.2,
   "general_product_information": {
+    "amazon_sku": "B009OWVUJ0",
     "newegg_sku": "9SIA17PJ9E3243",
     "walmart_sku": 992668485
   }

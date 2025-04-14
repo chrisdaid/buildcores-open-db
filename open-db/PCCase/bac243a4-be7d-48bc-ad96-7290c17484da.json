@@ -23,5 +23,7 @@
   "dimensions": "240 x 135 x 295",
   "volume": 9.558,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B001SIKIRS"
+  }
 }

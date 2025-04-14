@@ -41,5 +41,8 @@
     "_id": "67d3101968a3131be601e054"
   },
   "color": [],
-  "general_product_information": {}
+  "core_count": 10240,
+  "general_product_information": {
+    "amazon_sku": "B095X51RHY"
+  }
 }

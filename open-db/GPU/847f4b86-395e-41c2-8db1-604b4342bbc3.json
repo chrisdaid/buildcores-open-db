@@ -42,7 +42,9 @@
     "vga": 0,
     "_id": "67f9c5b0865ad0c3553e9c6d"
   },
+  "core_count": 1792,
   "general_product_information": {
+    "amazon_sku": "B09HXLMG2L",
     "newegg_sku": "N82E16814137690",
     "bestbuy_sku": 6485047,
     "walmart_sku": 947637257

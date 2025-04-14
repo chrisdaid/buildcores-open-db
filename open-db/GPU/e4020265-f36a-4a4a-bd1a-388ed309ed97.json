@@ -41,5 +41,8 @@
     "vga": 0,
     "_id": "67f9c628865ad0c3553ea3f6"
   },
-  "general_product_information": {}
+  "core_count": 2560,
+  "general_product_information": {
+    "amazon_sku": "B094MM9X6S"
+  }
 }

@@ -15,6 +15,7 @@
   "interface": "PCIe x4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B00L0LFI3M",
     "newegg_sku": "9SIA4REJU61348",
     "walmart_sku": 41244597
   }

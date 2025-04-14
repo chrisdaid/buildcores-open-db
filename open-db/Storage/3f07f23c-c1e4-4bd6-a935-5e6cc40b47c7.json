@@ -15,6 +15,7 @@
   "interface": "M.2 PCIe 4.0 X4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B0DBBG7CG7",
     "newegg_sku": "N82E16820156410",
     "walmart_sku": 11706505338,
     "adorama_sku": "CT4000T5SSD3"

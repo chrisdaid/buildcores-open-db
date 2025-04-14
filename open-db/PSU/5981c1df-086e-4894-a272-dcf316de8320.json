@@ -27,5 +27,7 @@
   ],
   "length": 100,
   "fanless": false,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B09TDV18HG"
+  }
 }

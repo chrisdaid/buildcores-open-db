@@ -22,5 +22,7 @@
   "connector": "6-Pin",
   "controller": "5V Addressable RGB",
   "static_pressure": 0,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B08V91RZ8B"
+  }
 }

@@ -25,5 +25,7 @@
   "dimensions": "352 x 200 x 442",
   "volume": 31.117,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0BH49RC7T"
+  }
 }

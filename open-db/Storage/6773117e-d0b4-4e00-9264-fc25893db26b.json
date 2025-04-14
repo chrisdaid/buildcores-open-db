@@ -15,6 +15,7 @@
   "interface": "M.2 PCIe 4.0 X4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B0BXH2T7HC",
     "newegg_sku": "0D9-0019-000H5"
   }
 }

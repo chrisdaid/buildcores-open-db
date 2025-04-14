@@ -42,5 +42,7 @@
     "vga": 0,
     "_id": "67f9c459865ad0c3553e8761"
   },
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0845BH2DF"
+  }
 }

@@ -16,6 +16,7 @@
   "interface": "M.2 PCIe 3.0 X4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B08V7P3SKS",
     "newegg_sku": "N82E16820147802",
     "walmart_sku": 559060783,
     "adorama_sku": "SSGMV250BAM"

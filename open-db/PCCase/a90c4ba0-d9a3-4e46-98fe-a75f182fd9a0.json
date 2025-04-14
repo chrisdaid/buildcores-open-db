@@ -25,5 +25,7 @@
   "dimensions": "465 x 230 x 495",
   "volume": 52.94,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0CM293NZN"
+  }
 }

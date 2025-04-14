@@ -26,5 +26,7 @@
   "dimensions": "460 x 240 x 506",
   "volume": 55.862,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0DKY46V54"
+  }
 }

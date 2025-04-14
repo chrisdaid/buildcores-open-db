@@ -45,6 +45,7 @@
   "coreFamily": "Phoenix 1",
   "socket": "AM5",
   "general_product_information": {
+    "amazon_sku": "B0D2JCMP34",
     "newegg_sku": "N82E16819113825",
     "walmart_sku": 5636113510
   }

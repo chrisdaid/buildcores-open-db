@@ -95,5 +95,7 @@
   "back_panel_ports": [
     "2 x 1 Gb/s Ports (Intel I210-AT)"
   ],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B077Y6CL7B"
+  }
 }

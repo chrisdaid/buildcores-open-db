@@ -42,5 +42,7 @@
   "microarchitecture": "Zen",
   "coreFamily": "Whitehaven",
   "socket": "sTR4",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0754JNQBP"
+  }
 }

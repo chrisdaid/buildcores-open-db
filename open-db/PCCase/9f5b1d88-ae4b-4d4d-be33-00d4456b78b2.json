@@ -25,5 +25,7 @@
   "dimensions": "350 x 200 x 390",
   "volume": 27.3,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B08X4K89PZ"
+  }
 }

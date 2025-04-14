@@ -25,5 +25,7 @@
   "dimensions": "366 x 247 x 211",
   "volume": 19.075,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B08QCS95MW"
+  }
 }

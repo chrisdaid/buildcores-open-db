@@ -15,6 +15,7 @@
   "interface": "PCIe x8",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B08HBPMPZ2",
     "newegg_sku": "9SIA6ZPDH80993",
     "walmart_sku": 616193533
   }

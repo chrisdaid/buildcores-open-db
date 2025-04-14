@@ -41,7 +41,9 @@
     "_id": "67bb8b8da40bd22d8340ede3"
   },
   "color": [],
+  "core_count": 10240,
   "general_product_information": {
+    "amazon_sku": "B0968PSVPH",
     "newegg_sku": "9SIAPMXFD36875",
     "bestbuy_sku": 6467289,
     "walmart_sku": 658672112

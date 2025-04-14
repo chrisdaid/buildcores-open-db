@@ -43,6 +43,7 @@
   "coreFamily": "Rocket Lake-S",
   "socket": "LGA1200",
   "general_product_information": {
+    "amazon_sku": "B08X6JPK4K",
     "newegg_sku": "9SIA2W0DXW7514",
     "bestbuy_sku": 6452218,
     "walmart_sku": 458835697,

@@ -23,6 +23,7 @@
   "controller": "None",
   "static_pressure": 0,
   "general_product_information": {
+    "amazon_sku": "B002R9RBO0",
     "newegg_sku": "9SIAJ7WA6S0925"
   }
 }

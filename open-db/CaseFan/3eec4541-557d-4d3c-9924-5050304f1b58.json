@@ -22,5 +22,7 @@
   "connector": "3 Pin & 4 Pin ( to controller)",
   "controller": "5V Addressable RGB",
   "static_pressure": 0,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B07WFM1QT5"
+  }
 }

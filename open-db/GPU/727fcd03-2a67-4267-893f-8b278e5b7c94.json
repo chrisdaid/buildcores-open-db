@@ -41,7 +41,9 @@
     "_id": "67bb83bfa40bd22d8340ea9b"
   },
   "color": [],
+  "core_count": 16384,
   "general_product_information": {
+    "amazon_sku": "B09D1VF7F8",
     "newegg_sku": "N82E16814500538",
     "walmart_sku": 1830811709
   }

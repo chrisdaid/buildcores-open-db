@@ -41,7 +41,9 @@
     "_id": "67e89c7211815510c7c77fa0"
   },
   "color": [],
+  "core_count": 1024,
   "general_product_information": {
+    "amazon_sku": "B09PSHYHLM",
     "bestbuy_sku": 6496021,
     "walmart_sku": 296958034
   }

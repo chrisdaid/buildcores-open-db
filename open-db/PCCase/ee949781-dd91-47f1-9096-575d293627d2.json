@@ -26,5 +26,7 @@
   "dimensions": "456 x 230 x 471",
   "volume": 49.398,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B09MTP1BYL"
+  }
 }

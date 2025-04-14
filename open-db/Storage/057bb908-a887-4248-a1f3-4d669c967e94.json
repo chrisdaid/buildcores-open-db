@@ -15,6 +15,7 @@
   "interface": "M.2 PCIe 4.0 X4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B0C5S3MKQX",
     "newegg_sku": "9SIA17PKDX0202",
     "walmart_sku": 3448498278
   }

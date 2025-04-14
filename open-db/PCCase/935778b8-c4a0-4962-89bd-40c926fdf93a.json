@@ -24,5 +24,7 @@
   "volume": 0,
   "weight": 9.37,
   "color": [],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B07H92D56V"
+  }
 }

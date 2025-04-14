@@ -15,6 +15,7 @@
   "interface": "PCI-Express 4.0",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B07WS1BRX4",
     "newegg_sku": "9SIB6P8JH78540",
     "walmart_sku": 218812872
   }

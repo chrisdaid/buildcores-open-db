@@ -15,6 +15,7 @@
   "interface": "PCIe Gen 3 x 4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B07PB5C36M",
     "newegg_sku": "9SIBJ3BJJ89561"
   }
 }

@@ -52,5 +52,7 @@
   "microarchitecture": "Zen (Summit Ridge)",
   "coreFamily": null,
   "socket": "Socket AM4",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B07F5LLKBX"
+  }
 }

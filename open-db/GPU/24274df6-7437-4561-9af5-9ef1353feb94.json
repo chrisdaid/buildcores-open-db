@@ -42,7 +42,9 @@
     "vga": 0,
     "_id": "67e35a7cb0a21467a2e43515"
   },
+  "core_count": 7168,
   "general_product_information": {
+    "amazon_sku": "B0BZHCQ6PF",
     "bestbuy_sku": 6539986,
     "walmart_sku": 3756993363
   }

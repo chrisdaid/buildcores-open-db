@@ -25,5 +25,7 @@
   "dimensions": "422 x 205 x 405",
   "volume": 35.037,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B09WPSP84P"
+  }
 }

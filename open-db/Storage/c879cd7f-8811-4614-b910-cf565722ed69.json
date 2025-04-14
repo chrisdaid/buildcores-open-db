@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B075RJS55D",
     "newegg_sku": "N82E16820301380",
     "adorama_sku": "PX6521P2"
   }

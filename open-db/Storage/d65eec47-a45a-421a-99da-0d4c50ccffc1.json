@@ -15,6 +15,7 @@
   "interface": "M.2, NVME",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B0829DZH2W",
     "newegg_sku": "9SIBK19JNN1384",
     "walmart_sku": 618537884
   }

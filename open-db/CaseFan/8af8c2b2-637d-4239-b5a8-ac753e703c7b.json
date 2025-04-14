@@ -22,5 +22,7 @@
   "connector": "3-pin + 3-pin 5V Addressable RGB",
   "controller": "None",
   "static_pressure": 0.88,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B08HHKQLTM"
+  }
 }

@@ -42,5 +42,7 @@
   "microarchitecture": "Ivy Bridge",
   "coreFamily": "Ivy Bridge-E",
   "socket": "LGA2011",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B00EMHM672"
+  }
 }

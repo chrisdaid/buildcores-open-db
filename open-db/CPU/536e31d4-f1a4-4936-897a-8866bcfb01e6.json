@@ -49,6 +49,7 @@
   "coreFamily": "Raptor Lake Refresh",
   "socket": "LGA1700",
   "general_product_information": {
+    "amazon_sku": "B0CGJDBCTK",
     "newegg_sku": "N82E16819118464",
     "walmart_sku": 5092025604
   }

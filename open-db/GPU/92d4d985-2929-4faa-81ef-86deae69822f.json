@@ -41,7 +41,9 @@
     "_id": "67e89c7611815510c7c79255"
   },
   "color": [],
+  "core_count": 16384,
   "general_product_information": {
+    "amazon_sku": "B0BG94BM2G",
     "bestbuy_sku": 6522334,
     "walmart_sku": 1453041947,
     "adorama_sku": "MSIG409SLX24"

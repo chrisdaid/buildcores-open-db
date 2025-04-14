@@ -22,5 +22,7 @@
   "volume": 0,
   "weight": 20.1,
   "color": [],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B07YBXNYG3"
+  }
 }

@@ -41,7 +41,9 @@
     "vga": 0,
     "_id": "67f9c765865ad0c3553eb7db"
   },
+  "core_count": 3840,
   "general_product_information": {
+    "amazon_sku": "B0CGHQ32S2",
     "bestbuy_sku": 6559282,
     "walmart_sku": 5020728552
   }

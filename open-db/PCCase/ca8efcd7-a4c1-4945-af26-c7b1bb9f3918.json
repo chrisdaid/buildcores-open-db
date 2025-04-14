@@ -25,5 +25,7 @@
   "dimensions": "190 x 424 x 490",
   "volume": 39.474,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B00CW7MJ30"
+  }
 }

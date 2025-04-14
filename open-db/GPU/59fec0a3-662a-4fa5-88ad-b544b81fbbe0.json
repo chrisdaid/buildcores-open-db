@@ -41,5 +41,8 @@
     "_id": "67bb86e8a40bd22d8340ebf0"
   },
   "color": [],
-  "general_product_information": {}
+  "core_count": 0,
+  "general_product_information": {
+    "amazon_sku": "B0C4F7KX1B"
+  }
 }

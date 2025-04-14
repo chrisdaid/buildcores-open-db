@@ -45,6 +45,7 @@
   "coreFamily": "Summit Ridge",
   "socket": "AM4",
   "general_product_information": {
+    "amazon_sku": "B06XKVNRSM",
     "newegg_sku": "9SIBTZ7K6W7945",
     "walmart_sku": 965872061
   }

@@ -23,6 +23,7 @@
   "controller": "None",
   "static_pressure": 1.61,
   "general_product_information": {
+    "amazon_sku": "B075VDGSJ8",
     "newegg_sku": "9SIB8AKKBS7509",
     "bestbuy_sku": 6229606,
     "walmart_sku": 819191780

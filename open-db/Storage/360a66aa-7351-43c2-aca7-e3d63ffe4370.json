@@ -15,6 +15,7 @@
   "interface": "M.2 PCIe 3.0 X4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B08V1MWQQR",
     "newegg_sku": "9SIAFVFK9W3731",
     "walmart_sku": 117739923,
     "adorama_sku": "ILXLNM62X512"

@@ -15,6 +15,7 @@
   "interface": "M.2 SATA",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B073SB2MXT",
     "walmart_sku": 568775281
   }
 }

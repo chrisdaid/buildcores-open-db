@@ -7,5 +7,7 @@
       "980-000430                                                    980-000432                                                    980-000433                                                    980-000431"
     ]
   },
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B003VAK1FA"
+  }
 }

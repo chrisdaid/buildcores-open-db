@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B07H289S7C",
     "newegg_sku": "9SIBDRXKDK2651",
     "bestbuy_sku": 6616038,
     "walmart_sku": 355047016

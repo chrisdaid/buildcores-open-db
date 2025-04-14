@@ -25,5 +25,7 @@
   "dimensions": "480 x 210 x 450",
   "volume": 45.36,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0048BPF9S"
+  }
 }

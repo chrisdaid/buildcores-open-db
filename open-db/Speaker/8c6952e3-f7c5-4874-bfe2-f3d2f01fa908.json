@@ -7,5 +7,7 @@
       "980-000800                                                    980-000810                                                    980-000812"
     ]
   },
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B00EZ9XKCM"
+  }
 }

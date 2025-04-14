@@ -41,5 +41,7 @@
     "_id": "67bb8127a40bd22d8340e989"
   },
   "color": [],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B01IFESATU"
+  }
 }

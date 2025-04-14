@@ -22,5 +22,7 @@
   "connector": "TX3",
   "controller": "None",
   "static_pressure": 2.79,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B00006HOMA"
+  }
 }

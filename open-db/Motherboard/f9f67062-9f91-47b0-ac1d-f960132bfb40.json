@@ -82,5 +82,7 @@
   "back_panel_ports": [
     "1 x 1 Gb/s Ports (Realtek RTL8111H)"
   ],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B08MXSQS49"
+  }
 }

@@ -25,5 +25,7 @@
   "dimensions": "391.16 x 304.8 x 422.656",
   "volume": 50.391,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0CM2MT38S"
+  }
 }

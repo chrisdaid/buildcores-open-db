@@ -15,6 +15,7 @@
   "interface": "SATA",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B07P22RK1G",
     "newegg_sku": "9SIBKYEK6R4740",
     "bestbuy_sku": 6338869,
     "walmart_sku": 402631157

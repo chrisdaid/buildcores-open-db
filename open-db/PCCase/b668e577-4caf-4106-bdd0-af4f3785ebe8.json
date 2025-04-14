@@ -5,5 +5,7 @@
   },
   "form_factor": "EATX Mid Tower",
   "color": [],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B07QL7NF5C"
+  }
 }

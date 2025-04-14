@@ -70,5 +70,7 @@
   "back_panel_ports": [
     "1 x 100 Mb/s"
   ],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B000TZR4W8"
+  }
 }

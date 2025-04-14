@@ -26,5 +26,7 @@
   "dimensions": "500 x 230 x 500",
   "volume": 57.5,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B09SG8GKCF"
+  }
 }

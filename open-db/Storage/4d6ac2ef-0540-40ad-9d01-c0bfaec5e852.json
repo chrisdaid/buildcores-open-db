@@ -15,6 +15,7 @@
   "interface": "M.2 PCIe 5.0 X4",
   "nvme": true,
   "general_product_information": {
+    "amazon_sku": "B0CM42DQTH",
     "newegg_sku": "N82E16820982119"
   }
 }

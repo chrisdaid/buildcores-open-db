@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B087KBL5KS",
     "newegg_sku": "N82E16820225232",
     "walmart_sku": 658145399,
     "adorama_sku": "P210S1TB25"

@@ -23,5 +23,7 @@
   "volume": null,
   "weight": null,
   "color": [],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0BKC67D3V"
+  }
 }

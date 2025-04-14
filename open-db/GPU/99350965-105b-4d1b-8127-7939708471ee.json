@@ -41,5 +41,8 @@
     "_id": "67e89c7111815510c7c77968"
   },
   "color": [],
-  "general_product_information": {}
+  "core_count": 0,
+  "general_product_information": {
+    "amazon_sku": "B008S15X3W"
+  }
 }

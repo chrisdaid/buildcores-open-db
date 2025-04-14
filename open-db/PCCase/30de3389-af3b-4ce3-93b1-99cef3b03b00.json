@@ -24,5 +24,7 @@
   "volume": 25.96,
   "weight": 8.97,
   "color": [],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B09S65MSSZ"
+  }
 }

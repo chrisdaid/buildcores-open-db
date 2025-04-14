@@ -42,7 +42,9 @@
     "vga": 0,
     "_id": "67f9c74d865ad0c3553eb672"
   },
+  "core_count": 10240,
   "general_product_information": {
+    "amazon_sku": "B0CSZBBQ9B",
     "newegg_sku": "N82E16814137871",
     "walmart_sku": 5387372461
   }

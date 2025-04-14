@@ -7,5 +7,7 @@
       "PRO-PK2-30G                                                    PK-2 - 30g"
     ]
   },
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B008M516HQ"
+  }
 }

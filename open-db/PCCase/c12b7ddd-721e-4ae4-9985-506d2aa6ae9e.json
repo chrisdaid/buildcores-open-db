@@ -25,5 +25,7 @@
   "dimensions": "405.8 x 193 x 378.2",
   "volume": 29.62,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0862DXN2P"
+  }
 }

@@ -23,6 +23,7 @@
   "controller": "None",
   "static_pressure": 0,
   "general_product_information": {
+    "amazon_sku": "B07VX6YSVR",
     "newegg_sku": "1YF-001H-000H4",
     "bestbuy_sku": 6181283,
     "walmart_sku": 843522239

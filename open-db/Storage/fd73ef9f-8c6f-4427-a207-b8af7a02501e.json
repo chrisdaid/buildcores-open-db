@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B09MSDJGVJ",
     "newegg_sku": "9SIADU0K823254",
     "walmart_sku": 854717908,
     "adorama_sku": "WD201KRYZ"

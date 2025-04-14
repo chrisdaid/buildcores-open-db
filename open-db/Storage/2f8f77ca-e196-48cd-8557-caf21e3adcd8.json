@@ -15,6 +15,7 @@
   "interface": "SATA III",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B07621PNWC",
     "newegg_sku": "9SIAKVHKBE4628",
     "bestbuy_sku": 6172332
   }

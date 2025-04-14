@@ -25,5 +25,7 @@
   "dimensions": "430 x 215 x 480",
   "volume": 44.376,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B09DPFKD9M"
+  }
 }

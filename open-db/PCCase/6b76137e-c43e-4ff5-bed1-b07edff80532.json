@@ -25,5 +25,7 @@
   "dimensions": "420 x 175 x 355",
   "volume": 26.093,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0074V2UXI"
+  }
 }

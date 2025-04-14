@@ -22,6 +22,7 @@
   "static_pressure": 0.61,
   "flow_direction": "Standard",
   "general_product_information": {
+    "amazon_sku": "B00J0NZDMS",
     "newegg_sku": "N82E16835106228",
     "walmart_sku": 527703207
   }

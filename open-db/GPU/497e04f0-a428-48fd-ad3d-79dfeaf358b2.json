@@ -42,7 +42,9 @@
     "vga": 0,
     "_id": "67f9c47c865ad0c3553e89ac"
   },
+  "core_count": 9728,
   "general_product_information": {
+    "amazon_sku": "B0BMZ9TGH1",
     "bestbuy_sku": 6521431
   }
 }

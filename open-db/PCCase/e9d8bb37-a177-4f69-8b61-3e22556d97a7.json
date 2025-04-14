@@ -26,5 +26,7 @@
   "dimensions": "190 x 431 x 444",
   "volume": 36.359,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0046LU4IM"
+  }
 }

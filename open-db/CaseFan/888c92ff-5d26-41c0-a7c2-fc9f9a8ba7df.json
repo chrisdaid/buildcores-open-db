@@ -21,5 +21,7 @@
   "controller": "None",
   "static_pressure": 1.8,
   "flow_direction": "Standard",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0CR1CB72W"
+  }
 }

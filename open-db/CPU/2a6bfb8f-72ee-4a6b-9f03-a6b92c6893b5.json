@@ -48,6 +48,7 @@
   "coreFamily": "Arrow Lake",
   "socket": "LGA1851",
   "general_product_information": {
+    "amazon_sku": "B0DT7CW7VR",
     "newegg_sku": "N82E16819118578"
   }
 }

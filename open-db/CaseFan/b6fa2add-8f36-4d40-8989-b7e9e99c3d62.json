@@ -21,5 +21,7 @@
   "controller": "USB",
   "static_pressure": 1.54,
   "flow_direction": "Standard",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B01NB0S6A6"
+  }
 }

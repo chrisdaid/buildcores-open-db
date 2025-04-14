@@ -15,6 +15,7 @@
   "interface": "SATA III",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B07SK5BNM1",
     "bestbuy_sku": 6431941,
     "walmart_sku": 364084167
   }

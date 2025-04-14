@@ -49,6 +49,7 @@
   "coreFamily": "Raptor Lake",
   "socket": "LGA1700",
   "general_product_information": {
+    "amazon_sku": "B0BCF57FL5",
     "bestbuy_sku": 6521194,
     "walmart_sku": 1632323638
   }

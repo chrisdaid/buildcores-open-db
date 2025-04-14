@@ -22,5 +22,7 @@
   "connector": "4-pin PWM",
   "controller": "None",
   "static_pressure": 0,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B071H6V9CW"
+  }
 }

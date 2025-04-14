@@ -41,7 +41,9 @@
     "vga": 0,
     "_id": "67f9c4b8865ad0c3553e8d5e"
   },
+  "core_count": 7680,
   "general_product_information": {
+    "amazon_sku": "B0C3SYK1TT",
     "newegg_sku": "1FT-000M-003V3"
   }
 }

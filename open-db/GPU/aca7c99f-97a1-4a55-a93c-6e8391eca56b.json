@@ -41,5 +41,6 @@
     "vga": 0,
     "_id": "67f9c57f865ad0c3553e995e"
   },
+  "core_count": 4096,
   "general_product_information": {}
 }

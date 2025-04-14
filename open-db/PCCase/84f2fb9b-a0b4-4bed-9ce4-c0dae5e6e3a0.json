@@ -25,5 +25,7 @@
   "dimensions": "450 x 200 x 460",
   "volume": 41.4,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B07WMRZM5Y"
+  }
 }

@@ -24,5 +24,7 @@
   "volume": 172.763,
   "weight": 39.6,
   "color": [],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B082R4WMDS"
+  }
 }

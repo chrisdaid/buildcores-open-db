@@ -15,6 +15,7 @@
   "interface": "SATA 6Gb/s",
   "nvme": false,
   "general_product_information": {
+    "amazon_sku": "B07SGGWYC1",
     "adorama_sku": "SET16000VN01"
   }
 }

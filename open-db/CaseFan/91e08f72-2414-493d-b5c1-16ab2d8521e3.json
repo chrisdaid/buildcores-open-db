@@ -23,6 +23,7 @@
   "static_pressure": 2.5,
   "flow_direction": "Reverse",
   "general_product_information": {
+    "amazon_sku": "B093KMWPK3",
     "newegg_sku": "9SIA4REJVR7456",
     "walmart_sku": 1051269603
   }

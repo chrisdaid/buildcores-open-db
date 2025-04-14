@@ -22,6 +22,7 @@
   "static_pressure": 0.82,
   "flow_direction": "Standard",
   "general_product_information": {
+    "amazon_sku": "B07MCHLGC5",
     "newegg_sku": "1YF-001D-00076"
   }
 }

@@ -43,6 +43,7 @@
   "coreFamily": "Skylake-S",
   "socket": "LGA1151",
   "general_product_information": {
+    "amazon_sku": "B01B2PJRN2",
     "newegg_sku": "9SIAAEEHUK9463"
   }
 }

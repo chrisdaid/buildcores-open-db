@@ -107,5 +107,7 @@
   "back_panel_ports": [
     "1 x 2.5 Gb/s (Realtek)"
   ],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0C5S5CV2P"
+  }
 }

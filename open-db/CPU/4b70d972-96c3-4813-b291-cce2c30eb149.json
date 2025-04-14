@@ -45,6 +45,7 @@
   "coreFamily": "Renoir-X",
   "socket": "AM4",
   "general_product_information": {
+    "amazon_sku": "B09VCJN7HZ",
     "newegg_sku": "N82E16819113738",
     "bestbuy_sku": 6510771,
     "walmart_sku": 726879128

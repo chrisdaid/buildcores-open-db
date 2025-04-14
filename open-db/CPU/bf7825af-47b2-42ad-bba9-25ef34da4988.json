@@ -42,5 +42,7 @@
   "microarchitecture": "Piledriver",
   "coreFamily": "Richland",
   "socket": "FM2",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B00GOPI4BW"
+  }
 }

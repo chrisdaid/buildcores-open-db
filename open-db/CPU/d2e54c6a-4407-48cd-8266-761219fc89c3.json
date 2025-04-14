@@ -43,6 +43,7 @@
   "coreFamily": "Cascade Lake-X",
   "socket": "LGA2066",
   "general_product_information": {
+    "amazon_sku": "B07YP6Y9VY",
     "newegg_sku": "9SIBMM4KBT5550",
     "bestbuy_sku": 6387656,
     "walmart_sku": 299575499

@@ -44,5 +44,7 @@
   "microarchitecture": "Zen",
   "coreFamily": "Raven Ridge",
   "socket": "AM4",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B08NP7599D"
+  }
 }
