@@ -59,6 +59,13 @@
       ],
       "description": "The boost clock speed of the GPU core in MHz"
     },
+    "core_count": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Number of cores/shaders in the GPU"
+    },
     "effective_memory_clock": {
       "type": [
         "number",
