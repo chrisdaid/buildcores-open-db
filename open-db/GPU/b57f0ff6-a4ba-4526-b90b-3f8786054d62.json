@@ -1,5 +1,5 @@
 {
-  "opendb_id": "87c5dd1f-74c2-4d14-a603-196babeec0f1",
+  "opendb_id": "b57f0ff6-a4ba-4526-b90b-3f8786054d62",
   "power_connectors": {
     "pcie_6_pin": 0,
     "pcie_8_pin": 0,
@@ -7,10 +7,10 @@
     "pcie_12V_2x6": 0
   },
   "metadata": {
-    "name": "Asus PRIME OC GeForce RTX 5080 16 GB",
+    "name": "Asus PRIME GeForce RTX 5080 16 GB",
     "manufacturer": "Asus",
     "part_numbers": [
-      "PRIME-RTX5080-O16G"
+      "PRIME-RTX5080-16G"
     ],
     "series": "GeForce RTX 5080",
     "variant": "Asus"
@@ -20,7 +20,7 @@
   "memory": 16,
   "memory_type": "GDDR7",
   "core_base_clock": 2295,
-  "core_boost_clock": 2655,
+  "core_boost_clock": 2617,
   "effective_memory_clock": 0,
   "memory_bus": 256,
   "interface": "PCIe x16",
@@ -37,12 +37,13 @@
     "displayport_2_1a": 3,
     "displayport_1_4a": 0,
     "dvi_d": 0,
-    "vga": 0,
-    "_id": "67e89c7411815510c7c785e3"
+    "vga": 0
   },
   "color": [],
   "general_product_information": {
-    "newegg_sku": "N82E16814126744",
-    "amazon_sku": "B0DTYJQQD2"
+    "newegg_sku": "N82E16814126776",
+    "amazon_sku": "B0DTYJQQD2",
+    "bestbuy_sku": 6615831,
+    "manufacturer_url": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rtx5080-16g/"
   }
 }
