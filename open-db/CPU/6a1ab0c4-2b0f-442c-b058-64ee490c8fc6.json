@@ -44,7 +44,5 @@
   "microarchitecture": "Zen 4",
   "coreFamily": "Raphael",
   "socket": "AM5",
-  "general_product_information": {
-    "amazon_sku": "B09XBTM5Q1"
-  }
+  "general_product_information": {}
 }
