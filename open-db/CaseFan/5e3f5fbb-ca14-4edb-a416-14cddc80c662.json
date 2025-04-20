@@ -4,7 +4,8 @@
     "name": "NZXT F120Q (2022) 64 CFM 120mm White PWM 1-Pack",
     "manufacturer": "NZXT",
     "series": "F120Q",
-    "variant": "120mm White"
+    "variant": "120mm White",
+    "releaseYear": 2022
   },
   "size": 120,
   "color": [
@@ -24,7 +25,7 @@
   "general_product_information": {
     "amazon_sku": "B0B1LLKR2G",
     "newegg_sku": "1YF-000Z-00100",
-    "walmart_sku": 298271451,
+    "walmart_sku": 125428256,
     "adorama_sku": "NZRFQ12SFB1"
   }
 }

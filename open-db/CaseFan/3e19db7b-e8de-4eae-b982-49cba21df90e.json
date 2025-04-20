@@ -1,10 +1,11 @@
 {
   "opendb_id": "3e19db7b-e8de-4eae-b982-49cba21df90e",
   "metadata": {
-    "name": "NZXT F140Q 140mm White PWM",
+    "name": "NZXT F140Q (2024) 140mm White PWM",
     "manufacturer": "NZXT",
     "series": "F140Q",
-    "variant": "140mm White"
+    "variant": "140mm White",
+    "releaseYear": 2024
   },
   "size": 140,
   "color": [
