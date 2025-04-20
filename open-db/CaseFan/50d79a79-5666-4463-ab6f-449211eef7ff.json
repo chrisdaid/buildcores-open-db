@@ -1,0 +1,27 @@
+{
+	"opendb_id": "50d79a79-5666-4463-ab6f-449211eef7ff",
+	"metadata": {
+	  "name": "Montech HP140 ARGB PWM 140mm White 1-Pack",
+	  "manufacturer": "Montech",
+	  "series": "HP140",
+	  "variant": "140mm White"
+	},
+	"size": 140,
+	"color": [
+	  "WHITE"
+	],
+	"quantity": 1,
+	"min_airflow": null,
+	"max_airflow": 95.61,
+	"min_noise_level": null,
+	"max_noise_level": 29.2,
+	"pwm": true,
+	"led": "Addressable RGB",
+	"connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+	"controller": "None",
+	"static_pressure": 2.95,
+	"flow_direction": "Standard",
+	"general_product_information": {
+		"amazon_sku": "B0DJ4H9YF1"
+	}
+  }
