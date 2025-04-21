@@ -1,10 +1,11 @@
 {
   "opendb_id": "6933c88f-f49b-4a7a-b3c0-e2d9f35d1096",
   "metadata": {
-    "name": "NZXT F120Q 120mm Black PWM 1-Pack",
+    "name": "NZXT F120Q (2024) 120mm Black PWM 1-Pack",
     "manufacturer": "NZXT",
     "series": "F120Q",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "releaseYear": 2024
   },
   "size": 120,
   "color": [
@@ -22,7 +23,7 @@
   "static_pressure": 1.08,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B0B1LY84DX",
-    "walmart_sku": 125428256
+    "amazon_sku": "B0D1RK8Q43",
+    "walmart_sku": 298271451
   }
 }

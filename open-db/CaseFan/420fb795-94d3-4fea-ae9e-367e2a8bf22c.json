@@ -8,11 +8,11 @@
     "variant": "White",
     "releaseYear": 0
   },
-  "size": 120,
+  "size": 360,
   "color": [
     "White"
   ],
-  "quantity": 3,
+  "quantity": 1,
   "min_airflow": 75.12,
   "max_airflow": 75.12,
   "min_noise_level": 30,
