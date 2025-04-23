@@ -5,6 +5,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B017M4IX8W",
-    "newegg_sku": "N82E16823301013"
+    "newegg_sku": "N82E16823301013",
+    "walmart_sku": 48560193
   }
 }
