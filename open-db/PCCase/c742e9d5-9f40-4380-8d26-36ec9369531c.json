@@ -1,16 +1,16 @@
 {
   "opendb_id": "c742e9d5-9f40-4380-8d26-36ec9369531c",
   "metadata": {
-    "name": "LIAN LI O11D MINI-X Black Computer Case",
+    "name": "LIAN LI O11 Dynamic Mini Tempered Glass ATX Mini Tower Computer Case - Black (O11D MINI-X)",
     "manufacturer": "Lian Li",
     "part_numbers": [
-      "O11D MINI750-X"
+      "O11D MINI-X"
     ],
     "series": "O11 Dynamic Mini",
     "variant": "Black"
   },
-  "form_factor": "ATX Mid Tower",
-  "power_supply": "750 W",
+  "form_factor": "ATX Mini Tower",
+  "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
@@ -24,6 +24,7 @@
   "weight": 0,
   "color": [],
   "general_product_information": {
-    "amazon_sku": "B08P5X7TXF"
+    "amazon_sku": "B08P5X7TXF",
+    "manufacturer_url": "https://lian-li.com/product/o11-dynamic-mini/"
   }
 }
