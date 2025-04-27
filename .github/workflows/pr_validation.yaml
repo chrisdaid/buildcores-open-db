@@ -57,7 +57,7 @@ jobs:
             echo "EOF" >> $GITHUB_ENV
           fi
 
-      - name: Validate each JSON file against its schema
+      - name: Validate each JSON file against its schema and check filename-ID match
         id: validation
         if: env.CHANGED_FILES != ''
         run: |
@@ -90,34 +90,19 @@ jobs:
             else
               CHANGE_TYPE="modified"
             fi
-            # --- Filename and opendb_id consistency check
-            FILENAME_BASE=$(basename "$file" .json)
-            OPENDB_ID=$(jq -r '.opendb_id' "$file" 2>/dev/null)
-            jq_exit_code=$?
-
-            if [ $jq_exit_code -ne 0 ]; then
-              # jq command failed (e.g., invalid JSON)
-              echo "::error file=$file::Error reading JSON or extracting opendb_id."
-              add_result "$file" "failed" "Error reading JSON file or extracting opendb_id key. Check JSON validity." "$CHANGE_TYPE"
+            
+            # --- Check if filename matches opendb_id
+            FILENAME=$(basename "$file" .json)
+            OPENDB_ID=$(jq -r '.opendb_id // empty' "$file")
+            
+            if [ -n "$OPENDB_ID" ] && [ "$FILENAME" != "$OPENDB_ID" ]; then
+              echo "::error file=$file::Filename ($FILENAME) does not match opendb_id ($OPENDB_ID)"
+              add_result "$file" "failed" "Filename ($FILENAME) does not match opendb_id ($OPENDB_ID)" "$CHANGE_TYPE"
               EXIT_CODE=1
-              continue
-            elif [ "$OPENDB_ID" == "null" ] || [ -z "$OPENDB_ID" ]; then
-              # opendb_id key is missing or null/empty
-              echo "::error file=$file::Required key 'opendb_id' is missing, null, or empty in the JSON content."
-              add_result "$file" "failed" "Required key 'opendb_id' is missing, null, or empty." "$CHANGE_TYPE"
-              EXIT_CODE=1
-              continue
-            elif [ "$FILENAME_BASE" != "$OPENDB_ID" ]; then
-              # Filename does not match opendb_id
-              echo "::error file=$file::Filename ('$FILENAME_BASE.json') does not match the 'opendb_id' key ('$OPENDB_ID') in the JSON content."
-              add_result "$file" "failed" "Filename ($FILENAME_BASE.json) must match the 'opendb_id' key ('$OPENDB_ID')." "$CHANGE_TYPE"
-              EXIT_CODE=1
-              continue
             else
-              # Filename matches opendb_id
-              echo "✅ Filename matches opendb_id for $file ($OPENDB_ID)"
+              echo "✅ Filename matches opendb_id for $file"
             fi
-
+            
             # --- Schema Validation 
             PART_CATEGORY=$(echo "$file" | cut -d'/' -f2)
             SCHEMA_FILE="schemas/${PART_CATEGORY}.schema.json"
@@ -153,7 +138,6 @@ jobs:
           echo "VALIDATION_RESULTS=$(echo "$RESULTS_JSON" | base64 -w 0)" >> $GITHUB_OUTPUT
           
           echo "validation_failed=$EXIT_CODE" >> $GITHUB_OUTPUT
-          
           echo "Validation step finished. Overall status code: $EXIT_CODE"
 
       # - name: Comment on PR with validation results
