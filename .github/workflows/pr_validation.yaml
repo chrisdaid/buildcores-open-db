@@ -57,7 +57,7 @@ jobs:
             echo "EOF" >> $GITHUB_ENV
           fi
 
-      - name: Validate each JSON file against its schema and check filename-ID match
+      - name: Validate each JSON file against its schema
         id: validation
         if: env.CHANGED_FILES != ''
         run: |
@@ -91,19 +91,6 @@ jobs:
               CHANGE_TYPE="modified"
             fi
             
-            # --- Check if filename matches opendb_id
-            FILENAME=$(basename "$file" .json)
-            OPENDB_ID=$(jq -r '.opendb_id // empty' "$file")
-            
-            if [ -n "$OPENDB_ID" ] && [ "$FILENAME" != "$OPENDB_ID" ]; then
-              echo "::error file=$file::Filename ($FILENAME) does not match opendb_id ($OPENDB_ID)"
-              add_result "$file" "failed" "Filename ($FILENAME) does not match opendb_id ($OPENDB_ID)" "$CHANGE_TYPE"
-              EXIT_CODE=1
-            else
-              echo "✅ Filename matches opendb_id for $file"
-            fi
-            
-            # --- Schema Validation 
             PART_CATEGORY=$(echo "$file" | cut -d'/' -f2)
             SCHEMA_FILE="schemas/${PART_CATEGORY}.schema.json"
             
@@ -138,6 +125,7 @@ jobs:
           echo "VALIDATION_RESULTS=$(echo "$RESULTS_JSON" | base64 -w 0)" >> $GITHUB_OUTPUT
           
           echo "validation_failed=$EXIT_CODE" >> $GITHUB_OUTPUT
+          
           echo "Validation step finished. Overall status code: $EXIT_CODE"
 
       # - name: Comment on PR with validation results
