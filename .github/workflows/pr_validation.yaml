@@ -57,7 +57,7 @@ jobs:
             echo "EOF" >> $GITHUB_ENV
           fi
 
-      - name: Validate each JSON file against its schema
+      - name: Validate each JSON file against its schema and check filename-ID match
         id: validation
         if: env.CHANGED_FILES != ''
         run: |
@@ -82,8 +82,13 @@ jobs:
               $VALIDATION_RESULTS > tmp.json && mv tmp.json $VALIDATION_RESULTS
           }
           
-          for file in $CHANGED_FILES; do
-            echo "Processing $file..."
+          # Process each file individually
+          while IFS= read -r file; do
+            # Skip empty lines
+            [ -z "$file" ] && continue
+            
+            echo "=========================================="
+            echo "Processing file: $file"
             
             if echo "$ADDED_FILES" | grep -q "^$file$"; then
               CHANGE_TYPE="added"
@@ -91,6 +96,34 @@ jobs:
               CHANGE_TYPE="modified"
             fi
             
+            # --- Check if filename matches opendb_id
+            FILENAME=$(basename "$file" .json)
+            echo "Extracted filename: '$FILENAME'"
+            
+            # Extract the opendb_id field with better error handling
+            if ! OPENDB_ID=$(jq -r '.opendb_id | select(. != null)' "$file" 2>/dev/null); then
+              echo "::error file=$file::Failed to parse JSON file"
+              add_result "$file" "failed" "Failed to parse JSON file" "$CHANGE_TYPE"
+              EXIT_CODE=1
+              continue
+            fi
+            
+            echo "Extracted opendb_id: '$OPENDB_ID'"
+            
+            if [ -z "$OPENDB_ID" ]; then
+              echo "::warning file=$file::No opendb_id field found in JSON"
+              add_result "$file" "warning" "No opendb_id field found in JSON" "$CHANGE_TYPE"
+            elif [ "$FILENAME" != "$OPENDB_ID" ]; then
+              echo "❌ File name mismatch with JSON opendb_id!"
+              echo "::error file=$file::Filename ($FILENAME) does not match opendb_id ($OPENDB_ID)"
+              add_result "$file" "failed" "Filename ($FILENAME) does not match opendb_id ($OPENDB_ID)" "$CHANGE_TYPE"
+              EXIT_CODE=1
+            else
+              echo "✅ Filename matches opendb_id for $file"
+              add_result "$file" "passed" "Filename matches opendb_id" "$CHANGE_TYPE"
+            fi
+            
+            # --- Schema Validation 
             PART_CATEGORY=$(echo "$file" | cut -d'/' -f2)
             SCHEMA_FILE="schemas/${PART_CATEGORY}.schema.json"
             
@@ -113,7 +146,7 @@ jobs:
               echo "::warning file=$file::No matching schema found at $SCHEMA_FILE"
               add_result "$file" "warning" "No matching schema found at $SCHEMA_FILE" "$CHANGE_TYPE"
             fi
-          done
+          done <<< "$CHANGED_FILES"
           
           for file in $DELETED_FILES; do
             echo "Processing deleted file: $file..."
@@ -125,7 +158,6 @@ jobs:
           echo "VALIDATION_RESULTS=$(echo "$RESULTS_JSON" | base64 -w 0)" >> $GITHUB_OUTPUT
           
           echo "validation_failed=$EXIT_CODE" >> $GITHUB_OUTPUT
-          
           echo "Validation step finished. Overall status code: $EXIT_CODE"
 
       # - name: Comment on PR with validation results
