@@ -1,0 +1,21 @@
+{
+  "opendb_id": "a2c77b55-7464-4527-9ab8-5cb481dfc263",
+  "metadata": {
+    "name": "Seagate FireCuda 2TB SSD M.2-2280 PCIe 3.0 X4 NVMe",
+    "manufacturer": "Seagate",
+    "part_numbers": [
+      "ZP2000GM30021"
+    ],
+    "series": "FireCuda",
+    "variant": "2000GB"
+  },
+  "capacity": 2000,
+  "type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 X4",
+  "nvme": true,
+  "general_product_information": {
+    "amazon_sku": "B07QQ95CBZ",
+    "newegg_sku": "N82E16820248080"
+  }
+}

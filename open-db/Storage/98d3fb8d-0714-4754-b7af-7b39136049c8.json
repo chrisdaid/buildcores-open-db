@@ -1,0 +1,20 @@
+{
+  "opendb_id": "98d3fb8d-0714-4754-b7af-7b39136049c8",
+  "metadata": {
+    "name": "Nextorage G-Series 8TB SSD M.2-2280 PCIe 4.0 X4 NVMe",
+    "manufacturer": "Nextorage",
+    "part_numbers": [
+      "NE1N8TB"
+    ],
+    "series": "G-Series",
+    "variant": "8000GB"
+  },
+  "capacity": 8000,
+  "type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 4.0 X4",
+  "nvme": true,
+  "general_product_information": {
+    "newegg_sku": "0D9-0106-00015"
+  }
+}

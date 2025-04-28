@@ -1,0 +1,20 @@
+{
+  "opendb_id": "c5941f4d-0b6c-4d51-a795-be3555a1a3a6",
+  "metadata": {
+    "name": "Seagate SkyHawk Surveillance 10TB 3.5\" HDD 7200RPM SATA 6.0 Gb/s",
+    "manufacturer": "Seagate",
+    "part_numbers": [
+      "ST10000VX0008"
+    ],
+    "series": "SkyHawk",
+    "variant": "10000GB"
+  },
+  "capacity": 10000,
+  "type": "7200 RPM",
+  "form_factor": "3.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "general_product_information": {
+    "amazon_sku": "B07J3212N5"
+  }
+}

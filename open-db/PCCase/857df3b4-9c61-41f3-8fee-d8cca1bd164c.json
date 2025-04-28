@@ -1,13 +1,18 @@
 {
   "opendb_id": "857df3b4-9c61-41f3-8fee-d8cca1bd164c",
   "metadata": {
-    "name": "MONTECH, KING 95 PRO Dual-Chamber ATX Mid-Tower PC Gaming Case, High-Airflow, Toolless Panels, Sturdy Curved Tempered Glass Front, Six ARGB PWM Fan Pre-installed with Fan Hub, Black",
+    "name": "MONTECH KING 95 PRO Dual-Chamber ATX Mid-Tower Red PC Gaming Case, High-Airflow, Sturdy Curved Tempered Glass Front, Six ARGB PWM Fan Pre-installed",
     "manufacturer": "Montech",
-    "part_numbers": [],
+    "part_numbers": [
+      "King 95 PRO (Red)"
+    ],
     "series": "KING 95",
-    "variant": "PRO (Black)"
+    "variant": null
   },
   "form_factor": "ATX Mid Tower",
+  "color": [
+    "Red"
+  ],
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
@@ -20,7 +25,6 @@
   "dimensions": "475*300*442",
   "volume": 0,
   "weight": 26.1,
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B0CN94ZNHM"
   }
