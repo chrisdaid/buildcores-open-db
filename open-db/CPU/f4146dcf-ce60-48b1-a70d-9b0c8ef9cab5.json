@@ -1,0 +1,50 @@
+{
+  "opendb_id": "f4146dcf-ce60-48b1-a70d-9b0c8ef9cab5",
+  "cores": {
+    "total": 4,
+    "performance": 4,
+    "threads": 4
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.1,
+      "boost": 3.4
+    }
+  },
+  "cache": {
+    "l2": 2,
+    "l3": 8
+  },
+  "specifications": {
+    "integratedGraphics": {
+      "model": "None"
+    },
+    "memory": {
+      "maxSupport": 0,
+      "types": [
+        "DDR4"
+      ]
+    },
+    "tdp": 65,
+    "eccSupport": false,
+    "includesCooler": true,
+    "packaging": "Boxed",
+    "lithography": "14 nm",
+    "simultaneousMultithreading": false
+  },
+  "metadata": {
+    "name": "AMD Ryzen 3 1200 (14nm) 3.1 GHz 4-Core AM4",
+    "manufacturer": "AMD",
+    "part_numbers": [
+      "YD1200BBAEBOX"
+    ],
+    "series": "AMD Ryzen 3"
+  },
+  "series": "AMD Ryzen 3",
+  "microarchitecture": "Zen",
+  "coreFamily": "Summit Ridge",
+  "socket": "AM4",
+  "general_product_information": {
+    "amazon_sku": "B0741DN383"
+  }
+}
