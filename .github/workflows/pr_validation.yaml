@@ -84,7 +84,7 @@ jobs:
           }
           
           # Process each file individually
-          echo "$CHANGED_FILES" | while IFS= read -r file; do
+          while IFS= read -r file; do
             # Skip empty lines
             [ -z "$file" ] && continue
             
@@ -147,7 +147,7 @@ jobs:
               echo "::warning file=$file::No matching schema found at $SCHEMA_FILE"
               add_result "$file" "warning" "No matching schema found at $SCHEMA_FILE" "$CHANGE_TYPE"
             fi
-          done
+          done <<< "$CHANGED_FILES"
           
           for file in $DELETED_FILES; do
             echo "Processing deleted file: $file..."
