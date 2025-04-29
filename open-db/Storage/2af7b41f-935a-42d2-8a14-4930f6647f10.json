@@ -15,7 +15,6 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B0BJ7MTT8M",
-    "adorama_sku": "ILNS1002TRBN"
+    "amazon_sku": "B0BJ7MTT8M"
   }
 }
