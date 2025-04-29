@@ -16,6 +16,7 @@
   "nvme": false,
   "general_product_information": {
     "amazon_sku": "B09FH857LY",
-    "newegg_sku": "1Z4-002P-024F9"
+    "newegg_sku": "1Z4-002P-024F9",
+    "adorama_sku": "SEST800NM17B"
   }
 }

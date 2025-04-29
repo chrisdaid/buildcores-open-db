@@ -16,6 +16,7 @@
   "nvme": true,
   "general_product_information": {
     "amazon_sku": "B0CJ7XKD15",
-    "walmart_sku": 5290663566
+    "walmart_sku": 5290663566,
+    "adorama_sku": "VE31827"
   }
 }

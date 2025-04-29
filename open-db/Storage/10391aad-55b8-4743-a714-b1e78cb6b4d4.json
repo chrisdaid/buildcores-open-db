@@ -15,6 +15,7 @@
   "interface": "SATA 6Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B07H4VBRKW"
+    "amazon_sku": "B07H4VBRKW",
+    "adorama_sku": "SET14000NE8"
   }
 }
