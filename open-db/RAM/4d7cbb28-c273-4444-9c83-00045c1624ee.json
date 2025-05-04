@@ -7,5 +7,6 @@
   "general_product_information": {
     "amazon_sku": "B088MXX1GW",
     "newegg_sku": "N82E16820236655"
-  }
+  },
+  "rgb": false
 }

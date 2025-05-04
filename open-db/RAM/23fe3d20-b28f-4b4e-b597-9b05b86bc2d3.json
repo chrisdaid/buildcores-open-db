@@ -23,7 +23,7 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "rgb": false,
+  "rgb": true,
   "height": 0,
   "color": [],
   "general_product_information": {

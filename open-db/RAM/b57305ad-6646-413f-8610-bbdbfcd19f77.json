@@ -28,5 +28,6 @@
     "amazon_sku": "B09Y3QZFRV",
     "newegg_sku": "0RM-001W-00690",
     "walmart_sku": 501142309
-  }
+  },
+  "rgb": false
 }
