@@ -54,6 +54,7 @@
   "socket": "sTR4",
   "general_product_information": {
     "amazon_sku": "B07G25SD1P",
-    "newegg_sku": "9SIATJ1HWX2651"
+    "newegg_sku": "9SIATJ1HWX2651",
+    "walmart_sku": 511419014
   }
 }
