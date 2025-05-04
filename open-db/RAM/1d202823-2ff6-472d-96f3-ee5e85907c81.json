@@ -1,9 +1,30 @@
 {
   "opendb_id": "1d202823-2ff6-472d-96f3-ee5e85907c81",
-  "metadata": {
-    "part_numbers": []
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
   },
-  "color": [],
+  "metadata": {
+    "name": "HyperX Predator Black 16GB kit 4133MHz DDR4",
+    "manufacturer": "HyperX",
+    "part_numbers": [
+      "HX441C19PB3K2/16"
+    ],
+    "series": "Predator",
+    "variant": "Black"
+  },
+  "speed": 4133,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM (DDR4)",
+  "capacity": 16,
+  "color": [
+    "BLACK"
+  ],
+  "cas_latency": 19,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
   "general_product_information": {
     "amazon_sku": "B07GNFCX4K"
   },
