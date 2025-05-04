@@ -26,6 +26,6 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "rgb": false,
+  "rgb": true,
   "general_product_information": {}
 }

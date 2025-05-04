@@ -25,7 +25,7 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "rgb": false,
+  "rgb": true,
   "general_product_information": {
     "amazon_sku": "B0B1QNDTDP",
     "newegg_sku": "0RM-001W-00667"

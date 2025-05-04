@@ -25,7 +25,7 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "rgb": false,
+  "rgb": true,
   "general_product_information": {
     "amazon_sku": "B0C85K4LF5"
   }
