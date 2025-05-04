@@ -1,9 +1,30 @@
 {
   "opendb_id": "25578d5e-079f-44c8-9ca1-db010bc81e92",
-  "metadata": {
-    "part_numbers": []
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 4
   },
-  "color": [],
+  "metadata": {
+    "name": "HyperX Kingston Technology FURY 2666MHz DDR4 8GB DIMM Memory Black",
+    "manufacturer": "HyperX",
+    "part_numbers": [
+      "HX426C15FBK2/8"
+    ],
+    "series": "Fury",
+    "variant": "Black"
+  },
+  "speed": 2666,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM (DDR4)",
+  "capacity": 8,
+  "color": [
+    "BLACK"
+  ],
+  "cas_latency": 15,
+  "voltage": 1.2,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
   "general_product_information": {
     "amazon_sku": "B013H7QBTG",
     "newegg_sku": "9SIB8AKK5G2893",
