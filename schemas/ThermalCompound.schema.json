@@ -37,12 +37,15 @@
           ],
           "description": "Product manufacturer"
         },
-        "part_number": {
+        "part_numbers": {
           "type": [
-            "string",
+            "array",
             "null"
           ],
-          "description": "Manufacturer part number"
+          "items": {
+            "type": "string"
+          },
+          "description": "Array of manufacturer's part numbers/SKUs"
         },
         "series": {
           "type": [
