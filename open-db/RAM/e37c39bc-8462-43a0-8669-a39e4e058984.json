@@ -20,7 +20,7 @@
   "cas_latency": 19,
   "timings": null,
   "voltage": 1.2,
-  "ecc": "Yes",
+  "ecc": "ECC",
   "registered": "Yes",
   "heat_spreader": false,
   "rgb": false,
