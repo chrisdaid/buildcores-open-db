@@ -15,7 +15,7 @@
   },
   "speed": 4133,
   "ram_type": "DDR4",
-  "form_factor": "NON-ECC Unbuffered DIMM",
+  "form_factor": "UDIMM",
   "capacity": 16,
   "cas_latency": 19,
   "timings": "19-21-21-41",

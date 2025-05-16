@@ -15,7 +15,7 @@
   },
   "speed": 2666,
   "ram_type": "DDR4",
-  "form_factor": "288-pin RDIMM",
+  "form_factor": "RDIMM",
   "capacity": 16,
   "cas_latency": 19,
   "timings": null,
