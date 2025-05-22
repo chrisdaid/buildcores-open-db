@@ -30,7 +30,7 @@
     "series": "X399",
     "variant": ""
   },
-  "socket": "sTR4",
+  "socket": "TR4",
   "form_factor": "ATX",
   "chipset": "AMD X399",
   "pcie_slots": [

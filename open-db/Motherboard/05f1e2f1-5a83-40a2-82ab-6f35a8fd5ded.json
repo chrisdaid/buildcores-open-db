@@ -23,7 +23,7 @@
   },
   "metadata": {
     "name": "B460M D3H",
-    "manufacturer": "GIGABYTE",
+    "manufacturer": "Gigabyte",
     "part_number": null,
     "series": null,
     "variant": "rev. 1.0",
@@ -32,7 +32,7 @@
   },
   "socket": "LGA1200",
   "form_factor": "Micro ATX",
-  "chipset": "B460",
+  "chipset": "Intel B460",
   "pcie_slots": [
     {
       "gen": "3.0",

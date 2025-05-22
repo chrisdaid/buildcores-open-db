@@ -30,7 +30,7 @@
     "series": "AMD",
     "variant": ""
   },
-  "socket": "AM3/AM2+/AM2",
+  "socket": "AM3",
   "form_factor": "Micro ATX",
   "chipset": "AMD 785G",
   "color": [

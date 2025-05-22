@@ -32,7 +32,7 @@
   },
   "socket": "LGA1200",
   "form_factor": "EATX",
-  "chipset": "Intel Z490 Chipset",
+  "chipset": "Intel Z490",
   "pcie_slots": [
     {
       "gen": "3.0",

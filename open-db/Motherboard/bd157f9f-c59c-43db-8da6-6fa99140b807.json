@@ -18,7 +18,7 @@
     "usb_4": 0
   },
   "audio": {
-    "chipset": "Realtek® ALC892 Codec",
+    "chipset": "Realtek\u00ae ALC892 Codec",
     "channels": "7.1-Channel"
   },
   "metadata": {
@@ -30,9 +30,9 @@
     "releaseYear": 2017,
     "part_numbers": []
   },
-  "socket": "1151",
+  "socket": "LGA1151",
   "form_factor": "ATX",
-  "chipset": "Intel Z370 Chipset",
+  "chipset": "Intel Z370",
   "pcie_slots": [
     {
       "gen": "Gen3",

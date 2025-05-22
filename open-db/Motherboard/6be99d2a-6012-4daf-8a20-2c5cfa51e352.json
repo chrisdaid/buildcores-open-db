@@ -32,7 +32,7 @@
   },
   "socket": "LGA1151",
   "form_factor": "Micro ATX",
-  "chipset": "IntelB360",
+  "chipset": "Intel B360",
   "pcie_slots": [
     {
       "gen": "3.0",

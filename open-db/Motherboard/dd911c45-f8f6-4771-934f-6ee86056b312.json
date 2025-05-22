@@ -32,7 +32,7 @@
   },
   "socket": "LGA1151",
   "form_factor": "Micro ATX",
-  "chipset": "H310",
+  "chipset": "Intel H310",
   "pcie_slots": [
     {
       "gen": "3.0",

@@ -32,7 +32,7 @@
   },
   "socket": "AM4",
   "form_factor": "ATX",
-  "chipset": "X570",
+  "chipset": "AMD X570",
   "pcie_slots": [
     {
       "gen": "4.0",
@@ -70,7 +70,7 @@
   "onboard_ethernet": [
     {
       "speed": "Gigabit",
-      "controller": "Intel® I211AT",
+      "controller": "Intel\u00ae I211AT",
       "_id": "67bd40e2ea732996e1e6fd65"
     }
   ],
