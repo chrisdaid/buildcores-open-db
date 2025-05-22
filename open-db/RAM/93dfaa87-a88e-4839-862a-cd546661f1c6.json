@@ -6,7 +6,7 @@
   },
   "metadata": {
     "name": "HyperX Predator RGB 8GB 288-Pin DDR4 SDRAM DDR4 2933 (PC4 23400) Desktop Memory Model HX429C15PB3A/8",
-    "manufacturer": "Kingston Technology Company, Inc.",
+    "manufacturer": "Kingston",
     "part_number": "HX429C15PB3AK2/16",
     "series": "Predator RGB",
     "variant": null,
@@ -20,7 +20,7 @@
   "cas_latency": 15,
   "timings": "15-17-17",
   "voltage": 1.35,
-  "ecc": "Non-ECC / Unbuffered",
+  "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
