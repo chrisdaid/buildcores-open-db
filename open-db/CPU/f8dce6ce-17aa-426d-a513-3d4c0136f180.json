@@ -1,6 +1,7 @@
 {
   "opendb_id": "f8dce6ce-17aa-426d-a513-3d4c0136f180",
   "cores": {
+    "total": 8,
     "performance": null,
     "efficiency": null,
     "threads": 16
