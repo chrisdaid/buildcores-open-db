@@ -9,7 +9,7 @@
     "series": "Terra",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "power_supply": "None",
   "side_panel": "Mesh",
   "has_transparent_side_panel": true,
