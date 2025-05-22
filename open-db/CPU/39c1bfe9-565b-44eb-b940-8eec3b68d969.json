@@ -49,7 +49,7 @@
     "part_numbers": []
   },
   "series": "Athlon",
-  "microarchitecture": "Zen (Raven Ridge)",
+  "microarchitecture": "Zen",
   "coreFamily": null,
   "socket": "AM4",
   "general_product_information": {

@@ -49,8 +49,8 @@
     "part_numbers": []
   },
   "series": "Intel Core i9",
-  "microarchitecture": null,
-  "coreFamily": null,
+  "microarchitecture": "Skylake-X",
+  "coreFamily": "Skylake-X",
   "socket": "LGA2066",
   "general_product_information": {
     "amazon_sku": "B07JGCV5KN",

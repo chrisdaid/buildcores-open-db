@@ -50,7 +50,7 @@
     "part_numbers": []
   },
   "series": "Celeron",
-  "microarchitecture": "Alder Lake-S",
+  "microarchitecture": "Alder Lake",
   "coreFamily": null,
   "socket": "LGA1700",
   "general_product_information": {
