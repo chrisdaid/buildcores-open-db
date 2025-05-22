@@ -32,7 +32,7 @@
   },
   "socket": "AM4",
   "form_factor": "ATX",
-  "chipset": "AMD Promontory B350",
+  "chipset": "AMD B350",
   "pcie_slots": [
     {
       "gen": "3.0",

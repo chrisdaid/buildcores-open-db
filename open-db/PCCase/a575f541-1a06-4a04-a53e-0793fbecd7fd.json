@@ -2,14 +2,14 @@
   "opendb_id": "a575f541-1a06-4a04-a53e-0793fbecd7fd",
   "metadata": {
     "name": "In Win B1 Mini-ITX Desktop Black Mesh, w/200 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "IW-CS-B1MESH-PS200W"
     ],
     "series": "B1",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
   ],

@@ -22,15 +22,15 @@
     "channels": null
   },
   "metadata": {
-    "name": "MEG X399 CREATION",
-    "manufacturer": null,
+    "name": "MSI MEG X399 CREATION",
+    "manufacturer": "MSI",
     "part_number": null,
     "series": null,
     "variant": null,
     "releaseYear": 2018,
     "part_numbers": []
   },
-  "socket": "sTR4",
+  "socket": "TR4",
   "form_factor": "EATX",
   "chipset": "AMD X399",
   "pcie_slots": [],

@@ -32,7 +32,7 @@
   },
   "socket": "LGA1200",
   "form_factor": "ATX",
-  "chipset": "Z590",
+  "chipset": "Intel Z590",
   "pcie_slots": [
     {
       "gen": "4.0",

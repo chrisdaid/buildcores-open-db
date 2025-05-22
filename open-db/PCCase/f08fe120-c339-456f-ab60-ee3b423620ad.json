@@ -9,10 +9,10 @@
     "series": "NX200M",
     "variant": "Black"
   },
-  "form_factor": "Micro ATX",
+  "form_factor": "Micro ATX Mini Tower",
   "power_supply": null,
   "power_supply_included": false,
-  "side_panel": null,
+  "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "1 x USB 3.0, 2 x USB 2.0",
   "max_video_card_length": 275,

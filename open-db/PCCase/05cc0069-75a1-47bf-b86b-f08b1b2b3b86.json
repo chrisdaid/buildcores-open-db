@@ -2,14 +2,14 @@
   "opendb_id": "05cc0069-75a1-47bf-b86b-f08b1b2b3b86",
   "metadata": {
     "name": "In Win Explorer Mini-ITX Desktop White Tempered Glass Side Panel",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "IW-CS- EXPLORER-BWHI"
     ],
     "series": "Explorer",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "WHITE"
   ],

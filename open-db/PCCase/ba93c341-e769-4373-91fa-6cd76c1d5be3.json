@@ -2,14 +2,14 @@
   "opendb_id": "ba93c341-e769-4373-91fa-6cd76c1d5be3",
   "metadata": {
     "name": "Deepcool CH160 Mini-ITX Desktop White Tempered Glass Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CH160-WHNGI0-G-1                                                    R-CH160-WHNGI0-G"
     ],
     "series": "CH160",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "WHITE"
   ],

@@ -30,7 +30,7 @@
     "series": "NVIDIA",
     "variant": ""
   },
-  "socket": "AM2+/AM2",
+  "socket": "AM2+",
   "form_factor": "Micro ATX",
   "chipset": "NVIDIA GeForce 6100",
   "color": [

@@ -18,12 +18,12 @@
     "usb_4": 0
   },
   "audio": {
-    "chipset": "Realtek®AudioCODEC",
+    "chipset": "Realtek\u00aeAudioCODEC",
     "channels": "2/4/5.1/7.1-channel"
   },
   "metadata": {
     "name": "H410M S2H V3 (rev.1.0/1.2)",
-    "manufacturer": "GIGABYTE",
+    "manufacturer": "Gigabyte",
     "part_number": "H410M-S2H-V3",
     "series": "H410M-S2H",
     "variant": "V3",

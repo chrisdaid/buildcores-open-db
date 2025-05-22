@@ -32,7 +32,7 @@
   },
   "socket": "AM4",
   "form_factor": "ATX",
-  "chipset": "AMD Promontory X470",
+  "chipset": "AMD X470",
   "pcie_slots": [
     {
       "gen": "3.0",

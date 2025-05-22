@@ -32,7 +32,7 @@
   },
   "socket": "AM5",
   "form_factor": "ATX",
-  "chipset": "X670E",
+  "chipset": "AMD X670E",
   "pcie_slots": [
     {
       "gen": "5.0",

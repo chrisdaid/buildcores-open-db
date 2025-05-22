@@ -23,7 +23,7 @@
   },
   "metadata": {
     "name": "Asus ROG Strix Z370-I Gaming",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_number": null,
     "series": "ROG Strix",
     "variant": "Z370-I",
@@ -32,7 +32,7 @@
   },
   "socket": "LGA1151",
   "form_factor": "Mini-ITX",
-  "chipset": "Z370",
+  "chipset": "Intel Z370",
   "pcie_slots": [
     {
       "gen": "3.0",

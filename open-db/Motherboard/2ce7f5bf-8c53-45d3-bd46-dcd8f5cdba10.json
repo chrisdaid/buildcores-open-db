@@ -23,7 +23,7 @@
   },
   "metadata": {
     "name": "Z390 AORUS PRO WIFI",
-    "manufacturer": "GIGABYTE",
+    "manufacturer": "Gigabyte",
     "part_number": null,
     "series": "AORUS PRO WIFI",
     "variant": "rev. 1.0",
@@ -32,7 +32,7 @@
   },
   "socket": "LGA1151",
   "form_factor": "ATX",
-  "chipset": "Z390",
+  "chipset": "Intel Z390",
   "pcie_slots": [
     {
       "gen": "3.0",

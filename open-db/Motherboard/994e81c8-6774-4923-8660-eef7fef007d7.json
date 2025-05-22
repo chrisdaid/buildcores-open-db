@@ -23,7 +23,7 @@
   },
   "metadata": {
     "name": "GIGABYTE GA-B85M-D3H LGA 1150 Micro ATX Intel Motherboard",
-    "manufacturer": "GIGABYTE",
+    "manufacturer": "Gigabyte",
     "part_number": "GA-B85M-D3H",
     "series": null,
     "variant": null,
@@ -41,11 +41,7 @@
       "_id": "67bd3837d77b2ff1059de319"
     },
     {
-      "quantity": 1,
-      "lanes": 4,
-      "_id": "67bd3837d77b2ff1059de31a"
-    },
-    {
+      "gen": "2.0",
       "quantity": 2,
       "lanes": 1,
       "_id": "67bd3837d77b2ff1059de31b"

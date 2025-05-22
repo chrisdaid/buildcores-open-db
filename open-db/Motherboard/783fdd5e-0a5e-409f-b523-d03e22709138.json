@@ -18,12 +18,12 @@
     "usb_4": 0
   },
   "audio": {
-    "chipset": "Realtek® ALC1220-VB CODEC",
+    "chipset": "Realtek\u00ae ALC1220-VB CODEC",
     "channels": "7.1 Channels"
   },
   "metadata": {
     "name": "GIGABYTE B650 AORUS PRO AX",
-    "manufacturer": "GIGABYTE",
+    "manufacturer": "Gigabyte",
     "part_number": "B650",
     "series": "AORUS PRO AX",
     "variant": "1.x",
@@ -94,7 +94,7 @@
     "USB 2.0/1.1 ports",
     "HDMI 2.0 port",
     "USB 3.2 Gen 2 Type-A ports (red)",
-    "USB Type-C® port, with USB 3.2 Gen 1 support",
+    "USB Type-C\u00ae port, with USB 3.2 Gen 1 support",
     "USB 3.2 Gen 1 ports",
     "RJ-45 port",
     "audio jacks",
