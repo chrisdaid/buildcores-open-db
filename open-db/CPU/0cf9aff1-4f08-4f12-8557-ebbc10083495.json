@@ -51,7 +51,7 @@
   "series": "Intel Core i9",
   "microarchitecture": null,
   "coreFamily": null,
-  "socket": "FCLGA2066",
+  "socket": "LGA2066",
   "general_product_information": {
     "amazon_sku": "B07JGCV5KN",
     "newegg_sku": "9SIBMM4KBA9313",

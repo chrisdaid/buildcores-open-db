@@ -38,7 +38,7 @@
     "tdp": 65,
     "eccSupport": true,
     "includesCooler": true,
-    "packaging": "µOPGA-1331",
+    "packaging": "\u00b5OPGA-1331",
     "lithography": "14 nm",
     "simultaneousMultithreading": true
   },
@@ -51,7 +51,7 @@
   "series": "Ryzen 7",
   "microarchitecture": "Zen (Summit Ridge)",
   "coreFamily": null,
-  "socket": "Socket AM4",
+  "socket": "AM4",
   "general_product_information": {
     "amazon_sku": "B07F5LLKBX"
   }

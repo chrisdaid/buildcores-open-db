@@ -51,7 +51,7 @@
   "series": "Core i5",
   "microarchitecture": "Comet Lake",
   "coreFamily": null,
-  "socket": "LGA 1200",
+  "socket": "LGA1200",
   "general_product_information": {
     "amazon_sku": "B086MW76DW",
     "newegg_sku": "9SIAKWUK181646",

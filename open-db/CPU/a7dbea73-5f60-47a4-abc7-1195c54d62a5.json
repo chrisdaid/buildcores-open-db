@@ -51,7 +51,7 @@
   "series": "Core i9",
   "microarchitecture": "Skylake-X",
   "coreFamily": null,
-  "socket": "LGA 2066",
+  "socket": "LGA2066",
   "general_product_information": {
     "amazon_sku": "B075XRYMDS",
     "newegg_sku": "9SIBKFCK6Z0186",

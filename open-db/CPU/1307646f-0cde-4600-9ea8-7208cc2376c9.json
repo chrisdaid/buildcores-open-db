@@ -51,7 +51,7 @@
   "series": "AMD Ryzen Threadripper",
   "microarchitecture": "Zen+",
   "coreFamily": "Colfax",
-  "socket": "sTR4",
+  "socket": "TR4",
   "general_product_information": {
     "amazon_sku": "B07G25SD1P",
     "newegg_sku": "9SIATJ1HWX2651",

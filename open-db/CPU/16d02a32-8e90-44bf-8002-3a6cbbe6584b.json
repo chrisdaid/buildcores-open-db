@@ -51,7 +51,7 @@
   "series": "Intel Pentium Gold Processor Series",
   "microarchitecture": "Coffee Lake",
   "coreFamily": null,
-  "socket": "Socket 1151",
+  "socket": "LGA1151",
   "general_product_information": {
     "amazon_sku": "B0793DYTCQ",
     "newegg_sku": "9SIBMM4KBS9978",

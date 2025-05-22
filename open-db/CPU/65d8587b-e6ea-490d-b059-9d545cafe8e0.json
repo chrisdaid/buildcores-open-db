@@ -23,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": "Intel® UHD Graphics 710",
+      "model": "Intel\u00ae UHD Graphics 710",
       "baseClock": 300,
       "boostClock": 1.35,
       "shaderCount": 16
@@ -56,7 +56,7 @@
   "series": "Pentium Gold",
   "microarchitecture": "Alder Lake",
   "coreFamily": null,
-  "socket": "FCLGA1700",
+  "socket": "LGA1700",
   "general_product_information": {
     "amazon_sku": "B09Q87W31F",
     "newegg_sku": "9SIA24GH045101",
