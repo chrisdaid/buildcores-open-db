@@ -6,7 +6,7 @@
   },
   "metadata": {
     "name": "Patriot Viper RGB White DDR4-4133 C19",
-    "manufacturer": "Patriot Memory",
+    "manufacturer": "Patriot",
     "part_number": "PVR416G413C9KW",
     "series": "Viper RGB",
     "variant": "DDR4-4133 C19",
@@ -15,7 +15,7 @@
   },
   "speed": 4133,
   "ram_type": "DDR4",
-  "form_factor": "NON-ECC Unbuffered DIMM",
+  "form_factor": "UDIMM",
   "capacity": 16,
   "cas_latency": 19,
   "timings": "19-21-21-41",
