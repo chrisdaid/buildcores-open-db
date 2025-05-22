@@ -2,15 +2,15 @@
   "opendb_id": "05fe40f6-b86b-4a0a-b80b-acb0fc2fb537",
   "metadata": {
     "name": "JONSBO D30 BLACK Mini Micro ATX Computer Case, Aluminum/Steel/Tempered Glass-1 Side, Simple High Compatibility MATX Case, Support 240 Water & 168mm Air Cooling, 355mm GPU Support,Interchangeable Side",
-    "manufacturer": "JONSBO",
+    "manufacturer": "Jonsbo",
     "part_numbers": [],
     "series": "D30 BLACK Mini Micro ATX computer case",
     "variant": null
   },
-  "form_factor": "Micro ATX",
+  "form_factor": "Micro ATX Mini Tower",
   "power_supply": null,
   "power_supply_included": false,
-  "side_panel": "One side in metal with vents,One side in glass transparent",
+  "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 3.2 Gen 1 Type-C, USB 3.2 Gen 1 Type-A",
   "max_video_card_length": 355,
