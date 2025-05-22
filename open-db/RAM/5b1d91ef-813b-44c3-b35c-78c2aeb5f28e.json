@@ -18,8 +18,7 @@
   "form_factor": "288-pin DIMM (DDR4)",
   "capacity": 16,
   "color": [
-    "WHITE",
-    "RGB"
+    "WHITE"
   ],
   "cas_latency": 16,
   "voltage": null,

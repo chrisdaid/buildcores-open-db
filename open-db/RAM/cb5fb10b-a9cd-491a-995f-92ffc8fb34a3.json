@@ -6,7 +6,7 @@
   },
   "metadata": {
     "name": "G.Skill Trident Z RGB DDR4-4400 CL19 64GB (2x32GB)",
-    "manufacturer": "G.Skill",
+    "manufacturer": "G.SKILL",
     "part_numbers": [
       "F4-4400C19D-64GTZR"
     ],
@@ -24,6 +24,6 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "general_product_information": {},
-  "rgb": true
+  "rgb": true,
+  "general_product_information": {}
 }
