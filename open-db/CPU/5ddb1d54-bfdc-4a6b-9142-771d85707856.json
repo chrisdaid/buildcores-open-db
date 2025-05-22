@@ -41,7 +41,7 @@
   "series": "AMD Threadripper",
   "microarchitecture": "Zen",
   "coreFamily": "Whitehaven",
-  "socket": "sTR4",
+  "socket": "TR4",
   "general_product_information": {
     "amazon_sku": "B074CBJHCT",
     "newegg_sku": "9SIAGKCJV66359"

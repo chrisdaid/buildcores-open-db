@@ -1,6 +1,7 @@
 {
   "opendb_id": "f8dce6ce-17aa-426d-a513-3d4c0136f180",
   "cores": {
+    "total": 8,
     "performance": null,
     "efficiency": null,
     "threads": 16
@@ -22,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": "Intel® UHD Graphics 630",
+      "model": "Intel UHD Graphics 630",
       "baseClock": 350,
       "boostClock": 1.2,
       "shaderCount": null

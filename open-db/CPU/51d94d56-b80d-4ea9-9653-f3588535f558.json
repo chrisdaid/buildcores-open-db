@@ -23,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": "Intel HD 630",
+      "model": "Intel HD Graphics 630",
       "baseClock": 350,
       "boostClock": 1100,
       "shaderCount": null
@@ -54,7 +54,7 @@
   "series": "Intel Core i3",
   "microarchitecture": "Kaby Lake",
   "coreFamily": null,
-  "socket": "Socket 1151 / H4 / LGA1151",
+  "socket": "LGA1151",
   "general_product_information": {
     "amazon_sku": "B01NAQ6A93",
     "walmart_sku": 445904822

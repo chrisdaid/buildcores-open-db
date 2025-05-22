@@ -23,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": "Intel® UHD Graphics 610",
+      "model": "Intel UHD Graphics 610",
       "baseClock": 350,
       "boostClock": 1050,
       "shaderCount": 0
@@ -48,10 +48,10 @@
     "releaseYear": 2018,
     "part_numbers": []
   },
-  "series": "Intel® Pentium® Gold",
+  "series": "Intel\u00ae Pentium\u00ae Gold",
   "microarchitecture": "Coffee Lake",
   "coreFamily": null,
-  "socket": "FCLGA1151",
+  "socket": "LGA1151",
   "general_product_information": {
     "amazon_sku": "B0793BQS3R",
     "newegg_sku": "9SIBMM4KBS9968",

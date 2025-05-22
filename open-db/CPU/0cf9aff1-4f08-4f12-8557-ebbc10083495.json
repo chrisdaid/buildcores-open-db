@@ -23,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": null,
+      "model": "None",
       "baseClock": null,
       "boostClock": null,
       "shaderCount": null
@@ -49,9 +49,9 @@
     "part_numbers": []
   },
   "series": "Intel Core i9",
-  "microarchitecture": null,
-  "coreFamily": null,
-  "socket": "FCLGA2066",
+  "microarchitecture": "Skylake-X",
+  "coreFamily": "Skylake-X",
+  "socket": "LGA2066",
   "general_product_information": {
     "amazon_sku": "B07JGCV5KN",
     "newegg_sku": "9SIBMM4KBA9313",
