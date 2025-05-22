@@ -18,7 +18,7 @@
     "usb_4": 0
   },
   "audio": {
-    "chipset": "Realtek\u00ae ALC892/ALC897 Codec",
+    "chipset": "Realtek® ALC892/ALC897 Codec",
     "channels": "7.1-Channel"
   },
   "metadata": {
@@ -58,7 +58,7 @@
   "onboard_ethernet": [
     {
       "speed": "Gigabit LAN",
-      "controller": "Intel\u00ae I219V",
+      "controller": "Intel® I219V",
       "_id": "67bbb40e656a333a9fdf7517"
     }
   ],
@@ -75,7 +75,7 @@
     "Keyboard / Mouse",
     "LAN",
     "DVI-D",
-    "HDMI\u2122",
+    "HDMI™",
     "USB 3.2 Gen 1 5Gbps Type-A",
     "USB 2.0",
     "USB 2.0",

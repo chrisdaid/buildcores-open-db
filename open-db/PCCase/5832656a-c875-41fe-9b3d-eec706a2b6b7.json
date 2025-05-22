@@ -22,7 +22,9 @@
   "dimensions": "13.86\" x 6.89\" x 14.17\"",
   "volume": 0,
   "weight": 5.95,
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "general_product_information": {
     "amazon_sku": "B072F29JP4",
     "newegg_sku": "N82E16811147262",

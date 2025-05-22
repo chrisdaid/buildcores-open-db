@@ -18,7 +18,7 @@
     "usb_4": 0
   },
   "audio": {
-    "chipset": "Realtek\u00ae ALC1220 Codec",
+    "chipset": "Realtek® ALC1220 Codec",
     "channels": "7.1"
   },
   "metadata": {
@@ -70,7 +70,7 @@
   "onboard_ethernet": [
     {
       "speed": "1 Gb/s",
-      "controller": "Intel\u00ae I211AT",
+      "controller": "Intel® I211AT",
       "_id": "67bba559656a333a9fdf69af"
     }
   ],

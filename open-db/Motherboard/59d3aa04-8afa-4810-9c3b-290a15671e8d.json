@@ -70,7 +70,7 @@
   "onboard_ethernet": [
     {
       "speed": "Gigabit",
-      "controller": "Intel\u00ae I211AT",
+      "controller": "Intel® I211AT",
       "_id": "67bd40e2ea732996e1e6fd65"
     }
   ],

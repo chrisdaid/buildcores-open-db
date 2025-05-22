@@ -38,7 +38,7 @@
     "tdp": 65,
     "eccSupport": true,
     "includesCooler": true,
-    "packaging": "\u00b5OPGA-1331",
+    "packaging": "µOPGA-1331",
     "lithography": "14 nm",
     "simultaneousMultithreading": true
   },

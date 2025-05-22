@@ -18,7 +18,7 @@
     "usb_4": 0
   },
   "audio": {
-    "chipset": "Realtek\u00aeAudioCODEC",
+    "chipset": "Realtek®AudioCODEC",
     "channels": "2/4/5.1/7.1-channel"
   },
   "metadata": {
