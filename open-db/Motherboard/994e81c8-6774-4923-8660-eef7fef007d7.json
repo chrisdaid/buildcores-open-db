@@ -41,11 +41,7 @@
       "_id": "67bd3837d77b2ff1059de319"
     },
     {
-      "quantity": 1,
-      "lanes": 4,
-      "_id": "67bd3837d77b2ff1059de31a"
-    },
-    {
+      "gen": "2.0",
       "quantity": 2,
       "lanes": 1,
       "_id": "67bd3837d77b2ff1059de31b"
