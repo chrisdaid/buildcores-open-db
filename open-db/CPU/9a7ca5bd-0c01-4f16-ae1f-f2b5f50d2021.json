@@ -23,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": "Intel\u00ae UHD Graphics 610",
+      "model": "Intel UHD Graphics 610",
       "baseClock": 350,
       "boostClock": 1050,
       "shaderCount": 0

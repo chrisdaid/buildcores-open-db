@@ -23,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": "Intel\u00ae UHD Graphics 750",
+      "model": "Intel UHD Graphics 750",
       "baseClock": 350,
       "boostClock": 1.3,
       "shaderCount": 0

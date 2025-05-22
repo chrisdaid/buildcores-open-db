@@ -23,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": "Intel\u00ae UHD Graphics 710",
+      "model": "Intel UHD Graphics 710",
       "baseClock": 300,
       "boostClock": 1.35,
       "shaderCount": 16

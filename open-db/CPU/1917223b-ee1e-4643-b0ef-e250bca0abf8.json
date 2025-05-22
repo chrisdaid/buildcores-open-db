@@ -23,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": null,
+      "model": "None",
       "baseClock": null,
       "boostClock": null,
       "shaderCount": null

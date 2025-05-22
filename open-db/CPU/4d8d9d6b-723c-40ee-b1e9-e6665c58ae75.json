@@ -20,7 +20,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": "Intel Xe"
+      "model": "Intel Xe Graphics"
     },
     "memory": {
       "maxSupport": 256,
