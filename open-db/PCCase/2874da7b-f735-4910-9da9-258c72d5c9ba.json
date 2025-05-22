@@ -10,6 +10,7 @@
     "variant": "Black"
   },
   "form_factor": "ATX Mid Tower",
+  "color": [],
   "power_supply": null,
   "power_supply_included": false,
   "side_panel": "Tempered Glass",
@@ -23,7 +24,6 @@
   "dimensions": "400 mm x 288 mm x 384 mm",
   "volume": 44.237,
   "weight": 21.6,
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B09DS85DYC",
     "newegg_sku": "2AM-000Z-00080",

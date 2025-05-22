@@ -17,6 +17,7 @@
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 4090",
+  "core_count": 16384,
   "memory": 24,
   "memory_type": "GDDR6X",
   "core_base_clock": 2235,
@@ -24,6 +25,7 @@
   "effective_memory_clock": 21000,
   "memory_bus": 0,
   "interface": "PCIe x16",
+  "color": [],
   "frame_sync": "G-Sync",
   "length": 336,
   "tdp": 450,
@@ -40,11 +42,9 @@
     "vga": 0,
     "_id": "67e89c7111815510c7c776af"
   },
-  "color": [],
-  "core_count": 16384,
   "general_product_information": {
-    "amazon_sku": "B0BG92GY61",
+    "amazon_sku": "B0D3NK4WBL",
     "newegg_sku": "N82E16814137760",
-    "walmart_sku": 1453041947
+    "walmart_sku": 6831869608
   }
 }

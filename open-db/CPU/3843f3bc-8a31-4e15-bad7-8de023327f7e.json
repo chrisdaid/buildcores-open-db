@@ -43,7 +43,6 @@
   "coreFamily": "Vishera",
   "socket": "AM3+",
   "general_product_information": {
-    "amazon_sku": "B00DGGW3MI",
-    "walmart_sku": 39116017
+    "amazon_sku": "B00DGGW3MI"
   }
 }
