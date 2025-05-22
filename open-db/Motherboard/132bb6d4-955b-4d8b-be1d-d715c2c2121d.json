@@ -30,7 +30,7 @@
     "releaseYear": 2019,
     "part_numbers": []
   },
-  "socket": "LGA 1151",
+  "socket": "LGA1151",
   "form_factor": "ATX",
   "chipset": "Intel Z390",
   "pcie_slots": [
@@ -85,7 +85,7 @@
   "back_panel_ports": [
     "Clear CMOS Button",
     "USB 2.0 Ports",
-    "Killer™ E2500 Gigabit LAN",
+    "Killer\u2122 E2500 Gigabit LAN",
     "Wi-Fi /Bluetooth Antenna Connectors",
     "HD Audio Connectors",
     "Flash BIOS Button",

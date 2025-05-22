@@ -30,7 +30,7 @@
     "series": "NVIDIA",
     "variant": ""
   },
-  "socket": "AM3/AM2+/AM2",
+  "socket": "AM3",
   "form_factor": "Mini-ITX",
   "chipset": "NVIDIA nForce 430 MCP",
   "color": [

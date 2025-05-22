@@ -2,7 +2,8 @@
   "opendb_id": "40a0eab4-4b27-4a90-9c46-d08a587f07ce",
   "memory": {
     "max": 128,
-    "ram_type": "DDR4"
+    "ram_type": "DDR4",
+    "slots": 4
   },
   "storage_devices": {
     "sata_6_gb_s": 4,
@@ -29,7 +30,7 @@
     "releaseYear": 2024,
     "part_numbers": []
   },
-  "socket": "LGA 1700",
+  "socket": "LGA1700",
   "form_factor": "ATX",
   "chipset": "Intel Z790",
   "pcie_slots": [

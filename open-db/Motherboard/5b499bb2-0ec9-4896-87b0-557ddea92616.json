@@ -30,7 +30,7 @@
     "series": "NVIDIA",
     "variant": ""
   },
-  "socket": "Integrated Atom 230",
+  "socket": "Integrated Atom",
   "form_factor": "Mini-ITX",
   "chipset": "NVIDIA ION",
   "color": [

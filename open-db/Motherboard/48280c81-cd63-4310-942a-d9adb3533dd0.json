@@ -32,7 +32,7 @@
   },
   "socket": "LGA1151",
   "form_factor": "Mini-ITX",
-  "chipset": "Z390",
+  "chipset": "Intel Z390",
   "pcie_slots": [
     {
       "gen": "3.0",

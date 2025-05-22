@@ -23,14 +23,14 @@
   },
   "metadata": {
     "name": "Asus PRIME sTR4 X399-A DDR4 EATX",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "PRIME X399-A                                                    90MB0V80-M0EAY0"
     ],
     "series": "PRIME",
     "variant": ""
   },
-  "socket": "sTR4",
+  "socket": "TR4",
   "form_factor": "EATX",
   "chipset": "AMD X399",
   "color": [

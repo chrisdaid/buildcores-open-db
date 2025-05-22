@@ -32,7 +32,7 @@
   },
   "socket": "AM4",
   "form_factor": "Mini-ITX",
-  "chipset": "X370",
+  "chipset": "AMD X370",
   "pcie_slots": [
     {
       "gen": "3.0",

@@ -23,14 +23,14 @@
   },
   "metadata": {
     "name": "Asus 990FX TUF SABERTOOTH R3.0 DDR3 ATX",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "SABERTOOTH 990FX R3.0                                                    TUF SABERTOOTH 990FX R3.0"
     ],
     "series": "990FX",
     "variant": ""
   },
-  "socket": "AM3+/AM3",
+  "socket": "AM3+",
   "form_factor": "ATX",
   "chipset": "AMD 990FX",
   "color": [

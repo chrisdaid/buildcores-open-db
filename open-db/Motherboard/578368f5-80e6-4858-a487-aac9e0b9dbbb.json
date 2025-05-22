@@ -32,7 +32,7 @@
   },
   "socket": "AM4",
   "form_factor": "EATX",
-  "chipset": "X570S",
+  "chipset": "AMD X570",
   "pcie_slots": [
     {
       "gen": "4.0",
