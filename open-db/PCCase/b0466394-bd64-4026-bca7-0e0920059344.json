@@ -1,10 +1,26 @@
 {
   "opendb_id": "b0466394-bd64-4026-bca7-0e0920059344",
   "metadata": {
-    "part_numbers": []
+    "name": "Phanteks EVOLV mATX Tempered Glass Edition Aluminum Exterior RGB Micro Tower Case Gray",
+    "manufacturer": "Phanteks",
+    "part_numbers": ["PH-ES314ETG_AG"],
+    "series": "EVOLV",
+    "variant": "Gray"
   },
   "form_factor": "Micro ATX Mid Tower",
-  "color": [],
+  "color": ["GRAY"],
+  "power_supply": null,
+  "side_panel": "Tempered Glass",
+  "has_transparent_side_panel": true,
+  "front_panel_usb": "USB 2.0 Type-A",
+  "max_video_card_length": 319,
+  "max_cpu_cooler_height": null,
+  "internal_3_5_bays": 2,
+  "internal_2_5_bays": 0,
+  "expansion_slots": 9,
+  "dimensions": "230 x 453 x 400",
+  "volume": null,
+  "weight": 19.8,
   "general_product_information": {
     "amazon_sku": "B06ZXZBT7C",
     "newegg_sku": "9SIBFBFK911730",
