@@ -6,7 +6,7 @@
   },
   "metadata": {
     "name": "G.Skill NT DDR4-2400 CL17 16GB (2x8GB)",
-    "manufacturer": "G.Skill",
+    "manufacturer": "G.SKILL",
     "part_numbers": [
       "F4-2400C17D-16GNT"
     ],
@@ -24,6 +24,6 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": false,
-  "general_product_information": {},
-  "rgb": false
+  "rgb": false,
+  "general_product_information": {}
 }

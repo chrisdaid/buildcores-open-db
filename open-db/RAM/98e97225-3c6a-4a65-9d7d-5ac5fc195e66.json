@@ -6,7 +6,7 @@
   },
   "metadata": {
     "name": "G.Skill Trident Z RGB Multicolor DDR4-4266 CL19 16GB (2x8GB)",
-    "manufacturer": "G.Skill",
+    "manufacturer": "G.SKILL",
     "part_numbers": [
       "F4-4266C19D-16GTZR"
     ],
@@ -18,7 +18,7 @@
   "form_factor": "288-pin DIMM (DDR4)",
   "capacity": 16,
   "color": [
-    "RGB"
+    "BLACK"
   ],
   "cas_latency": 19,
   "timings": "19-19-19-39",
