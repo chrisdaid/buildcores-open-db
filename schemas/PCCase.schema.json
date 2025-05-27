@@ -51,6 +51,19 @@
       ],
       "description": "Whether the case includes a power supply"
     },
+    "supported_power_supply_form_factors": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "description": "The PSU form factors that the case can support (e.g., ['ATX', 'SFX', 'SFX-L'])"
+    },
     "side_panel": {
       "type": [
         "string",
