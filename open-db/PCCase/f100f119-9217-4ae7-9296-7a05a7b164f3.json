@@ -26,6 +26,7 @@
   "dimensions": "604 x 248 x 660",
   "volume": 98.863,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B00126SH6A"
   }

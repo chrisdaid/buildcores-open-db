@@ -23,6 +23,7 @@
   "volume": null,
   "weight": null,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B074ZN21M8",
     "newegg_sku": "N82E16811133359",

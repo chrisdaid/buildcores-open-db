@@ -25,6 +25,7 @@
   "dimensions": "442 x 210 x 479",
   "volume": 44.461,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07SKP16HR"
   }

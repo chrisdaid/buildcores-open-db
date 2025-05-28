@@ -9,6 +9,7 @@
     "series": "ISK",
     "variant": ""
   },
+  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK",

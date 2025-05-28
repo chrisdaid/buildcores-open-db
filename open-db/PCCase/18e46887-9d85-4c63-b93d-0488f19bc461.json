@@ -9,6 +9,7 @@
     "series": "XON-720P",
     "variant": ""
   },
+  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Slim Tower",
   "color": [
     "WHITE"

@@ -25,6 +25,7 @@
   "dimensions": "493 x 217 x 468",
   "volume": 50.067,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B085HDW848"
   }

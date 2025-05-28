@@ -25,6 +25,7 @@
   "dimensions": "497 x 210 x 429",
   "volume": 44.775,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B009GXZ8MM",
     "walmart_sku": 32955018

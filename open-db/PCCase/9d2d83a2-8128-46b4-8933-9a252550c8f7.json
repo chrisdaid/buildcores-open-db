@@ -9,6 +9,7 @@
     "series": "NSK3100",
     "variant": ""
   },
+  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Mini Tower",
   "color": [
     "BLACK"

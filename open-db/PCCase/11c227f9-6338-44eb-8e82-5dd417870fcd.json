@@ -9,6 +9,7 @@
     "series": "BL040.300TB3LF",
     "variant": ""
   },
+  "supported_power_supply_form_factors": [],
   "form_factor": "HTPC",
   "color": [
     "BLACK"

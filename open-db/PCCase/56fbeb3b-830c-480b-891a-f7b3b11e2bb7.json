@@ -25,6 +25,7 @@
   "dimensions": "365 x 200 x 458",
   "volume": 33.434,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0B1PMLP55",
     "newegg_sku": "2AM-004W-00078"

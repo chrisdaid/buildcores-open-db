@@ -25,6 +25,7 @@
   "dimensions": "424 x 210 x 475",
   "volume": 42.294,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0822W433F"
   }

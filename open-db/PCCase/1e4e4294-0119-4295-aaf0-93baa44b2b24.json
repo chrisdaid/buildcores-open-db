@@ -24,6 +24,7 @@
   "volume": 0,
   "weight": 4.09,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09VNJZ8Z1",
     "newegg_sku": "2AM-000T-001T2",

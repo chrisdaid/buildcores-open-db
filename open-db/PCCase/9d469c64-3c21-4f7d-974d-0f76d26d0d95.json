@@ -9,6 +9,7 @@
     "series": "ML07B",
     "variant": ""
   },
+  "supported_power_supply_form_factors": [],
   "form_factor": "HTPC",
   "color": [
     "BLACK"

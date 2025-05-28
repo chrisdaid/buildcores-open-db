@@ -25,6 +25,7 @@
   "dimensions": "285 x 95 x 355",
   "volume": 9.612,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B084BY393C"
   }

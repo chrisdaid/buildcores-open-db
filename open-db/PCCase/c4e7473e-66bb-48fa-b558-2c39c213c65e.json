@@ -9,6 +9,7 @@
     "series": "CHALLENGER",
     "variant": "S"
   },
+  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "power_supply": "None",
   "power_supply_included": false,

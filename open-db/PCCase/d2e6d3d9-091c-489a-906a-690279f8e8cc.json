@@ -25,6 +25,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09246FCTZ",
     "newegg_sku": "2AM-00CN-00036"

@@ -24,6 +24,7 @@
   "volume": 0,
   "weight": 44.93,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07ZLFB8TC",
     "newegg_sku": "N82E16811133420",

@@ -9,6 +9,7 @@
     "series": "DH-153C(H+A)+MT-300-4SS",
     "variant": ""
   },
+  "supported_power_supply_form_factors": [],
   "form_factor": "HTPC",
   "color": [
     "BLACK"

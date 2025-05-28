@@ -25,6 +25,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07DRVHBWK",
     "newegg_sku": "9SIAD6HJN24234",

@@ -22,6 +22,7 @@
   "volume": null,
   "weight": 2.2,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07DF2SP3X",
     "newegg_sku": "9SIA29PJTX8371",

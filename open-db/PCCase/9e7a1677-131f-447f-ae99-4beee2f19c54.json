@@ -9,6 +9,7 @@
     "series": "Solo-T2-R",
     "variant": ""
   },
+  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "BLACK",

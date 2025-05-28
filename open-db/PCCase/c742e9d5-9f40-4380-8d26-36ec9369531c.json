@@ -10,7 +10,12 @@
     "variant": "Black"
   },
   "form_factor": "ATX Mini Tower",
+  "color": [],
   "power_supply": "None",
+  "supported_power_supply_form_factors": [
+    "SFX",
+    "SFX-L"
+  ],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
@@ -22,7 +27,6 @@
   "dimensions": "420 mm x 269.5 mm x 380 mm",
   "volume": 43.012,
   "weight": 0,
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B08P5X7TXF",
     "manufacturer_url": "https://lian-li.com/product/o11-dynamic-mini/"

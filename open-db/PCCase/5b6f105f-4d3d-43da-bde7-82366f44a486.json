@@ -26,6 +26,7 @@
   "dimensions": "550 x 248 x 600",
   "volume": 81.84,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09444VWX2",
     "walmart_sku": 988745735

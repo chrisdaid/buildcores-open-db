@@ -9,6 +9,7 @@
     "series": "N-1",
     "variant": ""
   },
+  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"

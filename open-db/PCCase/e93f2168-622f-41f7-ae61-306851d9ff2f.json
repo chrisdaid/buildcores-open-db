@@ -25,6 +25,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0BZK4RW43"
   }

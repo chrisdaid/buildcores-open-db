@@ -23,6 +23,7 @@
   "volume": 0,
   "weight": 0,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09M2T62W2",
     "newegg_sku": "2AM-000Z-00081",

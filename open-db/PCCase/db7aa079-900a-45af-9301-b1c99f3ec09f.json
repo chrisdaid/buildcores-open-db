@@ -25,6 +25,7 @@
   "dimensions": "293 x 290 x 263",
   "volume": 22.347,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "newegg_sku": "2AM-002C-00079"
   }
