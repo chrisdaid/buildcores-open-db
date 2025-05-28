@@ -9,7 +9,6 @@
     "series": "PAN",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "WHITE"
@@ -26,5 +25,6 @@
   "dimensions": "354 x 629 x 174",
   "volume": 38.744,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

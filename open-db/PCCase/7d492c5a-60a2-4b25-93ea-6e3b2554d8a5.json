@@ -9,7 +9,6 @@
     "series": "BO",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "233 x 239 x 282",
   "volume": 15.704,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

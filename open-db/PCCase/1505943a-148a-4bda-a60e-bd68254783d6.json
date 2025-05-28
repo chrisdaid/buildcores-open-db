@@ -9,7 +9,6 @@
     "series": "Nova",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "WHITE"
@@ -26,5 +25,6 @@
   "dimensions": "380 x 211 x 450",
   "volume": 36.081,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

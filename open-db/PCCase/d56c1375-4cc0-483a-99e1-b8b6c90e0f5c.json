@@ -9,7 +9,6 @@
     "series": "H400i",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Mini Tower",
   "color": [
     "BLACK",
@@ -27,5 +26,6 @@
   "dimensions": "421 x 210 x 417",
   "volume": 36.867,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

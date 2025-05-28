@@ -9,7 +9,6 @@
     "series": "BM639.AD160TBL",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "231 x 111 x 264",
   "volume": 6.769,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

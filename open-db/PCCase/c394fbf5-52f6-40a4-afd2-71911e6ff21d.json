@@ -9,7 +9,6 @@
     "series": "Define",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Full Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "561 x 231 x 560",
   "volume": 72.571,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

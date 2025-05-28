@@ -9,7 +9,6 @@
     "series": "RM2",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "302 x 209 x 341",
   "volume": 21.523,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

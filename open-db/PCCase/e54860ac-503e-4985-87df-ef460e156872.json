@@ -9,7 +9,6 @@
     "series": "Era",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "GOLD",
@@ -27,5 +26,6 @@
   "dimensions": "325 x 166 x 310",
   "volume": 16.724,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

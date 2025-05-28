@@ -9,7 +9,6 @@
     "series": "One",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "436 x 208 x 487",
   "volume": 44.165,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

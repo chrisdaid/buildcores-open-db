@@ -9,7 +9,6 @@
     "series": "Commander",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "480 x 195 x 424",
   "volume": 39.686,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

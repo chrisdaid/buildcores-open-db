@@ -9,7 +9,6 @@
     "series": "M05",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Mid Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "393.7 x 210.82 x 436.88",
   "volume": 36.261,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

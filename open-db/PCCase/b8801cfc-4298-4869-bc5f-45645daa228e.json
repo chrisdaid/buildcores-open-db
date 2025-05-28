@@ -9,7 +9,6 @@
     "series": "DUBILI",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Full Tower",
   "color": [
     "GREY",
@@ -27,5 +26,6 @@
   "dimensions": "523 x 244 x 567",
   "volume": 72.356,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

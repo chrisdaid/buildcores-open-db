@@ -9,7 +9,6 @@
     "series": "X-Mirage",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "PINK"
@@ -26,5 +25,6 @@
   "dimensions": "438 x 203 x 470",
   "volume": 41.79,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

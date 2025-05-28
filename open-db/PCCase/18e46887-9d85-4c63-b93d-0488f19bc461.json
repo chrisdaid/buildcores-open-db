@@ -9,7 +9,6 @@
     "series": "XON-720P",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Slim Tower",
   "color": [
     "WHITE"
@@ -26,5 +25,6 @@
   "dimensions": "284 x 96 x 381",
   "volume": 10.388,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

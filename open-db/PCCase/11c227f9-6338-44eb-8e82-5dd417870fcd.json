@@ -9,7 +9,6 @@
     "series": "BL040.300TB3LF",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "HTPC",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "330 x 96 x 365",
   "volume": 11.563,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

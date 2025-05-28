@@ -9,7 +9,6 @@
     "series": "SG12B-V2",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Mini Tower",
   "color": [
     "BLACK",
@@ -27,6 +26,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B077917W5F"
   }

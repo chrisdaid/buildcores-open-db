@@ -9,7 +9,6 @@
     "series": "FARA",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "WHITE"
@@ -26,5 +25,6 @@
   "dimensions": "402.5 x 204.8 x 484.5",
   "volume": 39.938,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

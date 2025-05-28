@@ -9,7 +9,6 @@
     "series": "H440",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "RED"
@@ -26,5 +25,6 @@
   "dimensions": "475 x 220 x 510",
   "volume": 53.295,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

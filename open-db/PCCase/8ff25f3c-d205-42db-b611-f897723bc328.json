@@ -9,7 +9,6 @@
     "series": "V4",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "474 x 190 x 429",
   "volume": 38.636,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

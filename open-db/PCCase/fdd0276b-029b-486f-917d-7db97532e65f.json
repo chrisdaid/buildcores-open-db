@@ -9,7 +9,6 @@
     "series": "MJ-16",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Mini Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "369 x 139 x 330",
   "volume": 16.926,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

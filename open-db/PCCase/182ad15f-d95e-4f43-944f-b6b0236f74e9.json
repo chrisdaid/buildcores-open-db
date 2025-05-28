@@ -9,7 +9,6 @@
     "series": "A1",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "PINK"
@@ -26,5 +25,6 @@
   "dimensions": "357 x 224 x 273",
   "volume": 21.831,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

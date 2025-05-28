@@ -9,7 +9,6 @@
     "series": "Ridge",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "WHITE"
@@ -26,5 +25,6 @@
   "dimensions": "374 x 110 x 395",
   "volume": 16.25,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

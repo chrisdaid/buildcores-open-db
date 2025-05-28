@@ -9,7 +9,6 @@
     "series": "PC-C32B",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "HTPC",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "166 x 425 x 530",
   "volume": 37.392,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

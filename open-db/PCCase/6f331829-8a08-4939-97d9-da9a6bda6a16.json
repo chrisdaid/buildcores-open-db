@@ -9,7 +9,6 @@
     "series": "Quadstellar",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "540 x 487 x 494",
   "volume": 129.912,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

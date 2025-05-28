@@ -9,7 +9,6 @@
     "series": "RL01B-USB",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "GREY",
@@ -27,5 +26,6 @@
   "dimensions": "192 x 440 x 484",
   "volume": 40.888,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

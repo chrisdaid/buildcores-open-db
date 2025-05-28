@@ -9,7 +9,6 @@
     "series": "BLACKHAWK-ULTRA",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Full Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "660 x 240 x 635",
   "volume": 100.584,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

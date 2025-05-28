@@ -9,7 +9,6 @@
     "series": "BQ656T.AD120TBL",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "226 x 76 x 193",
   "volume": 3.315,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

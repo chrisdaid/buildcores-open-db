@@ -9,7 +9,6 @@
     "series": "SETA",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "PINK",
@@ -27,6 +26,7 @@
   "dimensions": "432 x 225 x 470",
   "volume": 45.684,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0844WFWZW"
   }

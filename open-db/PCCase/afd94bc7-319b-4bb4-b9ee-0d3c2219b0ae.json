@@ -9,7 +9,6 @@
     "series": "DH-153C(H+A)+MT-300-4SS",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "HTPC",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "100 x 325 x 400",
   "volume": 13,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

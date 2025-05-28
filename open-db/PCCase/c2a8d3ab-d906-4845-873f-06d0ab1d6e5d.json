@@ -9,7 +9,6 @@
     "series": "Black",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "HTPC",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "430 x 430 x 169",
   "volume": 31.248,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -9,7 +9,6 @@
     "series": "Haizen",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Mid Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "325 x 200 x 380",
   "volume": 24.7,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -9,7 +9,6 @@
     "series": "MA01",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Mini Tower",
   "color": [
     "BLACK",
@@ -27,5 +26,6 @@
   "dimensions": "335 x 172 x 355",
   "volume": 20.455,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

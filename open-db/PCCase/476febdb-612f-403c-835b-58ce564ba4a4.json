@@ -9,7 +9,6 @@
     "series": "CULLINAN",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "435 x 225 x 482",
   "volume": 47.176,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

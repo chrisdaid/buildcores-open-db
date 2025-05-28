@@ -9,7 +9,6 @@
     "series": "ECA892BG-1350",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "519 x 220 x 504",
   "volume": 57.547,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

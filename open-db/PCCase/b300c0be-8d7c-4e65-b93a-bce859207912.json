@@ -9,7 +9,6 @@
     "series": "Divider",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "WHITE"
@@ -26,5 +25,6 @@
   "dimensions": "461 x 220 x 475",
   "volume": 48.175,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

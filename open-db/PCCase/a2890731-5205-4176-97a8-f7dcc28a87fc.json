@@ -9,7 +9,6 @@
     "series": "Elite",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Slim Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "317 x 261 x 68",
   "volume": 5.626,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

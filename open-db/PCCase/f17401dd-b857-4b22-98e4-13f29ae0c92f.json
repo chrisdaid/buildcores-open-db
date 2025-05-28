@@ -9,7 +9,6 @@
     "series": "X-Dreamer4",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "PINK"
@@ -26,5 +25,6 @@
   "dimensions": "495 x 196 x 444",
   "volume": 43.077,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

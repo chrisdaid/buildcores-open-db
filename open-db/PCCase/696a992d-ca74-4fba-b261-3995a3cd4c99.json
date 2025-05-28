@@ -9,7 +9,6 @@
     "series": "Switch",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Full Tower",
   "color": [
     "WHITE",
@@ -27,5 +26,6 @@
   "dimensions": "234 x 595 x 584",
   "volume": 81.31,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

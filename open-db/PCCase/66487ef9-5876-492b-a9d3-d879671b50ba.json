@@ -9,7 +9,6 @@
     "series": "INSPIRE",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Mini Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "393 x 188 x 382",
   "volume": 28.224,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

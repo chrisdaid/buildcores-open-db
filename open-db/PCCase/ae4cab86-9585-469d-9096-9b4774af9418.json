@@ -9,7 +9,6 @@
     "series": "Enzo",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "WHITE"
@@ -26,5 +25,6 @@
   "dimensions": "406.4 x 203.2 x 431.8",
   "volume": 35.658,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

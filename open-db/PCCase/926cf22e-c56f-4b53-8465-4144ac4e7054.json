@@ -9,7 +9,6 @@
     "series": "V3",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "BLACK",
@@ -27,5 +26,6 @@
   "dimensions": "472 x 190 x 429",
   "volume": 38.473,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

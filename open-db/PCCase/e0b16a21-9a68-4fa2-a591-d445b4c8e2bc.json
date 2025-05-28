@@ -9,7 +9,6 @@
     "series": "MasterBox",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Mid Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "456 x 208 x 381",
   "volume": 36.137,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

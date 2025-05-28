@@ -9,7 +9,6 @@
     "series": "Carbide",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "WHITE",
@@ -27,5 +26,6 @@
   "dimensions": "414 x 331 x 457",
   "volume": 62.625,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

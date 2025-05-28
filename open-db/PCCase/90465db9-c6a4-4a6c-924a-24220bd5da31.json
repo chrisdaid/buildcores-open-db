@@ -9,7 +9,6 @@
     "series": "Phantom",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Full Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "611 x 234 x 649",
   "volume": 92.79,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

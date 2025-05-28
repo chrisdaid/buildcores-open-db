@@ -9,7 +9,6 @@
     "series": "P183",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "GREY",
@@ -27,5 +26,6 @@
   "dimensions": "505 x 205 x 520",
   "volume": 53.833,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -9,7 +9,6 @@
     "series": "Cosmos",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Full Tower",
   "color": [
     "GREY",
@@ -27,5 +26,6 @@
   "dimensions": "627 x 265 x 597",
   "volume": 99.195,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

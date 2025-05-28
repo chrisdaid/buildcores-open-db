@@ -9,7 +9,6 @@
     "series": "M60",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Mid Tower",
   "color": [
     "WHITE"
@@ -26,5 +25,6 @@
   "dimensions": "382 x 188 x 410",
   "volume": 29.445,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

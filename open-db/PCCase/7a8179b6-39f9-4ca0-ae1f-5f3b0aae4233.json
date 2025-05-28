@@ -9,7 +9,6 @@
     "series": "Blaze",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "BLACK",
@@ -27,5 +26,6 @@
   "dimensions": "406 x 176 x 440",
   "volume": 31.441,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -9,7 +9,6 @@
     "series": "X-FIT-100",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "307 x 199 x 77",
   "volume": 4.704,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -9,7 +9,6 @@
     "series": "Eclipse",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "WHITE"
@@ -26,5 +25,6 @@
   "dimensions": "470 x 210 x 465",
   "volume": 45.895,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

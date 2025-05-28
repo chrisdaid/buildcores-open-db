@@ -9,7 +9,6 @@
     "series": "Array",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "350 x 249 x 199",
   "volume": 17.343,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

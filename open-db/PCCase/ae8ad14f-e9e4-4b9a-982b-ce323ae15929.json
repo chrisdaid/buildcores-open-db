@@ -9,7 +9,6 @@
     "series": "Source",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "WHITE",
@@ -27,5 +26,6 @@
   "dimensions": "495 x 195 x 439",
   "volume": 42.374,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

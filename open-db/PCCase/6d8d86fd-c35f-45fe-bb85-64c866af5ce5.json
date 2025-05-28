@@ -9,7 +9,6 @@
     "series": "Rocket",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "214.5 x 212.5 x 448.5",
   "volume": 20.443,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

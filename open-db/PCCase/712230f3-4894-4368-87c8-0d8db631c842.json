@@ -9,7 +9,6 @@
     "series": "N-1",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "328 x 260 x 202",
   "volume": 17.227,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

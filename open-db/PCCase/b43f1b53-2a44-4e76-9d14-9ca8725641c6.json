@@ -9,7 +9,6 @@
     "series": "VSK-4000",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "ATX Mid Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "411 x 185 x 439",
   "volume": 33.379,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

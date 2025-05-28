@@ -9,7 +9,6 @@
     "series": "MarbleShell",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Micro ATX Mid Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "370 x 210 x 435",
   "volume": 33.8,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

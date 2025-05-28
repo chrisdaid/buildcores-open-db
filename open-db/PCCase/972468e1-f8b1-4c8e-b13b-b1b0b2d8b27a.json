@@ -9,7 +9,6 @@
     "series": "BP655.200BL",
     "variant": ""
   },
-  "supported_power_supply_form_factors": [],
   "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
@@ -26,5 +25,6 @@
   "dimensions": "309 x 264 x 99",
   "volume": 8.076,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }
