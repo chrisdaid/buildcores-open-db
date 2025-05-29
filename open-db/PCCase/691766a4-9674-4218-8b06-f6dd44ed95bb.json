@@ -1,5 +1,14 @@
 {
   "opendb_id": "691766a4-9674-4218-8b06-f6dd44ed95bb",
+  "metadata": {
+    "name": "Enermax Starryfort SF70H",
+    "manufacturer": "Enermax",
+    "part_numbers": [
+      "ECA-SF70H-BB-ARGB"
+    ],
+    "series": "Starryfort",
+    "variant": "SF70H"
+  },
   "form_factor": "Micro-ATX Mid Tower",
   "color": [
     "Black"
@@ -20,15 +29,5 @@
   "dimensions": "450 x 210 x 450 mm",
   "volume": 42.525,
   "weight": null,
-  "metadata": {
-    "name": "Enermax Starryfort SF70H",
-    "manufacturer": "Enermax",
-    "part_numbers": [
-      "ECA-SF70H-BB-ARGB"
-    ],
-    "series": "Starryfort",
-    "variant": "SF70H",
-    "releaseYear": null
-  },
   "general_product_information": {}
 }
