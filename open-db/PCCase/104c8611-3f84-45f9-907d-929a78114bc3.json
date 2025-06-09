@@ -12,7 +12,7 @@
   "form_factor": "Mini-ITX Tower",
   "power_supply": null,
   "power_supply_included": false,
-  "side_panel": "No",
+  "side_panel": "Aluminum",
   "has_transparent_side_panel": false,
   "front_panel_usb": "1 x USB 3.1 Gen 2 Type-C, 2 x USB 3.0",
   "max_video_card_length": 295,
@@ -24,6 +24,7 @@
   "volume": 16,
   "weight": 8.82,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B085WV8CFS",
     "newegg_sku": "9SIAUNCHN64207",

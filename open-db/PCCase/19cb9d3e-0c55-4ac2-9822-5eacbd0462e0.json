@@ -9,10 +9,10 @@
     "series": "Tower 300",
     "variant": "Black"
   },
-  "form_factor": "Micro ATX",
+  "form_factor": "Micro ATX Mini Tower",
   "power_supply": null,
   "power_supply_included": false,
-  "side_panel": "3mm Thick Tempered Glass",
+  "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 3.2 Gen 2 Type C, USB 3.0",
   "max_video_card_length": 280,
@@ -24,6 +24,7 @@
   "volume": 0,
   "weight": 18.3,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CS878V58",
     "newegg_sku": "N82E16811133524",

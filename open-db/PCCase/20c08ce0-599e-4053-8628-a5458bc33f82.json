@@ -2,7 +2,7 @@
   "opendb_id": "20c08ce0-599e-4053-8628-a5458bc33f82",
   "metadata": {
     "name": "Asus GX601 ATX Full Tower White / Black Tempered Glass Side Panel",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "GX601",
       "WT",
@@ -32,6 +32,7 @@
   "dimensions": "565 x 250 x 591",
   "volume": 83.479,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0896Y1K7B",
     "newegg_sku": "N82E16811173039",

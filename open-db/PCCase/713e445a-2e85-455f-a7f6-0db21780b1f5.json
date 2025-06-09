@@ -2,7 +2,7 @@
   "opendb_id": "713e445a-2e85-455f-a7f6-0db21780b1f5",
   "metadata": {
     "name": "Aerocool Raider Micro ATX Mini Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A, USB 2.0 Type-A Front Panel",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Raider Mini-G-BK-v1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "345 x 196 x 352.5",
   "volume": 23.836,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

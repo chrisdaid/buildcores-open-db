@@ -2,7 +2,7 @@
   "opendb_id": "6a02ef86-8cd2-48fe-90a1-0b1855346822",
   "metadata": {
     "name": "Aerocool Aero One Eclipse ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "ACCM-PB17143.11                                                    AeroOne Eclipse BK"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

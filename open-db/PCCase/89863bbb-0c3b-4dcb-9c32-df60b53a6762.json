@@ -25,6 +25,7 @@
   "dimensions": "416 x 221 x 463",
   "volume": 42.566,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B00006HYIZ"
   }

@@ -9,7 +9,7 @@
     "series": "SG05-LITE",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "221 x 176 x 276",
   "volume": 10.735,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

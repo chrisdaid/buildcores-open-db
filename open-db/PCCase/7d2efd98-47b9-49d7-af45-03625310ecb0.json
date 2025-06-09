@@ -2,7 +2,7 @@
   "opendb_id": "7d2efd98-47b9-49d7-af45-03625310ecb0",
   "metadata": {
     "name": "Montech KING 95 PRO ATX Mid Tower Pink Tempered Glass Side Panel, USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "KING 95 PRO (ROSE GOLD)"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "475 x 300 x 442",
   "volume": 62.985,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0D9GSD2MX"
   }

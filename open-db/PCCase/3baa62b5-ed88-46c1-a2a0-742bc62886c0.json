@@ -2,7 +2,7 @@
   "opendb_id": "3baa62b5-ed88-46c1-a2a0-742bc62886c0",
   "metadata": {
     "name": "Asus TUF Gaming GT502 Horizon ATX Mid Tower White with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "90dc0093-b08020                                                    TUF Gaming GT502 Horizon white                                                    GT502 FV",
       "WHT",
@@ -28,6 +28,7 @@
   "dimensions": "446 x 285 x 450",
   "volume": 57.2,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0DKX6D58T",
     "newegg_sku": "N82E16811173065"

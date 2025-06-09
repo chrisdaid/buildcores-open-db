@@ -2,7 +2,7 @@
   "opendb_id": "be92a03c-54d4-40fa-970a-f07e3fbe20e4",
   "metadata": {
     "name": "Montech XR Wood ATX Mid Tower Black / Brown Tempered Glass Side Panel",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "XR WOOD (B)"
     ],
@@ -26,6 +26,7 @@
   "dimensions": "475 x 230 x 456",
   "volume": 49.818,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0F28MCKKG",
     "newegg_sku": "N82E16811970017"

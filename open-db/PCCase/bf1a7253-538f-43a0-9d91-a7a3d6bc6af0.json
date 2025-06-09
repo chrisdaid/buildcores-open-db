@@ -9,7 +9,7 @@
     "series": "Computer-1",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "ORANGE",
     "GREY"
@@ -26,6 +26,7 @@
   "dimensions": "190 x 170 x 322",
   "volume": 10.401,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09KM9R7KJ"
   }

@@ -2,7 +2,7 @@
   "opendb_id": "3d3c204f-ae2b-4165-a96b-0b7604830975",
   "metadata": {
     "name": "GameMax Gravity ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A Front Panel",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "GMX GRAVITY"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "459 x 216 x 500",
   "volume": 49.572,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

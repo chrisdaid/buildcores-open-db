@@ -2,7 +2,7 @@
   "opendb_id": "1fe5a15d-3159-441f-ac81-209f49a727e3",
   "metadata": {
     "name": "Aerocool Graphite ATX Mid Tower with Tempered Glass Side Panel, USB 3.2 Gen 1 Type-A Front Panel, and 406 x 230 x 460 Dimensions",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Graphite-G-BK-V1                                                    ACCM-PB24013.11"
     ],
@@ -23,5 +23,6 @@
   "dimensions": "406 x 230 x 460",
   "volume": 42.955,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

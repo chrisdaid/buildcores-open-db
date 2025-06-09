@@ -2,7 +2,7 @@
   "opendb_id": "09424cc4-7d24-4e65-97fc-0f1b5e60a0ec",
   "metadata": {
     "name": "Aerocool AirHawk Duo ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "ACCM-PB19033.11                                                    AirHawk Duo-G-BK-v1"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08124TBHH"
   }

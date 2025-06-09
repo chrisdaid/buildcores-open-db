@@ -32,7 +32,7 @@
   },
   "socket": "LGA1200",
   "form_factor": "Micro ATX",
-  "chipset": "IntelH410",
+  "chipset": "Intel H410",
   "pcie_slots": [
     {
       "gen": "3.0",

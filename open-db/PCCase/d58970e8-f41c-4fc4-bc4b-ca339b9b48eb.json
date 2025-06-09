@@ -2,7 +2,7 @@
   "opendb_id": "d58970e8-f41c-4fc4-bc4b-ca339b9b48eb",
   "metadata": {
     "name": "Aerocool Bolt ATX Mid Tower Tempered Glass with USB 3.2 Gen 1 Type-A and USB 2.0 Type-A, Dimensions: 410 x 194 x 444",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Bolt-G                                                    PV1511311"
     ],
@@ -23,6 +23,7 @@
   "dimensions": "410 x 194 x 444",
   "volume": 35.316,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07SW2285W"
   }

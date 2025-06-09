@@ -2,7 +2,7 @@
   "opendb_id": "861daa66-593f-46f7-9f08-0b26d42bfdb1",
   "metadata": {
     "name": "Deepcool CG540 ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CG540-BKAGE4-G-1                                                    CG540"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "455 x 230 x 470",
   "volume": 49.185,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

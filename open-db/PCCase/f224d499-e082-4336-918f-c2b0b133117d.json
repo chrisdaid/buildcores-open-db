@@ -2,7 +2,7 @@
   "opendb_id": "f224d499-e082-4336-918f-c2b0b133117d",
   "metadata": {
     "name": "Azza PYRAMID 804 ATX Mid Tower Silver / Black Tempered Glass Side Panel, USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Azza",
+    "manufacturer": "AZZA",
     "part_numbers": [
       "CSAZ-804"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

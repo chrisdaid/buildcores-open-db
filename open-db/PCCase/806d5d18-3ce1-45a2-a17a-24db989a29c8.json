@@ -25,6 +25,7 @@
   "dimensions": "323 x 99 x 400",
   "volume": 12.791,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B00286SIFS",
     "newegg_sku": "N82E16811154087"

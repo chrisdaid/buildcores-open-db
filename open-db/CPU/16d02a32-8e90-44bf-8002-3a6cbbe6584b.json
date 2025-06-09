@@ -23,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": "Intel UHD 630",
+      "model": "Intel UHD Graphics 630",
       "baseClock": 350,
       "boostClock": 1100,
       "shaderCount": 0
@@ -51,10 +51,9 @@
   "series": "Intel Pentium Gold Processor Series",
   "microarchitecture": "Coffee Lake",
   "coreFamily": null,
-  "socket": "Socket 1151",
+  "socket": "LGA1151",
   "general_product_information": {
     "amazon_sku": "B0793DYTCQ",
-    "newegg_sku": "9SIBMM4KBS9978",
-    "walmart_sku": 510437540
+    "newegg_sku": "9SIBMM4KBS9978"
   }
 }

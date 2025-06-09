@@ -2,7 +2,7 @@
   "opendb_id": "8ca0a6ce-3253-43b7-a5e1-ffae1b5ab312",
   "metadata": {
     "name": "iBuypower Snowblind S ATX Mid Tower White Tempered Glass Side Panel",
-    "manufacturer": "iBuypower",
+    "manufacturer": "iBUYPOWER",
     "part_numbers": [
       "SNOWBLIND S CASE"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "435 x 215 x 460",
   "volume": 43.022,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08413J5QG",
     "newegg_sku": "9SIA4P0C8H9347",

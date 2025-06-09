@@ -2,7 +2,7 @@
   "opendb_id": "bc5d8359-89a9-4a80-92b9-3ab05f3f1c80",
   "metadata": {
     "name": "Montech SKY TWO ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "SKY TWO Black                                                    SKY TWO BK"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "430 x 215 x 490",
   "volume": 45.3,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0BNT962NF"
   }

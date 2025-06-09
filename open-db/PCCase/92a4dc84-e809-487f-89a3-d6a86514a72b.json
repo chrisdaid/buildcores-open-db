@@ -2,7 +2,7 @@
   "opendb_id": "92a4dc84-e809-487f-89a3-d6a86514a72b",
   "metadata": {
     "name": "iBuypower Scale Mesh ARGB ATX Mid Tower Black Tempered Glass",
-    "manufacturer": "iBuypower",
+    "manufacturer": "iBUYPOWER",
     "part_numbers": [
       "848604047799"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "492 x 220 x 470",
   "volume": 50.873,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

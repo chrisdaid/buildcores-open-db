@@ -2,7 +2,7 @@
   "opendb_id": "54d48e39-7a87-495a-9d11-b07c27477342",
   "metadata": {
     "name": "Asus Prime AP201 Micro ATX Mini Tower Black with Mesh Side Panel and USB 3.2 Gen 2 Type-C and USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "AP201",
       "BLK",
@@ -28,6 +28,7 @@
   "dimensions": "350 x 205 x 460",
   "volume": 33.005,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0B99HTD3B",
     "newegg_sku": "2AM-0033-000F0",

@@ -2,7 +2,7 @@
   "opendb_id": "6625fad6-f43e-483a-b9b3-9d0253b348ec",
   "metadata": {
     "name": "In Win BK623 Micro ATX Desktop Black w/300 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "IW-BK623.BN300BL"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "274 x 139 x 322",
   "volume": 12.264,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

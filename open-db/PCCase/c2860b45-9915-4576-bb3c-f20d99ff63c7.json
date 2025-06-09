@@ -9,7 +9,7 @@
     "series": "C6-ITX",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "WHITE"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "266 x 202 x 295.2",
   "volume": 15.862,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

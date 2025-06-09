@@ -2,7 +2,7 @@
   "opendb_id": "2a1d4019-0f7d-4daf-b8e3-ff8735e3718d",
   "metadata": {
     "name": "Montech KING 95 PRO ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "KING 95 PRO (Black)                                                    KING 95 PRO (B)                                                    KING95PROB                                                    KING 95 PRO BK"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "475 x 300 x 442",
   "volume": 62.985,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CN95G1YL",
     "newegg_sku": "N82E16811970005"

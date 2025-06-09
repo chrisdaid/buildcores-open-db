@@ -23,14 +23,14 @@
   },
   "metadata": {
     "name": "GIGABYTE X470 AORUS Gaming 7 WIFI",
-    "manufacturer": "GIGABYTE",
+    "manufacturer": "Gigabyte",
     "part_number": "X470 AORUS Gaming 7 WIFI",
     "series": "X470 AORUS",
     "variant": null,
     "releaseYear": 2018,
     "part_numbers": []
   },
-  "socket": "SocketTR4",
+  "socket": "TR4",
   "form_factor": "ATX",
   "chipset": "AMD X470",
   "pcie_slots": [

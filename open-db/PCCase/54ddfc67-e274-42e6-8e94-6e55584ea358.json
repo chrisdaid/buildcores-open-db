@@ -24,6 +24,7 @@
   "volume": 0,
   "weight": 0,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09VMS8SSN",
     "newegg_sku": "2AM-000T-001T5",

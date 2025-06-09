@@ -2,7 +2,7 @@
   "opendb_id": "1c968861-ffd7-4a10-b006-49e87e06a9a1",
   "metadata": {
     "name": "Aerocool Delta ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Delta-G-BK-v1                                                    ACCM-PV45013.11"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "357 x 197 x 431",
   "volume": 30.312,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

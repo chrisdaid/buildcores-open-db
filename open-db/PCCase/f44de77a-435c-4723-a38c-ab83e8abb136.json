@@ -2,7 +2,7 @@
   "opendb_id": "f44de77a-435c-4723-a38c-ab83e8abb136",
   "metadata": {
     "name": "In Win 101 ATX Mid Tower White Tempered Glass Side Panel",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "101 White"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "480 x 226 x 445",
   "volume": 48.274,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

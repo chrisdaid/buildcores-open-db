@@ -2,7 +2,7 @@
   "opendb_id": "7d059970-056c-4e51-a38d-15423c6e4d6e",
   "metadata": {
     "name": "GameMax Infinity Micro ATX Mini Tower White Tempered Glass Side Panel",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "Infinity Mini White"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "358 x 275 x 373",
   "volume": 36.722,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

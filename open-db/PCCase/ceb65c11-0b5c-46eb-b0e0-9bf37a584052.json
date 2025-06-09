@@ -2,7 +2,7 @@
   "opendb_id": "ceb65c11-0b5c-46eb-b0e0-9bf37a584052",
   "metadata": {
     "name": "GameMax View ARGB Tempered Glass Mid Tower Case",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "GMX VIEW",
       "LN101151"
@@ -25,6 +25,7 @@
   "volume": 0,
   "weight": 9.3,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07W5WNSKK",
     "newegg_sku": "N82E16811352109",

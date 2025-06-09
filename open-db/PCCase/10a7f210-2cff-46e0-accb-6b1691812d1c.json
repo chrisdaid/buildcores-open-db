@@ -2,7 +2,7 @@
   "opendb_id": "10a7f210-2cff-46e0-accb-6b1691812d1c",
   "metadata": {
     "name": "GameMax Black Hole ATX Mid Tower Black with Tempered Glass Side Panel",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "GMX-BLACKHOLE                                                    GMX-ARGB HOLE                                                    Black Hole"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "421 x 210 x 460",
   "volume": 40.669,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

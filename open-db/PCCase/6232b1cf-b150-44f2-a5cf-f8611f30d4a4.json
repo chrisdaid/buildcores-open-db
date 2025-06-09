@@ -2,7 +2,7 @@
   "opendb_id": "6232b1cf-b150-44f2-a5cf-f8611f30d4a4",
   "metadata": {
     "name": "IN WIN 805 GOLD / Black Aluminum / Tempered Glass ATX Mid Tower Computer Case Compatible with ATX 12V/EPS (up to 220mm) Power Supply",
-    "manufacturer": "IN WIN",
+    "manufacturer": "InWin",
     "part_numbers": [],
     "series": "805",
     "variant": "GOLD / Black"
@@ -22,6 +22,7 @@
   "volume": 0,
   "weight": 20.3,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0161UYJ7M"
   }

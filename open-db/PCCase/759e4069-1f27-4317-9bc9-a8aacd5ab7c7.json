@@ -2,7 +2,7 @@
   "opendb_id": "759e4069-1f27-4317-9bc9-a8aacd5ab7c7",
   "metadata": {
     "name": "Montech Air 900 ARGB ATX Mid Tower Black Tempered Glass",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "Air900 ARGB-Black"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "430 x 213 x 480",
   "volume": 43.963,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

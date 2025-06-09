@@ -2,7 +2,7 @@
   "opendb_id": "fa67445c-2af2-4725-b85a-eedd962899e1",
   "metadata": {
     "name": "Asus A31 ATX Mid Tower White with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A Front Panel",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "A31 TG White"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "435 x 238 x 511",
   "volume": 52.904,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0DMPGQ33G",
     "newegg_sku": "N82E16811173067"

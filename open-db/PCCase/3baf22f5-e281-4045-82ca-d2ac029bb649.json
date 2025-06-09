@@ -2,7 +2,7 @@
   "opendb_id": "3baf22f5-e281-4045-82ca-d2ac029bb649",
   "metadata": {
     "name": "GameMax Vista A ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "VISTA AB"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "433 x 210 x 485",
   "volume": 44.101,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "newegg_sku": "N82E16811445042"
   }

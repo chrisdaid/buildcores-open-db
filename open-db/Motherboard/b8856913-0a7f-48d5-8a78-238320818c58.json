@@ -30,7 +30,7 @@
     "releaseYear": 2022,
     "part_numbers": []
   },
-  "socket": "LGA 1700",
+  "socket": "LGA1700",
   "form_factor": "ATX",
   "chipset": "Intel Z690",
   "pcie_slots": [

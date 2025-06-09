@@ -2,7 +2,7 @@
   "opendb_id": "db454b91-2fd3-4718-90f3-ca0d7514fea6",
   "metadata": {
     "name": "Deepcool CG530 4F ATX Mid Tower White with Tinted Acrylic Side Panel and USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CG530-WHADA4-G-1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "440 x 285 x 399",
   "volume": 50.035,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

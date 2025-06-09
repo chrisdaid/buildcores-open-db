@@ -26,6 +26,7 @@
   "dimensions": "492 x 220 x 470",
   "volume": 50.873,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B06WVN7T6K",
     "walmart_sku": 456901363

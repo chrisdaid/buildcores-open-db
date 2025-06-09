@@ -2,7 +2,7 @@
   "opendb_id": "117c0e3d-5455-4f10-b906-f8b6ecfb4fb3",
   "metadata": {
     "name": "Aerocool Aero One Mini Eclipse Micro ATX Mini Tower Black Tempered Glass Side Panel, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "ACCS-PB18143.11                                                    Eclipse-G-BK-v1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

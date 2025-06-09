@@ -11,7 +11,7 @@
   },
   "form_factor": "ATX Mid Tower",
   "power_supply": "None",
-  "side_panel": "Solid",
+  "side_panel": "Tempered Glass",
   "has_transparent_side_panel": false,
   "front_panel_usb": "USB 3.0",
   "max_video_card_length": 405,
@@ -23,6 +23,7 @@
   "volume": 0,
   "weight": 14.99,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08T1GB8D8",
     "newegg_sku": "N82E16811352175",

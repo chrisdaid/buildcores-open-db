@@ -23,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": null,
+      "model": "None",
       "baseClock": null,
       "boostClock": null,
       "shaderCount": null
@@ -51,7 +51,7 @@
   "series": "Intel Core i9",
   "microarchitecture": "Cascade Lake",
   "coreFamily": null,
-  "socket": "LGA 2066",
+  "socket": "LGA2066",
   "general_product_information": {
     "amazon_sku": "B08DG2HRJN",
     "newegg_sku": "9SIBJ34JFF0839",

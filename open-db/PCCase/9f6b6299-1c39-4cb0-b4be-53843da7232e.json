@@ -2,7 +2,7 @@
   "opendb_id": "9f6b6299-1c39-4cb0-b4be-53843da7232e",
   "metadata": {
     "name": "In Win 301 Micro ATX Mini Tower Black/Red Tempered Glass",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "301 Black"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "370 x 208 x 365",
   "volume": 28.09,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

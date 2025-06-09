@@ -2,7 +2,7 @@
   "opendb_id": "62c0a10b-52b6-49e6-89df-11b0449d05d5",
   "metadata": {
     "name": "In Win IW-BQ656T.AD120TB3 Mini-ITX Tower Case Black w/120 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "IW-BQ656T.AD120TB3"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "226 x 76 x 193",
   "volume": 3.315,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

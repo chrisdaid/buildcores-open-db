@@ -34,7 +34,7 @@
   },
   "socket": "AM5",
   "form_factor": "ATX",
-  "chipset": "X870",
+  "chipset": "AMD X870",
   "pcie_slots": [
     {
       "gen": "5.0",

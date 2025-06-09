@@ -2,14 +2,14 @@
   "opendb_id": "128d7707-d917-4a75-834d-6ff43730551f",
   "metadata": {
     "name": "In Win IW-MS04 Mini-ITX Desktop Black",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "IW-MS04-01-S265"
     ],
     "series": "IW-MS04",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
   ],
@@ -25,6 +25,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0167NCADS",
     "newegg_sku": "N82E16811108471"

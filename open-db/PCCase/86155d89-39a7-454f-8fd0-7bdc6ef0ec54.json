@@ -24,6 +24,7 @@
   "volume": 0,
   "weight": 15.54,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B015401L80",
     "newegg_sku": "2AM-001B-000F3",

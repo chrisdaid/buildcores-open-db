@@ -2,7 +2,7 @@
   "opendb_id": "43b242ae-4f6f-4c6e-81b0-81068b9bee51",
   "metadata": {
     "name": "Montech AIR 903 MAX ATX Mid Tower White Tempered Glass Side Panel",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "AIR 903 MAX (W)                                                    AIR 903 MAX W"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "478 x 230 x 493",
   "volume": 54.2,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0C98SZCSG",
     "newegg_sku": "2AM-00CN-00060"

@@ -2,7 +2,7 @@
   "opendb_id": "12c35c06-57c4-481d-b5f8-5740c2fa823f",
   "metadata": {
     "name": "Aerocool CS-1102 ATX Mid Tower Black",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "CS-1102                                                    EN58133                                                    ACCM-PC03014.11"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "423 x 195 x 410",
   "volume": 33.819,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B01ANXJOK0"
   }

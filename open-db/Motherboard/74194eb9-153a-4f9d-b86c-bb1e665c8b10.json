@@ -23,7 +23,7 @@
   },
   "metadata": {
     "name": "Asus B450 ROG STRIX F GAMING II DDR4 ATX",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "ROG STRIX B450-F GAMING II                                                    90MB15V0-M0EAY0"
     ],
@@ -96,7 +96,6 @@
   ],
   "general_product_information": {
     "amazon_sku": "B08KH1M1H4",
-    "newegg_sku": "9SIAGSCK0V3807",
-    "walmart_sku": 856365774
+    "newegg_sku": "9SIAGSCK0V3807"
   }
 }

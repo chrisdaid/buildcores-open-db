@@ -9,7 +9,7 @@
     "series": "SUGO",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK",
     "YELLOW"
@@ -26,6 +26,7 @@
   "dimensions": "368.1 x 247 x 215",
   "volume": 19.548,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08HQ5WWX2",
     "newegg_sku": "2AM-0024-001C2",

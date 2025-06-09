@@ -2,7 +2,7 @@
   "opendb_id": "016a1caf-e7c9-442c-b2de-f40a4d17a23d",
   "metadata": {
     "name": "In Win D-Frame 2.0 ATX Full Tower White / Blue Tempered Glass Side Panel w/1065 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "D-Frame 2.0 WH",
       "BL"
@@ -27,5 +27,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

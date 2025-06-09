@@ -2,7 +2,7 @@
   "opendb_id": "f7cce0a4-8242-4475-838a-aab02db50f5e",
   "metadata": {
     "name": "Montech AIR 903 BASE ATX Mid Tower White Tempered Glass Side Panel",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "AIR 903 BASE (W)                                                    AIR 903 BASE W"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "478 x 230 x 493",
   "volume": 54.2,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0C98TR925"
   }

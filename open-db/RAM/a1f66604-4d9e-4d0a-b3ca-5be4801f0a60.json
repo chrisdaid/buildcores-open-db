@@ -6,7 +6,7 @@
   },
   "metadata": {
     "name": "G.Skill Aegis DDR3-1600 CL11 8GB (2x4GB)",
-    "manufacturer": "G.Skill",
+    "manufacturer": "G.SKILL",
     "part_numbers": [
       "F3-1600C11D-8GIS"
     ],
@@ -23,8 +23,8 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": false,
+  "rgb": false,
   "general_product_information": {
     "amazon_sku": "B00GJ3XMM0"
-  },
-  "rgb": false
+  }
 }

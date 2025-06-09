@@ -2,7 +2,7 @@
   "opendb_id": "4927ecc2-36c9-4514-a104-bb382d625969",
   "metadata": {
     "name": "In Win K1 BASIC Micro ATX Mini Tower Black w/120 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "K1 BASIC"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "444 x 45 x 236",
   "volume": 4.715,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

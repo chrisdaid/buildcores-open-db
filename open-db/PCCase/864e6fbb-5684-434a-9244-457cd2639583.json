@@ -2,7 +2,7 @@
   "opendb_id": "864e6fbb-5684-434a-9244-457cd2639583",
   "metadata": {
     "name": "In Win ModFree Base ATX Full Tower Black Tempered Glass Side Panel",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "IW-CS-MFBASE-BLK"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "411.5 x 261.8 x 531",
   "volume": 57.205,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CHHSQ6DR"
   }

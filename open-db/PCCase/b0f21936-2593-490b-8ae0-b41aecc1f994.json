@@ -12,7 +12,7 @@
   "form_factor": "ATX Mid Tower",
   "power_supply": null,
   "power_supply_included": false,
-  "side_panel": "Sound Dampening Panel",
+  "side_panel": "Tempered Glass",
   "has_transparent_side_panel": false,
   "front_panel_usb": "2 x USB 3.0",
   "max_video_card_length": 405,
@@ -24,6 +24,7 @@
   "volume": 0,
   "weight": 16.09,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B00006B6UL",
     "newegg_sku": "9SIAD6HB4H2456",

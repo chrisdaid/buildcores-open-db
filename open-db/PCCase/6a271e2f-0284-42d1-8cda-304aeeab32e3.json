@@ -25,6 +25,7 @@
   "dimensions": "436 x 290 x 370",
   "volume": 46.783,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0DKYKW87X"
   }

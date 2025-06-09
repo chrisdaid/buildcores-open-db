@@ -9,7 +9,7 @@
     "series": "617-03-c2228U",
     "variant": ""
   },
-  "form_factor": "Micro ATX Slim",
+  "form_factor": "Micro ATX Slim Tower",
   "color": [
     "BLACK",
     "GREY"
@@ -26,5 +26,6 @@
   "dimensions": "340 x 134 x 355",
   "volume": 16.174,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -2,7 +2,7 @@
   "opendb_id": "cc9f88cb-9baf-4ff8-b527-c1221bb9106b",
   "metadata": {
     "name": "Montech KING 95 ATX Mid Tower Red / Black Tempered Glass Side Panel",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "KING 95 (Red)                                                    KING95R"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "475 x 300 x 442",
   "volume": 62.985,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

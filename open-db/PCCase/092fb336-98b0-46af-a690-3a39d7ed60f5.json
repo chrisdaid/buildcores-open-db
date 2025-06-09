@@ -9,7 +9,7 @@
     "series": "M2",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "GREY",
     "BLACK"
@@ -26,5 +26,6 @@
   "dimensions": "328 x 150 x 235",
   "volume": 11.562,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

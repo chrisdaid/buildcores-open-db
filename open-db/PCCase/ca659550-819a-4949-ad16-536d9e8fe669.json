@@ -2,14 +2,14 @@
   "opendb_id": "ca659550-819a-4949-ad16-536d9e8fe669",
   "metadata": {
     "name": "In Win BQ656T.AD120TBL Mini-ITX Desktop Black w/120 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "BQ656T.AD120TBL"
     ],
     "series": "BQ656T.AD120TBL",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "226 x 76 x 193",
   "volume": 3.315,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

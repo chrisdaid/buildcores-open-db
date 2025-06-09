@@ -25,6 +25,7 @@
   "dimensions": "280 x 330 x 440",
   "volume": 40.656,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "newegg_sku": "2AM-05FM-00014"
   }

@@ -2,7 +2,7 @@
   "opendb_id": "518d73aa-2534-4bfa-9396-d554f80ab6a2",
   "metadata": {
     "name": "Deepcool CH560 ATX Mid Tower White with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CH560-WHAPE4-G-1CH560 WH"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "458 x 230 x 471",
   "volume": 49.615,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0C3GJYRL8"
   }

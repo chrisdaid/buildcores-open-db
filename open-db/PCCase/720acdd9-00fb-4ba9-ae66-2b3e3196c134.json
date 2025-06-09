@@ -2,7 +2,7 @@
   "opendb_id": "720acdd9-00fb-4ba9-ae66-2b3e3196c134",
   "metadata": {
     "name": "Asus VENTO 3600 ATX Mid Tower Red",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "VENTO 3600 RED"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "627 x 308 x 527",
   "volume": 101.772,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

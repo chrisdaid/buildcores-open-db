@@ -12,7 +12,7 @@
   "form_factor": "ATX Mid Tower",
   "power_supply": null,
   "power_supply_included": false,
-  "side_panel": "Dark tint tempered glass",
+  "side_panel": "Tinted Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 3.1 Gen 2 Type-C, USB 3.0, USB 2.0",
   "max_video_card_length": 440,
@@ -24,6 +24,7 @@
   "volume": 55.9,
   "weight": 26.6,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07JGH5BJK",
     "newegg_sku": "9SIAUNCHN60859",

@@ -25,6 +25,7 @@
   "dimensions": "280 x 300 x 537",
   "volume": 45.108,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CZSJS85B",
     "newegg_sku": "2AM-000X-00325"

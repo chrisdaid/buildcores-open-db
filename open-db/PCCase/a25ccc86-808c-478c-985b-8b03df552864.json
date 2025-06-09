@@ -2,7 +2,7 @@
   "opendb_id": "a25ccc86-808c-478c-985b-8b03df552864",
   "metadata": {
     "name": "Aerocool XPredator X3 ATX Mid Tower Black / Red Acrylic Side Panel",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Xpredator-X3 Devil Red Edition"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "532 x 223 x 527",
   "volume": 62.521,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -9,7 +9,7 @@
     "series": "OPHION",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "WHITE"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "312 x 101 x 225",
   "volume": 7.09,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

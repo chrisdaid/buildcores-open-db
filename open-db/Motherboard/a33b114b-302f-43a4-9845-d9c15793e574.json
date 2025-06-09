@@ -30,7 +30,7 @@
     "series": "Intel",
     "variant": ""
   },
-  "socket": "Integrated Atom N550",
+  "socket": "Integrated Atom",
   "form_factor": "Mini-ITX",
   "chipset": "Intel NM10",
   "color": [],

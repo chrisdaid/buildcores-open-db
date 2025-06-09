@@ -2,7 +2,7 @@
   "opendb_id": "a3cd4439-ae0a-4ccf-9b17-b39ffc5c3d07",
   "metadata": {
     "name": "Aerocool Cipher ATX Mid Tower Black",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Cipher-S-BK-v1                                                    ACCM-PB28004.11"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "485 x 205 x 485",
   "volume": 48.221,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09K7HK7YZ"
   }

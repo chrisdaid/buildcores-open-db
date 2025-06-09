@@ -2,7 +2,7 @@
   "opendb_id": "c7378213-a458-4fed-9f4c-d4acfbb2dd08",
   "metadata": {
     "name": "In Win A1 Mini-ITX Tower Black Tempered Glass Side Panel and w/600 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "IW-A1-BLA-P"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "356 x 273 x 210",
   "volume": 20.409,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

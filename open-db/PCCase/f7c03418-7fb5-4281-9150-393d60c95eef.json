@@ -2,7 +2,7 @@
   "opendb_id": "f7c03418-7fb5-4281-9150-393d60c95eef",
   "metadata": {
     "name": "Aerocool Trinity Mini V1 Micro ATX Mini Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Trinity Mini-G-BK-v1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "353.4 x 206.5 x 385",
   "volume": 28.096,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

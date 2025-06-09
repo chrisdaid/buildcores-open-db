@@ -2,7 +2,7 @@
   "opendb_id": "870a224a-b129-406b-82ff-0f0b32c892ed",
   "metadata": {
     "name": "Montech FIGHTER 400 ATX Mid-Tower Computer Gaming Case",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [],
     "series": "Fighter",
     "variant": "Fighter 400"
@@ -10,7 +10,7 @@
   "form_factor": "ATX Mid Tower",
   "power_supply": null,
   "power_supply_included": false,
-  "side_panel": "Yes",
+  "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 2.0 / USB 3.0",
   "max_video_card_length": 320,
@@ -22,6 +22,7 @@
   "volume": 0,
   "weight": 9.25,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08GM7QD3P",
     "newegg_sku": "9SIAK91BY74588"

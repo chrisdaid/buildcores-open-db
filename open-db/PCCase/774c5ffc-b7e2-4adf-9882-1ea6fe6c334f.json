@@ -2,7 +2,7 @@
   "opendb_id": "774c5ffc-b7e2-4adf-9882-1ea6fe6c334f",
   "metadata": {
     "name": "Deepcool Gamer Storm Quadstellar ATX Desktop Black with USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "QUADSTELLAR"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

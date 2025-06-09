@@ -23,16 +23,16 @@
   },
   "metadata": {
     "name": "X399 AORUS XTREME",
-    "manufacturer": "GIGABYTE",
+    "manufacturer": "Gigabyte",
     "part_number": "N82E16813145084",
     "series": "AORUS XTREME",
     "variant": null,
     "releaseYear": 2018,
     "part_numbers": []
   },
-  "socket": "sTR4",
+  "socket": "TR4",
   "form_factor": "EATX",
-  "chipset": "X399",
+  "chipset": "AMD X399",
   "pcie_slots": [
     {
       "gen": "3.0",

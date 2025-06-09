@@ -2,14 +2,14 @@
   "opendb_id": "7adf042f-6e76-40e2-9ccd-2db894932c9f",
   "metadata": {
     "name": "Aerocool CS-101 Micro ATX Slim Black",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "CS-101"
     ],
     "series": "CS-101",
     "variant": ""
   },
-  "form_factor": "Micro ATX Slim",
+  "form_factor": "Micro ATX Slim Tower",
   "color": [
     "BLACK"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

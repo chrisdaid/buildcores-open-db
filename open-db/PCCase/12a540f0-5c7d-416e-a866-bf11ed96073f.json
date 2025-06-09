@@ -25,6 +25,7 @@
   "dimensions": "455 x 211 x 460",
   "volume": 44.162,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "newegg_sku": "6bGxFT"
   }

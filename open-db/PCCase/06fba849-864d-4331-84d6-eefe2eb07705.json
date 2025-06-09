@@ -2,7 +2,7 @@
   "opendb_id": "06fba849-864d-4331-84d6-eefe2eb07705",
   "metadata": {
     "name": "In Win A5 ATX Mid Tower Black Tempered Glass Side Panel, USB 3.2 Gen 2x2 Type-C, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "A5 Black                                                    IW-CS-A5BLK-1AM120S"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "399 x 215 x 407",
   "volume": 34.914,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0BF2GDPDZ"
   }

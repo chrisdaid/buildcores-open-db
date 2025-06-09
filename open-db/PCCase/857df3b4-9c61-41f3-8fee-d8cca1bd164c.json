@@ -2,7 +2,7 @@
   "opendb_id": "857df3b4-9c61-41f3-8fee-d8cca1bd164c",
   "metadata": {
     "name": "MONTECH KING 95 PRO Dual-Chamber ATX Mid-Tower Red PC Gaming Case, High-Airflow, Sturdy Curved Tempered Glass Front, Six ARGB PWM Fan Pre-installed",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "King 95 PRO (Red)"
     ],
@@ -11,7 +11,7 @@
   },
   "form_factor": "ATX Mid Tower",
   "color": [
-    "Red"
+    "RED"
   ],
   "power_supply": "None",
   "side_panel": "Tempered Glass",
@@ -25,6 +25,7 @@
   "dimensions": "475*300*442",
   "volume": 0,
   "weight": 26.1,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CN94ZNHM"
   }

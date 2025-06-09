@@ -2,7 +2,7 @@
   "opendb_id": "bdae26ef-6f88-4078-a9f9-b57e500bb3da",
   "metadata": {
     "name": "Azza Elise MicroATX Mid Tower Black / Pink Tempered Glass Side Panel",
-    "manufacturer": "Azza",
+    "manufacturer": "AZZA",
     "part_numbers": [
       "CSAZ-140                                                    CSAZ-140 Elise"
     ],
@@ -26,6 +26,7 @@
   "dimensions": "381 x 220 x 410",
   "volume": 34.366,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09JSGYWD1",
     "newegg_sku": "287-0024-00005"

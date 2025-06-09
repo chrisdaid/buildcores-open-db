@@ -30,7 +30,7 @@
     "releaseYear": 2020,
     "part_numbers": []
   },
-  "socket": "LGA 1200",
+  "socket": "LGA1200",
   "form_factor": "ATX",
   "chipset": "Intel Z490",
   "pcie_slots": [

@@ -2,7 +2,7 @@
   "opendb_id": "6fe0d945-4e31-40cb-b9f2-bd5346a742a3",
   "metadata": {
     "name": "GameMax Fortress ATX Full Tower Black Tempered Glass Side Panel",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "GMX-FORTRESS                                                    GMXCSFORTRESS"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "463 x 228 x 518",
   "volume": 54.682,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

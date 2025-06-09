@@ -2,7 +2,7 @@
   "opendb_id": "b406e052-6b0a-4c2d-8341-c06a3ef9bc9a",
   "metadata": {
     "name": "Asus A31 ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "A31 TG Black"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "435 x 238 x 511",
   "volume": 52.904,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0DMPFLHJZ",
     "newegg_sku": "N82E16811173068"

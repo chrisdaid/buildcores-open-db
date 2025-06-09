@@ -2,14 +2,14 @@
   "opendb_id": "452f223c-bb5d-43d3-9762-1ebd87cc2918",
   "metadata": {
     "name": "GameMax Spark Mini Mini-ITX Desktop White Tempered Glass",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "Spark Mini White"
     ],
     "series": "Spark",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "WHITE"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "335 x 165 x 273",
   "volume": 15.09,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

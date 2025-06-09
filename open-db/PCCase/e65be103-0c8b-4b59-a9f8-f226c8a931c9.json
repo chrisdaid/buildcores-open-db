@@ -2,7 +2,7 @@
   "opendb_id": "e65be103-0c8b-4b59-a9f8-f226c8a931c9",
   "metadata": {
     "name": "iBuypower Slate 8 Mesh Pro ARGB ATX Mid Tower Black Tempered Glass Side Panel, USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "iBuypower",
+    "manufacturer": "iBUYPOWER",
     "part_numbers": [
       "848604047782"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "501 x 220 x 492",
   "volume": 54.228,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

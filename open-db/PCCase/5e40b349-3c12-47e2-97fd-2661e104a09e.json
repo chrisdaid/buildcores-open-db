@@ -2,7 +2,7 @@
   "opendb_id": "5e40b349-3c12-47e2-97fd-2661e104a09e",
   "metadata": {
     "name": "Deepcool CH560 ATX Mid Tower Black DIGITAL Tempered Glass Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CH560-BKAPE4D-G-1                                                    CH560 DIGITAL"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "458 x 230 x 471",
   "volume": 49.615,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

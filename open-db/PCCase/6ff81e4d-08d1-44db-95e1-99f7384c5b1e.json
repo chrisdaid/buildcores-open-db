@@ -2,7 +2,7 @@
   "opendb_id": "6ff81e4d-08d1-44db-95e1-99f7384c5b1e",
   "metadata": {
     "name": "Deepcool MATREXX 50 ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "MATREXX 50"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "442 x 210 x 479",
   "volume": 44.461,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07SKP16HR"
   }

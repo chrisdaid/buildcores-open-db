@@ -2,7 +2,7 @@
   "opendb_id": "8cc8c4bc-f6c9-423a-b876-3a1555ae77bb",
   "metadata": {
     "name": "Aerocool Menace Saturn RGB ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Menace Saturn RGB                                                    Menace Saturn RGB-G-BK-v1                                                    ACCM-PV20023.11"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "392 x 205 x 457",
   "volume": 36.725,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08B525BZ9"
   }

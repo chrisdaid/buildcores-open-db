@@ -2,7 +2,7 @@
   "opendb_id": "cdcd22df-299b-435e-a2bb-2135c42bf4f1",
   "metadata": {
     "name": "In Win Wavy Mini-ITX Tower Case Black w/120 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "wavy"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "230 x 112 x 263",
   "volume": 6.775,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

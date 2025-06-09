@@ -30,7 +30,7 @@
     "releaseYear": 2019,
     "part_numbers": []
   },
-  "socket": "LGA 1151",
+  "socket": "LGA1151",
   "form_factor": "ATX",
   "chipset": "Intel Z390",
   "pcie_slots": [

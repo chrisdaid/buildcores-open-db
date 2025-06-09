@@ -2,7 +2,7 @@
   "opendb_id": "53212816-aa79-4e51-a223-f9683d916958",
   "metadata": {
     "name": "Azza Pyramid ATX Mid Tower Silver / Black Mesh Side Panel",
-    "manufacturer": "Azza",
+    "manufacturer": "AZZA",
     "part_numbers": [
       "CSAZ-804M"
     ],
@@ -26,6 +26,7 @@
   "dimensions": "490 x 490 x 585",
   "volume": 140.458,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0BF54B4CQ",
     "newegg_sku": "2AM-004W-00088"

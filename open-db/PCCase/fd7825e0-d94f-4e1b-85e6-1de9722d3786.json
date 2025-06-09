@@ -2,7 +2,7 @@
   "opendb_id": "fd7825e0-d94f-4e1b-85e6-1de9722d3786",
   "metadata": {
     "name": "iBuypower Element 9 ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C / USB 3.2 Gen 1 Type-A",
-    "manufacturer": "iBuypower",
+    "manufacturer": "iBUYPOWER",
     "part_numbers": [
       "29313"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "422 x 230 x 507",
   "volume": 49.209,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

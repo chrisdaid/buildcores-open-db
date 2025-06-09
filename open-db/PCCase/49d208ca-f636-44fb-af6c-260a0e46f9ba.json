@@ -2,7 +2,7 @@
   "opendb_id": "49d208ca-f636-44fb-af6c-260a0e46f9ba",
   "metadata": {
     "name": "In Win BL040.300TB3LF HTPC Black with USB 3.2 Gen 1 Type-A and USB 2.0 Type-A",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "BL040.300TB3LF"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "330 x 96 x 365",
   "volume": 11.563,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

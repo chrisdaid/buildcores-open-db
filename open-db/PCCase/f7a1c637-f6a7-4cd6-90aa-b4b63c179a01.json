@@ -2,7 +2,7 @@
   "opendb_id": "f7a1c637-f6a7-4cd6-90aa-b4b63c179a01",
   "metadata": {
     "name": "Azza Aero ATX Mid Tower Black Mesh Side Panel",
-    "manufacturer": "Azza",
+    "manufacturer": "AZZA",
     "part_numbers": [
       "CSAZ-480"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "445 x 220 x 483",
   "volume": 47.286,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0B5X52FR9",
     "newegg_sku": "2AM-004W-00084"

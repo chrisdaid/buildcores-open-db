@@ -2,7 +2,7 @@
   "opendb_id": "cf9a6511-615f-4353-aa0b-75a315a42bec",
   "metadata": {
     "name": "Deepcool CL500 ATX Mid Tower Black / Silver with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C, USB 2.0 Type-A",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CL500-BKNMA1N-G-1"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "473 x 226 x 519",
   "volume": 55.48,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

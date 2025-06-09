@@ -2,7 +2,7 @@
   "opendb_id": "9dc046b1-9e15-477c-89ed-ec209f5bc7bc",
   "metadata": {
     "name": "Deepcool CC560 V2 ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CC560-BKGAA4-G-2                                                    CC560 V2                                                    CC560 V2-AMAZON"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "432 x 215 x 483",
   "volume": 44.861,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

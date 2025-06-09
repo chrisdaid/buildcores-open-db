@@ -6,7 +6,7 @@
   },
   "metadata": {
     "name": "G.Skill Trident Z RGB DDR4-3600 CL16 256GB (8x32GB)",
-    "manufacturer": "G.Skill",
+    "manufacturer": "G.SKILL",
     "part_numbers": [
       "F4-3600C16Q2-256GTZR"
     ],
@@ -24,6 +24,6 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "general_product_information": {},
-  "rgb": true
+  "rgb": true,
+  "general_product_information": {}
 }

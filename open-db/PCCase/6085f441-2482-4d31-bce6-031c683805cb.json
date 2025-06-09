@@ -2,7 +2,7 @@
   "opendb_id": "6085f441-2482-4d31-bce6-031c683805cb",
   "metadata": {
     "name": "Asus Prime AP201 Micro ATX Mini Tower White Tempered Glass Side Panel, USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "PRIME-AP201-TG-WH                                                    90DC00G3-B39010                                                    PRIME AP201-WH TG                                                    AP201",
       "WHT",
@@ -27,6 +27,7 @@
   "dimensions": "350 x 205 x 460",
   "volume": 33.005,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0C5LDGN1R",
     "newegg_sku": "N82E16811173053",

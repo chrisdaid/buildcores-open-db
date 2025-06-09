@@ -6,7 +6,7 @@
   },
   "metadata": {
     "name": "G.Skill Trident Z5 RGB Black DDR5-6000 CL30 64GB (2x32GB)",
-    "manufacturer": "G.Skill",
+    "manufacturer": "G.SKILL",
     "part_numbers": [
       "F5-6000J3040G32GA2-TZ5RK"
     ],
@@ -28,7 +28,6 @@
   "heat_spreader": true,
   "rgb": true,
   "general_product_information": {
-    "amazon_sku": "B09Z1R3SM6",
-    "walmart_sku": 238638524
+    "amazon_sku": "B09Z1R3SM6"
   }
 }

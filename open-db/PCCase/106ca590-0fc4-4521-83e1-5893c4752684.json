@@ -2,7 +2,7 @@
   "opendb_id": "106ca590-0fc4-4521-83e1-5893c4752684",
   "metadata": {
     "name": "In Win 101 ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "101 Black"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "480 x 226 x 445",
   "volume": 48.274,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

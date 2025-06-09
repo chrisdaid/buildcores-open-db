@@ -23,14 +23,14 @@
   },
   "metadata": {
     "name": "Asus X399 ROG ZENITH EXTREME sTR4 DDR4 EATX",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "ROG ZENITH EXTREME                                                    90MB0UV0-M0EAY0                                                    ZENITH EXTREME"
     ],
     "series": "X399",
     "variant": ""
   },
-  "socket": "sTR4",
+  "socket": "TR4",
   "form_factor": "EATX",
   "chipset": "AMD X399",
   "color": [

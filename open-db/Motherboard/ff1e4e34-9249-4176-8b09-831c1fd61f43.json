@@ -23,7 +23,7 @@
   },
   "metadata": {
     "name": "ASUS Z590 Prime Z590-P WiFi DDR4 ATX",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "Prime Z590-P WiFi                                                    90MB1810-M0AAY0                                                    90MB1810-M0EAY1                                                    90MB1810-M0EAY0                                                    90MB1810-MVAAY1"
     ],
@@ -109,7 +109,6 @@
   ],
   "general_product_information": {
     "amazon_sku": "B093275C7X",
-    "newegg_sku": "9SIAH8WK6E1450",
-    "walmart_sku": 446241465
+    "newegg_sku": "9SIAH8WK6E1450"
   }
 }

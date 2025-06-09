@@ -25,6 +25,7 @@
   "dimensions": "435.5 x 217.5 x 410",
   "volume": 38.836,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0842T2KWZ",
     "walmart_sku": 830584302

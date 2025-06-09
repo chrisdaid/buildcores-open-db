@@ -25,6 +25,7 @@
   "dimensions": "464 x 303 x 476",
   "volume": 66.922,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CT2LSSHK",
     "newegg_sku": "N82E16811129310"

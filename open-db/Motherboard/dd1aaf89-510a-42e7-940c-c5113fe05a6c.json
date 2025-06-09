@@ -23,14 +23,14 @@
   },
   "metadata": {
     "name": "Asus AMD X399 ROG ZENITH EXTREME ALPHA sTR4 DDR4 EATX",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "ROG ZENITH EXTREME ALPHA                                                    90MB10G0-M0EAY0"
     ],
     "series": "AMD",
     "variant": ""
   },
-  "socket": "sTR4",
+  "socket": "TR4",
   "form_factor": "EATX",
   "chipset": "AMD X399",
   "color": [
@@ -108,7 +108,6 @@
   ],
   "general_product_information": {
     "amazon_sku": "B07M6SD5GP",
-    "newegg_sku": "9SIBPUTJYT5902",
-    "walmart_sku": 523922016
+    "newegg_sku": "9SIBPUTJYT5902"
   }
 }

@@ -2,7 +2,7 @@
   "opendb_id": "cb249036-862a-4d15-b65d-ff6a100866af",
   "metadata": {
     "name": "Asus TUF Gaming GT501 ATX Mid Tower White / Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A Front Panel",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "TUF Gaming GT501 White Edition                                                    90DC0013-B49000                                                    90DC0013-B40000"
     ],
@@ -26,6 +26,7 @@
   "dimensions": "545 x 251 x 552",
   "volume": 75.511,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08C7B6LWM",
     "newegg_sku": "N82E16811173041",

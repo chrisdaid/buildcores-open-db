@@ -2,7 +2,7 @@
   "opendb_id": "0c25e46d-d7e6-4c7e-bfba-949c544c8492",
   "metadata": {
     "name": "Azza Regis ATX Mid Tower Black Tempered Glass",
-    "manufacturer": "Azza",
+    "manufacturer": "AZZA",
     "part_numbers": [
       "CSAZ-902"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09JNDQKXD",
     "newegg_sku": "2AM-004W-00066"

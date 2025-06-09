@@ -2,7 +2,7 @@
   "opendb_id": "b60fd305-3488-4892-8679-fad3b5a3e0ba",
   "metadata": {
     "name": "Asus TUF Gaming GT301 ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A Front Panel",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "TUF Gaming GT301                                                    GT301 TUF GAMING CASE",
       "BLK",
@@ -29,6 +29,7 @@
   "dimensions": "426 x 214 x 482",
   "volume": 43.941,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B088K5317Z",
     "newegg_sku": "N82E16811173038",

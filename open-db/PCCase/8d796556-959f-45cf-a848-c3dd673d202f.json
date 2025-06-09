@@ -2,7 +2,7 @@
   "opendb_id": "8d796556-959f-45cf-a848-c3dd673d202f",
   "metadata": {
     "name": "Deepcool CK560 ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CK560-BKAAE4-G-1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

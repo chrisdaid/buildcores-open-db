@@ -9,7 +9,7 @@
     "series": "Core",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "WHITE"
   ],
@@ -25,6 +25,7 @@
   "dimensions": "276 x 259 x 314",
   "volume": 22.446,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B015UDUAKG",
     "newegg_sku": "N82E16811133282",

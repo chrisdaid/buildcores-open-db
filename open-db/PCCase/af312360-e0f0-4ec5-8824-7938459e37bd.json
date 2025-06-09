@@ -7,7 +7,7 @@
       "FD-C-ERA2N-01"
     ],
     "series": "Era",
-    "variant": ""
+    "variant": "SILVER"
   },
   "form_factor": "Mini-ITX Tower",
   "color": [
@@ -26,6 +26,7 @@
   "dimensions": "366 x 165 x 314",
   "volume": 18.962,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0BHL9N62Y",
     "newegg_sku": "N82E16811352221"

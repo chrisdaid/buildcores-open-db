@@ -2,7 +2,7 @@
   "opendb_id": "08021e0d-66d3-479f-b1be-bddd88c1916e",
   "metadata": {
     "name": "Deepcool CH510 ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CH510-BKNNE1-G-1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "435 x 230 x 471",
   "volume": 47.124,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -6,7 +6,7 @@
   },
   "metadata": {
     "name": "Kingston FURY Beast 32GB (2x16GB) 6000MHz DDR5 CL40 DIMM (Kit of 2) Desktop Memory KF560C40BBK2",
-    "manufacturer": "Kingston Technology Company, Inc.",
+    "manufacturer": "Kingston",
     "part_number": "KF560C40BBK2",
     "series": "FURY Beast",
     "variant": "6000MHz CL40",
@@ -28,7 +28,6 @@
   "color": [],
   "general_product_information": {
     "amazon_sku": "B09N5M5PH3",
-    "newegg_sku": "9SIA12KH449480",
-    "walmart_sku": 238638524
+    "newegg_sku": "9SIA12KH449480"
   }
 }

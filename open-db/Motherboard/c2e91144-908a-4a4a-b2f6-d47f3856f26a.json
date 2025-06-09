@@ -32,7 +32,7 @@
   },
   "socket": "LGA2066",
   "form_factor": "EATX",
-  "chipset": "Intel X299 Chipset",
+  "chipset": "Intel X299",
   "pcie_slots": [
     {
       "gen": "3.0",

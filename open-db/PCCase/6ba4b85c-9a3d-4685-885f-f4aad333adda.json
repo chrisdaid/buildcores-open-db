@@ -2,7 +2,7 @@
   "opendb_id": "6ba4b85c-9a3d-4685-885f-f4aad333adda",
   "metadata": {
     "name": "Aerocool Prism V2 RGB ATX Mid Tower Black with Tempered Glass",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Prism-G-BK-v2"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "403 x 216.7 x 477",
   "volume": 41.656,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09T79KHR3"
   }

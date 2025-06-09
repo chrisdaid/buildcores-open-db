@@ -2,7 +2,7 @@
   "opendb_id": "0348175d-007a-47a6-a4bd-db9bf8960f74",
   "metadata": {
     "name": "LIAN LI O11 Dynamic EVO O11DEX Black Aluminum / Steel / Tempered Glass ATX Mid Tower Computer Case",
-    "manufacturer": "LIAN LI",
+    "manufacturer": "Lian Li",
     "part_numbers": [
       "O11DEX"
     ],
@@ -24,6 +24,7 @@
   "volume": 0,
   "weight": 29.3,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09QHL8DNZ",
     "walmart_sku": 356917217

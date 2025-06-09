@@ -9,7 +9,7 @@
     "series": "DA2",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "GREY"
   ],
@@ -25,6 +25,7 @@
   "dimensions": "340 x 180 x 286",
   "volume": 17.503,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08L163Z89"
   }

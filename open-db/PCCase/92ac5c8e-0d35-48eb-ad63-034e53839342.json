@@ -25,6 +25,7 @@
   "dimensions": "415 x 280 x 427",
   "volume": 49.617,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B097S95TRX"
   }

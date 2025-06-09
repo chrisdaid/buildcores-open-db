@@ -30,7 +30,7 @@
     "series": "Intel",
     "variant": ""
   },
-  "socket": "Integrated Atom D2700",
+  "socket": "Integrated Atom",
   "form_factor": "Mini-ITX",
   "chipset": "Intel NM10",
   "color": [

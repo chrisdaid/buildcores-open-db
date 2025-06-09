@@ -2,7 +2,7 @@
   "opendb_id": "6a11582a-af32-4114-af95-83cdb42858be",
   "metadata": {
     "name": "GameMax Infinity Mini MicroATX Mini Tower Black Tempered Glass",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "Infinity Mini Black"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "358 x 275 x 373",
   "volume": 36.722,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

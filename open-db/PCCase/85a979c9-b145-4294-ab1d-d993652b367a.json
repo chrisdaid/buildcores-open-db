@@ -2,7 +2,7 @@
   "opendb_id": "85a979c9-b145-4294-ab1d-d993652b367a",
   "metadata": {
     "name": "Aerocool P7-C0 ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "P7-C0"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

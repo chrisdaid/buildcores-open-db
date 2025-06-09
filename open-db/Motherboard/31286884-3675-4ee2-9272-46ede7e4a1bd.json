@@ -30,7 +30,7 @@
     "releaseYear": 2018,
     "part_numbers": []
   },
-  "socket": "LGA 1151",
+  "socket": "LGA1151",
   "form_factor": "Micro ATX",
   "chipset": "Intel H310",
   "pcie_slots": [

@@ -2,7 +2,7 @@
   "opendb_id": "dae024fd-da2a-49e2-8e88-0691136b2a36",
   "metadata": {
     "name": "Deepcool MACUBE 310P ATX Mid Tower Black Tempered Glass Side Panel USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "GS-ATX-MACUBE310P-BKG0P"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "424.6 x 215 x 494.6",
   "volume": 45.152,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

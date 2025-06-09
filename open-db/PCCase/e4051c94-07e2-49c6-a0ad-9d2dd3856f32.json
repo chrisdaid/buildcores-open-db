@@ -2,7 +2,7 @@
   "opendb_id": "e4051c94-07e2-49c6-a0ad-9d2dd3856f32",
   "metadata": {
     "name": "In Win X-Frame 2.0 ATX Test Bench White / Blue USB 3.2 Gen 2 Type-C USB 3.2 Gen 1 Type-A",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "IW-XFRAME2-BLU"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "640 x 483 x 330",
   "volume": 102.01,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

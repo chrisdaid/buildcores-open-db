@@ -2,7 +2,7 @@
   "opendb_id": "7a095be0-737f-4b03-b611-cc5545db5a34",
   "metadata": {
     "name": "In Win BQ656T.AD150TB3 Mini-ITX Tower Black w/150 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "BQ656T.AD150TB3"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

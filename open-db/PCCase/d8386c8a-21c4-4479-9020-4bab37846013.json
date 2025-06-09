@@ -15,6 +15,10 @@
     "BLACK"
   ],
   "power_supply": "None",
+  "supported_power_supply_form_factors": [
+    "SFX",
+    "SFX-L"
+  ],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 3.2 Gen 2 Type-C                                                    USB 3.2 Gen 1 Type-A",

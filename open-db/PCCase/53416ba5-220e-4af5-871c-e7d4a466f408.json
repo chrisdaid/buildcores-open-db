@@ -2,7 +2,7 @@
   "opendb_id": "53416ba5-220e-4af5-871c-e7d4a466f408",
   "metadata": {
     "name": "Aerocool Skribble ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A Front Panel",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "ACCM-PB28033.11                                                    Skribble-G-BK-v1                                                    ACCM-PB28013.11"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "441 x 210 x 453",
   "volume": 41.952,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

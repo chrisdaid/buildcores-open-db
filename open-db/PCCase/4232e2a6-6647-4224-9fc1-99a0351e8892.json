@@ -2,7 +2,7 @@
   "opendb_id": "4232e2a6-6647-4224-9fc1-99a0351e8892",
   "metadata": {
     "name": "In Win Chopin HTPC Silver w/150 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "BQ696 SIL                                                    BQ656 CHPIN SIL 150W                                                    CHOPIN-SILVER"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

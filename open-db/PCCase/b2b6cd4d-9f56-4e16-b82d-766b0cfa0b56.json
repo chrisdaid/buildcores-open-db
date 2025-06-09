@@ -2,7 +2,7 @@
   "opendb_id": "b2b6cd4d-9f56-4e16-b82d-766b0cfa0b56",
   "metadata": {
     "name": "Asus ROG Strix Helios ATX Full Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "GX601                                                    HELIOS GX601                                                    ROG-STRIX-HELIOS                                                    90DC0020-B38000                                                    90DC0020-B39000"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "565 x 250 x 591",
   "volume": 83.479,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07T28NZZ3",
     "newegg_sku": "N82E16811173035",

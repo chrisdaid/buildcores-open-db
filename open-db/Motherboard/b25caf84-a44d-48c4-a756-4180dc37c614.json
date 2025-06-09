@@ -32,7 +32,7 @@
   },
   "socket": "LGA1200",
   "form_factor": "ATX",
-  "chipset": "Z490",
+  "chipset": "Intel Z490",
   "pcie_slots": [
     {
       "gen": "3.0",

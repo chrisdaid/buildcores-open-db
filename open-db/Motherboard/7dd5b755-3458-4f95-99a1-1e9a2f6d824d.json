@@ -32,7 +32,7 @@
   },
   "socket": "sTR5",
   "form_factor": "CEB",
-  "chipset": "TRX50",
+  "chipset": "AMD TRX50",
   "pcie_slots": [
     {
       "gen": "5.0",

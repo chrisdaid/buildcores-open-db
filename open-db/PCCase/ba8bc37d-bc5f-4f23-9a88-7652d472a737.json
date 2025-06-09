@@ -2,7 +2,7 @@
   "opendb_id": "ba8bc37d-bc5f-4f23-9a88-7652d472a737",
   "metadata": {
     "name": "Deepcool MATREXX 55 V3 ADD-RGB 3F ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "DP-ATX-MATREXX55V3-AR-3F                                                    MATREXX 55 V3 ADD-RGB 3F"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07VQX4ZKL"
   }

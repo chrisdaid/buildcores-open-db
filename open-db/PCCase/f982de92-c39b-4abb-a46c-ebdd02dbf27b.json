@@ -2,7 +2,7 @@
   "opendb_id": "f982de92-c39b-4abb-a46c-ebdd02dbf27b",
   "metadata": {
     "name": "Asus TUF Gaming GT502 Plus ATX Mid Tower White Tempered Glass",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "90DC0093-B19000"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "446 x 285 x 450",
   "volume": 57.2,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

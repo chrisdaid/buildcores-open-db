@@ -9,7 +9,7 @@
     "series": "Q58",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "342 x 170 x 250",
   "volume": 14.535,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

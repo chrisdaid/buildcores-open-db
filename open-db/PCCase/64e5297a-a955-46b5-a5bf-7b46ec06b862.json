@@ -5,6 +5,7 @@
   },
   "form_factor": "Mini-ITX Tower",
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09SL8P15C",
     "newegg_sku": "N82E16811854113",
