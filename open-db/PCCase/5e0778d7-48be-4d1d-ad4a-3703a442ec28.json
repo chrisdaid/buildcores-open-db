@@ -13,6 +13,7 @@
   "color": [],
   "power_supply": null,
   "power_supply_included": false,
+  "supported_power_supply_form_factors": [],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "4 x USB 3.0, 1 x USB Type-C",
@@ -24,7 +25,6 @@
   "dimensions": "(D)522 mm x (W) 304 mm x (H) 531.9 mm",
   "volume": 0,
   "weight": 0,
-  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CHM7L2V7",
     "newegg_sku": "2AM-000Z-000B4"
