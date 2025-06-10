@@ -17,7 +17,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": "Radeon Vega 11"
+      "model": "AMD Radeon Vega 11"
     },
     "memory": {
       "maxSupport": 0,
@@ -45,7 +45,6 @@
   "coreFamily": "Raven Ridge",
   "socket": "AM4",
   "general_product_information": {
-    "amazon_sku": "B079D8FD28",
-    "walmart_sku": 631137066
+    "amazon_sku": "B079D8FD28"
   }
 }

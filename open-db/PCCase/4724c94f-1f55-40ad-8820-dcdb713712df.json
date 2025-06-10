@@ -2,7 +2,7 @@
   "opendb_id": "4724c94f-1f55-40ad-8820-dcdb713712df",
   "metadata": {
     "name": "iBuypower Element 9 PRO ATX Mid Tower White Tempered Glass Side Panel",
-    "manufacturer": "iBuypower",
+    "manufacturer": "iBUYPOWER",
     "part_numbers": [
       "29318"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "422 x 230 x 507",
   "volume": 49.209,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

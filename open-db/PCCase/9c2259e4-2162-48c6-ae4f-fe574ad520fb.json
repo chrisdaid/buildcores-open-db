@@ -2,7 +2,7 @@
   "opendb_id": "9c2259e4-2162-48c6-ae4f-fe574ad520fb",
   "metadata": {
     "name": "Deepcool MATREXX 30 MicroATX Mini Tower Case",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "MATREXX 30",
       "DP-MATX-MATREXX30",
@@ -11,7 +11,7 @@
     "series": null,
     "variant": null
   },
-  "form_factor": "Micro ATX Tower",
+  "form_factor": "Micro ATX Mini Tower",
   "power_supply": "None",
   "power_supply_included": false,
   "side_panel": "Tempered Glass",
@@ -26,6 +26,7 @@
   "volume": 29.62,
   "weight": 7.98,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07QZDM8K4",
     "newegg_sku": "N82E16811146323",

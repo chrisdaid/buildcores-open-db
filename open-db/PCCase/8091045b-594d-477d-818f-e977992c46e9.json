@@ -2,7 +2,7 @@
   "opendb_id": "8091045b-594d-477d-818f-e977992c46e9",
   "metadata": {
     "name": "In Win EFS712 Micro ATX Mini Tower Black with USB 3.2 Gen 1 Type-A and USB 2.0 Type-A Front Panel",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "EFS712.CQ450TB3"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "404 x 176 x 358",
   "volume": 25.455,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09KP854L5"
   }

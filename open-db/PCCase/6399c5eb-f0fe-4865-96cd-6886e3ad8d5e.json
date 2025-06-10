@@ -2,7 +2,7 @@
   "opendb_id": "6399c5eb-f0fe-4865-96cd-6886e3ad8d5e",
   "metadata": {
     "name": "Asus TUF Gaming GT502 Horizon ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "90dc0090-b08020                                                    TUF Gaming GT502 Horizon                                                    GT502 FV",
       "BLK",
@@ -28,6 +28,7 @@
   "dimensions": "446 x 285 x 450",
   "volume": 57.2,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0DKXG1KPP",
     "newegg_sku": "N82E16811173063"

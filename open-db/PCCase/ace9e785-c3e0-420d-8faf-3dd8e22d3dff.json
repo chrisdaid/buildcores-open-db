@@ -2,7 +2,7 @@
   "opendb_id": "ace9e785-c3e0-420d-8faf-3dd8e22d3dff",
   "metadata": {
     "name": "Aerocool Zauron V2 ATX Mid Tower Black with Tempered Glass Side Panel, USB 3.2 Gen 1 Type-A Front Panel, and 409 x 217.7 x 445 Dimensions",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "FRGB-G-BK-v2                                                    Zauron Saturn FRGB-G-BK-v2                                                    Saturn FRGB-G-BK-v2"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "409 x 217.7 x 445",
   "volume": 39.622,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

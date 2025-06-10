@@ -9,7 +9,7 @@
     "series": "Neutron",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "389 x 250 x 400",
   "volume": 38.9,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

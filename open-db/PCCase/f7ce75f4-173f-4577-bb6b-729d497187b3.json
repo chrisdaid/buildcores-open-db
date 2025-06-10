@@ -2,7 +2,7 @@
   "opendb_id": "f7ce75f4-173f-4577-bb6b-729d497187b3",
   "metadata": {
     "name": "In Win 301C Micro ATX Mini Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C USB 3.2 Gen 1 Type-A",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "301C Black"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "379 x 188 x 365",
   "volume": 26.007,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

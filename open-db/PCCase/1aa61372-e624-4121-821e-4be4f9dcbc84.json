@@ -2,7 +2,7 @@
   "opendb_id": "1aa61372-e624-4121-821e-4be4f9dcbc84",
   "metadata": {
     "name": "GameMax White Diamond ARGB Mid-Tower ATX",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "GMXCSDIAMONDWHT",
       "GMX-WHITEDIAMOND"
@@ -25,6 +25,7 @@
   "volume": 41,
   "weight": 9,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B083QP9CH5"
   }

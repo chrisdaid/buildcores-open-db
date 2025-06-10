@@ -2,7 +2,7 @@
   "opendb_id": "98da1852-7265-4d67-912f-a4d11b8e424c",
   "metadata": {
     "name": "In Win 301 Micro ATX Mini Tower White / Blue with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A Front Panel",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "301 White"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "370 x 208 x 365",
   "volume": 28.09,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -2,7 +2,7 @@
   "opendb_id": "96996f38-050a-40da-a91b-446c876939f0",
   "metadata": {
     "name": "GameMax F36 Micro ATX Mini Tower White Tempered Glass Side Panel",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "F36 WH"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "419 x 216 x 388",
   "volume": 35.116,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "newegg_sku": "N82E16811445076"
   }

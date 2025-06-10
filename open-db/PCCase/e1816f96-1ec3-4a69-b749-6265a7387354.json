@@ -2,7 +2,7 @@
   "opendb_id": "e1816f96-1ec3-4a69-b749-6265a7387354",
   "metadata": {
     "name": "Deepcool Earlkase RGB V2 ATX Mid Tower Black Tempered Glass",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "EARLKASE RGB V2"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "500 x 203.5 x 510.5",
   "volume": 51.943,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -2,7 +2,7 @@
   "opendb_id": "069fd7d8-cee6-4898-b471-2332483dc946",
   "metadata": {
     "name": "Deepcool D-Shield V2 ATX Mid Tower Black Acrylic Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "DSHIELD-V2"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "438 x 210 x 478",
   "volume": 43.966,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

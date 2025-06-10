@@ -7,15 +7,15 @@
       "FD-CA-ERA-ITX-BK"
     ],
     "series": "Era",
-    "variant": ""
+    "variant": "SILVER"
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "GREY"
   ],
   "power_supply": "None",
-  "side_panel": "Tinted Tempered Glass",
-  "has_transparent_side_panel": true,
+  "side_panel": "Aluminum",
+  "has_transparent_side_panel": false,
   "front_panel_usb": "USB 3.2 Gen 2 Type-C                                                    USB 3.2 Gen 1 Type-A",
   "max_video_card_length": 295,
   "max_cpu_cooler_height": null,
@@ -25,5 +25,6 @@
   "dimensions": "325 x 166 x 310",
   "volume": 16.724,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

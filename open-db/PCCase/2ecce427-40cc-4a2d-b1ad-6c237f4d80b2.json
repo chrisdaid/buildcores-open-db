@@ -26,6 +26,7 @@
   "dimensions": "480 x 230 x 505",
   "volume": 55.752,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09VNRGT7S",
     "bestbuy_sku": 6507400,

@@ -9,7 +9,7 @@
     "series": "EVOLV",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "371 x 173 x 272",
   "volume": 17.458,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

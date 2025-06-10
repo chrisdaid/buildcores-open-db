@@ -2,7 +2,7 @@
   "opendb_id": "5cb028b5-33c8-4652-acb3-af4805cf4f0d",
   "metadata": {
     "name": "In Win A1 Plus Mini-ITX Tower Black with Tempered Glass Side Panel, USB 3.2 Gen 1 Type-A, and 650 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "A1PLUSBLACK                                                    IW-A1PLUS-BLACK"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "357 x 224 x 273",
   "volume": 21.831,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

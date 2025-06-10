@@ -2,7 +2,7 @@
   "opendb_id": "a781839e-6ec2-412d-9e4d-285a73233eae",
   "metadata": {
     "name": "Montech KING 95 ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-C, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "KING 95 (Black)                                                    KING 95 (B)                                                    KING95B                                                    KING 95 BK"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "475 x 300 x 442",
   "volume": 62.985,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CN94RC6P"
   }

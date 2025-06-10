@@ -2,7 +2,7 @@
   "opendb_id": "0fc4d017-8017-430f-a6ac-c40ed4c86ea4",
   "metadata": {
     "name": "Deepcool SMARTER Micro ATX Mini Tower Black / Blue",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "SMARTER LED"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "420 x 201 x 365",
   "volume": 30.813,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

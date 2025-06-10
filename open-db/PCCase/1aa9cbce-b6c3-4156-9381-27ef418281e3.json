@@ -7,7 +7,7 @@
     "series": "MCS2",
     "variant": "Black"
   },
-  "form_factor": "ATX Mid",
+  "form_factor": "ATX Mid Tower",
   "power_supply": "None",
   "power_supply_included": false,
   "side_panel": "Acrylic",
@@ -22,6 +22,7 @@
   "volume": 19.48,
   "weight": 3.89,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0BBR9KC9T"
   }

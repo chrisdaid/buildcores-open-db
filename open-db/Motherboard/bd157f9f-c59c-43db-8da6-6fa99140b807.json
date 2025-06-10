@@ -30,9 +30,9 @@
     "releaseYear": 2017,
     "part_numbers": []
   },
-  "socket": "1151",
+  "socket": "LGA1151",
   "form_factor": "ATX",
-  "chipset": "Intel Z370 Chipset",
+  "chipset": "Intel Z370",
   "pcie_slots": [
     {
       "gen": "Gen3",
@@ -90,7 +90,6 @@
   "color": [],
   "general_product_information": {
     "amazon_sku": "B075GN9YC4",
-    "newegg_sku": "9SIBMM4K740588",
-    "walmart_sku": 558727984
+    "newegg_sku": "9SIBMM4K740588"
   }
 }

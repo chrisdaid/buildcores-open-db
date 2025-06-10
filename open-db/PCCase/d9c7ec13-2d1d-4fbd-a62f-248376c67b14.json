@@ -2,7 +2,7 @@
   "opendb_id": "d9c7ec13-2d1d-4fbd-a62f-248376c67b14",
   "metadata": {
     "name": "GameMax Silent ATX Mid Tower Black",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "GMX-SILENT"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "475 x 230 x 468",
   "volume": 51.129,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -2,7 +2,7 @@
   "opendb_id": "1a9a02fb-6cfe-4759-89c0-b6eb7a8e3964",
   "metadata": {
     "name": "Aerocool Viewport Mini V1 MicroATX Mini Tower Black Tempered Glass",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Viewport-Mini-BK-v1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "377.5 x 212 x 437",
   "volume": 34.973,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

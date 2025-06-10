@@ -25,6 +25,7 @@
   "dimensions": "423 x 344 x 505",
   "volume": 73.484,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07MFR1VDN",
     "walmart_sku": 472640009

@@ -23,14 +23,14 @@
   },
   "metadata": {
     "name": "Asus NVIDIA GeForce 7025 M2N68-AM PLUS AM3/AM2+/AM2 DDR2 Micro ATX",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "M2N68-AM PLUS"
     ],
     "series": "NVIDIA",
     "variant": ""
   },
-  "socket": "AM3/AM2+/AM2",
+  "socket": "AM3",
   "form_factor": "Micro ATX",
   "chipset": "NVIDIA GeForce 7025",
   "color": [

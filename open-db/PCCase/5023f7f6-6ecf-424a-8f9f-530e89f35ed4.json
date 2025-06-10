@@ -2,7 +2,7 @@
   "opendb_id": "5023f7f6-6ecf-424a-8f9f-530e89f35ed4",
   "metadata": {
     "name": "Aerocool Cronus ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "ACCM-PB2301311                                                    Cronus-G-BK-v1                                                    ACCM-PB23013.11"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "468 x 230 x 502",
   "volume": 54.035,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08QJLZBQ7"
   }

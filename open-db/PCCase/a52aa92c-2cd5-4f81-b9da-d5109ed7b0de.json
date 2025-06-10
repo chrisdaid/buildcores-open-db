@@ -2,14 +2,14 @@
   "opendb_id": "a52aa92c-2cd5-4f81-b9da-d5109ed7b0de",
   "metadata": {
     "name": "In Win CE685.FH300TB3 Micro ATX Slim Black with 300 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "CE685.FH300TB3"
     ],
     "series": "CE685.FH300TB3",
     "variant": ""
   },
-  "form_factor": "Micro ATX Slim",
+  "form_factor": "Micro ATX Slim Tower",
   "color": [
     "BLACK"
   ],
@@ -25,6 +25,7 @@
   "dimensions": "332 x 96 x 370",
   "volume": 11.793,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B00J8LZDSG",
     "newegg_sku": "N82E16811108109"

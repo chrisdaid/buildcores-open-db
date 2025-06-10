@@ -23,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": null,
+      "model": "None",
       "baseClock": 0,
       "boostClock": 0,
       "shaderCount": 0
@@ -49,9 +49,9 @@
     "part_numbers": []
   },
   "series": "Ryzen 7",
-  "microarchitecture": "Zen (Summit Ridge)",
+  "microarchitecture": "Zen",
   "coreFamily": null,
-  "socket": "Socket AM4",
+  "socket": "AM4",
   "general_product_information": {
     "amazon_sku": "B07F5LLKBX"
   }

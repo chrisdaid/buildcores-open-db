@@ -3,7 +3,8 @@
   "cores": {
     "performance": null,
     "efficiency": null,
-    "threads": 16
+    "threads": 16,
+    "total": 8
   },
   "clocks": {
     "performance": {
@@ -22,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": "Intel® UHD Graphics 630",
+      "model": "Intel UHD Graphics 630",
       "baseClock": 350,
       "boostClock": 1.2,
       "shaderCount": null

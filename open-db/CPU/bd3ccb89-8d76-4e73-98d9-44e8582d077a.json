@@ -23,7 +23,7 @@
   },
   "specifications": {
     "integratedGraphics": {
-      "model": "Vega 3",
+      "model": "AMD Radeon Vega 3",
       "baseClock": 1.1,
       "boostClock": null,
       "shaderCount": 192

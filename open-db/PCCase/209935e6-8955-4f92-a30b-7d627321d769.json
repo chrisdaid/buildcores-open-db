@@ -2,7 +2,7 @@
   "opendb_id": "209935e6-8955-4f92-a30b-7d627321d769",
   "metadata": {
     "name": "Deepcool CG580 4F ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CG580-BKADA4-G-1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "437 x 235 x 501",
   "volume": 51.45,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -2,7 +2,7 @@
   "opendb_id": "6224e208-9084-4369-9f23-dc1d2b5c6a52",
   "metadata": {
     "name": "Asus Prime AP201 Micro ATX Mini Tower Black Tempered Glass",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "PRIME-AP201-TG-BK                                                    90DC00G0-B39010                                                    PRIME AP201-BK TG                                                    AP201",
       "BLK",
@@ -27,6 +27,7 @@
   "dimensions": "350 x 205 x 460",
   "volume": 33.005,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0C5LK9L62",
     "newegg_sku": "N82E16811173054",

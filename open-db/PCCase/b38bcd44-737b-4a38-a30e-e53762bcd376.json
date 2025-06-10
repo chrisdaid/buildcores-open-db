@@ -2,7 +2,7 @@
   "opendb_id": "b38bcd44-737b-4a38-a30e-e53762bcd376",
   "metadata": {
     "name": "Deepcool MATREXX 40 Micro ATX Mini Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A, USB 2.0 Type-A Front Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "DP-MATX-MATREXX40                                                    MATREXX 40"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08SDS2Q9J"
   }

@@ -2,7 +2,7 @@
   "opendb_id": "9aa686a2-c897-4fdf-be8d-7ab565a9ed68",
   "metadata": {
     "name": "In Win A3 MicroATX Mini Tower Black Tempered Glass Side Panel",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "IW-CS-A3BLK-1AM120S                                                    A3 BLACK"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "401 x 215 x 347",
   "volume": 29.917,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

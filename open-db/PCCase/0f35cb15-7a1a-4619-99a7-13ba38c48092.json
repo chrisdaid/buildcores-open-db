@@ -2,7 +2,7 @@
   "opendb_id": "0f35cb15-7a1a-4619-99a7-13ba38c48092",
   "metadata": {
     "name": "GameMax Infinity ATX Mid Tower White with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-C USB 3.2 Gen 1 Type-A",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "Infinity White"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "420 x 273 x 399",
   "volume": 45.749,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0BSG37T6L",
     "newegg_sku": "N82E16811445035"

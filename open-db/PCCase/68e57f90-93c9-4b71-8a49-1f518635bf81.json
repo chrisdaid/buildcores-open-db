@@ -2,7 +2,7 @@
   "opendb_id": "68e57f90-93c9-4b71-8a49-1f518635bf81",
   "metadata": {
     "name": "Aerocool Playa Slim Micro ATX Mini Tower Black",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "ACCS-PQ05014.11"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

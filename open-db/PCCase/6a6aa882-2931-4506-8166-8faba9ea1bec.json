@@ -2,7 +2,7 @@
   "opendb_id": "6a6aa882-2931-4506-8166-8faba9ea1bec",
   "metadata": {
     "name": "Aerocool Graphite v2 ATX Mid Tower Tempered Glass Side Panel",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Graphite-G-BK-V2                                                    ACCM-PB24033.11"
     ],
@@ -23,6 +23,7 @@
   "dimensions": "406 x 230 x 460",
   "volume": 42.955,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0974XMPYC"
   }

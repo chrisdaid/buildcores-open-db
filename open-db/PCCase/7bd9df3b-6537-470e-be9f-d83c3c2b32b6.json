@@ -2,7 +2,7 @@
   "opendb_id": "7bd9df3b-6537-470e-be9f-d83c3c2b32b6",
   "metadata": {
     "name": "In Win A1 Plus Mini-ITX Tower White Tempered Glass Side Panel w/650 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "A1 PLUS WHITE                                                    IW-A1PLUS-WHITE"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "357 x 224 x 273",
   "volume": 21.831,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

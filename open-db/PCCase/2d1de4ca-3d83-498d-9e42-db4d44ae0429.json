@@ -26,5 +26,6 @@
   "dimensions": "563 x 243 x 559",
   "volume": 76.476,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

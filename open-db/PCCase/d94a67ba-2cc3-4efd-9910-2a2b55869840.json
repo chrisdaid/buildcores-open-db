@@ -2,7 +2,7 @@
   "opendb_id": "d94a67ba-2cc3-4efd-9910-2a2b55869840",
   "metadata": {
     "name": "In Win F5 ATX Full Tower White Tempered Glass Side Panel, USB 3.2 Gen 2x2 Type-C, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "IW-CS-F5WHI-3AN140P"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "510 x 235 x 543",
   "volume": 65.079,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CY7FY3GK"
   }

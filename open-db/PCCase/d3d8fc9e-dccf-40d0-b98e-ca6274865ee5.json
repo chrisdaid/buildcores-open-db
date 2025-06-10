@@ -23,6 +23,7 @@
   "volume": null,
   "weight": null,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0886K75W2"
   }

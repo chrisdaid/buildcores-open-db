@@ -30,9 +30,9 @@
     "releaseYear": 2019,
     "part_numbers": []
   },
-  "socket": "1151",
+  "socket": "LGA1151",
   "form_factor": "Micro ATX",
-  "chipset": "Intel B365 Chipset",
+  "chipset": "Intel B365",
   "pcie_slots": [
     {
       "gen": "3.0",

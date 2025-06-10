@@ -2,7 +2,7 @@
   "opendb_id": "fb53c01d-36be-4892-a4b9-663e6183bc43",
   "metadata": {
     "name": "Asus ProArt PA602 ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "ProArt PA602                                                    90DC00J0-B09000                                                    90DC00J0-B08000                                                    PA602",
       "BLK",
@@ -27,6 +27,7 @@
   "dimensions": "593 x 245 x 560",
   "volume": 81.36,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CPP3DWLX",
     "newegg_sku": "N82E16811173059"

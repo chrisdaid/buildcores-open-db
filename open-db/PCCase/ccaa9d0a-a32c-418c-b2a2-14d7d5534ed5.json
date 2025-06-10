@@ -2,7 +2,7 @@
   "opendb_id": "ccaa9d0a-a32c-418c-b2a2-14d7d5534ed5",
   "metadata": {
     "name": "Aerocool Hexform Micro ATX Mid Tower Black Tempered Glass Side Panel RGB",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Hexform-G-BK-V2"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "358 x 207.5 x 377",
   "volume": 28.005,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

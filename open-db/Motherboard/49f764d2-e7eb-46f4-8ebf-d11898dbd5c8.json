@@ -23,14 +23,14 @@
   },
   "metadata": {
     "name": "GIGABYTE TRX50 AI TOP",
-    "manufacturer": "GIGABYTE",
+    "manufacturer": "Gigabyte",
     "part_number": "TRX50-AI-TOP",
     "series": "AI TOP",
     "variant": null,
     "releaseYear": 2024,
     "part_numbers": []
   },
-  "socket": "TR5",
+  "socket": "sTR5",
   "form_factor": "ATX",
   "chipset": "AMD TRX50",
   "pcie_slots": [

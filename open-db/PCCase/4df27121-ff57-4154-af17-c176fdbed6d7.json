@@ -25,10 +25,10 @@
   "dimensions": "460 x 240 x 506",
   "volume": 55.862,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CZVDHZFD",
     "newegg_sku": "N82E16811139217",
-    "bestbuy_sku": 6583648,
-    "walmart_sku": 7388573752
+    "bestbuy_sku": 6583648
   }
 }

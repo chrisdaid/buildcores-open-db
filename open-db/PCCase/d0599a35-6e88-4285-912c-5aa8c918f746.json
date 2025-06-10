@@ -2,7 +2,7 @@
   "opendb_id": "d0599a35-6e88-4285-912c-5aa8c918f746",
   "metadata": {
     "name": "Deepcool MORPHEUS ATX Full Tower White with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-MORPHEUS-WHAPA1-G-1                                                    MORPHEUS WH                                                    MORPHEUS WH-AMAZON"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "528 x 250 x 551",
   "volume": 72.732,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

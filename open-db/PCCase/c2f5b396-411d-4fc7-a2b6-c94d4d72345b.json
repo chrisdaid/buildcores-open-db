@@ -2,7 +2,7 @@
   "opendb_id": "c2f5b396-411d-4fc7-a2b6-c94d4d72345b",
   "metadata": {
     "name": "Deepcool CH270 DIGITAL MicroATX Mini Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CH270-BKNDM0-G-1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "296 x 225 x 486",
   "volume": 32.368,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

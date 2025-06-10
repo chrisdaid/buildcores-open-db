@@ -2,7 +2,7 @@
   "opendb_id": "5e08c4f9-29f4-4c85-8870-3feb3cba909d",
   "metadata": {
     "name": "In Win EM048 MicroATX Mini Tower Black",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "EM048.CH350TB3"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B00JC8NZC6",
     "newegg_sku": "N82E16811108463",

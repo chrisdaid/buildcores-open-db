@@ -2,7 +2,7 @@
   "opendb_id": "2585df6e-d765-4900-99e2-66635665936a",
   "metadata": {
     "name": "In Win CJ712 Micro ATX Desktop Black with 265 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "CJ712.AU265TB3"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "276 x 95 x 305",
   "volume": 7.997,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B081VV3SFH",
     "newegg_sku": "2AM-001H-001M5",

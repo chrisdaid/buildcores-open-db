@@ -2,7 +2,7 @@
   "opendb_id": "c29db364-d8a0-40d7-b6ab-c0994b1a91ca",
   "metadata": {
     "name": "Aerocool Atomic V1 MicroATX Mini Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Atomic-G-BK-v1                                                    ACCS-PV26023.11"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "403.5 x 230 x 390",
   "volume": 36.194,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

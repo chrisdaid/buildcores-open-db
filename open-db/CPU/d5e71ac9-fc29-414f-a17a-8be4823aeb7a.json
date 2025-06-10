@@ -41,6 +41,6 @@
   "series": "AMD Threadripper",
   "microarchitecture": "Zen+",
   "coreFamily": "Colfax",
-  "socket": "sTR4",
+  "socket": "TR4",
   "general_product_information": {}
 }

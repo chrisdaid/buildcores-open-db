@@ -2,7 +2,7 @@
   "opendb_id": "f04f22df-d6ea-4d28-ab48-0de7beb787e6",
   "metadata": {
     "name": "GameMax Spark Pro ATX Mid Tower White Tempered Glass",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "GMX-SPARKWHT-PRO"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "413 x 204 x 398",
   "volume": 33.532,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

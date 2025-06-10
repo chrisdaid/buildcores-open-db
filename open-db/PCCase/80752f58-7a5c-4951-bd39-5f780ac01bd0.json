@@ -9,7 +9,7 @@
     "series": "Define",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
   ],
@@ -25,6 +25,7 @@
   "dimensions": "412 x 203 x 344",
   "volume": 28.771,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B01BEH1Y3E",
     "walmart_sku": 149858158

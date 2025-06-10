@@ -9,7 +9,7 @@
     "series": "DH-045(H+A)+MT-300",
     "variant": ""
   },
-  "form_factor": "Micro ATX Slim",
+  "form_factor": "Micro ATX Slim Tower",
   "color": [
     "BLACK"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "400 x 100 x 324",
   "volume": 12.96,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

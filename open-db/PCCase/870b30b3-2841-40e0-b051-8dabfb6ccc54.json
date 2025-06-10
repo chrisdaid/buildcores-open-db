@@ -2,7 +2,7 @@
   "opendb_id": "870b30b3-2841-40e0-b051-8dabfb6ccc54",
   "metadata": {
     "name": "Azza Chroma 410 ATX Mid Tower Black with Acrylic Side Panel, USB 3.2 Gen 1 Type-A and USB 2.0 Type-A",
-    "manufacturer": "Azza",
+    "manufacturer": "AZZA",
     "part_numbers": [
       "CSAZ-410B"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07HKWNFTD"
   }

@@ -2,7 +2,7 @@
   "opendb_id": "c0bde235-2d8a-4238-aa54-b4bec84ff0d7",
   "metadata": {
     "name": "Lian Li O11 Dynamic EVO XL ATX Full Tower White Tempered Glass",
-    "manufacturer": "LIAN LI",
+    "manufacturer": "Lian Li",
     "part_numbers": [
       "O11DEXL-W"
     ],
@@ -24,6 +24,7 @@
   "volume": 0,
   "weight": 0,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CHM85TND",
     "newegg_sku": "2AM-000Z-000B5"

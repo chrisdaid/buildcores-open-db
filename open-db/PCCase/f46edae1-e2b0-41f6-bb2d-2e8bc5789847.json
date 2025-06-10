@@ -2,7 +2,7 @@
   "opendb_id": "f46edae1-e2b0-41f6-bb2d-2e8bc5789847",
   "metadata": {
     "name": "GameMax Spectrum ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "SPECTRUM"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "472 x 235 x 515",
   "volume": 57.124,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

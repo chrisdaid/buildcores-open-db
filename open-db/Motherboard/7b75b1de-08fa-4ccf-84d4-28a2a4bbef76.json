@@ -23,14 +23,14 @@
   },
   "metadata": {
     "name": "Asus 785G M4A785-M AM3/AM2+/AM2 DDR2 Micro ATX",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "M4A785-M"
     ],
     "series": "785G",
     "variant": ""
   },
-  "socket": "AM3/AM2+/AM2",
+  "socket": "AM3",
   "form_factor": "Micro ATX",
   "chipset": "AMD 785G",
   "color": [

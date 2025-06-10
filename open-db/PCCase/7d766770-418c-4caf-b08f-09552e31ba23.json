@@ -2,7 +2,7 @@
   "opendb_id": "7d766770-418c-4caf-b08f-09552e31ba23",
   "metadata": {
     "name": "Aerocool CS-107 Micro ATX Mini Tower Black Tempered Glass Side Panel with USB 3.2 Gen 1 Type-A and USB 2.0 Type-A",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "CS-107-A-BK-V1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "340.6 x 197.5 x 353",
   "volume": 23.746,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

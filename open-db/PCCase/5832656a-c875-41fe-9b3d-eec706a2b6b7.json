@@ -6,12 +6,12 @@
     "part_numbers": [
       "FBM-X1"
     ],
-    "series": null,
+    "series": "FBM-X1",
     "variant": null
   },
   "form_factor": "Micro ATX Mini Tower",
   "power_supply": "No",
-  "side_panel": "Window",
+  "side_panel": "Acrylic",
   "has_transparent_side_panel": true,
   "front_panel_usb": "2 x USB 2.0 / 2 x USB 3.0",
   "max_video_card_length": 300,
@@ -22,7 +22,10 @@
   "dimensions": "13.86\" x 6.89\" x 14.17\"",
   "volume": 0,
   "weight": 5.95,
-  "color": [],
+  "color": [
+    "BLACK"
+  ],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B072F29JP4",
     "newegg_sku": "N82E16811147262",

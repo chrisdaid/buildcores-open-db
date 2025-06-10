@@ -1,0 +1,25 @@
+{
+  "opendb_id": "868df053-4d93-4ac5-a870-d98901b89047",
+  "metadata": {
+    "name": "ARCTIC P12 Pro 120mm White PWM",
+    "manufacturer": "ARCTIC",
+    "series": "P12 Pro",
+    "variant": "120mm White"
+  },
+  "size": 120,
+  "color": [
+    "WHITE"
+  ],
+  "quantity": 1,
+  "min_airflow": null,
+  "max_airflow": null,
+  "min_noise_level": null,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": 4.35,
+  "flow_direction": "Standard",
+  "general_product_information": {}
+}

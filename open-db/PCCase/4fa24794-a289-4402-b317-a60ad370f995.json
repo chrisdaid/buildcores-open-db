@@ -2,7 +2,7 @@
   "opendb_id": "4fa24794-a289-4402-b317-a60ad370f995",
   "metadata": {
     "name": "Montech Heritage PRO Micro ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C / USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "Heritage PRO Black                                                    Heritage PRO (B)"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "480 x 235 x 368",
   "volume": 41.51,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0DSZ4LBD1",
     "newegg_sku": "N82E16811970015"

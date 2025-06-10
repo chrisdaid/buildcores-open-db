@@ -9,7 +9,7 @@
     "series": "Performance",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
   ],
@@ -25,6 +25,7 @@
   "dimensions": "424 x 175 x 260",
   "volume": 19.292,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0DQ7YKBJB",
     "newegg_sku": "N82E16811129323"

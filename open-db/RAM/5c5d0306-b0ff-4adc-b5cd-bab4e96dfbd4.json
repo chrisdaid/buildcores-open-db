@@ -6,7 +6,7 @@
   },
   "metadata": {
     "name": "Team T-Force Vulcan 16GB (2 x 8GB) 288-Pin PC RAM DDR5 5200 (PC5 41600) Desktop Memory Model FLBD516G5200HC40CDC01",
-    "manufacturer": "Team Group",
+    "manufacturer": "TEAMGROUP",
     "part_number": "FLBD516G5200HC40CDC01",
     "series": "T-Force Vulcan",
     "variant": "DDR5 5200 (PC5 41600) 40-40-40-76",
@@ -15,7 +15,7 @@
   },
   "speed": 5200,
   "ram_type": "DDR5",
-  "form_factor": "288-Pin",
+  "form_factor": "288-pin DIMM",
   "capacity": 16,
   "cas_latency": 40,
   "timings": "40-40-40-76",

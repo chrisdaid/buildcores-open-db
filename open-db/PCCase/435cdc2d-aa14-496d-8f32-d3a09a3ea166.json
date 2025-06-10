@@ -9,7 +9,7 @@
     "series": "Element",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "330 x 219 x 130",
   "volume": 9.395,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

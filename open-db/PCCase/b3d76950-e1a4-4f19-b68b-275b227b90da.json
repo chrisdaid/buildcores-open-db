@@ -2,7 +2,7 @@
   "opendb_id": "b3d76950-e1a4-4f19-b68b-275b227b90da",
   "metadata": {
     "name": "Deepcool CYCLOPS ATX Mid Tower Black Tempered Glass",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-BKAAE1-C-1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "475 x 230 x 471",
   "volume": 51.457,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

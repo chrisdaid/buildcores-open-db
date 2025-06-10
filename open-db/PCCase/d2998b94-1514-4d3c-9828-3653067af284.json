@@ -25,6 +25,7 @@
   "dimensions": "411 x 265 x 209",
   "volume": 22.763,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09VKJNYLW",
     "newegg_sku": "2KH-003M-00027"

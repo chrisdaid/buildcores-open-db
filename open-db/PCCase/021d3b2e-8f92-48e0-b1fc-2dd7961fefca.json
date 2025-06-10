@@ -2,7 +2,7 @@
   "opendb_id": "021d3b2e-8f92-48e0-b1fc-2dd7961fefca",
   "metadata": {
     "name": "Montech AIR 903 MAX ATX Mid Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "AIR 903 MAX (B)AIR 903 MAX B"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "478 x 230 x 493",
   "volume": 54.2,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0C98RRPXL"
   }

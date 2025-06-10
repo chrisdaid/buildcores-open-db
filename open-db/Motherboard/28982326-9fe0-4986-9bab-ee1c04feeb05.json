@@ -32,7 +32,7 @@
   },
   "socket": "LGA1200",
   "form_factor": "ATX",
-  "chipset": "B460",
+  "chipset": "Intel B460",
   "pcie_slots": [
     {
       "gen": "3.0",
@@ -90,7 +90,6 @@
   ],
   "color": [],
   "general_product_information": {
-    "amazon_sku": "B088ZS6S7T",
-    "walmart_sku": 249533551
+    "amazon_sku": "B088ZS6S7T"
   }
 }

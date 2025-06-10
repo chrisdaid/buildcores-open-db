@@ -2,7 +2,7 @@
   "opendb_id": "123db36b-a11a-46ac-8bbc-edbc552dc672",
   "metadata": {
     "name": "In Win Alice ATX Mid Tower Gray / Black",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "IW-ALICE-GRY                                                    ALICE.GREY                                                    1ACFAT--000020"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

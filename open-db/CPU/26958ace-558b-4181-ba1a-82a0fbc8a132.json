@@ -49,9 +49,9 @@
     "part_numbers": []
   },
   "series": "Intel Pentium Gold Processor Series",
-  "microarchitecture": null,
-  "coreFamily": null,
-  "socket": "LGA 1200",
+  "microarchitecture": "Comet Lake",
+  "coreFamily": "Comet Lake",
+  "socket": "LGA1200",
   "general_product_information": {
     "amazon_sku": "B086MHSH2Z",
     "newegg_sku": "N82E16819118141",

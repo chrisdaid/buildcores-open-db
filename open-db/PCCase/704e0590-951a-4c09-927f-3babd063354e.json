@@ -26,6 +26,7 @@
   "dimensions": "732 x 280 x 688",
   "volume": 141.012,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07HHN6KCS",
     "newegg_sku": "9SIA4REJUX1629"

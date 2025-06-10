@@ -2,7 +2,7 @@
   "opendb_id": "f2831bae-575b-4a7a-8073-69b0a021aa2a",
   "metadata": {
     "name": "Asus TUF Gaming GT301 ATX Mid Tower Pink / Black Tempered Glass Side Panel",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "90DC0046-B40000                                                    GT301 TUF GAMING CASE",
       "PINK",
@@ -28,5 +28,6 @@
   "dimensions": "426 x 214 x 482",
   "volume": 43.941,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

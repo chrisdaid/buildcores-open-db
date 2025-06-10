@@ -25,6 +25,7 @@
   "dimensions": "500 x 231 x 532",
   "volume": 61.446,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B007S02GLQ"
   }

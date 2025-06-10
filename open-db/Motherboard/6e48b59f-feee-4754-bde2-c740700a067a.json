@@ -23,7 +23,7 @@
   },
   "metadata": {
     "name": "GIGABYTE X570S AORUS MASTER",
-    "manufacturer": "GIGABYTE",
+    "manufacturer": "Gigabyte",
     "part_number": "X570S AORUS MASTER",
     "series": "X570S AORUS MASTER",
     "variant": "rev 1.0",
@@ -32,7 +32,7 @@
   },
   "socket": "AM4",
   "form_factor": "ATX",
-  "chipset": "X570",
+  "chipset": "AMD X570",
   "pcie_slots": [
     {
       "gen": "4.0",

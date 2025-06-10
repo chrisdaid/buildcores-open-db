@@ -12,7 +12,7 @@
   "form_factor": "ATX Mid Tower",
   "power_supply": null,
   "power_supply_included": false,
-  "side_panel": "Dark Tinted Tempered Glass Window",
+  "side_panel": "Tinted Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 3.2 Gen 2 Type-CUSB 3.2 Gen 1 Type-A",
   "max_video_card_length": 467,
@@ -24,6 +24,7 @@
   "volume": 61.658,
   "weight": 23.15,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0822ZD9NP",
     "newegg_sku": "N82E16811352133",

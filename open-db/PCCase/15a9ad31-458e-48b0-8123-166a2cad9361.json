@@ -2,7 +2,7 @@
   "opendb_id": "15a9ad31-458e-48b0-8123-166a2cad9361",
   "metadata": {
     "name": "Montech X3 Mesh ATX Mid Tower White Tempered Glass Side Panel",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "X3 Mesh White                                                    C005                                                    X3 MESH WH                                                    C21005160002                                                    X3 MESH (W)"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B092441BHJ",
     "newegg_sku": "2AM-00CN-00037"

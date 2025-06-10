@@ -2,7 +2,7 @@
   "opendb_id": "eebca3a7-4bd6-43ae-954b-5d0a7ebede95",
   "metadata": {
     "name": "Deepcool MACUBE 110 Micro ATX Mini Tower Pink with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A Front Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "DP-R-MACUBE110-PRNGM1N-A-1                                                    R-MACUBE110-PRNGM1N-A-1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "400 x 225 x 431",
   "volume": 38.79,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

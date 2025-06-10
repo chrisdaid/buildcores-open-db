@@ -2,7 +2,7 @@
   "opendb_id": "9657fefe-89ae-4745-8e55-819f13e2ecda",
   "metadata": {
     "name": "Montech SKY TWO GX ATX Mid Tower White Tempered Glass Side Panel with USB 3.2 Gen 2 Type-C and USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "SKYTWOGXW                                                    SKY TWO GX (W)"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "460 x 215 x 500",
   "volume": 49.45,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CYTLDGKN",
     "newegg_sku": "N82E16811970010"

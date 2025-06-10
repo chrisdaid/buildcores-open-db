@@ -2,7 +2,7 @@
   "opendb_id": "91ec27fe-578f-4ea7-8e81-fd4038dcf792",
   "metadata": {
     "name": "Aerocool Aero-500 ATX Mid Tower White / Black Acrylic Side Panel",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "Aero-500 Window White"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "440 x 203 x 505",
   "volume": 45.107,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

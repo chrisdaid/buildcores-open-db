@@ -7,7 +7,7 @@
     "series": "Snowblind",
     "variant": null
   },
-  "form_factor": "ATX",
+  "form_factor": "ATX Mid Tower",
   "power_supply": null,
   "power_supply_included": false,
   "side_panel": "Tempered Glass",
@@ -22,6 +22,7 @@
   "volume": 0,
   "weight": 20.1,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07YBXNYG3"
   }

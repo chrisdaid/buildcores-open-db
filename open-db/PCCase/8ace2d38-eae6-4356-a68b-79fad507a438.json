@@ -2,7 +2,7 @@
   "opendb_id": "8ace2d38-eae6-4356-a68b-79fad507a438",
   "metadata": {
     "name": "Deepcool CH170 DIGITAL Mini-ITX Tower White Mesh Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CH170-WHNPI0D-G-1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "250 x 200 x 380",
   "volume": 19,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

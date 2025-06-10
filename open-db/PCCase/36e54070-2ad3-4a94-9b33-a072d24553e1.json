@@ -2,14 +2,14 @@
   "opendb_id": "36e54070-2ad3-4a94-9b33-a072d24553e1",
   "metadata": {
     "name": "In Win B1 Pure Mini-ITX Desktop White / Brown w/200 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "IW-CS-B1WHI-PS200W                                                    B1 PURE"
     ],
     "series": "B1",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "WHITE",
     "BROWN"
@@ -26,5 +26,6 @@
   "dimensions": "238 x 108 x 302",
   "volume": 7.763,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

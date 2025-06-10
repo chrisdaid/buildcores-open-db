@@ -9,7 +9,7 @@
     "series": "TU150",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "GREY"
   ],
@@ -25,6 +25,7 @@
   "dimensions": "375 x 203 x 312",
   "volume": 23.751,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B083JGWN4K"
   }

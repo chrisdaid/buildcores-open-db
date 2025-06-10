@@ -2,7 +2,7 @@
   "opendb_id": "e6e2ec98-fa90-4a92-94c8-3c69a4a3f2f2",
   "metadata": {
     "name": "Deepcool TESSERACT BF ATX Mid Tower Black / Red Acrylic Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "TESSERACT SW RED                                                    DP-ATX-TSRBKRD                                                    TESSERACT SW-RD"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "430 x 194 x 436",
   "volume": 36.371,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

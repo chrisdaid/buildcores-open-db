@@ -2,7 +2,7 @@
   "opendb_id": "92ba9038-9522-43d3-bdb0-ace94f00c6af",
   "metadata": {
     "name": "In Win 303 MSI Dragon ATX Mid Tower White / Silver Tempered Glass",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "303 MSI Dragon"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

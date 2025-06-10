@@ -2,7 +2,7 @@
   "opendb_id": "14717036-0743-45b8-974d-cbf08aa7b8d8",
   "metadata": {
     "name": "GameMax HYPE ATX Mid Tower Case",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "HYPE BLACK"
     ],
@@ -24,6 +24,7 @@
   "volume": 113.754,
   "weight": 25.43,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0B2DLQHFM"
   }

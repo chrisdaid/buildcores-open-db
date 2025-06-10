@@ -2,7 +2,7 @@
   "opendb_id": "08128ef5-8082-4c59-99ca-c4bff5f25c1a",
   "metadata": {
     "name": "In Win BK623.BH300TB3 Micro ATX Mini Tower Case Black / Silver w/300 W Power Supply",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "BK623.BH300TB3"
     ],
@@ -26,6 +26,7 @@
   "dimensions": "322 x 139 x 274",
   "volume": 12.264,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B00JDRYJ8A"
   }

@@ -30,7 +30,7 @@
     "releaseYear": 2018,
     "part_numbers": []
   },
-  "socket": "SocketAM4",
+  "socket": "AM4",
   "form_factor": "ATX",
   "chipset": "AMD X470",
   "pcie_slots": [

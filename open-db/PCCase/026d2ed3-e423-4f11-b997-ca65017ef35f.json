@@ -25,6 +25,7 @@
   "dimensions": "481 x 220 x 488",
   "volume": 51.64,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "newegg_sku": "3C6-00YH-00074"
   }

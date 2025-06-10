@@ -2,7 +2,7 @@
   "opendb_id": "52de3e99-98d5-43f7-8e4b-293329e84aa0",
   "metadata": {
     "name": "Montech X3 ATX Mid Tower White / Black Tempered Glass",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "X3 Glass White                                                    C007"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

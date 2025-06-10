@@ -51,7 +51,7 @@
   "series": "Core i3",
   "microarchitecture": "Coffee Lake",
   "coreFamily": "Coffee Lake-S",
-  "socket": "LGA 1151",
+  "socket": "LGA1151",
   "general_product_information": {
     "amazon_sku": "B0759FWJDK",
     "newegg_sku": "9SIBMM4KBA7627",

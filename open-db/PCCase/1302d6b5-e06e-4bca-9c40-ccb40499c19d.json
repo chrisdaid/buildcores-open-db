@@ -2,7 +2,7 @@
   "opendb_id": "1302d6b5-e06e-4bca-9c40-ccb40499c19d",
   "metadata": {
     "name": "Asus TUF Gaming GT502 ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "GT502",
       "BLK",
@@ -28,6 +28,7 @@
   "dimensions": "446 x 285 x 450",
   "volume": 57.2,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0BQD5W3N9",
     "walmart_sku": 2617454399

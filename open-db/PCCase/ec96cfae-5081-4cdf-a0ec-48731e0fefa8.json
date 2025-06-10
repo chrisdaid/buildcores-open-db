@@ -25,6 +25,7 @@
   "dimensions": "453 x 230 x 466",
   "volume": 48.553,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08C7BGV3D",
     "bestbuy_sku": 6424213,

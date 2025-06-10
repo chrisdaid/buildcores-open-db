@@ -9,7 +9,7 @@
     "series": "A4-H20",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "GREY",
     "BLACK"
@@ -26,5 +26,6 @@
   "dimensions": "326 x 140 x 244",
   "volume": 11.136,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

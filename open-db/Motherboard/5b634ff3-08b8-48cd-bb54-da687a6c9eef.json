@@ -23,7 +23,7 @@
   },
   "metadata": {
     "name": "ASRock X399 Taichi",
-    "manufacturer": null,
+    "manufacturer": "ASRock",
     "part_number": null,
     "series": null,
     "variant": null,
@@ -32,7 +32,7 @@
   },
   "socket": "TR4",
   "form_factor": "ATX",
-  "chipset": "X399",
+  "chipset": "AMD X399",
   "pcie_slots": [],
   "m2_slots": [],
   "onboard_ethernet": [

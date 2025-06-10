@@ -2,7 +2,7 @@
   "opendb_id": "5b25813a-9cbb-4057-af09-b4b97fcfbd1f",
   "metadata": {
     "name": "Asus TUF Gaming GT501 ATX Mid Tower Black / Gray with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "GT501                                                    90DC0012-B49000                                                    GT501",
       "GRY",
@@ -28,6 +28,7 @@
   "dimensions": "545 x 251 x 552",
   "volume": 75.511,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07L6CHS16",
     "newegg_sku": "N82E16811173034",

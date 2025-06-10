@@ -30,7 +30,7 @@
     "releaseYear": 0,
     "part_numbers": []
   },
-  "socket": "LGA1151 (300 Series)",
+  "socket": "LGA1151v2",
   "form_factor": "Mini-ITX",
   "chipset": "Intel B365",
   "pcie_slots": [

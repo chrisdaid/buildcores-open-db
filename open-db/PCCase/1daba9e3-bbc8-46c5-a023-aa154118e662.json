@@ -8,7 +8,7 @@
     "variant": "MB",
     "part_numbers": []
   },
-  "form_factor": "Micro ATX",
+  "form_factor": "Micro ATX Mini Tower",
   "power_supply": "No",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
@@ -22,6 +22,7 @@
   "volume": 0,
   "weight": 13,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CD64XLLC"
   }

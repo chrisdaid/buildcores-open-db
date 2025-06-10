@@ -32,7 +32,7 @@
   },
   "socket": "AM4",
   "form_factor": "ATX",
-  "chipset": "AMD® B450 Chipset",
+  "chipset": "AMD B450",
   "pcie_slots": [
     {
       "gen": "3.0",

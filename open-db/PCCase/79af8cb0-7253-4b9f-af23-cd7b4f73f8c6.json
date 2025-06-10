@@ -2,7 +2,7 @@
   "opendb_id": "79af8cb0-7253-4b9f-af23-cd7b4f73f8c6",
   "metadata": {
     "name": "Aerocool Playa ATX Mid Tower Black Tempered Glass Side Panel, USB 3.2 Gen 1 Type-A Front Panel",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "ACCM-PB09133.11AER-PLAYA-BKACCM-PB09013.11"
     ],
@@ -25,6 +25,7 @@
   "dimensions": "432 x 211 x 480",
   "volume": 43.753,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B07H562933"
   }

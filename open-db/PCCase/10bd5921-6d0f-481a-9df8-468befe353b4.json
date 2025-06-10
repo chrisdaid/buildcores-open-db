@@ -2,7 +2,7 @@
   "opendb_id": "10bd5921-6d0f-481a-9df8-468befe353b4",
   "metadata": {
     "name": "Deepcool CG580 ATX Mid Tower White Tempered Glass Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CG580-WHNDA0-G-1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "437 x 235 x 501",
   "volume": 51.45,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

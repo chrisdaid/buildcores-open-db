@@ -9,7 +9,7 @@
     "series": "A4-SFXv4.1",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "327 x 112 x 205",
   "volume": 7.508,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

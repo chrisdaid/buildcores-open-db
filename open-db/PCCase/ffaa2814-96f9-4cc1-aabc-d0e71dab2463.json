@@ -9,7 +9,7 @@
     "series": "PC-Q09F",
     "variant": ""
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "color": [
     "BLACK"
   ],
@@ -25,5 +25,6 @@
   "dimensions": "199 x 264 x 119",
   "volume": 6.252,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

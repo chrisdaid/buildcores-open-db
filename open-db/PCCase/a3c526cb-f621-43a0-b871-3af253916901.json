@@ -2,7 +2,7 @@
   "opendb_id": "a3c526cb-f621-43a0-b871-3af253916901",
   "metadata": {
     "name": "GameMax Contac Turbo COC ATX Mid Tower Pink / White Tempered Glass Side Panel, USB 3.2 Gen 1 Type-A",
-    "manufacturer": "GameMax",
+    "manufacturer": "GAMEMAX",
     "part_numbers": [
       "Contac COC WP"
     ],
@@ -26,5 +26,6 @@
   "dimensions": "438 x 210 x 468",
   "volume": 43.047,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

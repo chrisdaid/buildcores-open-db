@@ -30,7 +30,7 @@
     "releaseYear": 2019,
     "part_numbers": []
   },
-  "socket": "sTR4",
+  "socket": "TR4",
   "form_factor": "ATX",
   "chipset": "AMD X399",
   "pcie_slots": [

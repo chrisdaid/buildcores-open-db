@@ -5,6 +5,7 @@
   },
   "form_factor": "Micro ATX Mini Tower",
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08JGFGFTC",
     "newegg_sku": "N82E16811553071",

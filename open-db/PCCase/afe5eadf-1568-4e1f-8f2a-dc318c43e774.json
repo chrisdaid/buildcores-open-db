@@ -2,7 +2,7 @@
   "opendb_id": "afe5eadf-1568-4e1f-8f2a-dc318c43e774",
   "metadata": {
     "name": "Deepcool MATREXX 50 MESH 4FS ATX Mid Tower Black Tempered Glass",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "DP-ATX-MATREXX50-MESH-4FS"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "442 x 210 x 479",
   "volume": 44.461,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

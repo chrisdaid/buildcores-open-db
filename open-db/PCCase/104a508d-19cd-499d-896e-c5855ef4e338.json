@@ -2,7 +2,7 @@
   "opendb_id": "104a508d-19cd-499d-896e-c5855ef4e338",
   "metadata": {
     "name": "Azza Pyramid Mini 806 Mini-ITX Tower Silver / Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Azza",
+    "manufacturer": "AZZA",
     "part_numbers": [
       "CSAZ-806"
     ],
@@ -26,6 +26,7 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08HJ59574",
     "newegg_sku": "287-0024-00004"

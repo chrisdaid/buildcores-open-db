@@ -9,7 +9,7 @@
     "series": "Terra",
     "variant": "Silver"
   },
-  "form_factor": "Mini-ITX Desktop",
+  "form_factor": "Mini-ITX Tower",
   "power_supply": null,
   "power_supply_included": false,
   "side_panel": "Mesh",
@@ -24,6 +24,7 @@
   "volume": 11.44,
   "weight": 3.1,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0CD66CJ3N",
     "newegg_sku": "N82E16811352212",

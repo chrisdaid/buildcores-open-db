@@ -2,7 +2,7 @@
   "opendb_id": "286605b9-0105-4204-abd1-28b7dc09f97c",
   "metadata": {
     "name": "Aerocool Bolt Micro ATX Mini Tower Black with Acrylic Side Panel and USB 3.2 Gen 1 Type-A, USB 2.0 Type-A Front Ports",
-    "manufacturer": "Aerocool",
+    "manufacturer": "AeroCool",
     "part_numbers": [
       "ACCS-PV20012.11"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "",
   "volume": null,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -23,16 +23,16 @@
   },
   "metadata": {
     "name": "Z390 AORUS ULTRA",
-    "manufacturer": "GIGABYTE",
+    "manufacturer": "Gigabyte",
     "part_number": null,
     "series": "AORUS",
     "variant": "rev. 1.0",
     "releaseYear": 2018,
     "part_numbers": []
   },
-  "socket": "LGA 1151",
+  "socket": "LGA1151",
   "form_factor": "ATX",
-  "chipset": "Z390",
+  "chipset": "Intel Z390",
   "pcie_slots": [
     {
       "gen": "3.0",

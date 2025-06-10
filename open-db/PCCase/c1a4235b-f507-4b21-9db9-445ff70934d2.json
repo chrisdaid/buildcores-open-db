@@ -2,7 +2,7 @@
   "opendb_id": "c1a4235b-f507-4b21-9db9-445ff70934d2",
   "metadata": {
     "name": "X2 MESH",
-    "manufacturer": "Montech",
+    "manufacturer": "MONTECH",
     "part_numbers": [
       "X2 MESH Black"
     ],
@@ -24,6 +24,7 @@
   "volume": 32.273,
   "weight": 0,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08NDFV3Y5",
     "newegg_sku": "9SIAK91C8U4062"

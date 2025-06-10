@@ -2,7 +2,7 @@
   "opendb_id": "078038c2-00fc-4f4f-b3f4-b67f9594e7d0",
   "metadata": {
     "name": "Asus TUF Gaming GT502 ATX Mid Tower White Tempered Glass Side Panel",
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "part_numbers": [
       "GT502",
       "WHT",
@@ -28,6 +28,7 @@
   "dimensions": "446 x 285 x 450",
   "volume": 57.2,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0BQD5J39S",
     "newegg_sku": "N82E16811173050",

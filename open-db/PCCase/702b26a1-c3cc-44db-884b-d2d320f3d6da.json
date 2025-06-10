@@ -2,7 +2,7 @@
   "opendb_id": "702b26a1-c3cc-44db-884b-d2d320f3d6da",
   "metadata": {
     "name": "Deepcool CH360 DIGITAL Micro ATX Mid Tower White Tempered Glass Side Panel, USB 3.2 Gen 1 Type-C USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-CH360-WHAPE3D-G-1                                                    CH360 Digital WH"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "428 x 215 x 431",
   "volume": 39.661,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

@@ -5,6 +5,7 @@
   },
   "form_factor": "ATX Mid Tower",
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B08M8ZL617",
     "newegg_sku": "N82E16811352132",

@@ -2,7 +2,7 @@
   "opendb_id": "a2f12f4d-f25b-4ec2-ab96-40e610057c15",
   "metadata": {
     "name": "Deepcool MACUBE 310 ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 1 Type-A",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "MACUBE310 BK                                                    GS-ATX-MACUBE310-BKG0P"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "424.6 x 215 x 494.6",
   "volume": 45.152,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

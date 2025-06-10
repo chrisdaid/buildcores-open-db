@@ -2,7 +2,7 @@
   "opendb_id": "06edf99d-ba33-4e40-9ae4-87f8ecaf9bbf",
   "metadata": {
     "name": "Deepcool MACUBE 110 Micro ATX Mini Tower Black Tempered Glass Side Panel",
-    "manufacturer": "Deepcool",
+    "manufacturer": "DeepCool",
     "part_numbers": [
       "R-MACUBE110-BKNGM1N-G-1DP-R-MACUBE110-BKNGM1N-G-1"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "400 x 225 x 431",
   "volume": 38.79,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

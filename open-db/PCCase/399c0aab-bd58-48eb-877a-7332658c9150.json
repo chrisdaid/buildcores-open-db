@@ -2,7 +2,7 @@
   "opendb_id": "399c0aab-bd58-48eb-877a-7332658c9150",
   "metadata": {
     "name": "In Win BM639.AD160TBL Mini-ITX Tower Black",
-    "manufacturer": "In Win",
+    "manufacturer": "InWin",
     "part_numbers": [
       "BM639.AH160TB"
     ],
@@ -25,5 +25,6 @@
   "dimensions": "231 x 111 x 264",
   "volume": 6.769,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }

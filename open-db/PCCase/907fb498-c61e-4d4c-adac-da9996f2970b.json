@@ -7,10 +7,10 @@
     "series": "MATX Case",
     "variant": null
   },
-  "form_factor": "desktop",
+  "form_factor": "Micro ATX Slim Tower",
   "power_supply": null,
   "power_supply_included": false,
-  "side_panel": null,
+  "side_panel": "Steel",
   "has_transparent_side_panel": false,
   "front_panel_usb": "2",
   "max_video_card_length": 0,
@@ -22,6 +22,7 @@
   "volume": 7.3,
   "weight": 4.88,
   "color": [],
+  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0BY1PWP61"
   }

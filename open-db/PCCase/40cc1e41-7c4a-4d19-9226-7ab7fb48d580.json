@@ -9,7 +9,7 @@
     "series": "Minuet",
     "variant": ""
   },
-  "form_factor": "Micro ATX Slim",
+  "form_factor": "Micro ATX Slim Tower",
   "color": [
     "BLACK",
     "WHITE"
@@ -26,5 +26,6 @@
   "dimensions": "96 x 325 x 426",
   "volume": 13.291,
   "weight": null,
+  "supported_power_supply_form_factors": [],
   "general_product_information": {}
 }
