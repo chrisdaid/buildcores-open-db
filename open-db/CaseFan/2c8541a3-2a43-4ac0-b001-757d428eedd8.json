@@ -24,7 +24,6 @@
   "static_pressure": 0.2,
   "general_product_information": {
     "amazon_sku": "B01G5I6MYI",
-    "newegg_sku": "N82E16835181114",
-    "walmart_sku": 53572396
+    "newegg_sku": "N82E16835181114"
   }
 }
