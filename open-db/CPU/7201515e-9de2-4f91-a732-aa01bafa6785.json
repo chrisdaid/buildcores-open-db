@@ -45,6 +45,7 @@
   "coreFamily": "Vermeer",
   "socket": "AM4",
   "general_product_information": {
-    "amazon_sku": "B0DJLXJY68"
+    "amazon_sku": "B0DJLXJY68",
+    "newegg_sku": "N82E16819113879"
   }
 }

@@ -43,6 +43,7 @@
   },
   "core_count": 10240,
   "general_product_information": {
-    "amazon_sku": "B0CSBDKXK3"
+    "amazon_sku": "B0CSBDKXK3",
+    "newegg_sku": "N82E16814500581R"
   }
 }
