@@ -1,16 +1,16 @@
 {
-  "opendb_id": "07d867de-d950-4b0a-a598-73c2e37c0bd9",
+  "opendb_id": "ae5a4ce0-4c9f-4058-9cfc-d98175dbb1f6",
   "power_connectors": {
-    "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_6_pin": 1,
+    "pcie_8_pin": 1,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
   "metadata": {
-    "name": "Asus GTXTITANX-12GD5 GeForce GTX Titan X 12GB GDDR5 Black / Silver",
+    "name": "Asus Black / Silver GeForce GTX Titan X 12GB GDDR5 Black / Silver",
     "manufacturer": "Asus",
     "part_numbers": [
-      "GTXTITANX-12GD5"
+      "90YV0810-U0NA00                                                    GTXTITANX-12GD5"
     ],
     "series": "GeForce GTX Titan X",
     "variant": "Asus"
@@ -19,8 +19,8 @@
   "chipset": "GeForce GTX Titan X",
   "memory": 12,
   "memory_type": "GDDR5",
-  "core_base_clock": 1075,
-  "core_boost_clock": 1000,
+  "core_base_clock": 1000,
+  "core_boost_clock": 1075,
   "effective_memory_clock": 7010,
   "memory_bus": 0,
   "interface": "PCIe x16",
@@ -28,7 +28,7 @@
     "BLACK",
     "GREY"
   ],
-  "length": 267,
+  "length": 282,
   "tdp": 250,
   "total_slot_width": 2,
   "cooling": "1 Fan",
@@ -40,7 +40,7 @@
     "displayport_1_4a": 3,
     "dvi_d": 0,
     "vga": 0,
-    "_id": "684cd4121d3a20a8514d2fb1"
+    "_id": "685214248f7db3245af9f9fd"
   },
   "core_count": 0,
   "general_product_information": {
