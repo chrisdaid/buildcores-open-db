@@ -3,13 +3,18 @@
   "metadata": {
     "name": "Lian Li Lancool 207 Digital ATX Mid Tower Black",
     "manufacturer": "Lian Li",
-    "part_numbers": ["LAN207DX"],
+    "part_numbers": [
+      "LAN207DX"
+    ],
     "series": "Lancool",
     "variant": "Digital"
   },
   "form_factor": "ATX Mid Tower",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "power_supply": "None",
+  "supported_power_supply_form_factors": [],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 3.2 Gen 2 Type-C                                                    USB 3.0 Type-A",
@@ -21,7 +26,6 @@
   "dimensions": "455.6 x 219 x 456",
   "volume": 45.498,
   "weight": null,
-  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0DWDTY33V",
     "manufacturer_url": "https://lian-li.com/product/lancool-207-digital/"
