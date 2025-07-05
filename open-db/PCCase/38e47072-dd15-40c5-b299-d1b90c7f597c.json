@@ -1,16 +1,18 @@
 {
   "opendb_id": "38e47072-dd15-40c5-b299-d1b90c7f597c",
   "metadata": {
-    "name": "Fractal Design North ATX mATX Mid Tower PC Case - North Charcoal Black with Walnut Front and Dark Tinted TG Side Panel",
+    "name": "Fractal Design North ATX mATX Mid Tower PC Case - Chalk White with Walnut Front and Mesh Side Panel",
     "manufacturer": "Fractal Design",
     "part_numbers": [
-      "FD-C-NOR1C-02"
+      "FD-C-NOR1C-03"
     ],
     "series": "North",
-    "variant": "Charcoal Black / Dark Tint Tempered Glass"
+    "variant": "Chalk White / Mesh"
   },
   "form_factor": "ATX Mid Tower",
+  "color": [],
   "power_supply": "No",
+  "supported_power_supply_form_factors": [],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "1 x USB 3.2 Gen 2x2 Type-C, 2 x USB 3.0",
@@ -22,8 +24,6 @@
   "dimensions": "18.46\" x 8.46\" x 17.6\"",
   "volume": 0,
   "weight": 16.98,
-  "color": [],
-  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B09Y9FSZFX",
     "newegg_sku": "N82E16811352205",
