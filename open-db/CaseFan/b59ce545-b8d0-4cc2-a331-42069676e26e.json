@@ -21,6 +21,5 @@
   "controller": "None",
   "static_pressure": null,
   "flow_direction": "Standard",
-  "general_product_information": {
-  }
+  "general_product_information": {}
 }

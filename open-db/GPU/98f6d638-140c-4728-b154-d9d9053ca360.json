@@ -2,7 +2,7 @@
   "opendb_id": "98f6d638-140c-4728-b154-d9d9053ca360",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 1,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
@@ -17,6 +17,7 @@
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 5060 Ti",
+  "core_count": 4608,
   "memory": 16,
   "memory_type": "GDDR7",
   "core_base_clock": 2407,
@@ -41,6 +42,5 @@
     "vga": 0,
     "_id": "684cd4241d3a20a8514d3799"
   },
-  "core_count": 4608,
   "general_product_information": {}
 }
