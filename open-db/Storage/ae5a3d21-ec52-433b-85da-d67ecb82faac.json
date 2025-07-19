@@ -15,7 +15,6 @@
   "interface": "PCIe Gen3x4",
   "nvme": true,
   "general_product_information": {
-    "amazon_sku": "B07ZGJVTZK",
-    "walmart_sku": 12865765630
+    "amazon_sku": "B07ZGJVTZK"
   }
 }
