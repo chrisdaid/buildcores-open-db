@@ -11,8 +11,10 @@
     "variant": "Black / Brown"
   },
   "form_factor": "ATX Mid Tower",
+  "color": [],
   "power_supply": null,
   "power_supply_included": false,
+  "supported_power_supply_form_factors": [],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
@@ -24,8 +26,6 @@
   "dimensions": "464 mm x 303 mm x 476 mm",
   "volume": 66.922,
   "weight": 23.8,
-  "color": [],
-  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0DK85GRFZ",
     "newegg_sku": "N82E16811129322"
