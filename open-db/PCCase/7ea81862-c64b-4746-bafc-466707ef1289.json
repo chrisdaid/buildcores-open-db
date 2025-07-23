@@ -27,6 +27,8 @@
   "volume": 48.129,
   "weight": null,
   "general_product_information": {
-    "amazon_sku": "B0DNFWM17H"
+    "amazon_sku": "B0DNFWM17H",
+    "newegg_sku": "N82E16811734020",
+    "walmart_sku": 16177573701
   }
 }
