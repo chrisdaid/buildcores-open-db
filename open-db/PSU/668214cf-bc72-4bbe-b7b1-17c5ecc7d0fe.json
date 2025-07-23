@@ -23,7 +23,7 @@
   "efficiency_rating": "80 PLUS Titanium",
   "modular": "Full Modular",
   "length": 180,
-  "fanless": true,
+  "fanless": false,
   "color": [],
   "general_product_information": {
     "amazon_sku": "B09237VRR5",
