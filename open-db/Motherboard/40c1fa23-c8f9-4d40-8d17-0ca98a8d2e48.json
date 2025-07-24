@@ -38,13 +38,13 @@
   ],
   "pcie_slots": [
     {
-      "gen": "4.0",
+      "gen": "2.0",
       "quantity": 1,
       "lanes": 16,
       "_id": "67f9b9a3865ad0c3553de5a3"
     },
     {
-      "gen": "4.0",
+      "gen": "2.0",
       "quantity": 1,
       "lanes": 1,
       "_id": "67f9b9a3865ad0c3553de5a4"

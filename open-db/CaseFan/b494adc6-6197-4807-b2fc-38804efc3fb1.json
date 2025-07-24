@@ -22,6 +22,7 @@
   "static_pressure": 2.57,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B0BYN32YCB"
+    "amazon_sku": "B0BYN32YCB",
+    "newegg_sku": "N82E16835146137"
   }
 }

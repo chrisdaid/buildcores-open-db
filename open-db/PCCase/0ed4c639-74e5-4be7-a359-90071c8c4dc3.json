@@ -27,6 +27,7 @@
   "weight": null,
   "supported_power_supply_form_factors": [],
   "general_product_information": {
-    "amazon_sku": "B08J3VC975"
+    "amazon_sku": "B08J3VC975",
+    "newegg_sku": "N82E16811553067"
   }
 }

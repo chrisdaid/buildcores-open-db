@@ -50,7 +50,6 @@
   "socket": "LGA1700",
   "general_product_information": {
     "amazon_sku": "B0CGJ4MLC8",
-    "newegg_sku": "N82E16819118472",
-    "walmart_sku": 5120674460
+    "newegg_sku": "N82E16819118472"
   }
 }

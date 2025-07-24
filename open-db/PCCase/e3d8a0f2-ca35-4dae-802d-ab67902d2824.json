@@ -1,7 +1,7 @@
 {
   "opendb_id": "e3d8a0f2-ca35-4dae-802d-ab67902d2824",
   "metadata": {
-    "name": "darkFlash DY470 ATX Mid Tower White with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C USB 3.2 Gen 1 Type-A",
+    "name": "darkFlash DY470 ATX Mid Tower White with Tempered Glass Side Panel",
     "manufacturer": "darkFlash",
     "part_numbers": [
       "DY470 White"
@@ -14,6 +14,7 @@
     "WHITE"
   ],
   "power_supply": "None",
+  "supported_power_supply_form_factors": [],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 3.2 Gen 2 Type-C                                                    USB 3.2 Gen 1 Type-A",
@@ -25,7 +26,6 @@
   "dimensions": "473 x 298 x 497",
   "volume": 70.054,
   "weight": null,
-  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0DHWTLNPJ",
     "newegg_sku": "N82E16811326008"

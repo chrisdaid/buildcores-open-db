@@ -35,6 +35,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B0C9SLJ44B"
+    "amazon_sku": "B0C9SLJ44B",
+    "newegg_sku": "N82E16835101096"
   }
 }

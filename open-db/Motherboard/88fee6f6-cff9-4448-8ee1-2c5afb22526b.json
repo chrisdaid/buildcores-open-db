@@ -114,6 +114,7 @@
     "1 x 2.5 Gb/s Ports (Intel)"
   ],
   "general_product_information": {
-    "amazon_sku": "B0D3D3BKRN"
+    "amazon_sku": "B0D3D3BKRN",
+    "newegg_sku": "N82E16813119676R"
   }
 }

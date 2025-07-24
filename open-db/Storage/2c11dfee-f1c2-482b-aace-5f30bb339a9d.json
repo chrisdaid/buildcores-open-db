@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B078TJ17QF"
+    "amazon_sku": "B078TJ17QF",
+    "newegg_sku": "1Z4-002P-009M2"
   }
 }

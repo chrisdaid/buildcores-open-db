@@ -9,9 +9,9 @@
     "series": "Starryfort",
     "variant": "SF70H"
   },
-  "form_factor": "Micro-ATX Mid Tower",
+  "form_factor": "Micro ATX Mid Tower",
   "color": [
-    "Black"
+    "BLACK"
   ],
   "power_supply": null,
   "power_supply_included": false,

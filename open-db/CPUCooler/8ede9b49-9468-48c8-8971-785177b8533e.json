@@ -35,6 +35,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B0BRBWL38D"
+    "amazon_sku": "B0BRBWL38D",
+    "newegg_sku": "N82E16835103344"
   }
 }
