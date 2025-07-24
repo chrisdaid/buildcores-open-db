@@ -24,16 +24,13 @@
       ],
       "description": "The storage capacity of the drive in GB (e.g., 4000 GB)"
     },
-    "type": [
-      {
-        "type": [
-          "string",
-          "null"
-        ],
-        "description": "The type of storage drive"
-      },
-      "null"
-    ],
+    "type": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "The type of storage drive (either HDD or SSD)"
+    },
     "form_factor": {
       "type": [
         "string",
@@ -47,6 +44,13 @@
         "null"
       ],
       "description": "The interface used by the drive (e.g., M.2 PCIe 4.0 X4, SATA 6Gb/s)"
+    },
+    "cache": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "The cache size of the drive in MB"
     },
     "nvme": {
       "type": [
