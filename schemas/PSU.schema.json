@@ -38,6 +38,20 @@
       ],
       "description": "The 80 PLUS efficiency certification level (e.g., 80 PLUS Gold)"
     },
+    "cybernetics_efficiency_rating": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "The Cybernetics efficiency rating of the PSU (e.g., Cybenetics Titanium, Cybenetics Platinum, Cybenetics Gold)"
+    },
+    "cybernetics_noise_rating": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "The Cybernetics noise rating of the PSU (e.g., Cybernetics A++. Cybernetics A+, Cybernetics Standard, etc)"
+    },
     "modular": {
       "type": [
         "string",
