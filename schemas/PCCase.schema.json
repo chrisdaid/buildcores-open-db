@@ -113,6 +113,27 @@
       ],
       "description": "The number of internal 2.5\" drive bays"
     },
+    "external_3_5_bays": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "The number of external 3.5\" drive bays"
+    },
+    "external_5_25_bays": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "The number of external 5.25\" drive bays"
+    },
+    "power_supply_shroud": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "Whether the case has a power supply shroud"
+    },
     "expansion_slots": {
       "type": [
         "number",
@@ -120,12 +141,56 @@
       ],
       "description": "The number of expansion slots"
     },
+    "riser_expansion_slots": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "The number of riser expansion slots"
+    },
+    "supports_rear_connecting_motherboard": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "Whether the case supports rear connecting motherboard (BTF, Project Zero, etc)"
+    },
     "dimensions": {
       "type": [
         "string",
         "null"
       ],
       "description": "The dimensions of the case in mm (e.g., '466 x 290 x 495')"
+    },
+    "dimensions_mm": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "width": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Width in mm"
+        },
+        "height": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Height in mm"
+        },
+        "depth": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Depth in mm"
+        }
+      },
+      "description": "The dimensions of the case in mm (e.g., { width: 466, height: 290, depth: 495 })"
     },
     "volume": {
       "type": [

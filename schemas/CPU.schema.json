@@ -205,6 +205,83 @@
                 "null"
               ],
               "description": "Boost clock of integrated graphics"
+            },
+            "shaderCount": {
+              "type": [
+                "number",
+                "null"
+              ],
+              "description": "Number of shaders in the integrated graphics"
+            }
+          }
+        },
+        "eccSupport": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "description": "Whether the CPU supports Error-Correcting Code memory"
+        },
+        "includesCooler": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "description": "Whether a stock cooler is included with the CPU"
+        },
+        "packaging": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "The type of packaging the CPU comes in (e.g., Tray, Box)"
+        },
+        "lithography": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "The manufacturing process technology used. Can be multiple process technologies if chiplet design"
+        },
+        "simultaneousMultithreading": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "description": "Whether the CPU supports simultaneous multithreading (SMT), also known as hyperthreading"
+        },
+        "memory": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "properties": {
+            "maxSupport": {
+              "type": [
+                "number",
+                "null"
+              ],
+              "description": "Max supported memory in GB"
+            },
+            "types": {
+              "type": [
+                "array",
+                "null"
+              ],
+              "items": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "description": "Supported memory types (e.g., DDR5, DDR4)"
+            },
+            "channels": {
+              "type": [
+                "number",
+                "null"
+              ],
+              "description": "Max supported memory channels"
             }
           }
         }

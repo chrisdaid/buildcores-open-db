@@ -184,6 +184,13 @@
         "null"
       ],
       "properties": {
+        "hdmi_2_2": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of HDMI 2.2 ports"
+        },
         "hdmi_2_1": {
           "type": [
             "number",
@@ -197,6 +204,48 @@
             "null"
           ],
           "description": "Number of HDMI 2.0 ports"
+        },
+        "displayport_2_1": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of DisplayPort 2.1 ports"
+        },
+        "displayport_2_1a": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of DisplayPort 2.1a ports"
+        },
+        "displayport_1_4a": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of DisplayPort 1.4a ports"
+        },
+        "displayport_2_1_b": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of DisplayPort 2.1b ports"
+        },
+        "dvi_d": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of DVI-D ports"
+        },
+        "vga": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of VGA ports"
         }
       }
     },
