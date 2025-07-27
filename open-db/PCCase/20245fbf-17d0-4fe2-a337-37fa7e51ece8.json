@@ -14,6 +14,7 @@
     "WHITE"
   ],
   "power_supply": "None",
+  "supported_power_supply_form_factors": [],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 3.2 Gen 2x2 Type-C                                                    USB 3.2 Gen 1 Type-A",
@@ -25,7 +26,6 @@
   "dimensions": "466 x 290 x 495",
   "volume": 66.894,
   "weight": null,
-  "supported_power_supply_form_factors": [],
   "general_product_information": {
     "amazon_sku": "B0BFZZVDZR",
     "newegg_sku": "N82E16811146348"
