@@ -228,6 +228,13 @@
         }
       }
     },
+    "wireless_networking": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Supported wifi standards. E.g. Wifi 6E, Wifi 7, etc"
+    },
     "usb_headers": {
       "type": [
         "object",
@@ -278,6 +285,175 @@
           "description": "Number of USB 4 headers (USB 80Gbps)"
         }
       }
+    },
+    "fan_headers": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "description": "Fan and cooling headers on the motherboard",
+      "properties": {
+        "cpu_fan": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of CPU fan headers (typically 4-pin PWM)"
+        },
+        "case_fan": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of case/chassis fan headers (typically 4-pin PWM)"
+        },
+        "pump": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of dedicated pump headers for AIO coolers"
+        },
+        "cpu_opt": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of CPU optional fan headers"
+        }
+      }
+    },
+    "rgb_headers": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "description": "RGB and lighting headers on the motherboard",
+      "properties": {
+        "argb_5v": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of addressable RGB headers (5V, 3-pin)"
+        },
+        "rgb_12v": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of standard RGB headers (12V, 4-pin)"
+        }
+      }
+    },
+    "front_panel_headers": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "description": "Front panel connector headers",
+      "properties": {
+        "power_button": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "description": "Whether the motherboard has a power button header"
+        },
+        "reset_button": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "description": "Whether the motherboard has a reset button header"
+        },
+        "power_led": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "description": "Whether the motherboard has a power LED header"
+        },
+        "hdd_led": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "description": "Whether the motherboard has an HDD activity LED header"
+        }
+      }
+    },
+    "other_headers": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "description": "Other miscellaneous headers",
+      "properties": {
+        "temperature_sensor": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of temperature sensor headers"
+        },
+        "thunderbolt": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of Thunderbolt headers"
+        },
+        "com_port": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Number of COM port headers"
+        }
+      }
+    },
+    "power_connectors": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "description": "Power connector specifications",
+      "properties": {
+        "main_power": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Main power connector specification (e.g., '24-pin')"
+        },
+        "cpu_power": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "description": "CPU power connector specifications (e.g., ['8-pin', '8-pin'] for dual 8-pin)"
+        }
+      }
+    },
+    "back_panel_ports": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "description": "This is a list of ports on the back of the motherboard"
     },
     "ecc_support": {
       "type": [
