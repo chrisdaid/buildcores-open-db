@@ -15,6 +15,7 @@
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 5070 Ti",
+  "core_count": 8960,
   "memory": 16,
   "memory_type": "GDDR7",
   "core_base_clock": 2300,
@@ -37,11 +38,8 @@
     "displayport_2_1a": 0,
     "displayport_1_4a": 0,
     "dvi_d": 0,
-    "vga": 0
+    "vga": 0,
+    "_id": "68872fb2b0513455ceb1672a"
   },
-  "core_count": 8960,
-  "general_product_information": {
-    "amazon_sku": "",
-    "newegg_sku": ""
-  }
+  "general_product_information": {}
 }
