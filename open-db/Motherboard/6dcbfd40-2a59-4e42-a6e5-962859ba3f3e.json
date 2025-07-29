@@ -142,5 +142,8 @@
   "back_panel_ports": [
     "1 x 5 Gb/s (Intel Killer E5000B)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {}
 }

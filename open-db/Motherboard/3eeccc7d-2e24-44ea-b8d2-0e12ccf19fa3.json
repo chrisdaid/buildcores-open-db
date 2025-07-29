@@ -101,6 +101,9 @@
   "back_panel_ports": [
     "1 x 2.5 Gb/s Ports (Realtek Dragon RTL8125BG)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B089W8B8VY",
     "walmart_sku": 831690520

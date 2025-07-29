@@ -118,6 +118,9 @@
     "BIOS Flashback Button"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B09ZNSYHNZ",
     "newegg_sku": "9SIA0ZXJVU6973",

@@ -88,6 +88,9 @@
   "back_panel_ports": [
     "1 x 2.5 Gb/s (Intel I225-V)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B08VL2GRS9",
     "newegg_sku": "9SIBTK0KA94294"

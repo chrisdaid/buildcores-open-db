@@ -90,6 +90,9 @@
     "Optical S/PDIF-Out"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07T5QDRFN",
     "newegg_sku": "9SIBMM4K740450",

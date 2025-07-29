@@ -46,6 +46,9 @@
   },
   "back_panel_ports": [],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07TD911Y2",
     "newegg_sku": "9SIB2N5HMW4866"

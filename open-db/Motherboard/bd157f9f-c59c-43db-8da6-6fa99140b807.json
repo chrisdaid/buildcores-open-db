@@ -88,6 +88,9 @@
     "USB 3.1 Gen 1"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B075GN9YC4",
     "newegg_sku": "9SIBMM4K740588"

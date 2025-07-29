@@ -112,5 +112,8 @@
   "back_panel_ports": [
     "1 x 10 Gb/s (Marvell)                                                    1 x 2.5 Gb/s (Intel I226-V)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {}
 }

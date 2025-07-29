@@ -76,6 +76,9 @@
   "back_panel_ports": [
     "1 x 2.5 Gb/s Ports (Realtek RTL8125B)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B092HSSGDY",
     "newegg_sku": "9SIAJEPK702538",

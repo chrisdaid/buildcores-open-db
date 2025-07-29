@@ -75,6 +75,9 @@
     "DVI"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B08BN8VD23"
   }

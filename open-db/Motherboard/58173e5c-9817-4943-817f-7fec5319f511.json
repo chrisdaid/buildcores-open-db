@@ -77,5 +77,8 @@
   "back_panel_ports": [
     "2 x 1 Gb/s (Intel Killer E2400)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {}
 }

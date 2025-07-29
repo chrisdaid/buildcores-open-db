@@ -64,6 +64,9 @@
   "back_panel_ports": [
     "1 x 100 Mb/s Ports"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B006DY3ACM"
   }

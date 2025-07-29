@@ -92,6 +92,9 @@
     "Anti-surge LAN (RJ45) port"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07C4PH429",
     "newegg_sku": "9SIBWH3KA17383",

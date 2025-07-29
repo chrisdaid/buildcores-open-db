@@ -123,6 +123,9 @@
     "PS/2"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07J9YH428",
     "newegg_sku": "9SIAPH8K9E6334"

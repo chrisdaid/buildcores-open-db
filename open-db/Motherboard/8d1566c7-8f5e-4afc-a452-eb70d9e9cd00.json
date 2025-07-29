@@ -101,6 +101,9 @@
     "5 x audio jacks"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B08C9GJ49M",
     "newegg_sku": "9SIAGBAH8S1975"

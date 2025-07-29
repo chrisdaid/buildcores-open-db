@@ -111,6 +111,9 @@
     "2 x audio jacks"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0CPW1F841",
     "walmart_sku": 5211078073

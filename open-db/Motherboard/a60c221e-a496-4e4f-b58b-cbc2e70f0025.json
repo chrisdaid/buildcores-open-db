@@ -97,6 +97,9 @@
     "5 x Gold-plated audio jacks"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07HCXT591",
     "newegg_sku": "9SIAPMXKC97927",

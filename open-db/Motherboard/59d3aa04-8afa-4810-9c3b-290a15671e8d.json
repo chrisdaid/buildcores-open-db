@@ -94,6 +94,9 @@
     "HD Audio Jacks: Rear Speaker / Central / Bass / Line in / Front Speaker / Microphone"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07TK31ZY7",
     "newegg_sku": "9SIAYB7J654729",

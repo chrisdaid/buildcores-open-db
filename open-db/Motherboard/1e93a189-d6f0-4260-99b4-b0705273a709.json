@@ -93,6 +93,9 @@
     "Optical S/PDIF out port"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B08SYWZW4S",
     "newegg_sku": "9SIBTK0KAH5681",

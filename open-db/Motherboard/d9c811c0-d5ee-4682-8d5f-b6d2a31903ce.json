@@ -95,6 +95,9 @@
     "5x 1/8\" / 3.5 mm"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B081FXBWTD",
     "newegg_sku": "9SIBNR1K1P7479",

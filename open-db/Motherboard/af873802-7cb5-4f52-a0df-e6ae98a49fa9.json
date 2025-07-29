@@ -106,6 +106,9 @@
     "HD Audio Jacks: Line in / Front Speaker / Microphone"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0BJF21VQJ",
     "walmart_sku": 2431447957

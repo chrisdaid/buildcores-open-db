@@ -79,6 +79,9 @@
     "1 x HDMI"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07CG34RMD",
     "newegg_sku": "9SIBWH3KA18109",

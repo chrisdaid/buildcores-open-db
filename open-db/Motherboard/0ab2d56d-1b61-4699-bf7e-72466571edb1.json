@@ -92,6 +92,9 @@
     "LAN (RJ45)"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B087LXDVQ7",
     "newegg_sku": "9SIBTK0K937942",

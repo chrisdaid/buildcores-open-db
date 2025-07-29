@@ -82,6 +82,9 @@
     "2x USB 2.0"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B00NTAQ4YY"
   }

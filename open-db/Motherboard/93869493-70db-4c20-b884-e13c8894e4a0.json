@@ -70,6 +70,9 @@
   "back_panel_ports": [
     "1 x 1 Gb/s (Realtek RTL8111H)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B09BDDLNHQ"
   }

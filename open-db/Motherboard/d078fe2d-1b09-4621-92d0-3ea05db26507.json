@@ -95,6 +95,9 @@
   "back_panel_ports": [
     "1 x 1 Gb/s Ports"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B06X9LN3QK"
   }

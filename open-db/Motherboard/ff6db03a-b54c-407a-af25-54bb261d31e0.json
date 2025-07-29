@@ -97,6 +97,9 @@
     "1 x USB BIOS FlashBack Button(s)"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B08165D9R7",
     "newegg_sku": "9SIBTK0K936841",

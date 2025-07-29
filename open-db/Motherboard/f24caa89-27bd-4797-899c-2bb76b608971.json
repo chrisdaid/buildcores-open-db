@@ -94,6 +94,9 @@
   "back_panel_ports": [
     "1 x 2.5 Gb/s Ports (Realtek 8125BG)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0BHBZRW66",
     "newegg_sku": "N82E16813144559",

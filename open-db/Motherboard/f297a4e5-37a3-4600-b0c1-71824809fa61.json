@@ -107,6 +107,9 @@
     "Audio Jacks"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B09GLD6FPY",
     "newegg_sku": "N82E16813144494",

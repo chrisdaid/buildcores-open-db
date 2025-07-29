@@ -82,6 +82,9 @@
     "1x8-channelAudioI/O"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07SND55FR",
     "newegg_sku": "9SIBWH3K9X1046",

@@ -91,6 +91,9 @@
     "5x3.5mmaudiojacks"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B081JX2LKK"
   }

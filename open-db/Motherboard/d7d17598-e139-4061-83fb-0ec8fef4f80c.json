@@ -75,6 +75,9 @@
     "3 x audio jacks"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B083NK82QJ",
     "newegg_sku": "1JW-000J-00565",

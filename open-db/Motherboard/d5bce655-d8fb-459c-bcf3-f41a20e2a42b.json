@@ -103,6 +103,9 @@
     "1xOpticalS/PDIF"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B087LKNCW3",
     "newegg_sku": "9SIBTK0KAU9488",

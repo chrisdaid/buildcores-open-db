@@ -87,6 +87,9 @@
     "Flash BIOS Button"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07XHH4YG4",
     "newegg_sku": "9SIBWH3K9Z4769",

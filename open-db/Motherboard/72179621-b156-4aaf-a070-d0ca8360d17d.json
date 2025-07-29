@@ -89,6 +89,9 @@
   "back_panel_ports": [
     "1 x 2.5 Gb/s Ports (Realtek RTL8125BG)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0DQB3RC4H",
     "newegg_sku": "N82E16813144690"

@@ -88,6 +88,9 @@
     "USB 3.2 Gen2"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07V9L4RT6"
   }

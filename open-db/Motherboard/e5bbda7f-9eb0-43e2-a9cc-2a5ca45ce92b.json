@@ -89,5 +89,8 @@
   "back_panel_ports": [
     "1 x 1 Gb/s (Realtek)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {}
 }

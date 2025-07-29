@@ -70,6 +70,9 @@
   "back_panel_ports": [
     "1 x 1 Gb/s Ports (Intel)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0C4CB8G8D",
     "newegg_sku": "N82E16813145462",

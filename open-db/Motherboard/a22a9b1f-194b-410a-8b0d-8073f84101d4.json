@@ -65,6 +65,9 @@
     "HYPER 10G LAN"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B087YVMZ5K",
     "newegg_sku": "9SIAGBAJBN0859",

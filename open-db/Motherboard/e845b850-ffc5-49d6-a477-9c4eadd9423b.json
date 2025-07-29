@@ -104,5 +104,8 @@
     "2 x 1 Gb/s"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {}
 }

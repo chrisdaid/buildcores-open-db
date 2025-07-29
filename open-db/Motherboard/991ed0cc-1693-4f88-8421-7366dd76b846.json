@@ -69,6 +69,9 @@
     "Intel GbE LAN"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07BVNYFM2",
     "newegg_sku": "9SIAWFGJHA3952"

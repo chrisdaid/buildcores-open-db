@@ -84,6 +84,9 @@
   "back_panel_ports": [
     "1 x 1 Gb/s Ports (Realtek)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0979QCJXK",
     "newegg_sku": "2MG-000B-003T9"

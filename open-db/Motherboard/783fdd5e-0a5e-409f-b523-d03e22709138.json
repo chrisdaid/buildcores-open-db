@@ -101,6 +101,9 @@
     "optical S/PDIF Out connector"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0BH6G92RX",
     "newegg_sku": "N82E16813145411R",

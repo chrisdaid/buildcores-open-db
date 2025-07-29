@@ -104,6 +104,9 @@
     "1 x Clear CMOS button"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0DGQ91QLK"
   }

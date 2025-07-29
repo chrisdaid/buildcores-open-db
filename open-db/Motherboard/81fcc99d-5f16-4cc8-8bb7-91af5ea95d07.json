@@ -74,6 +74,9 @@
     "3xAudioJacks"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B087M3KRMY",
     "newegg_sku": "9SIAGBAJCG4562"

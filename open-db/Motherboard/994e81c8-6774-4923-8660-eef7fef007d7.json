@@ -73,6 +73,9 @@
     "6 x audio jacks (Center/Subwoofer Speaker Out/Rear Speaker Out/Side Speaker Out/Line In/Line Out/Microphone)"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B00D1A5OR0"
   }

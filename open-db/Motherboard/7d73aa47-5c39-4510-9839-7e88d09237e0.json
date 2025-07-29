@@ -101,6 +101,9 @@
     "2x Connector"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B08WCN4NK5",
     "newegg_sku": "9SIAJEPK889431",

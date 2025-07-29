@@ -77,5 +77,8 @@
   "back_panel_ports": [
     "1 x 1 Gb/s (Intel Killer E2205)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {}
 }

@@ -95,6 +95,9 @@
   "back_panel_ports": [
     "1 x 2.5 Gb/s (Realtek Dragon RTL8125BG)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0DRTWWSHF",
     "newegg_sku": "N82E16813162204"

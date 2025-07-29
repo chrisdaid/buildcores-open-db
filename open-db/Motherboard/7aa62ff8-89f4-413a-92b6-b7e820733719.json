@@ -95,6 +95,9 @@
     "1 x Optical S/PDIF OUT connector"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07T4M4XPG",
     "newegg_sku": "9SIBMM4KCU4745",

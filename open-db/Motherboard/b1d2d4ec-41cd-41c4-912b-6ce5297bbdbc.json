@@ -102,6 +102,9 @@
     "1x S/PDIF"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B081YW31GR",
     "newegg_sku": "9SIAMU8K4F8333",

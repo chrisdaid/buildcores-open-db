@@ -86,6 +86,9 @@
     "Audio Jacks"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B071SGQP1Q",
     "newegg_sku": "9SIA4REJEM5750",

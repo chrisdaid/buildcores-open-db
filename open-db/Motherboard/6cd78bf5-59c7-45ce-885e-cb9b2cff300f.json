@@ -81,6 +81,9 @@
     "Audio Ports"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07HM3LZB1",
     "newegg_sku": "9SIBMM4K740638",

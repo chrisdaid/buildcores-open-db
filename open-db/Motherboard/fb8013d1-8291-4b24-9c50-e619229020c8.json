@@ -98,6 +98,9 @@
     "RJ-45"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07RTXH3PG",
     "bestbuy_sku": 6409176,

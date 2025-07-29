@@ -113,6 +113,9 @@
     "HD Audio Jacks: Line in / Front Speaker / Microphone"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0BJDZ4YZR",
     "newegg_sku": "N82E16813144560",

@@ -109,6 +109,9 @@
     "USB 3.2 Gen 2 10Gbps Type-A"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B09GLC1SS4",
     "newegg_sku": "N82E16813144488",

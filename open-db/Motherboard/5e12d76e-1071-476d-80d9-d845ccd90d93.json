@@ -89,6 +89,9 @@
   "back_panel_ports": [
     "1 x 1 Gb/s (Realtek 8111H)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "newegg_sku": "N82E16813162218"
   }

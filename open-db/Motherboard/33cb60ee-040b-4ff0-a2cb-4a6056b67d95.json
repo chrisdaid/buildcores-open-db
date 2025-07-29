@@ -99,6 +99,9 @@
     "Wireless Antenna Connectors"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07HRZKSX4",
     "newegg_sku": "9SIBWH3K9T9279",

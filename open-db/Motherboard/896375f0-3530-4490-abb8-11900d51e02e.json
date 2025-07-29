@@ -110,6 +110,9 @@
     "1 x Optical S/PDIF out"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0BFBRPBF5",
     "newegg_sku": "N82E16813119591R",

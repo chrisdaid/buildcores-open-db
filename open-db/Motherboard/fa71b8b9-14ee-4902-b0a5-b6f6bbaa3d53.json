@@ -92,6 +92,9 @@
     "1x PS/2"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B087GXPBMV",
     "newegg_sku": "9SIAUNCK0V9248",

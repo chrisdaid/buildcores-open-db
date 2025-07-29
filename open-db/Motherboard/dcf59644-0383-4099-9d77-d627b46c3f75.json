@@ -88,6 +88,9 @@
     "ASUS Wi-Fi Module"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B087M3H5P8",
     "newegg_sku": "9SIA4REKBY1208"

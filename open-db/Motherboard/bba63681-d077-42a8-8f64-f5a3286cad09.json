@@ -76,6 +76,9 @@
     "S/PDIF Out"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B073PWKSP6",
     "newegg_sku": "9SIA4REJEM5792"

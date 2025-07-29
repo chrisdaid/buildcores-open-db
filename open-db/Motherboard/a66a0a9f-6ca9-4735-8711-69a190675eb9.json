@@ -94,6 +94,9 @@
     "5 x audio jacks (Center/Subwoofer Speaker Out, Rear Speaker Out, Line In, Line Out, Mic In)"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B06VWHXK94",
     "newegg_sku": "9SIBWH3KBC8938",

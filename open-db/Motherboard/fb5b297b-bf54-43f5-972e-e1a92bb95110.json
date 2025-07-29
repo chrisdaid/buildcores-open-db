@@ -106,6 +106,9 @@
   "back_panel_ports": [
     "1 x 1 Gb/s Ports (Intel I219-V)                                                    1 x 5 Gb/s Ports (Marvell AQtion AQC111C)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B086QT2Y86",
     "newegg_sku": "9SIBTK0KAC4996",

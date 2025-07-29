@@ -119,6 +119,9 @@
   "back_panel_ports": [
     "1 x 5 Gb/s Ports (Realtek 8126VB)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0DT58JK2W",
     "newegg_sku": "N82E16813144697"

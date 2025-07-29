@@ -82,6 +82,9 @@
     "Audio Connectors"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0892VZNPC",
     "newegg_sku": "9SIBMM4KD05200",

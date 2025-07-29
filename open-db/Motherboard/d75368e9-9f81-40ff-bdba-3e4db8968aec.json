@@ -94,5 +94,8 @@
   "back_panel_ports": [
     "1 x 1 Gb/s (Intel I210-AT)                                                    1 x 1 Gb/s (Intel I219-LM)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {}
 }

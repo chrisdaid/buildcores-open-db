@@ -122,6 +122,9 @@
     "1 x 2.5 Gb/s (Realtek Dragon RTL8125BG)                                                    1 x 1 Gb/s (Realtek RTL8111)"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "newegg_sku": "N82E16813162070"
   }

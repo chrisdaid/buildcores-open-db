@@ -91,6 +91,9 @@
     "3 x Audio jack(s)"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07HM3M1SP",
     "newegg_sku": "9SIBWH3KA54642",

@@ -79,6 +79,9 @@
     "4xUSB2.0(Type-A)"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0BHMVFS77",
     "newegg_sku": "N82E16813119596",

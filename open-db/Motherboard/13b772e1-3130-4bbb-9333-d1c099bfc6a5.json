@@ -76,6 +76,9 @@
     "2.5GbE LAN"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B088ZPXFH2",
     "newegg_sku": "N82E16813145221",

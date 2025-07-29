@@ -100,6 +100,9 @@
     "1 x BIOS FlashBack button"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B09D76VGF7",
     "newegg_sku": "9SIBTK0KAT2250",

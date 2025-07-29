@@ -69,6 +69,9 @@
   "back_panel_ports": [
     "1 x 1 Gb/s"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B002WSRH1S"
   }

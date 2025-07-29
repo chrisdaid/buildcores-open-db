@@ -92,6 +92,9 @@
     "8-ch Audio"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B087LNZXDV",
     "newegg_sku": "9SIBWH3KA95835",

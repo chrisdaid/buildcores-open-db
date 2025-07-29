@@ -8,6 +8,9 @@
   "onboard_ethernet": [],
   "pcie_slots": [],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0CP18RY4B"
   }

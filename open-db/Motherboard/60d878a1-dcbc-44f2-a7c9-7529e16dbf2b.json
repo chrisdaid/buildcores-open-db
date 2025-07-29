@@ -100,6 +100,9 @@
     "1 x PS/2 Keyboard/Mouse combo port"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B08ZS73B4Y",
     "newegg_sku": "N82E16813119414",

@@ -78,6 +78,9 @@
   "back_panel_ports": [
     "1 x 1 Gb/s Ports (Intel I219-V)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0BG625W1W",
     "newegg_sku": "N82E16813162073"

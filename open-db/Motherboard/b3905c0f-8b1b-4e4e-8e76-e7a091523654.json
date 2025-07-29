@@ -82,6 +82,9 @@
     "USB 3.2 Gen2 Type A+C"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07WF6ZQST",
     "newegg_sku": "9SIBMM4K3Z2229",

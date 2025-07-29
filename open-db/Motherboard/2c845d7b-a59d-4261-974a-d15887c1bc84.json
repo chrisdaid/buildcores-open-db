@@ -102,6 +102,9 @@
     "Clear CMOS button"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0CNR6L1DH",
     "newegg_sku": "N82E16813145488",

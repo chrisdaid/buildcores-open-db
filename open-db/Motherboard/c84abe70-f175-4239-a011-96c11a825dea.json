@@ -70,6 +70,9 @@
     "Audio"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0892R8PDJ",
     "newegg_sku": "9SIBMM4K740452",

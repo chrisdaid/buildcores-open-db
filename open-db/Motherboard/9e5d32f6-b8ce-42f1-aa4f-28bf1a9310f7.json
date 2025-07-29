@@ -89,6 +89,9 @@
   "back_panel_ports": [
     "1 x 2.5 Gb/s (Intel I225-V)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B09KL7KVTM",
     "newegg_sku": "N82E16813144507",

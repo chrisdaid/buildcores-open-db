@@ -95,6 +95,9 @@
     "HD Audio Jacks"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07MV7LR1B",
     "newegg_sku": "9SIAYB7J9F3226",

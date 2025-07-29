@@ -88,6 +88,9 @@
     "5 x USB 3.1 Gen 1 Type-A"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B06WWF165R"
   }

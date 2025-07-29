@@ -64,5 +64,8 @@
   "back_panel_ports": [
     "1 x 1 Gb/s (Intel I218-V)                                                    1 x 1 Gb/s (Atheros AR8171)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {}
 }

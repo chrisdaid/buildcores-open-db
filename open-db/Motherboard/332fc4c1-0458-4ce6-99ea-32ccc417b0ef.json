@@ -87,6 +87,9 @@
     "3 x Audio jack(s)"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B087M19S5P",
     "newegg_sku": "9SIBTK0K937940"

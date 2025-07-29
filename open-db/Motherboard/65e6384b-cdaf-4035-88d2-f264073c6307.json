@@ -77,6 +77,9 @@
   "back_panel_ports": [
     "1 x 1 Gb/s Ports (Realtek)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0CGMBV6XD",
     "newegg_sku": "N82E16813145439",

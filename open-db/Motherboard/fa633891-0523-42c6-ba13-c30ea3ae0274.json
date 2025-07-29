@@ -124,6 +124,9 @@
     "1x RJ45"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B086QT66PW",
     "newegg_sku": "9SIBWH3K9T9009",

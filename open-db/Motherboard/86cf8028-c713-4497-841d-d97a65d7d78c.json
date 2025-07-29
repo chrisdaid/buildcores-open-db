@@ -130,6 +130,9 @@
   "back_panel_ports": [
     "1 x 2.5 Gb/s Ports (Intel)"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B0CJMQV8LR",
     "walmart_sku": 5202211752

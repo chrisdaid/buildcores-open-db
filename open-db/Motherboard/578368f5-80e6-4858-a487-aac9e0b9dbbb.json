@@ -104,6 +104,9 @@
     "5) Analog + SPDIF"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B09RP8SRN8",
     "newegg_sku": "N82E16813188204",

@@ -70,6 +70,9 @@
   "back_panel_ports": [
     "1 x 100 Mb/s"
   ],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B000TZR4W8"
   }

@@ -87,6 +87,9 @@
     "HD Audio Connectors"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B089D666KF",
     "newegg_sku": "9SIBWH3KBA5488",

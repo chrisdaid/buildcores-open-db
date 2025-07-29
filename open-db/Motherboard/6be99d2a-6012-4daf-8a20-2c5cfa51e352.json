@@ -94,6 +94,9 @@
     "1x Combo"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {
     "amazon_sku": "B07BP9QG2N",
     "newegg_sku": "9SIBKYEK6R6254",

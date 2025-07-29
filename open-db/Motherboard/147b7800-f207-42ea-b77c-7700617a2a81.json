@@ -122,5 +122,8 @@
     "1 x 2.5 Gb/s (Intel)"
   ],
   "color": [],
+  "power_connectors": {
+    "cpu_power": []
+  },
   "general_product_information": {}
 }
