@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "SupremeFX S1220A",
     "channels": "8"
@@ -92,9 +95,6 @@
     "Anti-surge LAN (RJ45) port"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07C4PH429",
     "newegg_sku": "9SIBWH3KA17383",

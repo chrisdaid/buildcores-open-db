@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC887-VD2",
     "channels": "8"
@@ -100,9 +103,6 @@
     "3 x Audio jack(s)"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07C5YR3KS",
     "newegg_sku": "9SIBWH3K9W9650",

@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek 7.1 Surround Sound High Definition Audio CODEC",
     "channels": "7.1"
@@ -101,9 +104,6 @@
     "1 x PS/2 Keyboard/Mouse combo port"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B0BG6ML17L",
     "newegg_sku": "N82E16813119605",

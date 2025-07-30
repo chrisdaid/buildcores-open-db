@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "8-ch HD Audio with Audio Caps",
     "channels": "7.1"
@@ -78,9 +81,6 @@
     "audio jacks"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B083NLX6G3",
     "newegg_sku": "N82E16813145386R",

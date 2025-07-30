@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": null,
     "usb_4": null
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC887/897",
     "channels": "7.1"
@@ -105,9 +108,6 @@
     "3xAudiojack(s)"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B081PZTZ4B",
     "newegg_sku": "9SIB0TFJPM7046",

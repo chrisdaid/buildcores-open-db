@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "RealtekS1220A high definition audio CODEC featuring Crystal Sound 3",
     "channels": "8Channels"
@@ -88,9 +91,6 @@
     "Audio jack"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07C57Q1XH",
     "newegg_sku": "9SIBWH3KA58277",

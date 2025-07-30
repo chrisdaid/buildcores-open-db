@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC1220",
     "channels": "7.1 Channels"
@@ -114,9 +117,6 @@
     "1 x Microphone Input Jack (Gold Audio Jack)"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B0BGPCH9C3",
     "bestbuy_sku": 6522043,

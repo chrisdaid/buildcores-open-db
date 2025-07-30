@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC1220-VB codec, ESS9118EQ chip",
     "channels": "2/4/5.1/7.1"
@@ -105,9 +108,6 @@
     "audio jacks"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07G7CCG3N",
     "newegg_sku": "9SIBMWSK360147",

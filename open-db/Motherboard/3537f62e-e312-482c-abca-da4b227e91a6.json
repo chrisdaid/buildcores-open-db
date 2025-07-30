@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 1
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC897",
     "channels": "7.1"
@@ -99,9 +102,6 @@
     "1 x USB 3.2 Gen 2 port"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B08WRR3MLF",
     "newegg_sku": "9SIAGSCK4U7480",

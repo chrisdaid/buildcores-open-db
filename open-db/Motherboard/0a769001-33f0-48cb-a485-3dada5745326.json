@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "RealtekALC892",
     "channels": "7.1 Channels"
@@ -77,9 +80,6 @@
     "1 x HDMI 1.4 port"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B083GK2GXR",
     "newegg_sku": "9SIAJEPK2D4714",

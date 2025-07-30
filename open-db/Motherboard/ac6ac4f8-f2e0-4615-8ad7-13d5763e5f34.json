@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC S1200A",
     "channels": "7.1"
@@ -100,9 +103,6 @@
     "BIOS FlashBack Button(s)"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B088W57M4J",
     "newegg_sku": "9SIAD7HFUZ6469",

@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC1220",
     "channels": "7.1-Channel"
@@ -95,9 +98,6 @@
     "5x 1/8\" / 3.5 mm"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B081FXBWTD",
     "newegg_sku": "9SIBNR1K1P7479",

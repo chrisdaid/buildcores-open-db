@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "SupremeFX S1220",
     "channels": "7.1"
@@ -91,9 +94,6 @@
     "5x 1/8\" / 3.5 mm"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07HM4LX15",
     "newegg_sku": "9SIBWH3K9X0015",

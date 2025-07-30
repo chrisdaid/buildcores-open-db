@@ -1,5 +1,8 @@
 {
   "opendb_id": "d7a72f37-8f95-42f0-bf16-614805f2623a",
+  "power_connectors": {
+    "cpu_power": []
+  },
   "metadata": {
     "part_numbers": []
   },
@@ -8,9 +11,6 @@
   "onboard_ethernet": [],
   "pcie_slots": [],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B0CPW1F841",
     "newegg_sku": "N82E16813145484",

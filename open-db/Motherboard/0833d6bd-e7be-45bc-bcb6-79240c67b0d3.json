@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": null
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek® ALC897/ALC892 Codec",
     "channels": "7.1-Channel High Definition"
@@ -109,9 +112,6 @@
     "USB 3.2 Gen 2 10Gbps Type-A"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B09GLC1SS4",
     "newegg_sku": "N82E16813144488",

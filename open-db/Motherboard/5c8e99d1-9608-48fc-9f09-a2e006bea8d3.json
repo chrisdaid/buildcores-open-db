@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek",
     "channels": "7.1"
@@ -101,9 +104,6 @@
   "back_panel_ports": [
     "1 x 5 Gb/s Ports (Realtek 8126VB)"
   ],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B0DQBT2DZ8",
     "newegg_sku": "N82E16813144688"

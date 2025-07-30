@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC1220-VB",
     "channels": "7.1 Channels"
@@ -101,9 +104,6 @@
     "5 x audio jacks"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B083HZ796V",
     "newegg_sku": "N82E16813145331",

@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": null,
     "usb_4": null
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC892/ALC897",
     "channels": "7.1 Channels"
@@ -88,9 +91,6 @@
     "USB 3.2 Gen2"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07V9L4RT6"
   }

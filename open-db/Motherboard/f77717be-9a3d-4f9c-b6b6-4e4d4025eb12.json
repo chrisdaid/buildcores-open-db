@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": 2
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "ROG SupremeFX ALC4082",
     "channels": "7.1"
@@ -107,9 +110,6 @@
     "1 x Clear CMOS button"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B08T6BHQC8",
     "newegg_sku": "9SIAWKTKCC7726",

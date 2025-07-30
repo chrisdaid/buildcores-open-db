@@ -1,5 +1,8 @@
 {
   "opendb_id": "3b8ea8c0-ebcf-4f12-aebb-4c0e465a643c",
+  "power_connectors": {
+    "cpu_power": []
+  },
   "metadata": {
     "part_numbers": []
   },
@@ -9,9 +12,6 @@
   "pcie_slots": [],
   "form_factor": "Micro ATX",
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07CMFZ51Z",
     "newegg_sku": "9SIA639J8M9843",

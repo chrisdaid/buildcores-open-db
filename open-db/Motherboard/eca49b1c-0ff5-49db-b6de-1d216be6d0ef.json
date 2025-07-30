@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC897",
     "channels": "7.1"
@@ -101,9 +104,6 @@
     "PS/2 Keyboard/Mouse combo port"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B08VGXKB9T",
     "newegg_sku": "N82E16813119372R",

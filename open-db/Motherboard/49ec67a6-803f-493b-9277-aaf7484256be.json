@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek",
     "channels": "7.1"
@@ -69,9 +72,6 @@
   "back_panel_ports": [
     "2 x 1 Gb/s Ports"
   ],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "newegg_sku": "N82E16813183013"
   }

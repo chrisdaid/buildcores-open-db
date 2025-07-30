@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC4080",
     "channels": "7.1-Channel"
@@ -101,9 +104,6 @@
     "2x Connector"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B08WCN4NK5",
     "newegg_sku": "9SIAJEPK889431",

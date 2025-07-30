@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC1220 CodecRealtek ALC4050H Codec",
     "channels": "7.1"
@@ -90,9 +93,6 @@
     "5 x Audio Jacks"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B081FX4546",
     "newegg_sku": "9SIBWH3KCG6995",

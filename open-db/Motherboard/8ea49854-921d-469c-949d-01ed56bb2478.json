@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": null,
     "channels": null
@@ -46,9 +49,6 @@
   },
   "back_panel_ports": [],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07G7PPY82",
     "newegg_sku": "9SIBWH3KA17366",

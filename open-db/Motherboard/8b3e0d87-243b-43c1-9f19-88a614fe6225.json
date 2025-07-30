@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek® ALC1220 CodecESS® E9018 Codec",
     "channels": "7.1-Channel High Definition Audio"
@@ -90,9 +93,6 @@
     "Optical S/PDIF-Out"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07T5QDRFN",
     "newegg_sku": "9SIBMM4K740450",

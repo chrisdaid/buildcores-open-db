@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "SupremeFX S1220A",
     "channels": "8-Channel"
@@ -91,9 +94,6 @@
     "Intel® I219-V Gb LAN Port"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07BW1GXKK",
     "newegg_sku": "9SIBWH3K9X1048",

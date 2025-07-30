@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek S1220A",
     "channels": "8-Channel"
@@ -92,9 +95,6 @@
     "Ethernet"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B072MCN1FD",
     "newegg_sku": "9SIBTK0KAS3911",

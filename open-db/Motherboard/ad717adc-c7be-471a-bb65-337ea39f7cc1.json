@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek 1220",
     "channels": "7.1 Channels"
@@ -96,9 +99,6 @@
     "4 x USB 3.2 Gen 1 Type-A"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B09RPJ6WBW",
     "newegg_sku": "9SIA1K6HWM7358"

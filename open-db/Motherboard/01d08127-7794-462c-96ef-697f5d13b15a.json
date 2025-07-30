@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC892/ALC897 Codec",
     "channels": "7.1-Channel High Definition"
@@ -89,9 +92,6 @@
     "USB 3.2 Gen2"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07XPZMKQ6",
     "newegg_sku": "9SIAD6HK5V6955",

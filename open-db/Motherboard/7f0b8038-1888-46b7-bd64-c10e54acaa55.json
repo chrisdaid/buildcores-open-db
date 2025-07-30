@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "SupremeFX S1220A CODEC",
     "channels": "7.1"
@@ -81,9 +84,6 @@
     "LED-Illuminated Audio Jacks"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B086QSDZ4C",
     "newegg_sku": "9SIBTK0K936764",

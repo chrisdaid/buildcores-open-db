@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "ROG SupremeFX S1220A",
     "channels": "7.1"
@@ -94,9 +97,6 @@
     "Audio USB Type-C"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B08WRB9QRR",
     "newegg_sku": "9SIBTK0KAS0388",

@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC892",
     "channels": "7.1"
@@ -88,9 +91,6 @@
     "HD Audio Jacks"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07MW7ZT1J",
     "newegg_sku": "9SIB2N5HP67769",

@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek",
     "channels": "7.1"
@@ -106,9 +109,6 @@
   "back_panel_ports": [
     "1 x 2.5 Gb/s Ports (Intel)"
   ],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B0BJDWH2PM"
   }

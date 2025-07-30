@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC892",
     "channels": "7.1"
@@ -73,9 +76,6 @@
     "6 x audio jacks (Center/Subwoofer Speaker Out/Rear Speaker Out/Side Speaker Out/Line In/Line Out/Microphone)"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B00D1A5OR0"
   }

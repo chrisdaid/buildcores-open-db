@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC887",
     "channels": "7.1 Channels"
@@ -81,9 +84,6 @@
     "2 x USB 2.0 (High-speed USB) ports (Type-A)"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07CBKLK2M",
     "newegg_sku": "9SIAYKAJVZ8958",

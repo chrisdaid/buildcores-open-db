@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek® ALC1200 Codec",
     "channels": "7.1-Channel"
@@ -82,9 +85,6 @@
     "Optical S/PDIF OUT"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B089CPDLYC",
     "newegg_sku": "9SIBMWSK380566",

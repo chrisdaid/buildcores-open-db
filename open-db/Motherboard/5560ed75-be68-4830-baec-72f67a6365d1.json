@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC1220",
     "channels": "7.1"
@@ -113,9 +116,6 @@
     "HD Audio Jacks: Rear Speaker / Central / Bass / Line in / Front Speaker / Microphone (Gold Audio Jacks)"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B08XMS493G"
   }

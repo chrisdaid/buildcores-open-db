@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 1
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC1220P Surround Sound",
     "channels": "8-channel"
@@ -112,9 +115,6 @@
     "1 x Clear CMOS button"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B0CMZHDQPD",
     "newegg_sku": "N82E16813119666",

@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": null,
     "channels": null
@@ -74,9 +77,6 @@
     "Thunderbolt 3"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B0876H2R85",
     "newegg_sku": "9SIBWH3K9U8575",

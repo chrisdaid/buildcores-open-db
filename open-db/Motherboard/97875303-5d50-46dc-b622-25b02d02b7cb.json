@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "ROG SupremeFX High Definition Audio CODEC S1220",
     "channels": "8 Channels"
@@ -95,9 +98,6 @@
     "8 x USB 3.1 Gen 1 Type-A"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B0748K1F99",
     "newegg_sku": "9SIBKZPK3U3433",

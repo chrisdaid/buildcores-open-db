@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC897",
     "channels": "7.1-Channel High Definition Audio"
@@ -89,9 +92,6 @@
     "USB 3.2 Gen 2x2 20Gbps (Type-C)"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B0BHBT5BD3",
     "newegg_sku": "N82E16813144560",

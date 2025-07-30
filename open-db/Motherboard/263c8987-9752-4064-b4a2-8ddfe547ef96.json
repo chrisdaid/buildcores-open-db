@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "ALC1220-VB",
     "channels": "7.1"
@@ -71,9 +74,6 @@
     "Intel GbE LAN"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B07GPDJ9R6",
     "newegg_sku": "9SIAGKCK6P8853",

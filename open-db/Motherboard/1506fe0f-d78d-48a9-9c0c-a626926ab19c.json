@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": 1,
     "usb_4": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "ESS ES9280AC DAC + 2 ESS ES9080",
     "channels": "2-channel"
@@ -104,9 +107,6 @@
     "2 audio jacks"
   ],
   "color": [],
-  "power_connectors": {
-    "cpu_power": []
-  },
   "general_product_information": {
     "amazon_sku": "B0BP8BMQST",
     "newegg_sku": "N82E16813145418",
