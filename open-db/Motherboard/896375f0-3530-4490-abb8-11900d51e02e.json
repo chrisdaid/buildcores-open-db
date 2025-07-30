@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": null,
     "usb_4": 2
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "ROG SupremeFX ALC4082 CODEC ESS® ES9218 QUAD DAC",
     "channels": "7.1"

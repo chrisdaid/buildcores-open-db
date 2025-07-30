@@ -1,5 +1,8 @@
 {
   "opendb_id": "7bd359b2-5558-49cd-b2b3-414941925720",
+  "power_connectors": {
+    "cpu_power": []
+  },
   "metadata": {
     "part_numbers": []
   },

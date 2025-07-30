@@ -18,6 +18,9 @@
     "usb_4": 0,
     "usb_4_80g": 0
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "ROG SupremeFX 7.1 Surround Sound High Definition Audio CODEC ALC4080",
     "channels": "7.1"

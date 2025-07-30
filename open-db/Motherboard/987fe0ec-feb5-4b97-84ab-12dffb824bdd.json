@@ -17,6 +17,9 @@
     "usb_3_2_gen_2x2": null,
     "usb_4": null
   },
+  "power_connectors": {
+    "cpu_power": []
+  },
   "audio": {
     "chipset": "Realtek ALC1220 Codec",
     "channels": "8-Channel High Definition Audio"
