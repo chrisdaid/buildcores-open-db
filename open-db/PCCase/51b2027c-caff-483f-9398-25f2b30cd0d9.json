@@ -29,6 +29,7 @@
   "dimensions": "420 mm x 269.5 mm x 380 mm",
   "volume": 43.012,
   "weight": 0,
+  "front_usb_ports": [],
   "general_product_information": {
     "amazon_sku": "B08RRLGTJY",
     "newegg_sku": "N82E16811112593",

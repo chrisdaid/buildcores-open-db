@@ -26,6 +26,7 @@
   "dimensions": "370*210*480",
   "volume": 37.296,
   "weight": 11.96,
+  "front_usb_ports": [],
   "general_product_information": {
     "amazon_sku": "B09246FCTZ",
     "newegg_sku": "2AM-00CN-00036"

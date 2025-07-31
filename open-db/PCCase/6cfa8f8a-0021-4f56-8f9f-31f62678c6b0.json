@@ -26,6 +26,7 @@
   "volume": 51.001,
   "weight": null,
   "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
   "general_product_information": {
     "amazon_sku": "B0B2JML3KN",
     "newegg_sku": "2RC-0098-00006"

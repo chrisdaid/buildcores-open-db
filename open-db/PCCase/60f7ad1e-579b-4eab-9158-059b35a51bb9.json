@@ -26,6 +26,7 @@
   "volume": null,
   "weight": null,
   "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
   "general_product_information": {
     "amazon_sku": "B094NK5M4M",
     "newegg_sku": "2AM-000V-001D4",

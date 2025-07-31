@@ -26,6 +26,7 @@
   "volume": 51.11,
   "weight": null,
   "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
   "general_product_information": {
     "amazon_sku": "B0DGFW5G2G",
     "newegg_sku": "2AM-05FM-00019"

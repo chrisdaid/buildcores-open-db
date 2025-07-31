@@ -27,6 +27,7 @@
   "weight": 16.64,
   "supported_power_supply_form_factors": [],
   "riser_expansion_slots": 3,
+  "front_usb_ports": [],
   "general_product_information": {
     "amazon_sku": "B0CV365B3B",
     "newegg_sku": "N82E16811854132",

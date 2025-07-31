@@ -29,5 +29,6 @@
   "dimensions": "450 x 210 x 450 mm",
   "volume": 42.525,
   "weight": null,
+  "front_usb_ports": [],
   "general_product_information": {}
 }

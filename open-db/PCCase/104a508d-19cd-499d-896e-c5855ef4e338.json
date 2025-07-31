@@ -27,6 +27,7 @@
   "volume": null,
   "weight": null,
   "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
   "general_product_information": {
     "amazon_sku": "B08HJ59574",
     "newegg_sku": "287-0024-00004"

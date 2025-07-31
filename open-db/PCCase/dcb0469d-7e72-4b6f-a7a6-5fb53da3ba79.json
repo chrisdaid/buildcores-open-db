@@ -26,6 +26,7 @@
   "volume": 42.852,
   "weight": null,
   "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
   "general_product_information": {
     "amazon_sku": "B0BN4MLHQP",
     "newegg_sku": "N82E16811163426"

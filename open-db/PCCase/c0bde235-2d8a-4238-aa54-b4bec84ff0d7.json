@@ -25,6 +25,7 @@
   "dimensions": "(D)522 mm x (W) 304 mm x (H) 531.9 mm",
   "volume": 0,
   "weight": 0,
+  "front_usb_ports": [],
   "general_product_information": {
     "amazon_sku": "B0CHM85TND",
     "newegg_sku": "2AM-000Z-000B5"

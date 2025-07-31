@@ -26,6 +26,7 @@
   "volume": 55.568,
   "weight": null,
   "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
   "general_product_information": {
     "amazon_sku": "B0BRP58KHT",
     "newegg_sku": "2AM-000Z-000A7"
