@@ -26,7 +26,16 @@
   "volume": 70.054,
   "weight": 22.34,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB  Type-C",
+    "USB 3.2 Gen 1 Type-A"
+  ],
+  "dimensions_mm": {
+    "width": 298,
+    "height": 497,
+    "depth": 473,
+    "_id": "688c9ae25538dac8e0e251b7"
+  },
   "general_product_information": {
     "amazon_sku": "B0DHS1T739",
     "newegg_sku": "N82E16811326007"

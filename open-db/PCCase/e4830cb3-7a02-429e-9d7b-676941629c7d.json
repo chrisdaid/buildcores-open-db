@@ -26,7 +26,17 @@
   "dimensions": "388.112 x 225.044 x 468.122",
   "volume": 40.887,
   "weight": 18.95,
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.1  Type-C (10 Gbps)           ",
+    " USB 3.0  Type-A   ",
+    "USB 2.0 Type-A"
+  ],
+  "dimensions_mm": {
+    "width": 388.112,
+    "height": 468.122,
+    "depth": 225.044,
+    "_id": "688c8ebbbc754dfc655746bf"
+  },
   "general_product_information": {
     "amazon_sku": "B0C9H8XY75"
   }

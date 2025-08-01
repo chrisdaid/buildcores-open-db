@@ -26,7 +26,16 @@
   "dimensions": "435 x 230 x 450",
   "volume": 45.023,
   "weight": 17.6,
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB  Type-C",
+    "2x USB 3.2 Gen 1 Type-A"
+  ],
+  "dimensions_mm": {
+    "width": 230,
+    "height": 455,
+    "depth": 450,
+    "_id": "688c9d82bcb0f52eeb892eaa"
+  },
   "general_product_information": {
     "amazon_sku": "B0D5PHHCK5"
   }

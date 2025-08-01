@@ -27,7 +27,16 @@
   "dimensions": "475 x 300 x 442",
   "volume": 62.985,
   "weight": 26.080686,
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "1x USB Type-C     ",
+    "USB 3.0 Type-A"
+  ],
+  "dimensions_mm": {
+    "width": 300,
+    "height": 442,
+    "depth": 475,
+    "_id": "688ca11c477d36f51ff25598"
+  },
   "general_product_information": {
     "newegg_sku": "N82E16811970007"
   }

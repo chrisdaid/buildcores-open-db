@@ -27,7 +27,16 @@
   "dimensions": "456mm x 285mm x 462mm",
   "volume": 60,
   "weight": 21.2,
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "2 x USB 3.0",
+    " 1 x USB 3.2 Type-C"
+  ],
+  "dimensions_mm": {
+    "width": 456,
+    "height": 462,
+    "depth": 285,
+    "_id": "688c8df27367d89a510ce55d"
+  },
   "general_product_information": {
     "amazon_sku": "B09TQ1J58V",
     "newegg_sku": "N82E16811737002R",

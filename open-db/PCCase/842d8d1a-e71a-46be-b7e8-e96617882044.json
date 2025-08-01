@@ -26,7 +26,16 @@
   "dimensions": "478 x 290 x 471",
   "volume": 65.29,
   "weight": 32.62,
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "1x USB 3.1 Type-C            ",
+    "2x USB 3.0 Type-A"
+  ],
+  "dimensions_mm": {
+    "width": 290,
+    "height": 471,
+    "depth": 478,
+    "_id": "688ca513c32f82b5e1f2cc30"
+  },
   "general_product_information": {
     "amazon_sku": "B0CX5PW5KM",
     "newegg_sku": "2AM-000Z-000C1"

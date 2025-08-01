@@ -26,7 +26,16 @@
   "volume": 67.78,
   "weight": 25.57362,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.2 Type-C            ",
+    "2x USB 3.0 Type A"
+  ],
+  "dimensions_mm": {
+    "width": 304,
+    "height": 464.5,
+    "depth": 480,
+    "_id": "688ca70ebcb0f52eeb8ea956"
+  },
   "general_product_information": {
     "newegg_sku": "2AM-000Z-000B9"
   }

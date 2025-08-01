@@ -26,7 +26,16 @@
   "dimensions": "370*210*480",
   "volume": 37.296,
   "weight": 11.96,
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "1x USB 3.0  Type-A     ",
+    "2x  USB 2.0 Type-A"
+  ],
+  "dimensions_mm": {
+    "width": 210,
+    "height": 480,
+    "depth": 370,
+    "_id": "688ca3d35538dac8e0e7744b"
+  },
   "general_product_information": {
     "amazon_sku": "B09246FCTZ",
     "newegg_sku": "2AM-00CN-00036"

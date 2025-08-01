@@ -26,7 +26,16 @@
   "dimensions": "415 x 287 x 435",
   "volume": 51.811,
   "weight": 21.1644,
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "2x USB 3.2 Gen 2 Type-C   ",
+    " 2x   USB 3.2 Gen 1 Type-A"
+  ],
+  "dimensions_mm": {
+    "width": 435,
+    "height": 287,
+    "depth": 415,
+    "_id": "688c9bc4bc754dfc655e99a4"
+  },
   "general_product_information": {
     "amazon_sku": "B0C89F1V5S",
     "newegg_sku": "N82E16811146359",

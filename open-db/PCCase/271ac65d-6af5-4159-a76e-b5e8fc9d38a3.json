@@ -26,7 +26,16 @@
   "dimensions": "475 x 300 x 442",
   "volume": 62.985,
   "weight": 26.080686,
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "1x USB Type-C   ",
+    "USB 3.0 Type-A"
+  ],
+  "dimensions_mm": {
+    "width": 300,
+    "height": 442,
+    "depth": 475,
+    "_id": "688c8f4ada7ef4d4b1917a92"
+  },
   "general_product_information": {
     "amazon_sku": "B0CN95B1MS",
     "newegg_sku": "N82E16811970006"
