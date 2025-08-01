@@ -7,7 +7,7 @@
       "CM-H91FB-01"
     ],
     "series": "H9",
-    "variant": ""
+    "variant": "flow-2023"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -24,9 +24,18 @@
   "expansion_slots": 7,
   "dimensions": "466 x 290 x 495",
   "volume": 66.894,
-  "weight": null,
+  "weight": 26.675,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.2 Gen 2x2 Type-C  (20 Gbps)",
+    "2x USB 3.2 Gen 1 Type-A"
+  ],
+  "dimensions_mm": {
+    "width": 290,
+    "height": 495,
+    "depth": 466,
+    "_id": "688caea57367d89a511f2ee8"
+  },
   "general_product_information": {
     "amazon_sku": "B0BFZZ3ZWZ",
     "newegg_sku": "N82E16811146347",
