@@ -1,0 +1,21 @@
+{
+  "opendb_id": "d51fcc42-6508-491e-a470-992514cfff9b",
+  "metadata": {
+    "name": "Addlink S70 1TB M.2-2280 SSD PCIe 3.0 X4 NVMe",
+    "manufacturer": "Addlink",
+    "part_numbers": [
+      "ad1TBS70M2P"
+    ],
+    "series": "S70",
+    "variant": "1000GB"
+  },
+  "capacity": 1000,
+  "type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 X4",
+  "cache": null,
+  "nvme": true,
+  "general_product_information": {
+    "amazon_sku": "B07K7LRB2T"
+  }
+}

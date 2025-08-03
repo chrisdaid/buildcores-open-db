@@ -1,0 +1,27 @@
+{
+  "opendb_id": "1e672eaa-2a6a-41f5-8785-f4b46155b279",
+  "metadata": {
+    "name": "Silverstone FHP 140mm Black PWM 171 CFM 1-Pack",
+    "manufacturer": "Silverstone",
+    "series": "FHP",
+    "variant": "140mm Black"
+  },
+  "size": 140,
+  "color": [
+    "BLACK"
+  ],
+  "quantity": 1,
+  "min_airflow": 42.8,
+  "max_airflow": 171,
+  "min_noise_level": 13.4,
+  "max_noise_level": 43.5,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": 3.7,
+  "flow_direction": "Standard",
+  "general_product_information": {
+    "amazon_sku": "B00A460TK6"
+  }
+}

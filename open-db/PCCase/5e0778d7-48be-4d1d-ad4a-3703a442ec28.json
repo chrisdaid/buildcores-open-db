@@ -23,9 +23,15 @@
   "internal_2_5_bays": 3,
   "expansion_slots": 8,
   "dimensions": "(D)522 mm x (W) 304 mm x (H) 531.9 mm",
-  "volume": 0,
-  "weight": 0,
+  "volume": 84.4,
+  "weight": 37.4786,
   "front_usb_ports": [],
+  "dimensions_mm": {
+    "width": 304,
+    "height": 531.9,
+    "depth": 522,
+    "_id": "688e6ffd9206b3abe5d6e5fd"
+  },
   "general_product_information": {
     "amazon_sku": "B0CHM7L2V7",
     "newegg_sku": "2AM-000Z-000B4"

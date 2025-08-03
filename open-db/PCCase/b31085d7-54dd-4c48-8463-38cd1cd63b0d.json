@@ -1,0 +1,32 @@
+{
+  "opendb_id": "b31085d7-54dd-4c48-8463-38cd1cd63b0d",
+  "metadata": {
+    "name": "Phanteks XT PRO ATX Mid Tower",
+    "manufacturer": "Phanteks",
+    "part_numbers": [
+      "PH-XT523PSC_BK01"
+    ],
+    "series": "XT",
+    "variant": ""
+  },
+  "form_factor": "ATX Mid Tower",
+  "color": [],
+  "power_supply": "None",
+  "supported_power_supply_form_factors": [],
+  "side_panel": "None",
+  "has_transparent_side_panel": false,
+  "front_panel_usb": "USB 3.2 Gen 1 Type-A",
+  "front_usb_ports": [],
+  "max_video_card_length": 415,
+  "max_cpu_cooler_height": null,
+  "internal_3_5_bays": 2,
+  "internal_2_5_bays": 0,
+  "expansion_slots": 7,
+  "dimensions": "450 x 230 x 500",
+  "volume": 51.75,
+  "weight": null,
+  "general_product_information": {
+    "amazon_sku": "B086YDDV6F",
+    "newegg_sku": "N82E16811854139"
+  }
+}

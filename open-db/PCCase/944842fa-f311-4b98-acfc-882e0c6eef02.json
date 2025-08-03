@@ -1,0 +1,35 @@
+{
+  "opendb_id": "944842fa-f311-4b98-acfc-882e0c6eef02",
+  "metadata": {
+    "name": "Antec Performance 1 M Mini-ITX Desktop Green / Black with Mesh Side Panel and USB 3.2 Gen 2 Type-C",
+    "manufacturer": "Antec",
+    "part_numbers": [
+      "0-761345-10169-1"
+    ],
+    "series": "Performance",
+    "variant": ""
+  },
+  "form_factor": "Mini-ITX Desktop",
+  "color": [
+    "GREEN",
+    "BLACK"
+  ],
+  "power_supply": "None",
+  "supported_power_supply_form_factors": [],
+  "side_panel": "Mesh",
+  "has_transparent_side_panel": true,
+  "front_panel_usb": "USB 3.2 Gen 2 Type-C",
+  "front_usb_ports": [],
+  "max_video_card_length": null,
+  "max_cpu_cooler_height": null,
+  "internal_3_5_bays": 0,
+  "internal_2_5_bays": 1,
+  "expansion_slots": 3,
+  "dimensions": "424 x 175 x 260",
+  "volume": 19.292,
+  "weight": null,
+  "general_product_information": {
+    "amazon_sku": "B0DQ7WH4RV",
+    "newegg_sku": "N82E16811129324"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "opendb_id": "8d44b8f1-bab6-4525-8e94-9a876ae2c55f",
+  "metadata": {
+    "name": "Corsair Carbide Series 275R ATX Mid Tower White with Acrylic Side Panel and USB 3.2 Gen 1 Type-A",
+    "manufacturer": "Corsair",
+    "part_numbers": [
+      "CC-9011131-WW"
+    ],
+    "series": "Carbide",
+    "variant": ""
+  },
+  "form_factor": "ATX Mid Tower",
+  "color": [
+    "WHITE"
+  ],
+  "power_supply": "None",
+  "side_panel": "Acrylic",
+  "has_transparent_side_panel": true,
+  "front_panel_usb": "USB 3.2 Gen 1 Type-A",
+  "max_video_card_length": 370,
+  "max_cpu_cooler_height": null,
+  "internal_3_5_bays": 2,
+  "internal_2_5_bays": 3,
+  "expansion_slots": 7,
+  "dimensions": "455 x 211 x 460",
+  "volume": 44.162,
+  "weight": null,
+  "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
+  "general_product_information": {
+    "newegg_sku": "6bGxFT"
+  }
+}
