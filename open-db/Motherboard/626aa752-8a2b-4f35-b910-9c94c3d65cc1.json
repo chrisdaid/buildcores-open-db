@@ -11,14 +11,14 @@
     "u2": 0
   },
   "usb_headers": {
-    "usb_2_0": 5,
-    "usb_3_2_gen_1": 2,
-    "usb_3_2_gen_2": 2,
+    "usb_2_0": 2,
+    "usb_3_2_gen_1": 3,
+    "usb_3_2_gen_2": 0,
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
   "power_connectors": {
-    "cpu_power": []
+    "cpu_power": ["8-pin", "4-pin"]
   },
   "audio": {
     "chipset": "Realtek",
@@ -61,13 +61,13 @@
       "_id": "67f9c98e865ad0c3553de33b"
     },
     {
-      "size": "2242-2260",
+      "size": "2242/2260/2280",
       "key": "M",
       "interface": "PCIe 4.0 x4",
       "_id": "67f9c98e865ad0c3553de33c"
     },
     {
-      "size": "2242-2260",
+      "size": "2242/2260/2280",
       "key": "M",
       "interface": "PCIe 4.0 x2",
       "_id": "67f9c98e865ad0c3553de33d"
@@ -89,10 +89,18 @@
     "_id": "67f9c98e865ad0c3553de340"
   },
   "back_panel_ports": [
-    "1 x 1 Gb/s Ports (Realtek)"
+    "1 x 1 Gb/s Ports (Realtek)",
+    "2 x USB 10Gbps ports (1 x Type-A + 1 x USB Type-C)",
+    "2 x USB 5Gbps ports (2 x Type-A)",
+    "5 x USB 2.0 ports (5 x Type-A)",
+    "1 x DisplayPort",
+    "1 x HDMI port",
+    "1 x Wi-Fi module",
+    "3 x Audio jacks",
+    "1 x BIOS FlashBack button"
   ],
   "general_product_information": {
-    "amazon_sku": "",
+    "amazon_sku": "https://www.asus.com/motherboards-components/motherboards/others/b850m-max-gaming-wifi",
     "newegg_sku": ""
   }
 }
