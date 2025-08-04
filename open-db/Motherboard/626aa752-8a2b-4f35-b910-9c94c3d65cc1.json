@@ -18,7 +18,10 @@
     "usb_4": 0
   },
   "power_connectors": {
-    "cpu_power": ["8-pin", "4-pin"]
+    "cpu_power": [
+      "8-pin",
+      "4-pin"
+    ]
   },
   "audio": {
     "chipset": "Realtek",
