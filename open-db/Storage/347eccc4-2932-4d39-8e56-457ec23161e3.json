@@ -16,6 +16,7 @@
   "nvme": true,
   "general_product_information": {
     "amazon_sku": "B08P2CG4JK",
-    "newegg_sku": "9SIBK19JMR2061"
+    "newegg_sku": "9SIBK19JMR2061",
+    "walmart_sku": 272368021
   }
 }

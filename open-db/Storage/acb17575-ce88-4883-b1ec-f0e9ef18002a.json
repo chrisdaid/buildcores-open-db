@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B00IMPO5MO"
+    "amazon_sku": "B00IMPO5MO",
+    "walmart_sku": 49079187
   }
 }

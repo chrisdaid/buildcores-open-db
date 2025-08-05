@@ -117,6 +117,7 @@
     "1 x 10 Gb/s (Aquantia AQC-107 10G)                                                    1 x 2.5 Gb/s (Intel I225-V)"
   ],
   "general_product_information": {
-    "amazon_sku": "B08WCM3CHM"
+    "amazon_sku": "B08WCM3CHM",
+    "walmart_sku": 660986380
   }
 }

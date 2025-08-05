@@ -111,6 +111,7 @@
     "1 x 1 Gb/s (Intel I219-V)                                                    1 x 2.5 Gb/s (Intel I225-V)"
   ],
   "general_product_information": {
-    "amazon_sku": "B08WCY8WFD"
+    "amazon_sku": "B08WCY8WFD",
+    "walmart_sku": 909371238
   }
 }

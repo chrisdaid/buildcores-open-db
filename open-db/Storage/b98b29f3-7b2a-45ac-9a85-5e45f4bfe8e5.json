@@ -16,6 +16,7 @@
   "cache": 256,
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B0776SG16F"
+    "amazon_sku": "B0776SG16F",
+    "walmart_sku": 401414573
   }
 }

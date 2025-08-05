@@ -15,6 +15,7 @@
   "interface": "M.2 SATA",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B07KG1283L"
+    "amazon_sku": "B07KG1283L",
+    "walmart_sku": 165300326
   }
 }

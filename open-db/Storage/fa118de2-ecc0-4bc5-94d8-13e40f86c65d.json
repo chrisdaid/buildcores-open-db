@@ -15,6 +15,7 @@
   "interface": "M.2 SATA",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B085RFNQTY"
+    "amazon_sku": "B085RFNQTY",
+    "walmart_sku": 711391744
   }
 }

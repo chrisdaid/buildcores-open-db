@@ -89,6 +89,7 @@
   ],
   "general_product_information": {
     "amazon_sku": "B0979QCJXK",
-    "newegg_sku": "2MG-000B-003T9"
+    "newegg_sku": "2MG-000B-003T9",
+    "walmart_sku": 432029752
   }
 }

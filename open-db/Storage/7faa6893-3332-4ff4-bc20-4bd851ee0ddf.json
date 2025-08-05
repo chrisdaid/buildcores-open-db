@@ -15,6 +15,7 @@
   "interface": "SATA 3.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B002NBIPOW"
+    "amazon_sku": "B002NBIPOW",
+    "walmart_sku": 173531751
   }
 }

@@ -15,6 +15,7 @@
   "interface": "SATA 6Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B008JJLXO6"
+    "amazon_sku": "B008JJLXO6",
+    "walmart_sku": 26819546
   }
 }

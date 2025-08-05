@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B09TQ4DSRC"
+    "amazon_sku": "B09TQ4DSRC",
+    "walmart_sku": 882541555
   }
 }

@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B081H91CSM"
+    "amazon_sku": "B081H91CSM",
+    "walmart_sku": 1739807420
   }
 }

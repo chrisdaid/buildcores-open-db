@@ -29,6 +29,8 @@
   "fanless": false,
   "general_product_information": {
     "amazon_sku": "B0DPR6X7JX",
-    "newegg_sku": "N82E16817139339"
+    "newegg_sku": "N82E16817139339",
+    "bestbuy_sku": 6611985,
+    "walmart_sku": 15095002530
   }
 }

@@ -15,6 +15,7 @@
   "interface": "SATA 3.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B002WTVITY"
+    "amazon_sku": "B002WTVITY",
+    "walmart_sku": 46179138
   }
 }

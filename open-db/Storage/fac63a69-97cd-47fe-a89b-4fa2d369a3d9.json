@@ -15,6 +15,7 @@
   "interface": "U.2",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B07KCPT9WJ"
+    "amazon_sku": "B07KCPT9WJ",
+    "walmart_sku": 223115819
   }
 }

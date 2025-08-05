@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B004CSIG1G"
+    "amazon_sku": "B004CSIG1G",
+    "walmart_sku": 16349853
   }
 }

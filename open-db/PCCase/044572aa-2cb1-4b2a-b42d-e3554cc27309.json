@@ -36,6 +36,8 @@
     "_id": "688d11bfa1253a29c4d5e0bc"
   },
   "general_product_information": {
-    "amazon_sku": "B0CV4RRBNJ"
+    "amazon_sku": "B0CV4RRBNJ",
+    "bestbuy_sku": 6585811,
+    "walmart_sku": 5857328797
   }
 }

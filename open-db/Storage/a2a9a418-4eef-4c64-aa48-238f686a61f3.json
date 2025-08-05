@@ -15,6 +15,7 @@
   "interface": "SAS 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B0056JZ596"
+    "amazon_sku": "B0056JZ596",
+    "walmart_sku": 26965890
   }
 }

@@ -37,6 +37,7 @@
     "_id": "688d2b97d3248d0888b14063"
   },
   "general_product_information": {
-    "amazon_sku": "B0C5LF52TL"
+    "amazon_sku": "B0C5LF52TL",
+    "walmart_sku": 5272176251
   }
 }

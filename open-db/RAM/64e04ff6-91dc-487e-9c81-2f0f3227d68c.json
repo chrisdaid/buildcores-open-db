@@ -30,6 +30,7 @@
   "rgb": false,
   "general_product_information": {
     "amazon_sku": "B016ORTP1M",
-    "newegg_sku": "N82E16820233892"
+    "newegg_sku": "N82E16820233892",
+    "walmart_sku": 107909144
   }
 }

@@ -16,6 +16,8 @@
   "nvme": true,
   "general_product_information": {
     "amazon_sku": "B0C48B3RGL",
-    "newegg_sku": "N82E16820250257"
+    "newegg_sku": "N82E16820250257",
+    "bestbuy_sku": 6541324,
+    "walmart_sku": 1390417730
   }
 }

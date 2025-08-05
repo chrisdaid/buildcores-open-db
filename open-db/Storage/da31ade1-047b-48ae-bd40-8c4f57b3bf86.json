@@ -15,6 +15,7 @@
   "interface": "M.2 PCIe 3.0 X4",
   "nvme": true,
   "general_product_information": {
-    "amazon_sku": "B07MW9NJSH"
+    "amazon_sku": "B07MW9NJSH",
+    "walmart_sku": 602450265
   }
 }

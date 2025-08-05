@@ -15,6 +15,7 @@
   "interface": "M.2 PCIe 3.0 X4",
   "nvme": true,
   "general_product_information": {
-    "amazon_sku": "B0795YN91V"
+    "amazon_sku": "B0795YN91V",
+    "walmart_sku": 874264900
   }
 }

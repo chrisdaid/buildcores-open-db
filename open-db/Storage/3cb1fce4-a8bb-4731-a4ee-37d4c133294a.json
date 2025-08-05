@@ -15,6 +15,7 @@
   "interface": "SATA 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B07MYL7KVK"
+    "amazon_sku": "B07MYL7KVK",
+    "walmart_sku": 890429908
   }
 }

@@ -15,6 +15,7 @@
   "interface": "SATA 3.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B008RZLSWE"
+    "amazon_sku": "B008RZLSWE",
+    "walmart_sku": 896293492
   }
 }

@@ -15,6 +15,7 @@
   "interface": "SAS 3.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B003IT70KS"
+    "amazon_sku": "B003IT70KS",
+    "walmart_sku": 43323835
   }
 }

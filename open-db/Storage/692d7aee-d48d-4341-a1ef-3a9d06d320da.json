@@ -15,6 +15,7 @@
   "interface": "SAS 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B002P4J3YI"
+    "amazon_sku": "B00VPKPQK8",
+    "walmart_sku": 507423041
   }
 }

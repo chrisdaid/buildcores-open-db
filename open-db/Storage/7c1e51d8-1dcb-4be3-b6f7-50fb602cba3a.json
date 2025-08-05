@@ -15,6 +15,7 @@
   "interface": "PCIe x4",
   "nvme": true,
   "general_product_information": {
-    "amazon_sku": "B00L0LFJLS"
+    "amazon_sku": "B00L0LFJLS",
+    "walmart_sku": 40213627
   }
 }
