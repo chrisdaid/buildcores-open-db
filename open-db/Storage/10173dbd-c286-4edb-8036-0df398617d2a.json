@@ -16,6 +16,7 @@
   "cache": 512,
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B0CFW39VH8"
+    "amazon_sku": "B0CFW39VH8",
+    "newegg_sku": "1Z4-000B-00N14"
   }
 }
