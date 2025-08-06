@@ -49,6 +49,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B085WRBJHR"
+    "amazon_sku": "B085WRBJHR",
+    "walmart_sku": 970427813
   }
 }

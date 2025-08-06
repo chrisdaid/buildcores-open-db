@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B0173I9TCG"
+    "amazon_sku": "B0173I9TCG",
+    "walmart_sku": 121840320
   }
 }

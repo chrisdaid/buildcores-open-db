@@ -16,6 +16,7 @@
   "cache": 512,
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B08H18YG3R"
+    "amazon_sku": "B08H18YG3R",
+    "walmart_sku": 694036394
   }
 }

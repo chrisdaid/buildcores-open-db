@@ -16,6 +16,8 @@
   "cache": null,
   "nvme": true,
   "general_product_information": {
-    "amazon_sku": "B0F9XMYR15"
+    "amazon_sku": "B0F9XMYR15",
+    "bestbuy_sku": 6636632,
+    "walmart_sku": 17011763921
   }
 }

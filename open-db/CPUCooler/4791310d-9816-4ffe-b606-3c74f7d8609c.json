@@ -36,6 +36,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B0DP23NF7T"
+    "amazon_sku": "B0DP23NF7T",
+    "walmart_sku": 10844974854
   }
 }

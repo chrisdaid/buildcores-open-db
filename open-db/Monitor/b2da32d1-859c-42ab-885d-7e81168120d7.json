@@ -28,6 +28,8 @@
   "hdr": "",
   "adaptive_sync": "FreeSync Premium",
   "general_product_information": {
-    "amazon_sku": "B0C95RWXDL"
+    "amazon_sku": "B0C95RWXDL",
+    "bestbuy_sku": 6576610,
+    "walmart_sku": 5381052568
   }
 }
