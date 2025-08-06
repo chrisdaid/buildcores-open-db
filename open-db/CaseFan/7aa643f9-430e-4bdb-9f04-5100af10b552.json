@@ -23,6 +23,8 @@
   "static_pressure": 2.01,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B00VRKVG9Q"
+    "amazon_sku": "B00VRKVG9Q",
+    "bestbuy_sku": 4401201,
+    "walmart_sku": 46488912
   }
 }

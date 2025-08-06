@@ -29,6 +29,7 @@
   "weight": null,
   "general_product_information": {
     "amazon_sku": "B0DG3531NK",
-    "newegg_sku": "N82E16811352238"
+    "newegg_sku": "N82E16811352238",
+    "walmart_sku": 15708161728
   }
 }

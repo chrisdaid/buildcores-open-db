@@ -22,6 +22,7 @@
   "static_pressure": 1.66,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B003EI0ECO"
+    "amazon_sku": "B003EI0ECO",
+    "walmart_sku": 701499393
   }
 }

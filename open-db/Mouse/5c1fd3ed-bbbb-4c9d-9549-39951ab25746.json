@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B002FYL7PG"
+    "amazon_sku": "B002FYL7PG",
+    "walmart_sku": 12457721
   }
 }

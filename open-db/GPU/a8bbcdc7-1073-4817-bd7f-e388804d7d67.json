@@ -43,6 +43,7 @@
   },
   "core_count": 0,
   "general_product_information": {
-    "amazon_sku": "B00S9SGMZM"
+    "amazon_sku": "B00S9SGMZM",
+    "walmart_sku": 43193328
   }
 }

@@ -22,6 +22,7 @@
   "static_pressure": 2.35,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B09VGX23DS"
+    "amazon_sku": "B09VGX23DS",
+    "walmart_sku": 15137703964
   }
 }

@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B004V94F5C"
+    "amazon_sku": "B004V94F5C",
+    "walmart_sku": 17129086
   }
 }

@@ -43,6 +43,7 @@
   },
   "core_count": 3840,
   "general_product_information": {
-    "amazon_sku": "B0CKTFSYYX"
+    "amazon_sku": "B0CKTFSYYX",
+    "walmart_sku": 5072614153
   }
 }

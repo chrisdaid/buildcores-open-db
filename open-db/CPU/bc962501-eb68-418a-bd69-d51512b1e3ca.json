@@ -45,6 +45,7 @@
   "general_product_information": {
     "amazon_sku": "B086ML4XSB",
     "newegg_sku": "N82E16819118123",
-    "bestbuy_sku": 6411488
+    "bestbuy_sku": 6411488,
+    "walmart_sku": 434262980
   }
 }

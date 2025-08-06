@@ -8,6 +8,8 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B09W2SV2JD"
+    "amazon_sku": "B09W2SV2JD",
+    "bestbuy_sku": 6607581,
+    "walmart_sku": 829181195
   }
 }

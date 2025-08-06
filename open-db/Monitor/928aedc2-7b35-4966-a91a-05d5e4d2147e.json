@@ -29,6 +29,8 @@
   "adaptive_sync": "FreeSync Premium Pro                                                    G-Sync Compatible",
   "general_product_information": {
     "amazon_sku": "B0DMPTN8DG",
-    "newegg_sku": "N82E16824026450"
+    "newegg_sku": "N82E16824026450",
+    "bestbuy_sku": 6607888,
+    "walmart_sku": 15027211854
   }
 }

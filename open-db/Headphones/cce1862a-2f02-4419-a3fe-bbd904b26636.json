@@ -9,6 +9,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B004RE3YNA"
+    "amazon_sku": "B004RE3YNA",
+    "walmart_sku": 17480442
   }
 }

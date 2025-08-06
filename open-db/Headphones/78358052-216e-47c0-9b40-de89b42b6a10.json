@@ -9,6 +9,8 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B0DGJC52FP"
+    "amazon_sku": "B0DGJC52FP",
+    "bestbuy_sku": 6550076,
+    "walmart_sku": 11347872631
   }
 }

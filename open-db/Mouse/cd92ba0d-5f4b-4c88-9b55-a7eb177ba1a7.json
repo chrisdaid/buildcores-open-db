@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B003U4RVRI"
+    "amazon_sku": "B003U4RVRI",
+    "walmart_sku": 15167258
   }
 }

@@ -47,6 +47,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B07PB24DN2"
+    "amazon_sku": "B07PB24DN2",
+    "walmart_sku": 842942740
   }
 }

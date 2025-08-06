@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B002DV9XBG"
+    "amazon_sku": "B002DV9XBG",
+    "walmart_sku": 13215025
   }
 }

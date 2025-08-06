@@ -4,6 +4,7 @@
     "part_numbers": []
   },
   "general_product_information": {
-    "amazon_sku": "B00BEEFOXY"
+    "amazon_sku": "B00BEEFOXY",
+    "walmart_sku": 24097930
   }
 }

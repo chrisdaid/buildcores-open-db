@@ -29,6 +29,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B09SHV7LZ3"
+    "amazon_sku": "B09SHV7LZ3",
+    "walmart_sku": 698034898
   }
 }

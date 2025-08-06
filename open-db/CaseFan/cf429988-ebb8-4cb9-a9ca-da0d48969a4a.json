@@ -23,6 +23,7 @@
   "flow_direction": "Reverse",
   "general_product_information": {
     "amazon_sku": "B0DGVFTK5K",
-    "newegg_sku": "N82E16835181465"
+    "newegg_sku": "N82E16835181465",
+    "walmart_sku": 14793415013
   }
 }

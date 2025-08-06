@@ -43,6 +43,7 @@
   "coreFamily": "Kaby Lake-X",
   "socket": "LGA2066",
   "general_product_information": {
-    "amazon_sku": "B073VMLJVV"
+    "amazon_sku": "B073VMLJVV",
+    "walmart_sku": 294162346
   }
 }

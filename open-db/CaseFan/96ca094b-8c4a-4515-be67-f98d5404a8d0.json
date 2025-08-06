@@ -22,6 +22,7 @@
   "static_pressure": null,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B017AUFGHE"
+    "amazon_sku": "B017AUFGHE",
+    "walmart_sku": 193947129
   }
 }

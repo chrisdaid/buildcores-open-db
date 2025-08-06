@@ -30,6 +30,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B0DPHRRN65"
+    "amazon_sku": "B0DPHRRN65",
+    "walmart_sku": 17363963646
   }
 }

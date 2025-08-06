@@ -29,6 +29,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B002RWJGI6"
+    "amazon_sku": "B002RWJGI6",
+    "walmart_sku": 48767935
   }
 }

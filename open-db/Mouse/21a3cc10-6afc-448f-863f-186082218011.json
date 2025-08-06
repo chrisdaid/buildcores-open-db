@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B084WPF64N"
+    "amazon_sku": "B084WPF64N",
+    "walmart_sku": 399928705
   }
 }

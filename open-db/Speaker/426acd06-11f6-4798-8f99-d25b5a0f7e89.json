@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B001RNOHDU"
+    "amazon_sku": "B001RNOHDU",
+    "walmart_sku": 10928655
   }
 }

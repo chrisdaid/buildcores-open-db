@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B093MTTDTL"
+    "amazon_sku": "B093MTTDTL",
+    "walmart_sku": 845811305
   }
 }

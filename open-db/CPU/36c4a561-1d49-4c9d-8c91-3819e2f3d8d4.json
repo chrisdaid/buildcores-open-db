@@ -45,6 +45,7 @@
   "coreFamily": "Pinnacle Ridge",
   "socket": "AM4",
   "general_product_information": {
-    "amazon_sku": "B0741DN383"
+    "amazon_sku": "B0741DN383",
+    "walmart_sku": 725039934
   }
 }

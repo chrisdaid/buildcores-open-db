@@ -43,6 +43,7 @@
     "_id": "67f9c5fb865ad0c3553ea10b"
   },
   "general_product_information": {
-    "amazon_sku": "B07PBLD2MX"
+    "amazon_sku": "B07PBLD2MX",
+    "walmart_sku": 711799074
   }
 }

@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B000FNH208"
+    "amazon_sku": "B000FNH208",
+    "walmart_sku": 13214744
   }
 }

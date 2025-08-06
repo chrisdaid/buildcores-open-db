@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B09CLM1LPR"
+    "amazon_sku": "B09CLM1LPR",
+    "walmart_sku": 309207560
   }
 }

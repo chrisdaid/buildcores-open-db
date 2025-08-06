@@ -25,6 +25,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B000RLH2GW"
+    "amazon_sku": "B000RLH2GW",
+    "walmart_sku": 23326083
   }
 }

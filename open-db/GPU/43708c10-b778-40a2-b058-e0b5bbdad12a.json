@@ -43,6 +43,7 @@
     "_id": "67f9c855865ad0c3553ec6b4"
   },
   "general_product_information": {
-    "amazon_sku": "B076RT2ZVV"
+    "amazon_sku": "B076RT2ZVV",
+    "walmart_sku": 603640228
   }
 }

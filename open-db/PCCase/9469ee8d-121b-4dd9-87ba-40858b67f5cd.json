@@ -29,6 +29,7 @@
   "weight": null,
   "general_product_information": {
     "amazon_sku": "B0DQPPKNSS",
-    "newegg_sku": "2AM-000T-00209"
+    "newegg_sku": "2AM-000T-00209",
+    "bestbuy_sku": 6629592
   }
 }

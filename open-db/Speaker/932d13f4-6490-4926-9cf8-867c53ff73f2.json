@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B00CFOX420"
+    "amazon_sku": "B00CFOX420",
+    "walmart_sku": 125048304
   }
 }

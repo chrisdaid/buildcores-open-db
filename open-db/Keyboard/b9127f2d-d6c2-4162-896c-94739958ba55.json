@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B005SG21YO"
+    "amazon_sku": "B005SG21YO",
+    "walmart_sku": 20630163
   }
 }

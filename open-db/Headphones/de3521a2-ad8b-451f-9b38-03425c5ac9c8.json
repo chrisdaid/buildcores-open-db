@@ -9,6 +9,8 @@
   },
   "general_product_information": {
     "amazon_sku": "B09YHQWHKV",
-    "newegg_sku": "3D5-001H-00036"
+    "newegg_sku": "3D5-001H-00036",
+    "bestbuy_sku": 6506968,
+    "walmart_sku": 1520264715
   }
 }

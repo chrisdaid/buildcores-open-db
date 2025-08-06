@@ -28,6 +28,7 @@
   "rgb": false,
   "general_product_information": {
     "amazon_sku": "B0CN3CTW2N",
-    "newegg_sku": "N82E16820242816"
+    "newegg_sku": "N82E16820242816",
+    "walmart_sku": 5202265064
   }
 }

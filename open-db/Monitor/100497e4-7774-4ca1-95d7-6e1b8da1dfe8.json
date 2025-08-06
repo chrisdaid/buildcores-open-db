@@ -28,6 +28,8 @@
   "hdr": "",
   "adaptive_sync": "FreeSync",
   "general_product_information": {
-    "amazon_sku": "B0DG6QH33Y"
+    "amazon_sku": "B0DG6QH33Y",
+    "bestbuy_sku": 6602239,
+    "walmart_sku": 12585169880
   }
 }

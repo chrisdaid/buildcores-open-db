@@ -44,6 +44,7 @@
   },
   "core_count": 0,
   "general_product_information": {
-    "amazon_sku": "B00V7C9N26"
+    "amazon_sku": "B00V7C9N26",
+    "walmart_sku": 45025534
   }
 }

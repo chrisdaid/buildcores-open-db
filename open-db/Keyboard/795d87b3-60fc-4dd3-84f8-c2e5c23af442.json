@@ -8,6 +8,8 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B09LFW3CX3"
+    "amazon_sku": "B09LFW3CX3",
+    "bestbuy_sku": 6499392,
+    "walmart_sku": 576088246
   }
 }

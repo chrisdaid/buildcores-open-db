@@ -11,6 +11,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B09GL8128T",
-    "newegg_sku": "32N-003C-000D3"
+    "newegg_sku": "32N-003C-000D3",
+    "walmart_sku": 632081597
   }
 }

@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B005HQ514C"
+    "amazon_sku": "B005HQ514C",
+    "walmart_sku": 17480506
   }
 }

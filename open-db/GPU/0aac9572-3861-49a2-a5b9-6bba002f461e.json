@@ -44,6 +44,7 @@
   },
   "core_count": 2560,
   "general_product_information": {
-    "amazon_sku": "B0B14FHDFH"
+    "amazon_sku": "B0B14FHDFH",
+    "walmart_sku": 1605879125
   }
 }

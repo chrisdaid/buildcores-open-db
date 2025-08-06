@@ -44,6 +44,7 @@
   },
   "core_count": 0,
   "general_product_information": {
-    "amazon_sku": "B086VR4VHX"
+    "amazon_sku": "B086VR4VHX",
+    "walmart_sku": 487095756
   }
 }

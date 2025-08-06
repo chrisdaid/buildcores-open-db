@@ -34,6 +34,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B09MWFVT81"
+    "amazon_sku": "B09MWFVT81",
+    "walmart_sku": 2186890210
   }
 }

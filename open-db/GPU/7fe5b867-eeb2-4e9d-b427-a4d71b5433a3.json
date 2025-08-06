@@ -44,6 +44,7 @@
   },
   "core_count": 5888,
   "general_product_information": {
-    "amazon_sku": "B099NYF19F"
+    "amazon_sku": "B099NYF19F",
+    "walmart_sku": 771909178
   }
 }

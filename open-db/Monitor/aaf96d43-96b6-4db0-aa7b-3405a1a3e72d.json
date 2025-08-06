@@ -27,6 +27,8 @@
   "adaptive_sync": "None",
   "general_product_information": {
     "amazon_sku": "B08V1225XS",
-    "newegg_sku": "N82E16824117064"
+    "newegg_sku": "N82E16824117064",
+    "bestbuy_sku": 6509003,
+    "walmart_sku": 890981826
   }
 }

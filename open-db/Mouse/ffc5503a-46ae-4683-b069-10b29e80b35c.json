@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B005DSPLCQ"
+    "amazon_sku": "B005DSPLCQ",
+    "walmart_sku": 100343314
   }
 }

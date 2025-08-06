@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B00UH35Q54"
+    "amazon_sku": "B00UH35Q54",
+    "walmart_sku": 44298025
   }
 }

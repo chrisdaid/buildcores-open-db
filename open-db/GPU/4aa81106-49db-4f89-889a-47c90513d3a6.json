@@ -44,6 +44,7 @@
   },
   "core_count": 0,
   "general_product_information": {
-    "amazon_sku": "B00UPHAT2C"
+    "amazon_sku": "B00UPHAT2C",
+    "walmart_sku": 44933735
   }
 }

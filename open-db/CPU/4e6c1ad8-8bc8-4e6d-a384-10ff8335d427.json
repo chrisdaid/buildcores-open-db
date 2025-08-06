@@ -43,6 +43,7 @@
   "coreFamily": "Broadwell-EP",
   "socket": "LGA2011-3",
   "general_product_information": {
-    "amazon_sku": "B01CNKF0U4"
+    "amazon_sku": "B01CNKF0U4",
+    "walmart_sku": 991078339
   }
 }

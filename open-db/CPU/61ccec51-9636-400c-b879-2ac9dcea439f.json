@@ -53,6 +53,7 @@
   "coreFamily": null,
   "socket": "LGA2066",
   "general_product_information": {
-    "amazon_sku": "B07JDV1QDG"
+    "amazon_sku": "B07JDV1QDG",
+    "walmart_sku": 621741827
   }
 }

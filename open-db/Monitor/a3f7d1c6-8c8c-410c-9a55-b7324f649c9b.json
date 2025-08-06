@@ -29,6 +29,7 @@
   "adaptive_sync": "FreeSync",
   "general_product_information": {
     "amazon_sku": "B0CKGTHQG7",
-    "newegg_sku": "N82E16824475331"
+    "newegg_sku": "N82E16824475331",
+    "walmart_sku": 5170904085
   }
 }

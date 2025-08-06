@@ -30,6 +30,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B0DLWGG85P"
+    "amazon_sku": "B0DLWGG85P",
+    "walmart_sku": 15977302402
   }
 }

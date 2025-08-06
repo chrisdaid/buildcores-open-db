@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B007T1CTDE"
+    "amazon_sku": "B007T1CTDE",
+    "walmart_sku": 24706053
   }
 }

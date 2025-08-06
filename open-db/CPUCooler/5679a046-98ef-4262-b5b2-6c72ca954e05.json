@@ -49,6 +49,7 @@
   "fan_quantity": null,
   "general_product_information": {
     "amazon_sku": "B0BYSHDT75",
-    "newegg_sku": "13C-005U-00029"
+    "newegg_sku": "13C-005U-00029",
+    "walmart_sku": 1599742601
   }
 }

@@ -46,6 +46,8 @@
   "socket": "AM5",
   "general_product_information": {
     "amazon_sku": "B0DWGWN8GY",
-    "newegg_sku": "N82E16819113886"
+    "newegg_sku": "N82E16819113886",
+    "bestbuy_sku": 6621940,
+    "walmart_sku": 15487369763
   }
 }

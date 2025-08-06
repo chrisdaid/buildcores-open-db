@@ -30,6 +30,8 @@
   "weight": null,
   "general_product_information": {
     "amazon_sku": "B0F1ZDXRYQ",
-    "newegg_sku": "2AM-000X-00359"
+    "newegg_sku": "2AM-000X-00359",
+    "bestbuy_sku": 6626442,
+    "walmart_sku": 16262674375
   }
 }

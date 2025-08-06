@@ -28,6 +28,8 @@
   "hdr": "",
   "adaptive_sync": "FreeSync Premium",
   "general_product_information": {
-    "amazon_sku": "B0C1731XXK"
+    "amazon_sku": "B0C1731XXK",
+    "bestbuy_sku": 6540004,
+    "walmart_sku": 2270863420
   }
 }

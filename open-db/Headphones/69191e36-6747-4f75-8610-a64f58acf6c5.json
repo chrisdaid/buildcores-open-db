@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B003LPTAYI"
+    "amazon_sku": "B003LPTAYI",
+    "walmart_sku": 15773541
   }
 }

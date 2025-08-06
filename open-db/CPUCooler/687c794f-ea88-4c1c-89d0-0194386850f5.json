@@ -40,6 +40,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B07TFX446Y"
+    "amazon_sku": "B07TFX446Y",
+    "walmart_sku": 1428080411
   }
 }

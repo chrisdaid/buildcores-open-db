@@ -9,6 +9,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B007TRUULG"
+    "amazon_sku": "B007TRUULG",
+    "walmart_sku": 33076924
   }
 }

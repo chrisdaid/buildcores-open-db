@@ -28,6 +28,8 @@
   "hdr": "",
   "adaptive_sync": "None",
   "general_product_information": {
-    "amazon_sku": "B0BRNYJ46M"
+    "amazon_sku": "B0BRNYJ46M",
+    "bestbuy_sku": 6553124,
+    "walmart_sku": 3466465713
   }
 }

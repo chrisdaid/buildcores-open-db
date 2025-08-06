@@ -22,6 +22,7 @@
   "static_pressure": 1.35,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B002QVLBPO"
+    "amazon_sku": "B002QVLBPO",
+    "walmart_sku": 47312654
   }
 }

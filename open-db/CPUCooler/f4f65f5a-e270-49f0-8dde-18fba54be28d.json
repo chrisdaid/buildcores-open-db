@@ -41,6 +41,7 @@
   "fan_quantity": null,
   "general_product_information": {
     "amazon_sku": "B088PDQMPK",
-    "newegg_sku": "9SIADFRHD03367"
+    "newegg_sku": "9SIADFRHD03367",
+    "walmart_sku": 967884909
   }
 }

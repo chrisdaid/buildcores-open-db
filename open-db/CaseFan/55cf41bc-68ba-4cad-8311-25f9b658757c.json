@@ -23,6 +23,7 @@
   "static_pressure": 2.59,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B0BMWCV1T6"
+    "amazon_sku": "B0BMWCV1T6",
+    "walmart_sku": 2917452003
   }
 }

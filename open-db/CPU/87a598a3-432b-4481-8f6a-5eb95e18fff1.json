@@ -43,6 +43,7 @@
   "coreFamily": "Ivy Bridge-EP",
   "socket": "LGA2011",
   "general_product_information": {
-    "amazon_sku": "B00F0R730S"
+    "amazon_sku": "B00F0R730S",
+    "walmart_sku": 39105760
   }
 }

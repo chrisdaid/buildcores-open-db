@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B0007T27BE"
+    "amazon_sku": "B0007T27BE",
+    "walmart_sku": 13044508
   }
 }

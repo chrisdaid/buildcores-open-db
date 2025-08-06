@@ -22,6 +22,8 @@
   "static_pressure": 1.4,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B083FMJZ93"
+    "amazon_sku": "B083FMJZ93",
+    "bestbuy_sku": 6459390,
+    "walmart_sku": 889245782
   }
 }

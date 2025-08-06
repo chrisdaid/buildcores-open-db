@@ -44,6 +44,7 @@
   "socket": "LGA2066",
   "general_product_information": {
     "amazon_sku": "B07JGCMQY8",
-    "newegg_sku": "9SIBWH3KAM1330"
+    "newegg_sku": "9SIBWH3KAM1330",
+    "walmart_sku": 740882552
   }
 }

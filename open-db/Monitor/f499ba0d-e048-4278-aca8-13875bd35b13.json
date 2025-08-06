@@ -26,6 +26,7 @@
   "hdr": "",
   "adaptive_sync": "None",
   "general_product_information": {
-    "amazon_sku": "B005PAIVII"
+    "amazon_sku": "B005PAIVII",
+    "walmart_sku": 20701019
   }
 }

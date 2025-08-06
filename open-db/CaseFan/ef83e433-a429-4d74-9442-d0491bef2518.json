@@ -23,6 +23,7 @@
   "static_pressure": null,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B00L64NST4"
+    "amazon_sku": "B00L64NST4",
+    "walmart_sku": 44410353
   }
 }

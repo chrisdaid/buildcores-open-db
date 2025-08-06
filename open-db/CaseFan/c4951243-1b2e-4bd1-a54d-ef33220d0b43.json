@@ -22,6 +22,7 @@
   "static_pressure": null,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B005ZF64FK"
+    "amazon_sku": "B005ZF64FK",
+    "walmart_sku": 41992500
   }
 }

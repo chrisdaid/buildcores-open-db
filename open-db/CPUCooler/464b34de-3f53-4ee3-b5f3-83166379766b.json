@@ -39,6 +39,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B099RSPC2H"
+    "amazon_sku": "B099RSPC2H",
+    "walmart_sku": 435833189
   }
 }

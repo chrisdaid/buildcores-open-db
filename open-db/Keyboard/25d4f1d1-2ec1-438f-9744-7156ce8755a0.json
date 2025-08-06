@@ -9,6 +9,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B0DJD163HT",
-    "newegg_sku": "0GA-0001-011T4"
+    "newegg_sku": "0GA-0001-011T4",
+    "bestbuy_sku": 6599038
   }
 }

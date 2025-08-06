@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B00029TLMW"
+    "amazon_sku": "B00029TLMW",
+    "walmart_sku": 10755892
   }
 }

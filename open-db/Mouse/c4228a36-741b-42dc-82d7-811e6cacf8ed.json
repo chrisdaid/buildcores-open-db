@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B001S2PVWG"
+    "amazon_sku": "B001S2PVWG",
+    "walmart_sku": 680492052
   }
 }

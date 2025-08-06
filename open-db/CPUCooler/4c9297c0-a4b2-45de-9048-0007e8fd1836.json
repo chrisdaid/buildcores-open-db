@@ -42,6 +42,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B08CZ6NM4W"
+    "amazon_sku": "B08CZ6NM4W",
+    "walmart_sku": 572682137
   }
 }

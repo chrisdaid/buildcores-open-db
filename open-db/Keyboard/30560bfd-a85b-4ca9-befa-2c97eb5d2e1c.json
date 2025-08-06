@@ -9,6 +9,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B08GL416MX",
-    "newegg_sku": "N82E16823176060"
+    "newegg_sku": "N82E16823176060",
+    "walmart_sku": 945760243
   }
 }

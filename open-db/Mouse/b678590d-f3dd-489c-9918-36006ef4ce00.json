@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B011COBTBG"
+    "amazon_sku": "B011COBTBG",
+    "walmart_sku": 46544662
   }
 }

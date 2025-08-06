@@ -15,6 +15,7 @@
   "interface": "M.2 PCIe 5.0 X4",
   "nvme": true,
   "general_product_information": {
-    "amazon_sku": "B0CB71FSC6"
+    "amazon_sku": "B0CB71FSC6",
+    "walmart_sku": 5037962572
   }
 }

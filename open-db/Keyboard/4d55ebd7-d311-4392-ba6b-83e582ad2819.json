@@ -10,6 +10,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B09BTFVRMR"
+    "amazon_sku": "B09BTFVRMR",
+    "walmart_sku": 364381993
   }
 }

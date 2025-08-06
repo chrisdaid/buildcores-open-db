@@ -28,6 +28,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B0BZGBT59F"
+    "amazon_sku": "B0BZGBT59F",
+    "walmart_sku": 2336060314
   }
 }

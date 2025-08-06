@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B003VAK1FA"
+    "amazon_sku": "B003VAK1FA",
+    "walmart_sku": 22734183
   }
 }

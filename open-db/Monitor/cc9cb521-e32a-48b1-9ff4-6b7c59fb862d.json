@@ -26,6 +26,7 @@
   "hdr": "",
   "adaptive_sync": "None",
   "general_product_information": {
-    "amazon_sku": "B00TCV1GCE"
+    "amazon_sku": "B00TCV1GCE",
+    "walmart_sku": 44445724
   }
 }

@@ -28,6 +28,8 @@
   "hdr": "",
   "adaptive_sync": "None",
   "general_product_information": {
-    "amazon_sku": "B0CT441B25"
+    "amazon_sku": "B0CT441B25",
+    "bestbuy_sku": 6583178,
+    "walmart_sku": 5437395485
   }
 }

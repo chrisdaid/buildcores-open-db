@@ -43,6 +43,7 @@
   "coreFamily": "Kaveri",
   "socket": "FM2+",
   "general_product_information": {
-    "amazon_sku": "B00LM5PDBS"
+    "amazon_sku": "B00LM5PDBS",
+    "walmart_sku": 39461958
   }
 }

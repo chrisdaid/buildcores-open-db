@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B00005ML7R"
+    "amazon_sku": "B00005ML7R",
+    "walmart_sku": 10760275
   }
 }

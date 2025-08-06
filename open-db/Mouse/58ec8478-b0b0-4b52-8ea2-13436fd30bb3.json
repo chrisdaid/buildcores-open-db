@@ -8,6 +8,8 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B0DG7LDR38"
+    "amazon_sku": "B0DG7LDR38",
+    "bestbuy_sku": 6589885,
+    "walmart_sku": 10557266654
   }
 }

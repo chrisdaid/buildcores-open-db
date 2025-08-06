@@ -24,6 +24,7 @@
   "flow_direction": "Standard",
   "general_product_information": {
     "amazon_sku": "B0DVMZKSQM",
-    "newegg_sku": "1YF-001G-004E1"
+    "newegg_sku": "1YF-001G-004E1",
+    "bestbuy_sku": 6626434
   }
 }

@@ -44,6 +44,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B07LFBF74M"
+    "amazon_sku": "B07LFBF74M",
+    "walmart_sku": 836825124
   }
 }

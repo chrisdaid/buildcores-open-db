@@ -26,6 +26,8 @@
   "hdr": "",
   "adaptive_sync": "None",
   "general_product_information": {
-    "amazon_sku": "B08TZR782B"
+    "amazon_sku": "B08TZR782B",
+    "bestbuy_sku": 6508999,
+    "walmart_sku": 533096313
   }
 }

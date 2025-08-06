@@ -29,6 +29,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B089NY81HT"
+    "amazon_sku": "B089NY81HT",
+    "walmart_sku": 1700446138
   }
 }

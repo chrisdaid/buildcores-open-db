@@ -29,6 +29,8 @@
   "hdr": "",
   "adaptive_sync": "FreeSync Premium Pro                                                    G-Sync Compatible",
   "general_product_information": {
-    "amazon_sku": "B0D2LXLN75"
+    "amazon_sku": "B0D2LXLN75",
+    "bestbuy_sku": 6600066,
+    "walmart_sku": 10297314337
   }
 }

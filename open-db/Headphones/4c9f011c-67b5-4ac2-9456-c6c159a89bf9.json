@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B007ZT4AGY"
+    "amazon_sku": "B007ZT4AGY",
+    "walmart_sku": 23703088
   }
 }

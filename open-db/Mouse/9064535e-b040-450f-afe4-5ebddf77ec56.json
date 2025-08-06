@@ -8,6 +8,8 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B0CNH7T8VK"
+    "amazon_sku": "B0CNH7T8VK",
+    "bestbuy_sku": 6552790,
+    "walmart_sku": 5096916306
   }
 }

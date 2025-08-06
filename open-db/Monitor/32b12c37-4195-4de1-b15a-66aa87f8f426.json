@@ -28,6 +28,8 @@
   "hdr": "",
   "adaptive_sync": "FreeSync Premium                                                    G-Sync Compatible",
   "general_product_information": {
-    "amazon_sku": "B0CZ3NZTHN"
+    "amazon_sku": "B0CZ3NZTHN",
+    "bestbuy_sku": 6593761,
+    "walmart_sku": 6864051378
   }
 }

@@ -45,6 +45,7 @@
   "core_count": 2560,
   "general_product_information": {
     "amazon_sku": "B0FG9KQ9D7",
-    "newegg_sku": "N82E16814500625"
+    "newegg_sku": "N82E16814500625",
+    "walmart_sku": 17359365091
   }
 }

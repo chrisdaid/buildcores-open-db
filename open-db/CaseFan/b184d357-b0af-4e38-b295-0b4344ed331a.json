@@ -24,6 +24,7 @@
   "flow_direction": "Standard",
   "general_product_information": {
     "amazon_sku": "B0CTGMV3TP",
-    "newegg_sku": "13C-001H-00267"
+    "newegg_sku": "13C-001H-00267",
+    "walmart_sku": 5445870553
   }
 }

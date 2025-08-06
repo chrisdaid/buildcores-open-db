@@ -28,6 +28,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B008LA7AUE"
+    "amazon_sku": "B008LA7AUE",
+    "walmart_sku": 109562781
   }
 }

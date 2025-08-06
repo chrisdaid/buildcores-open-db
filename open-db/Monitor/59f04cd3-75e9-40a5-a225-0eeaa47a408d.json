@@ -29,6 +29,7 @@
   "hdr": "",
   "adaptive_sync": "FreeSync",
   "general_product_information": {
-    "amazon_sku": "B08632C4MS"
+    "amazon_sku": "B08632C4MS",
+    "walmart_sku": 225011667
   }
 }

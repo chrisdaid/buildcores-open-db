@@ -22,6 +22,7 @@
   "static_pressure": null,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B000234W0O"
+    "amazon_sku": "B000234W0O",
+    "walmart_sku": 33522413
   }
 }

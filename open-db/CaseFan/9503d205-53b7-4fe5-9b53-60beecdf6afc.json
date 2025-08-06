@@ -20,6 +20,7 @@
   "static_pressure": null,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B003MDQAI8"
+    "amazon_sku": "B003MDQAI8",
+    "walmart_sku": 30339210
   }
 }

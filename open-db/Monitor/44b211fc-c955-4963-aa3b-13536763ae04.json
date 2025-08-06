@@ -26,6 +26,8 @@
   "hdr": "",
   "adaptive_sync": "FreeSync Premium",
   "general_product_information": {
-    "amazon_sku": "B0F1GFD44G"
+    "amazon_sku": "B0F1GFD44G",
+    "bestbuy_sku": 6619486,
+    "walmart_sku": 15223174578
   }
 }

@@ -28,6 +28,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B006MNFMBG"
+    "amazon_sku": "B006MNFMBG",
+    "walmart_sku": 47313093
   }
 }

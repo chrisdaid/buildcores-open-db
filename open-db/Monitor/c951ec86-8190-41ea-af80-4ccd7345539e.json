@@ -26,6 +26,7 @@
   "hdr": "",
   "adaptive_sync": "FreeSync",
   "general_product_information": {
-    "amazon_sku": "B08DS3J869"
+    "amazon_sku": "B08DS3J869",
+    "walmart_sku": 255216678
   }
 }

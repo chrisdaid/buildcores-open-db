@@ -44,6 +44,7 @@
   },
   "core_count": 6144,
   "general_product_information": {
-    "amazon_sku": "B0981VN5TY"
+    "amazon_sku": "B0981VN5TY",
+    "walmart_sku": 639944463
   }
 }

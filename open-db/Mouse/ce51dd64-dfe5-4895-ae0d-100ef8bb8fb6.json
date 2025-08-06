@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B014MICAP8"
+    "amazon_sku": "B014MICAP8",
+    "walmart_sku": 47039947
   }
 }

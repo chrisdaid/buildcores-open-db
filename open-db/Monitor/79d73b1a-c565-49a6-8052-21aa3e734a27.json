@@ -28,6 +28,7 @@
   "hdr": "",
   "adaptive_sync": "FreeSync",
   "general_product_information": {
-    "amazon_sku": "B07598HLB5"
+    "amazon_sku": "B07598HLB5",
+    "walmart_sku": 871234586
   }
 }

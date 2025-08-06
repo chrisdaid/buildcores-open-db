@@ -43,6 +43,7 @@
   },
   "core_count": 0,
   "general_product_information": {
-    "amazon_sku": "B097S8BR3C"
+    "amazon_sku": "B097S8BR3C",
+    "walmart_sku": 264987303
   }
 }

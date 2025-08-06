@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B00030DEQE"
+    "amazon_sku": "B00030DEQE",
+    "walmart_sku": 26968326
   }
 }

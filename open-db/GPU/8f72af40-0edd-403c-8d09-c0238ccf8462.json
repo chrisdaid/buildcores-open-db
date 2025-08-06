@@ -44,6 +44,7 @@
   },
   "core_count": 3840,
   "general_product_information": {
-    "amazon_sku": "B0D6NNW6NS"
+    "amazon_sku": "B0D6NNW6NS",
+    "walmart_sku": 6535451296
   }
 }

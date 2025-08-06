@@ -27,6 +27,8 @@
   "adaptive_sync": "None",
   "general_product_information": {
     "amazon_sku": "B0B76VC145",
-    "newegg_sku": "0JC-0004-00UK1"
+    "newegg_sku": "0JC-0004-00UK1",
+    "bestbuy_sku": 6577182,
+    "walmart_sku": 1556339713
   }
 }

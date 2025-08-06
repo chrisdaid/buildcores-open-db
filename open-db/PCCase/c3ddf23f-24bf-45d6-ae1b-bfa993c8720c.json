@@ -29,6 +29,8 @@
   "front_usb_ports": [],
   "general_product_information": {
     "amazon_sku": "B0DW1D51WB",
-    "newegg_sku": "N82E16811133563"
+    "newegg_sku": "N82E16811133563",
+    "bestbuy_sku": 6626432,
+    "walmart_sku": 15552750116
   }
 }

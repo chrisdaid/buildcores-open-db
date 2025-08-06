@@ -22,6 +22,7 @@
   "static_pressure": 6.56,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B0DPFMWJ9W"
+    "amazon_sku": "B0DPFMWJ9W",
+    "walmart_sku": 15798450854
   }
 }

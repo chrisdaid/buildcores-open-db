@@ -43,6 +43,7 @@
   "coreFamily": "Haswell Refresh",
   "socket": "LGA1150",
   "general_product_information": {
-    "amazon_sku": "B00JIJUBAS"
+    "amazon_sku": "B00JIJUBAS",
+    "walmart_sku": 39148163
   }
 }

@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B002FU5QM0"
+    "amazon_sku": "B002FU5QM0",
+    "walmart_sku": 13021173
   }
 }

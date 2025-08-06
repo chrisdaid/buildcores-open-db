@@ -9,6 +9,8 @@
   },
   "general_product_information": {
     "amazon_sku": "B0916MW7CG",
-    "newegg_sku": "32K-000N-00162"
+    "newegg_sku": "32K-000N-00162",
+    "bestbuy_sku": 6460407,
+    "walmart_sku": 468208500
   }
 }

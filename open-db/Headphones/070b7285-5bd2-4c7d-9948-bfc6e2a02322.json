@@ -9,6 +9,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B007TRUTJ4"
+    "amazon_sku": "B007TRUTJ4",
+    "walmart_sku": 33076926
   }
 }

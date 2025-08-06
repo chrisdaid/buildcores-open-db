@@ -26,6 +26,8 @@
   "hdr": "",
   "adaptive_sync": "None",
   "general_product_information": {
-    "amazon_sku": "B08WTGR6VT"
+    "amazon_sku": "B08WTGR6VT",
+    "bestbuy_sku": 6469393,
+    "walmart_sku": 975678901
   }
 }

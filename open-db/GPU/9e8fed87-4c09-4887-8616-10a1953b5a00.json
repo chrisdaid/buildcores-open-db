@@ -43,6 +43,7 @@
   },
   "core_count": 10240,
   "general_product_information": {
-    "amazon_sku": "B09KVLCW4W"
+    "amazon_sku": "B09KVLCW4W",
+    "walmart_sku": 235757423
   }
 }

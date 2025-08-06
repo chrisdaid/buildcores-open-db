@@ -43,6 +43,7 @@
     "_id": "67f9c776865ad0c3553eb8e5"
   },
   "general_product_information": {
-    "amazon_sku": "B083R25Z94"
+    "amazon_sku": "B083R25Z94",
+    "walmart_sku": 424162739
   }
 }

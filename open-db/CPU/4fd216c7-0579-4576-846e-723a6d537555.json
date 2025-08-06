@@ -43,6 +43,7 @@
   "coreFamily": "Coffee Lake",
   "socket": "LGA1151",
   "general_product_information": {
-    "amazon_sku": "B0759FKH8K"
+    "amazon_sku": "B0759FKH8K",
+    "walmart_sku": 339301461
   }
 }

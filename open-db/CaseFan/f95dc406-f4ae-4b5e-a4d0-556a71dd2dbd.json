@@ -22,6 +22,8 @@
   "static_pressure": 2.39,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B0BWHM249B"
+    "amazon_sku": "B0BWHM249B",
+    "bestbuy_sku": 6543479,
+    "walmart_sku": 3188781346
   }
 }

@@ -43,6 +43,7 @@
   "coreFamily": "Kaby Lake-S",
   "socket": "LGA1151",
   "general_product_information": {
-    "amazon_sku": "B01MZ9GJ1N"
+    "amazon_sku": "B01MZ9GJ1N",
+    "walmart_sku": 119689732
   }
 }

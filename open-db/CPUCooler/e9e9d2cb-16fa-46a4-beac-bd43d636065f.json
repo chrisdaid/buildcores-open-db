@@ -42,6 +42,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B08F21X2VP"
+    "amazon_sku": "B08F21X2VP",
+    "walmart_sku": 809206287
   }
 }

@@ -8,6 +8,8 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B0BFH21BPX"
+    "amazon_sku": "B0BFH21BPX",
+    "bestbuy_sku": 6571655,
+    "walmart_sku": 5517059787
   }
 }

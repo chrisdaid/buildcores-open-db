@@ -28,6 +28,8 @@
   "hdr": "",
   "adaptive_sync": "FreeSync Premium Pro",
   "general_product_information": {
-    "amazon_sku": "B0BJH22XW6"
+    "amazon_sku": "B0BJH22XW6",
+    "bestbuy_sku": 6522483,
+    "walmart_sku": 1407238110
   }
 }

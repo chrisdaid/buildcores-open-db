@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B003VANO7C"
+    "amazon_sku": "B003VANO7C",
+    "walmart_sku": 15105368
   }
 }

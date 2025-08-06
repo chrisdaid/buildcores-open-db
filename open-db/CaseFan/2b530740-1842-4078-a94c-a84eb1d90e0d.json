@@ -24,6 +24,7 @@
   "static_pressure": 0,
   "general_product_information": {
     "amazon_sku": "B008G3OLRQ",
-    "newegg_sku": "9SIB4AMG2J8985"
+    "newegg_sku": "9SIB4AMG2J8985",
+    "walmart_sku": 26115699
   }
 }

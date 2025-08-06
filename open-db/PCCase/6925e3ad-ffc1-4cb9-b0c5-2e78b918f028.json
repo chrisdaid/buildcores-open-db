@@ -29,6 +29,8 @@
   "weight": null,
   "general_product_information": {
     "amazon_sku": "B0DK5VGWM4",
-    "newegg_sku": "N82E16811352229"
+    "newegg_sku": "N82E16811352229",
+    "bestbuy_sku": 6616609,
+    "walmart_sku": 16681650118
   }
 }

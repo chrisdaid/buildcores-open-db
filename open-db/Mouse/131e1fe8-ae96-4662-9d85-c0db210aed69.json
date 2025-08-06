@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B09BRFBSNV"
+    "amazon_sku": "B09BRFBSNV",
+    "walmart_sku": 748123243
   }
 }

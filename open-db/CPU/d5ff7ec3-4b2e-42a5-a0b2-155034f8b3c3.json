@@ -54,6 +54,7 @@
   "socket": "sTR5",
   "general_product_information": {
     "amazon_sku": "B0CK2W3WFP",
-    "newegg_sku": "19-113-806"
+    "newegg_sku": "19-113-806",
+    "walmart_sku": 5177043337
   }
 }

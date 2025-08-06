@@ -41,6 +41,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B00CYX45CK"
+    "amazon_sku": "B00CYX45CK",
+    "walmart_sku": 34203938
   }
 }

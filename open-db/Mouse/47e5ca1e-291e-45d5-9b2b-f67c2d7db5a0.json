@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B00CMB5TKG"
+    "amazon_sku": "B00CMB5TKG",
+    "walmart_sku": 46179145
   }
 }

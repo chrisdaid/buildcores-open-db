@@ -43,6 +43,7 @@
     "_id": "67f9c582865ad0c3553e9997"
   },
   "general_product_information": {
-    "amazon_sku": "B07115GPN7"
+    "amazon_sku": "B07115GPN7",
+    "walmart_sku": 144320000
   }
 }

@@ -39,6 +39,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B005HIRDUA"
+    "amazon_sku": "B005HIRDUA",
+    "walmart_sku": 23142515
   }
 }

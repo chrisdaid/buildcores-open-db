@@ -38,6 +38,7 @@
   "fan_quantity": null,
   "general_product_information": {
     "amazon_sku": "B0CPQ9M15Y",
-    "newegg_sku": "N82E16835128037"
+    "newegg_sku": "N82E16835128037",
+    "walmart_sku": 5342234071
   }
 }

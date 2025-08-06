@@ -37,6 +37,7 @@
     "_id": "688cf97aa1253a29c4c77a9b"
   },
   "general_product_information": {
-    "amazon_sku": "B094464GV5"
+    "amazon_sku": "B094464GV5",
+    "walmart_sku": 349817390
   }
 }

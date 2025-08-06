@@ -22,6 +22,7 @@
   "static_pressure": 4.35,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B09VGP1ZGM"
+    "amazon_sku": "B09VGP1ZGM",
+    "walmart_sku": 15145902581
   }
 }

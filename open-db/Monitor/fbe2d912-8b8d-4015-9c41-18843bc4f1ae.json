@@ -30,6 +30,8 @@
   "adaptive_sync": "FreeSync Premium Pro",
   "general_product_information": {
     "amazon_sku": "B0D1DSXW17",
-    "newegg_sku": "N82E16824027330"
+    "newegg_sku": "N82E16824027330",
+    "bestbuy_sku": 6573686,
+    "walmart_sku": 5727601235
   }
 }

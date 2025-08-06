@@ -43,6 +43,7 @@
   "coreFamily": "Whitehaven",
   "socket": "TR4",
   "general_product_information": {
-    "amazon_sku": "B0754JNQBP"
+    "amazon_sku": "B0754JNQBP",
+    "walmart_sku": 295300785
   }
 }

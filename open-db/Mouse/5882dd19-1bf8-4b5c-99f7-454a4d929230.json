@@ -9,6 +9,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B002DPUUL4",
-    "newegg_sku": "9SIA24G28M6454"
+    "newegg_sku": "9SIA24G28M6454",
+    "walmart_sku": 13062571
   }
 }

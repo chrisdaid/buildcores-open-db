@@ -29,6 +29,8 @@
   "hdr": "",
   "adaptive_sync": "None",
   "general_product_information": {
-    "amazon_sku": "B0D1TX35MQ"
+    "amazon_sku": "B0D1TX35MQ",
+    "bestbuy_sku": 6602117,
+    "walmart_sku": 5539460685
   }
 }

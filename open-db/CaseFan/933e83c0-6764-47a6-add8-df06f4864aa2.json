@@ -22,6 +22,7 @@
   "static_pressure": null,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B00066ISVG"
+    "amazon_sku": "B00066ISVG",
+    "walmart_sku": 15229262
   }
 }

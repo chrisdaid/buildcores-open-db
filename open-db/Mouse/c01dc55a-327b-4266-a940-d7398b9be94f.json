@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B004P1IU52"
+    "amazon_sku": "B004P1IU52",
+    "walmart_sku": 16677001
   }
 }

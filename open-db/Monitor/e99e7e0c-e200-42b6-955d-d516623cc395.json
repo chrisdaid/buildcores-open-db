@@ -30,6 +30,7 @@
   "adaptive_sync": "None",
   "general_product_information": {
     "amazon_sku": "B08PMWP18R",
-    "newegg_sku": "1B4-003J-000M1"
+    "newegg_sku": "1B4-003J-000M1",
+    "walmart_sku": 907474304
   }
 }

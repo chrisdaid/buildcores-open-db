@@ -33,6 +33,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B09JM64XTQ"
+    "amazon_sku": "B09JM64XTQ",
+    "walmart_sku": 1731532607
   }
 }

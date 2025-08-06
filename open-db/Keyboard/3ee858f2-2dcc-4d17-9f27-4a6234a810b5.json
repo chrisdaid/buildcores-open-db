@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B001EKW0SU"
+    "amazon_sku": "B001EKW0SU",
+    "walmart_sku": 13215041
   }
 }

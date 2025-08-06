@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B00DR8LA60"
+    "amazon_sku": "B00DR8LA60",
+    "walmart_sku": 30823970
   }
 }

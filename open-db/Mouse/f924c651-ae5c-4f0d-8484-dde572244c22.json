@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B003PBZHPE"
+    "amazon_sku": "B003PBZHPE",
+    "walmart_sku": 46397052
   }
 }

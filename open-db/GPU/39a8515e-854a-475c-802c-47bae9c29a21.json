@@ -44,6 +44,8 @@
   },
   "core_count": 3584,
   "general_product_information": {
-    "amazon_sku": "B0971BG25M"
+    "amazon_sku": "B0971BG25M",
+    "bestbuy_sku": 6468931,
+    "walmart_sku": 718209642
   }
 }

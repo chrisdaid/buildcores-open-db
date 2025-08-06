@@ -44,6 +44,8 @@
   "core_count": 21760,
   "general_product_information": {
     "amazon_sku": "B0DTJF8YT4",
-    "newegg_sku": "1FT-000P-00662"
+    "newegg_sku": "1FT-000P-00662",
+    "bestbuy_sku": 6617116,
+    "walmart_sku": 15046623228
   }
 }

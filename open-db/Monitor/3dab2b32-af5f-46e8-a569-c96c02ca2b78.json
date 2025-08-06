@@ -29,6 +29,8 @@
   "adaptive_sync": "FreeSync",
   "general_product_information": {
     "amazon_sku": "B0BLT79X2G",
-    "newegg_sku": "0JC-0007-00PV1"
+    "newegg_sku": "0JC-0007-00PV1",
+    "bestbuy_sku": 6535469,
+    "walmart_sku": 1972905794
   }
 }

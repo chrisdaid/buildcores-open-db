@@ -23,6 +23,7 @@
   "static_pressure": 1.55,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B083X4VCLB"
+    "amazon_sku": "B083X4VCLB",
+    "walmart_sku": 399203051
   }
 }

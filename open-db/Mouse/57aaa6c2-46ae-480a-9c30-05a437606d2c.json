@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B007T1CTF2"
+    "amazon_sku": "B007T1CTF2",
+    "walmart_sku": 20690084
   }
 }

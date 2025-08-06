@@ -43,6 +43,7 @@
     "_id": "67f9c66d865ad0c3553ea852"
   },
   "general_product_information": {
-    "amazon_sku": "B076S558ZZ"
+    "amazon_sku": "B076S558ZZ",
+    "walmart_sku": 899665465
   }
 }

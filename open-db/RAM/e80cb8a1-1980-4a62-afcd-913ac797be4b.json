@@ -29,6 +29,7 @@
   "general_product_information": {
     "amazon_sku": "B09QNTMHZZ",
     "newegg_sku": "N82E16820236841",
-    "bestbuy_sku": 6496080
+    "bestbuy_sku": 6496080,
+    "walmart_sku": 222890967
   }
 }

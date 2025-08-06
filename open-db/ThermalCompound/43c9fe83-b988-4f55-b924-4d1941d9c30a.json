@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B004ULZITS"
+    "amazon_sku": "B004ULZITS",
+    "walmart_sku": 20712180
   }
 }

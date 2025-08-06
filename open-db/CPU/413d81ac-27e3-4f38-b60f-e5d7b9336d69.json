@@ -43,6 +43,7 @@
   "coreFamily": "Sandy Bridge-EP",
   "socket": "LGA2011",
   "general_product_information": {
-    "amazon_sku": "B007H29FRS"
+    "amazon_sku": "B007H29FRS",
+    "walmart_sku": 23140936
   }
 }

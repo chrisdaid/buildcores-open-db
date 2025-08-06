@@ -30,6 +30,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B0DPHQ1353"
+    "amazon_sku": "B0DPHQ1353",
+    "walmart_sku": 17363963769
   }
 }

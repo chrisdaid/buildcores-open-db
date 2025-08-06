@@ -8,6 +8,8 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B0797MY6JB"
+    "amazon_sku": "B0797MY6JB",
+    "bestbuy_sku": 6380856,
+    "walmart_sku": 351301088
   }
 }

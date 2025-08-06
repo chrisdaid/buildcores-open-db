@@ -9,6 +9,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B009LIPFFM",
-    "newegg_sku": "9SIAP9WCYV7950"
+    "newegg_sku": "9SIAP9WCYV7950",
+    "walmart_sku": 33376296
   }
 }

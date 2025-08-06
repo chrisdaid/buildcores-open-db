@@ -22,6 +22,7 @@
   "static_pressure": 1.9,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B0C18WSVTT"
+    "amazon_sku": "B0C18WSVTT",
+    "walmart_sku": 1203867695
   }
 }

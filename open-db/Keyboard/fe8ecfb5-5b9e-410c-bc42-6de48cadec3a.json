@@ -8,6 +8,8 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B0CCFY349S"
+    "amazon_sku": "B0CCFY349S",
+    "bestbuy_sku": 6554665,
+    "walmart_sku": 5094458296
   }
 }

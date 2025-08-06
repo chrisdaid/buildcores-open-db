@@ -22,6 +22,7 @@
   "static_pressure": 37,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B09VGS3LND"
+    "amazon_sku": "B09VGS3LND",
+    "walmart_sku": 14195902506
   }
 }

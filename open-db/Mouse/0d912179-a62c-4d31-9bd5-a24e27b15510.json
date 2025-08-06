@@ -9,6 +9,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B0DPJFZPGF",
-    "newegg_sku": "0TP-030Z-00001"
+    "newegg_sku": "0TP-030Z-00001",
+    "bestbuy_sku": 6617474
   }
 }

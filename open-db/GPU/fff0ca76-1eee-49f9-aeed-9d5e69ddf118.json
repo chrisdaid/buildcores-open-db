@@ -43,6 +43,7 @@
   },
   "core_count": 0,
   "general_product_information": {
-    "amazon_sku": "B0C5DLBMTP"
+    "amazon_sku": "B0C5DLBMTP",
+    "walmart_sku": 3301268748
   }
 }

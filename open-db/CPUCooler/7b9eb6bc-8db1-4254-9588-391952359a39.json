@@ -28,6 +28,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B005NBORN2"
+    "amazon_sku": "B005NBORN2",
+    "walmart_sku": 40226146
   }
 }

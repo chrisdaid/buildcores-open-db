@@ -28,6 +28,8 @@
   "hdr": "",
   "adaptive_sync": "FreeSync",
   "general_product_information": {
-    "amazon_sku": "B0CZPLQZ8P"
+    "amazon_sku": "B0CZPLQZ8P",
+    "bestbuy_sku": 6577214,
+    "walmart_sku": 5512368459
   }
 }

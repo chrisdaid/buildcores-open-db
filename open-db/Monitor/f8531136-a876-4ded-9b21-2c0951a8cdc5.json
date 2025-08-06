@@ -26,6 +26,8 @@
   "hdr": "",
   "adaptive_sync": "None",
   "general_product_information": {
-    "amazon_sku": "B094T4672Y"
+    "amazon_sku": "B094T4672Y",
+    "bestbuy_sku": 6486567,
+    "walmart_sku": 255000713
   }
 }
