@@ -2,7 +2,7 @@
   "opendb_id": "8637e0ab-f684-451a-ae1a-ba0f32f77bd8",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 1,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
@@ -13,14 +13,15 @@
       "55NSL8MHDCHK"
     ],
     "series": "GeForce RTX 5050",
-    "variant": "KFA2"
+    "variant": "KFA2",
+    "releaseYear": 2025
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 5050",
   "memory": 8,
   "memory_type": "GDDR6",
   "core_base_clock": 2317,
-  "core_boost_clock": 2602,
+  "core_boost_clock": 2587,
   "effective_memory_clock": 0,
   "memory_bus": 128,
   "interface": "PCIe x16",
@@ -32,15 +33,17 @@
   "total_slot_width": 2,
   "cooling": "2 Fans",
   "video_outputs": {
-    "hdmi_2_1": 2,
+    "hdmi_2_1": 1,
     "hdmi_2_0": 0,
     "displayport_2_1": 2,
     "displayport_2_1a": 0,
     "displayport_1_4a": 0,
+    "displayport_2_1_b": 3,
     "dvi_d": 0,
     "vga": 0,
     "_id": "688ec98b3ebf909c29b8163f"
   },
   "core_count": 2560,
+  "frame_sync": "G-Sync",
   "general_product_information": {}
 }
