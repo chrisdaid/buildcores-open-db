@@ -13,7 +13,8 @@
       "prime-rtx5050-8g"
     ],
     "series": "GeForce RTX 5050",
-    "variant": "Asus"
+    "variant": "Asus",
+    "releaseYear": 2025
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 5050",
@@ -34,13 +35,17 @@
   "video_outputs": {
     "hdmi_2_1": 1,
     "hdmi_2_0": 0,
-    "displayport_2_1": 3,
+    "displayport_2_1": null,
     "displayport_2_1a": 0,
     "displayport_1_4a": 0,
+    "displayport_2_1_b": 3,
     "dvi_d": 0,
     "vga": 0,
     "_id": "688ec9883ebf909c29b8158a"
   },
   "core_count": 2560,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0FFXDG18B",
+    "bestbuy_sku": 6638642
+  }
 }

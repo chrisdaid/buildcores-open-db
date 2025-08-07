@@ -2,7 +2,7 @@
   "opendb_id": "f1082bec-8aa0-476f-9011-9ba198048ccf",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 1,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
@@ -13,7 +13,8 @@
       "ZT-B50500H-10M"
     ],
     "series": "GeForce RTX 5050",
-    "variant": "Zotac"
+    "variant": "Zotac",
+    "releaseYear": 2025
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 5050",
@@ -34,17 +35,20 @@
   "video_outputs": {
     "hdmi_2_1": 1,
     "hdmi_2_0": 0,
-    "displayport_2_1": 3,
+    "displayport_2_1": 0,
     "displayport_2_1a": 0,
     "displayport_1_4a": 0,
+    "displayport_2_1_b": 3,
     "dvi_d": 0,
     "vga": 0,
     "_id": "688ec9913ebf909c29b81b1b"
   },
   "core_count": 2560,
+  "frame_sync": "G-Sync",
   "general_product_information": {
     "amazon_sku": "B0FG97XMNG",
     "newegg_sku": "N82E16814500626",
-    "walmart_sku": 17339717147
+    "walmart_sku": 17339717147,
+    "manufacturer_url": "https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-rtx-5050-twin-edge-oc"
   }
 }

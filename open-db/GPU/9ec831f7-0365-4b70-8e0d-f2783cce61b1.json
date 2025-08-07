@@ -2,7 +2,7 @@
   "opendb_id": "9ec831f7-0365-4b70-8e0d-f2783cce61b1",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 1,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
@@ -13,7 +13,8 @@
       "GV-N5050GAMING OC-8GD"
     ],
     "series": "GeForce RTX 5050",
-    "variant": "Gigabyte"
+    "variant": "Gigabyte",
+    "releaseYear": 2025
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 5050",
@@ -42,6 +43,7 @@
     "_id": "688ec98f3ebf909c29b818c2"
   },
   "core_count": 2560,
+  "frame_sync": "G-Sync",
   "general_product_information": {
     "amazon_sku": "B0FG8KGGVM",
     "newegg_sku": "N82E16814932815",
