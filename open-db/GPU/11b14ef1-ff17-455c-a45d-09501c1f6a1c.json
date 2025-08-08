@@ -44,5 +44,7 @@
     "_id": "688ec9913ebf909c29b81b5b"
   },
   "core_count": 2560,
-  "general_product_information": {}
+  "general_product_information": {
+    "manufacturer_url": "https://www.inno3d.com/product/inno3d-geforce-rtx-5050-twin-x2"
+  }
 }

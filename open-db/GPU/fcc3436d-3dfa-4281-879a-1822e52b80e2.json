@@ -2,7 +2,7 @@
   "opendb_id": "fcc3436d-3dfa-4281-879a-1822e52b80e2",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 1,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
@@ -13,7 +13,8 @@
       "prime-rtx5050-o8g"
     ],
     "series": "GeForce RTX 5050",
-    "variant": "Asus"
+    "variant": "Asus",
+    "releaseYear": 2025
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 5050",
@@ -34,15 +35,20 @@
   "video_outputs": {
     "hdmi_2_1": 1,
     "hdmi_2_0": 0,
-    "displayport_2_1": 3,
+    "displayport_2_1": null,
     "displayport_2_1a": 0,
     "displayport_1_4a": 0,
+    "displayport_2_1_b": 3,
     "dvi_d": 0,
     "vga": 0,
     "_id": "688ec9943ebf909c29b81f61"
   },
   "core_count": 2560,
+  "frame_sync": "G-Sync",
   "general_product_information": {
-    "newegg_sku": "N82E16814126809"
+    "amazon_sku": "B0FFXDG18B",
+    "newegg_sku": "N82E16814126809",
+    "bestbuy_sku": 6638642,
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rtx5050-o8g/"
   }
 }
