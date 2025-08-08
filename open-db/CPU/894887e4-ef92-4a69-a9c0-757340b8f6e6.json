@@ -49,6 +49,7 @@
   "socket": "LGA1851",
   "general_product_information": {
     "amazon_sku": "B0DTRPWBTV",
-    "newegg_sku": "N82E16819118576"
+    "newegg_sku": "N82E16819118576",
+    "walmart_sku": 14866570347
   }
 }
