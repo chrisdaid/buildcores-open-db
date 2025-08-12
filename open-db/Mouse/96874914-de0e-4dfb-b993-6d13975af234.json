@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B006JRIDHK"
+    "amazon_sku": "B006JRIDHK",
+    "walmart_sku": 50512609
   }
 }
