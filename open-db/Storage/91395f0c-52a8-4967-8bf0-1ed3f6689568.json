@@ -15,7 +15,6 @@
   "interface": "SATA 3.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B007GFYF6M",
-    "walmart_sku": 33497627
+    "amazon_sku": "B007GFYF6M"
   }
 }
