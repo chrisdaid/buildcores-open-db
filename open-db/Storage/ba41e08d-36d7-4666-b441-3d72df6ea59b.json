@@ -15,6 +15,7 @@
   "interface": "SAS 6.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B00B96LSDW"
+    "amazon_sku": "B00B96LSDW",
+    "walmart_sku": 40871834
   }
 }

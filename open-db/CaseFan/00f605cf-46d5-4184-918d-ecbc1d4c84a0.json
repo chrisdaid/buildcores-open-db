@@ -1,15 +1,14 @@
 {
   "opendb_id": "00f605cf-46d5-4184-918d-ecbc1d4c84a0",
   "metadata": {
-    "name": "Corsair iCUE SP120 RGB ELITE 120mm Addressable RGB PWM 47.7 CFM Black / White 3-Pack",
+    "name": "Corsair iCUE SP120 RGB ELITE 120mm Addressable RGB PWM 47.7 CFM Black 3-Pack",
     "manufacturer": "Corsair",
     "series": "iCUE",
-    "variant": "120mm Black / White"
+    "variant": "120mm Black"
   },
   "size": 120,
   "color": [
-    "BLACK",
-    "WHITE"
+    "BLACK"
   ],
   "quantity": 3,
   "min_airflow": null,
