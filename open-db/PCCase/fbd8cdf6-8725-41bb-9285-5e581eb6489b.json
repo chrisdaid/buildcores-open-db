@@ -16,17 +16,23 @@
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A",
-  "max_video_card_length": 330,
-  "max_cpu_cooler_height": null,
+  "front_panel_usb": "2x USB 3.0                                                                                          1x USB 3.2 GEN 2 Type C (10 Gbps)",
+  "max_video_card_length": 320,
+  "max_cpu_cooler_height": 164,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 1,
   "expansion_slots": 4,
   "dimensions": "350 x 210 x 392",
   "volume": 28.812,
-  "weight": null,
+  "weight": 9.193276,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [],
+  "dimensions_mm": {
+    "width": 210,
+    "height": 392,
+    "depth": 350,
+    "_id": "68a0ad5d52e2533ff7b65a8b"
+  },
   "general_product_information": {
     "amazon_sku": "B0CQ8FT1JL"
   }

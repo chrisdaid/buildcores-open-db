@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B0038W0NEU"
+    "amazon_sku": "B0038W0NEU",
+    "walmart_sku": 704905573
   }
 }
