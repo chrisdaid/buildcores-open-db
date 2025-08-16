@@ -18,7 +18,7 @@
   "has_transparent_side_panel": true,
   "front_panel_usb": "2x USB 3.2 Gen 1 Type-A",
   "max_video_card_length": 360,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 170,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 2,
   "expansion_slots": 7,
@@ -39,6 +39,6 @@
     "amazon_sku": "B0C2JL6PNC",
     "newegg_sku": "N82E16811139192",
     "walmart_sku": 3523594994,
-    "manufacturer_url": "https://www.corsair.com/us/en/p/pc-cases/cc-9011251-ww/3000d-tempered-glass-mid-tower-black-cc-9011251-ww?srsltid=AfmBOopL6lyY0cbjQNxXE2PMRmnrHRSA1dezdAKEHfJss8pwzOem2dTJ"
+    "manufacturer_url": "https://www.corsair.com/us/en/explorer/diy-builder/cases/3000d-airflow-mid-tower-case/"
   }
 }
