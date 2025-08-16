@@ -36,6 +36,8 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B0BNYV6NV4"
+    "amazon_sku": "B0BNYV6NV4",
+    "bestbuy_sku": 6589069,
+    "walmart_sku": 2267629558
   }
 }
