@@ -16,18 +16,28 @@
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 2 Type-C                                                    USB 3.2 Gen 1 Type-A",
+  "front_panel_usb": "4x USB 3.2 Gen 1 Type-A Por                    2x USB 3.2 Gen 1 Type-C Ports",
   "max_video_card_length": 400,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 180,
   "internal_3_5_bays": 5,
   "internal_2_5_bays": 6,
   "expansion_slots": 8,
   "dimensions": "698 x 307 x 698",
   "volume": 149.572,
-  "weight": null,
+  "weight": 83.22454,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "4x USB 3.2 Gen 1 Type-A Po",
+    "  2x USB 3.2 Gen 1 Type-C Ports"
+  ],
+  "dimensions_mm": {
+    "width": 307,
+    "height": 698,
+    "depth": 698,
+    "_id": "68a10e1ececc4717929c7203"
+  },
   "general_product_information": {
-    "amazon_sku": "B0D9KHFZ58"
+    "amazon_sku": "B0D9KHFZ58",
+    "manufacturer_url": "https://www.corsair.com/us/en/explorer/diy-builder/cases/corsair-9000d-rgb-airflow/"
   }
 }
