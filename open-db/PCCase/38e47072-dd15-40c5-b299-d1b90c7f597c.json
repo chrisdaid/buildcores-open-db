@@ -15,16 +15,25 @@
   "supported_power_supply_form_factors": [],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "1 x USB 3.2 Gen 2x2 Type-C, 2 x USB 3.0",
+  "front_panel_usb": "1x USB 3.2 Gen 2x2 Type-C (20 Gbps),                                                          2xUSB 3.0",
   "max_video_card_length": 355,
   "max_cpu_cooler_height": 170,
   "internal_3_5_bays": 3,
   "internal_2_5_bays": 5,
   "expansion_slots": 7,
-  "dimensions": "18.46\" x 8.46\" x 17.6\"",
+  "dimensions": "215 x 469 x 447",
   "volume": 0,
   "weight": 16.98,
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "1x USB 3.2 Gen 2x2 Type-C (20 Gbps),    ",
+    "   2xUSB 3.0"
+  ],
+  "dimensions_mm": {
+    "width": 215,
+    "height": 469,
+    "depth": 447,
+    "_id": "68a5f342e4a78b673e167fde"
+  },
   "general_product_information": {
     "amazon_sku": "B09Y9FSZFX",
     "newegg_sku": "N82E16811352205",
