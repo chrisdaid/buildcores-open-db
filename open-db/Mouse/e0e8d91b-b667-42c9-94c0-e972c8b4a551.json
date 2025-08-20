@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B00MYTSDU4"
+    "amazon_sku": "B00MYTSDU4",
+    "walmart_sku": 151100393
   }
 }
