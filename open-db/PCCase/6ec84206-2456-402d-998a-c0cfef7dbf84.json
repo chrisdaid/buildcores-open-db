@@ -26,7 +26,10 @@
   "volume": 39.974,
   "weight": 11.5,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.0 Type-A",
+    "USB 2.0 Type-A"
+  ],
   "dimensions_mm": {
     "width": 279.4,
     "height": 391.16,
