@@ -16,21 +16,31 @@
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 2 Type-C                                                    USB 3.2 Gen 1 Type-A",
+  "front_panel_usb": "1x USB 3.2 Gen 2 Type-C                                                  2x USB 3.2 Gen 1 Type-A",
   "max_video_card_length": 430,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 170,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 0,
   "expansion_slots": 7,
-  "dimensions": "487 x 239 x 487",
+  "dimensions": "486 x 239 x 490",
   "volume": 56.683,
-  "weight": null,
+  "weight": 22.88,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "1x USB 3.2 Gen 2 Type-C",
+    "2x USB 3.2 Gen 1 Type-A"
+  ],
+  "dimensions_mm": {
+    "width": 239,
+    "height": 486,
+    "depth": 490,
+    "_id": "68a98d2a9272c65c63e4184b"
+  },
   "general_product_information": {
     "amazon_sku": "B0DPJ9K8WK",
     "newegg_sku": "N82E16811139230",
     "bestbuy_sku": 6609425,
-    "walmart_sku": 15153553514
+    "walmart_sku": 15153553514,
+    "manufacturer_url": "https://www.corsair.com/us/en/p/pc-cases/cc-9011312-ww/frame-4000d-rs-modular-mid-tower-pc-case-cc-9011312-ww?srsltid=AfmBOop62ulPZ7cF_fqfm2qNFPvngNDYLh0A0tV36kkRkdriRGsWFyyB"
   }
 }
