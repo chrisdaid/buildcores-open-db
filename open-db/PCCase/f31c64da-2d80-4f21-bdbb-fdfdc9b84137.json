@@ -31,9 +31,9 @@
     "4x USB 3.0 Gen 1 Type-A"
   ],
   "dimensions_mm": {
-    "width": 286.4,
+    "width": 420,
     "height": 550,
-    "depth": 420,
+    "depth": 286.4,
     "_id": "68aabfe0db508c717a47203f"
   },
   "general_product_information": {
