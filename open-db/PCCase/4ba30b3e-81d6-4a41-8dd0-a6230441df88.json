@@ -18,15 +18,21 @@
   "has_transparent_side_panel": true,
   "front_panel_usb": "USB 3.2 Gen 1 Type-A",
   "max_video_card_length": 336,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 67,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 2,
   "expansion_slots": 3,
   "dimensions": "377 x 185 x 292",
   "volume": 20.366,
-  "weight": null,
+  "weight": 11.2436,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [],
+  "dimensions_mm": {
+    "width": 185,
+    "height": 292,
+    "depth": 377,
+    "_id": "68ab3bf7c49d458b8714a57f"
+  },
   "general_product_information": {
     "amazon_sku": "B0D494Q7P5",
     "newegg_sku": "N82E16811119427",
