@@ -22,9 +22,9 @@
   "internal_3_5_bays": 1,
   "internal_2_5_bays": 2,
   "expansion_slots": 4,
-  "dimensions": "377 x 212 x 438",
+  "dimensions": "377.5 x 212 x 438",
   "volume": 35.007,
-  "weight": 12.522,
+  "weight": 10.25,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
     "USB 3.0 x 2"
