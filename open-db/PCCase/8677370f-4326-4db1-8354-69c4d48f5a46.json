@@ -23,7 +23,16 @@
   "weight": 17.42,
   "color": [],
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "2 x USB 3.2 Gen 1 Type-A, 1 x USB 3.2 Gen 2x2 Type-C",
+    "1 x USB 3.2 Gen 2x2 Type-C"
+  ],
+  "dimensions_mm": {
+    "width": 215,
+    "height": 450,
+    "depth": 430,
+    "_id": "68a5fdd79272c65c634c17a9"
+  },
   "general_product_information": {
     "amazon_sku": "B09VW23PZM",
     "newegg_sku": "N82E16811320046",

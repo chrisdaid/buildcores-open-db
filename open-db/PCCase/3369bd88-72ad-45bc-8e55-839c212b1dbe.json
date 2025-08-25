@@ -27,5 +27,9 @@
   "weight": null,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0D4QVMBTP",
+    "newegg_sku": "2AM-05K6-00009",
+    "manufacturer_url": "https://darkrockpc.com/products/darkrock-ec2-black-micro-atx-mid-tower-pc-case-type-c-ready-supports-40-graphics-cards-tempered-glass-side-panel-supports-up-to-8-x-120mm-cooling-fans-1-x-360mm-radiator-1-x-pre-installed-fan"
+  }
 }
