@@ -43,7 +43,6 @@
   "coreFamily": "Skylake-X",
   "socket": "LGA2066",
   "general_product_information": {
-    "amazon_sku": "B07LB25C9T",
-    "walmart_sku": 730351246
+    "amazon_sku": "B07LB25C9T"
   }
 }
