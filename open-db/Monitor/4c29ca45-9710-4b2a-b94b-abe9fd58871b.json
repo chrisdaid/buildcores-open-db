@@ -25,5 +25,8 @@
   "max_brightness": "250 cd/m²",
   "hdr": "",
   "adaptive_sync": "AMD FreeSync",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B07P64C57D",
+     "manufacturer_url": "https://www.acer.com/us-en/support/product-support/SA270"
+  }
 }
