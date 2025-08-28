@@ -104,5 +104,7 @@
   "back_panel_ports": [
     "1 x 5 Gb/s Ports (Realtek)"
   ],
-  "general_product_information": {}
+  "general_product_information": {
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-strix/rog-strix-x870e-h-gaming-wifi7-hatsune-miku-edition/"
+  }
 }
