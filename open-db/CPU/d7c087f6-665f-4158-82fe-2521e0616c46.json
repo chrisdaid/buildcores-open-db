@@ -46,6 +46,7 @@
   "socket": "AM4",
   "general_product_information": {
     "amazon_sku": "B07B41717Z",
-    "newegg_sku": "9SIA4REB782410"
+    "newegg_sku": "9SIA4REB782410",
+    "walmart_sku": 254586925
   }
 }

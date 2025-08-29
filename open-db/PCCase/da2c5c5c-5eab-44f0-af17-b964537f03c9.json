@@ -26,7 +26,10 @@
   "volume": 48.121,
   "weight": null,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.2 Gen 1 Type-A ",
+    "USB 2.0 Type-A"
+  ],
   "general_product_information": {
     "amazon_sku": "B0CWXYW8HQ"
   }

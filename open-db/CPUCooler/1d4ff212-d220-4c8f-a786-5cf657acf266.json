@@ -47,6 +47,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B08WYWMD1T"
+    "amazon_sku": "B08WYWMD1T",
+    "walmart_sku": 985132899
   }
 }
