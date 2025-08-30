@@ -27,8 +27,8 @@
   "weight": 11,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
-    "1x USB 3.2 Gen 1 Type-C",
-    "1x USB 3.2 Gen 2 Type-A"
+    "1x USB 3.2 Gen 2 Type-C",
+    "1x USB 3.2 Gen 1 Type-A"
   ],
   "dimensions_mm": {
     "width": 382,
