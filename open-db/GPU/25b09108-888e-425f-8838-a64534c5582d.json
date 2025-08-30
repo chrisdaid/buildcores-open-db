@@ -2,7 +2,7 @@
   "opendb_id": "25b09108-888e-425f-8838-a64534c5582d",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 2,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
@@ -10,10 +10,10 @@
     "name": "MSI INSPIRE 3X OC GeForce RTX 5080 16GB GDDR7 Gold / Black",
     "manufacturer": "MSI",
     "part_numbers": [
-      "GeForce RTX 5080 16G INSPIRE 3X OC                                                    G5080-16I3C                                                    RTX 5080 16G INSPRIE 3X OC"
+      "GeForce RTX 5080 16G INSPIRE 3X OC"
     ],
     "series": "GeForce RTX 5080",
-    "variant": "MSI"
+    "variant": "INSPIRE 3X OC"
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 5080",

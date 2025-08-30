@@ -5,7 +5,7 @@
     "capacity_gb": 16
   },
   "metadata": {
-    "name": "Kingston FURY White DDR5-5600 CL40 32GB (2x16GB)",
+    "name": "Kingston FURY Beast RGB White DDR5-5600 CL40 32GB (2x16GB)",
     "manufacturer": "Kingston",
     "part_numbers": [
       "KF556C40BWAK2-32"
@@ -25,7 +25,7 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "rgb": false,
+  "rgb": true,
   "general_product_information": {
     "amazon_sku": "B0BZJF529F",
     "walmart_sku": 2029161151
