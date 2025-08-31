@@ -16,17 +16,26 @@
   "power_supply": "None",
   "side_panel": "None",
   "has_transparent_side_panel": false,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A                                                    USB 2.0 Type-A",
+  "front_panel_usb": "1 x USB3.0                                                                                             1 x USB2.0 ",
   "max_video_card_length": 350,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 155,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 2,
   "expansion_slots": 7,
   "dimensions": "427 x 195 x 473",
   "volume": 39.384,
-  "weight": null,
+  "weight": 11,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "1 x USB3.0 ",
+    "1 x USB2.0 "
+  ],
+  "dimensions_mm": {
+    "width": 195,
+    "height": 473,
+    "depth": 427,
+    "_id": "68b4318a35707e79fc26c86f"
+  },
   "general_product_information": {
     "amazon_sku": "B074LRNC44",
     "newegg_sku": "N82E16811553030",
