@@ -18,7 +18,9 @@
   "refresh_rate": 75,
   "panel_type": "IPS",
   "response_time": 4,
-  "color": ["black"],
+  "color": [
+    "black"
+  ],
   "viewing_angle": "178 H x 178° V",
   "aspect_ratio": "16:9",
   "connectors": "1 x HDMI                                                    1 x D-Sub (VGA)",
@@ -27,6 +29,6 @@
   "adaptive_sync": "AMD FreeSync",
   "general_product_information": {
     "amazon_sku": "B07P64C57D",
-     "manufacturer_url": "https://www.acer.com/us-en/support/product-support/SA270"
+    "manufacturer_url": "https://www.acer.com/us-en/support/product-support/SA270"
   }
 }

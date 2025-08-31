@@ -18,19 +18,28 @@
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A",
+  "front_panel_usb": "2x USB 3.2 Gen 1 Type-A",
   "max_video_card_length": 380,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 165,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 1,
   "expansion_slots": 5,
   "dimensions": "465 x 220 x 430",
   "volume": 43.989,
-  "weight": null,
+  "weight": 16.093745,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "2x USB 3.2 Gen 1 Type-A"
+  ],
+  "dimensions_mm": {
+    "width": 220,
+    "height": 465,
+    "depth": 430,
+    "_id": "68b3598dad4a820b92b86814"
+  },
   "general_product_information": {
     "amazon_sku": "B0BRY27KGQ",
-    "newegg_sku": "N82E16811173057"
+    "newegg_sku": "N82E16811173057",
+    "manufacturer_url": "www.asus.com"
   }
 }

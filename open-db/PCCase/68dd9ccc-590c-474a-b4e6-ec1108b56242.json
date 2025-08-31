@@ -22,8 +22,8 @@
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 3,
   "expansion_slots": 7,
-  "dimensions": "440 x 205 x 392",
-  "volume": 35.358,
+  "dimensions": "452 x 205 x 407",
+  "volume": 37.7126,
   "weight": 14.9473,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
@@ -32,8 +32,8 @@
   ],
   "dimensions_mm": {
     "width": 205,
-    "height": 392,
-    "depth": 440,
+    "height": 407,
+    "depth": 452,
     "_id": "68b32c5fbe1a792b1102c70b"
   },
   "general_product_information": {
