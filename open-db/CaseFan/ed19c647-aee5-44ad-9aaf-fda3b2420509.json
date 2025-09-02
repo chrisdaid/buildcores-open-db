@@ -22,7 +22,6 @@
   "static_pressure": 0.5,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B007RESG3A",
-    "walmart_sku": 39068501
+    "amazon_sku": "B007RESG3A"
   }
 }
