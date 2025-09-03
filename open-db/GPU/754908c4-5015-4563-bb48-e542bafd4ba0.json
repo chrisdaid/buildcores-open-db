@@ -2,7 +2,7 @@
   "opendb_id": "754908c4-5015-4563-bb48-e542bafd4ba0",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 1,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
@@ -13,14 +13,15 @@
       "GV-R9060XTGAMING-8GD"
     ],
     "series": "Radeon RX 9060 XT",
-    "variant": "Gigabyte"
+    "variant": "Gigabyte",
+    "releaseYear": 2025
   },
   "chipset_manufacturer": "Radeon",
   "chipset": "Radeon RX 9060 XT",
   "memory": 8,
   "memory_type": "GDDR6",
   "core_base_clock": 2220,
-  "core_boost_clock": 2220,
+  "core_boost_clock": 3130,
   "effective_memory_clock": 0,
   "memory_bus": 128,
   "interface": "PCIe x16",

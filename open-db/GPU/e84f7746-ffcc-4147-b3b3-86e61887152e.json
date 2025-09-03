@@ -4,7 +4,7 @@
     "pcie_6_pin": 0,
     "pcie_8_pin": 0,
     "pcie_12VHPWR": 0,
-    "pcie_12V_2x6": 0
+    "pcie_12V_2x6": 1
   },
   "metadata": {
     "name": "Zotac GAMING AMP Extreme INFINITY GeForce RTX 5090 32GB GDDR7 Black",
@@ -13,7 +13,8 @@
       "ZT-B50900B-10P"
     ],
     "series": "GeForce RTX 5090",
-    "variant": "Zotac"
+    "variant": "Zotac",
+    "releaseYear": 2025
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 5090",
@@ -42,5 +43,9 @@
     "_id": "67f9c585865ad0c3553e99db"
   },
   "core_count": 21760,
-  "general_product_information": {}
+  "frame_sync": "G-Sync",
+  "general_product_information": {
+    "amazon_sku": "B0F135FPK3",
+    "newegg_sku": " N82E16814500593"
+  }
 }

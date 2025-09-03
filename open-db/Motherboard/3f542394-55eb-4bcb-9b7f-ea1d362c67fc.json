@@ -1,12 +1,12 @@
 {
   "opendb_id": "3f542394-55eb-4bcb-9b7f-ea1d362c67fc",
   "memory": {
-    "max": 192,
+    "max": 256,
     "ram_type": "DDR5",
     "slots": 4
   },
   "storage_devices": {
-    "sata_6_gb_s": 0,
+    "sata_6_gb_s": 6,
     "sata_3_gb_s": 0,
     "u2": 0
   },
@@ -17,8 +17,22 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "fan_headers": {
+    "cpu_fan": 1,
+    "pump": 1,
+    "case_fan": 3,
+    "cpu_opt": 1
+  },
+  "rgb_headers": {
+    "argb_5v": 2,
+    "rgb_12v": 2
+  },
+  "front_panel_headers": {
+    "reset_button": true
+  },
   "power_connectors": {
-    "cpu_power": []
+    "cpu_power": [],
+    "main_power": "24-pin"
   },
   "audio": {
     "chipset": "Realtek",
@@ -31,7 +45,8 @@
       "Z790 AORUS ELITE AX"
     ],
     "series": "Z790",
-    "variant": ""
+    "variant": "",
+    "releaseYear": null
   },
   "socket": "LGA1700",
   "form_factor": "ATX",
@@ -42,9 +57,21 @@
   "pcie_slots": [
     {
       "gen": "4.0",
-      "quantity": 3,
+      "quantity": 1,
       "lanes": 16,
       "_id": "67f9b8da865ad0c3553dcf2d"
+    },
+    {
+      "gen": "4.0",
+      "quantity": 1,
+      "lanes": 4,
+      "_id": "68b7480d7fa4ea6ac7be58da"
+    },
+    {
+      "gen": "3.0",
+      "quantity": 1,
+      "lanes": 4,
+      "_id": "68b7480d7fa4ea6ac7be58db"
     }
   ],
   "m2_slots": [
@@ -55,7 +82,7 @@
       "_id": "67f9b8da865ad0c3553dcf2e"
     },
     {
-      "size": "2280",
+      "size": "2280-22110",
       "key": "M",
       "interface": "PCIe 4.0 x4",
       "_id": "67f9b8da865ad0c3553dcf2f"
@@ -67,34 +94,10 @@
       "_id": "67f9b8da865ad0c3553dcf30"
     },
     {
-      "size": "2280",
+      "size": "2280-22110",
       "key": "M",
       "interface": "PCIe 4.0 x4",
       "_id": "67f9b8da865ad0c3553dcf31"
-    },
-    {
-      "size": "2280-22110",
-      "key": "M",
-      "interface": "PCIe 4.0 x4",
-      "_id": "67f9b8da865ad0c3553dcf32"
-    },
-    {
-      "size": "2280",
-      "key": "M",
-      "interface": "PCIe 4.0 x4",
-      "_id": "67f9b8da865ad0c3553dcf33"
-    },
-    {
-      "size": "2280-22110",
-      "key": "M",
-      "interface": "PCIe 4.0 x4",
-      "_id": "67f9b8da865ad0c3553dcf34"
-    },
-    {
-      "size": "2280",
-      "key": "M",
-      "interface": "PCIe 4.0 x4",
-      "_id": "67f9b8da865ad0c3553dcf35"
     }
   ],
   "onboard_ethernet": [
@@ -109,12 +112,23 @@
   "back_connect_connectors": false,
   "bios_features": {
     "flashback": false,
-    "clear_cmos": false,
+    "clear_cmos": true,
     "_id": "67f9b8da865ad0c3553dcf37"
   },
   "back_panel_ports": [
-    "1 x 2.5 Gb/s Ports (Realtek)"
+    "1 x 2.5 Gb/s Ports (Realtek)",
+    "1 x USB Type-C® port, with USB 3.2 Gen 2x2 support",
+    "2 x USB 3.2 Gen 2 Type-A ports (red)",
+    "3 x USB 3.2 Gen 1 ports",
+    "4 x USB 2.0/1.1 ports",
+    "1 x HDMI 2.0 port",
+    "1 x DisplayPort",
+    "1 x RJ-45 port",
+    "2 x SMA antenna connectors (2T2R)",
+    "1 x optical S/PDIF Out connector",
+    "2 x audio jacks"
   ],
+  "wireless_networking": "Intel® Wi-Fi 6E AX211   BLUETOOTH 5.3",
   "general_product_information": {
     "amazon_sku": "B0BH9DXY38",
     "newegg_sku": "N82E16813145417",
