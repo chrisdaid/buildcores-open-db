@@ -2,7 +2,7 @@
   "opendb_id": "d5e9cafd-0f97-47aa-a44e-f894886deeae",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 2,
     "pcie_12VHPWR": 1,
     "pcie_12V_2x6": 0
   },
@@ -20,7 +20,7 @@
   "memory": 16,
   "memory_type": "GDDR7",
   "core_base_clock": 2300,
-  "core_boost_clock": 2300,
+  "core_boost_clock": 2482,
   "effective_memory_clock": 0,
   "memory_bus": 256,
   "interface": "PCIe x16",
@@ -34,13 +34,16 @@
     "hdmi_2_1": 2,
     "hdmi_2_0": 0,
     "displayport_2_1": 0,
-    "displayport_2_1a": 3,
+    "displayport_2_1a": null,
     "displayport_1_4a": 0,
+    "displayport_2_1_b": 3,
     "dvi_d": 0,
     "vga": 0,
     "_id": "67e89c7711815510c7c79bd3"
   },
   "color": [],
   "core_count": 8960,
-  "general_product_information": {}
+  "general_product_information": {
+    "newegg_sku": "9SIBTK0KFK6633"
+  }
 }
