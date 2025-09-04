@@ -11,8 +11,7 @@
   },
   "form_factor": "ATX Mid Tower",
   "color": [
-    "WHITE",
-    "BLACK"
+    "WHITE"
   ],
   "power_supply": "None",
   "supported_power_supply_form_factors": [],
