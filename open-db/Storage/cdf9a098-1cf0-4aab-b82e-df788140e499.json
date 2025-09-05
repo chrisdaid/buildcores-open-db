@@ -16,6 +16,7 @@
   "cache": null,
   "nvme": true,
   "general_product_information": {
-    "amazon_sku": "B0F25CX4LB"
+    "amazon_sku": "B0F25CX4LB",
+    "walmart_sku": 6005698751
   }
 }
