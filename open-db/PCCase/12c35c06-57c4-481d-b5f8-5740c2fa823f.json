@@ -16,17 +16,26 @@
   "power_supply": "None",
   "side_panel": "None",
   "has_transparent_side_panel": false,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A                                                    USB 2.0 Type-A",
+  "front_panel_usb": "2 x USB2.0                                                  1 x USB3.0",
   "max_video_card_length": 375,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 150,
   "internal_3_5_bays": 3,
   "internal_2_5_bays": 1,
   "expansion_slots": 7,
   "dimensions": "423 x 195 x 410",
   "volume": 33.819,
-  "weight": null,
+  "weight": 5.95248,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "2 x USB2.0",
+    "1 x USB3.0"
+  ],
+  "dimensions_mm": {
+    "width": 195,
+    "height": 410,
+    "depth": 423,
+    "_id": "68bbcadf1252faf8650a39ab"
+  },
   "general_product_information": {
     "amazon_sku": "B01ANXJOK0"
   }
