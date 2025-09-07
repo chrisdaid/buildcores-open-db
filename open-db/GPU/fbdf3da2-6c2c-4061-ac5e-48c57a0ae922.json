@@ -1,38 +1,39 @@
 {
-  "opendb_id": "916583e5-835f-4fb2-b889-7a9843151681",
+  "opendb_id": "fbdf3da2-6c2c-4061-ac5e-48c57a0ae922",
   "power_connectors": {
-    "pcie_6_pin": 0,
-    "pcie_8_pin": 1,
-    "pcie_12VHPWR": 0,
-    "pcie_12V_2x6": 0
+    "pcie_8_pin": 1
   },
   "metadata": {
-    "name": "Palit Infinity 3 OC GeForce RTX 5060 Ti 8GB GDDR7 Black",
+    "name": "Palit GeForce RTX™ 5060 Ti Infinity 3 8GB",
     "manufacturer": "Palit",
     "part_numbers": [
-      "NE7506TS19P1-GB2062S"
+      "NE7506T019P1-GB2062S"
     ],
     "series": "GeForce RTX 5060 Ti",
-    "variant": "Palit",
+    "variant": "Infinity 3",
     "releaseYear": 2025
   },
-  "chipset_manufacturer": "GeForce",
+  "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 5060 Ti",
+  "core_count": 4608,
   "memory": 8,
   "memory_type": "GDDR7",
   "core_base_clock": 2407,
-  "core_boost_clock": 2662,
+  "core_boost_clock": 2572,
   "effective_memory_clock": 28000,
   "memory_bus": 128,
-  "interface": "PCIe x16",
+  "interface": "PCIe 5.0 x16",
   "color": [
     "BLACK"
   ],
-  "length": 292,
+  "frame_sync": "G-Sync",
+  "length": 291.9,
   "tdp": 180,
-  "total_slot_width": 2,
+  "case_expansion_slot_width": 2,
+  "total_slot_width": null,
   "cooling": "3 Fans",
   "video_outputs": {
+    "hdmi_2_2": 0,
     "hdmi_2_1": 1,
     "hdmi_2_0": 0,
     "displayport_2_1": 0,
@@ -41,9 +42,7 @@
     "displayport_2_1_b": 3,
     "dvi_d": 0,
     "vga": 0,
-    "_id": "684cd4341d3a20a8514d3aa7"
+    "_id": "68bdbddf5c186c941e1ddd63"
   },
-  "core_count": 4608,
-  "frame_sync": "G-Sync",
   "general_product_information": {}
 }
