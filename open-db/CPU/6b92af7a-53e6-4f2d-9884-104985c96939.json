@@ -44,6 +44,7 @@
   "socket": "LGA1151",
   "general_product_information": {
     "amazon_sku": "B07X9FM43J",
-    "newegg_sku": "9SIAD6HJYX8828"
+    "newegg_sku": "9SIAD6HJYX8828",
+    "walmart_sku": 765725477
   }
 }

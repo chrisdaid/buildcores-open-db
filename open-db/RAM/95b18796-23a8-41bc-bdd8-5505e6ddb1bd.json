@@ -22,7 +22,7 @@
   ],
   "cas_latency": 30,
   "timings": "30-40-40-96",
-  "voltage": null,
+  "voltage": 1.1,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
