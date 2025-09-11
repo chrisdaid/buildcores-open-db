@@ -1,0 +1,32 @@
+{
+  "opendb_id": "3e7e2441-4169-42c1-a66a-2461bf36f8ad",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "OLOy DDR4 RAM 16GB (2x8GB) 3200 MHz CL16 1.35V 288-Pin Desktop Gaming UDIMM (MD4U0832160BHRDA)",
+    "manufacturer": "OLoy",
+    "part_numbers": [
+      "(MD4U0832160BHRDA)"
+    ],
+    "series": "MD4U083216BJDA",
+    "variant": "3200 CL16",
+    "releaseYear": 2027
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM (DDR4)",
+  "capacity": 16,
+  "color": [
+    "RED"
+  ],
+  "cas_latency": 16,
+  "timings": "16-18-18-36",
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "general_product_information": {
+    "amazon_sku": "\t‎B08JTSF45X"
+  }
+}
