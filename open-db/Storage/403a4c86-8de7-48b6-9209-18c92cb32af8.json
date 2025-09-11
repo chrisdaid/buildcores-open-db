@@ -15,7 +15,6 @@
   "interface": "SAS 12.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B01MXFZQW5",
-    "walmart_sku": 574525524
+    "amazon_sku": "B01MXFZQW5"
   }
 }
