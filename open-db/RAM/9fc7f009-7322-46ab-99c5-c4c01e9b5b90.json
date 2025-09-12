@@ -28,5 +28,7 @@
   "rgb": true,
   "height": 38.5,
   "timings": "40-40-40-76",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0BTNQHLC1"
+  }
 }

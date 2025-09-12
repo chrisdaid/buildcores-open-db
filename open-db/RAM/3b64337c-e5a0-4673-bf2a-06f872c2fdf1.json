@@ -22,12 +22,13 @@
   ],
   "cas_latency": 30,
   "timings": "30-40-40-96",
-  "voltage": null,
+  "voltage": 1.35,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
   "general_product_information": {
+    "amazon_sku": "B0D4TDPQK4",
     "newegg_sku": "N82E16820374556"
   }
 }
