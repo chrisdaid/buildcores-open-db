@@ -22,7 +22,7 @@
   ],
   "cas_latency": 46,
   "timings": "46-45-45-89",
-  "voltage": null,
+  "voltage": 1.1,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
@@ -30,6 +30,7 @@
   "general_product_information": {
     "amazon_sku": "B0D7JVD9MW",
     "newegg_sku": "N82E16820374590",
-    "walmart_sku": 6672823873
+    "walmart_sku": 6672823873,
+    "manufacturer_url": "\tB0D7JVQYQL"
   }
 }

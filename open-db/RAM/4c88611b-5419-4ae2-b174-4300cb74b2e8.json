@@ -8,10 +8,10 @@
     "name": "TEAMGROUP T-Force Delta RGB Black DDR4-2666 CL15 16GB (2x8GB)",
     "manufacturer": "TEAMGROUP",
     "part_numbers": [
-      "TF3D416G2666HC15BDC01"
+      "TF3D432G2666HC18H01"
     ],
     "series": "T-Force",
-    "variant": "2666 CL15"
+    "variant": "2666 CL16"
   },
   "speed": 2666,
   "ram_type": "DDR4",
@@ -20,9 +20,9 @@
   "color": [
     "BLACK"
   ],
-  "cas_latency": 15,
-  "timings": "15-17-17-35",
-  "voltage": null,
+  "cas_latency": 16,
+  "timings": "16-18-18-3",
+  "voltage": 1.2,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,

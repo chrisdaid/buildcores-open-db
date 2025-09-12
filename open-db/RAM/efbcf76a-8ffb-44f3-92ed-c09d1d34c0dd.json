@@ -22,11 +22,12 @@
   ],
   "cas_latency": 30,
   "timings": "30-38-38-96",
-  "voltage": null,
+  "voltage": 1.35,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
+  "height": 38.5,
   "general_product_information": {
     "amazon_sku": "B0D2HLLBB8"
   }

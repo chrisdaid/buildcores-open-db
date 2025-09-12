@@ -22,12 +22,13 @@
   ],
   "cas_latency": 36,
   "timings": "36-36-36-96",
-  "voltage": null,
+  "voltage": 1.35,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
   "general_product_information": {
-    "newegg_sku": "N82E16820374642"
+    "newegg_sku": "N82E16820374642",
+    "manufacturer_url": "B0DN5NCP7G"
   }
 }
