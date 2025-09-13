@@ -8,6 +8,7 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B004SUILFO"
+    "amazon_sku": "B004SUILFO",
+    "walmart_sku": 16767672
   }
 }

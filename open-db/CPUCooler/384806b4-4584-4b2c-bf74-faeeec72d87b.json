@@ -36,6 +36,7 @@
   "fan_quantity": null,
   "general_product_information": {
     "amazon_sku": "B09FDWPCWZ",
-    "bestbuy_sku": 6454982
+    "bestbuy_sku": 6454982,
+    "walmart_sku": 798436155
   }
 }

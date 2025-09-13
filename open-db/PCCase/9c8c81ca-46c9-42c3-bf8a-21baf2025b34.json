@@ -39,6 +39,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B0DQ27PKPX",
-    "newegg_sku": "2AM-000X-00351"
+    "newegg_sku": "2AM-000X-00351",
+    "walmart_sku": 15140215188
   }
 }

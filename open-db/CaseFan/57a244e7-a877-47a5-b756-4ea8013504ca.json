@@ -23,6 +23,7 @@
   "flow_direction": "Reverse",
   "general_product_information": {
     "amazon_sku": "B0F4XRDCMX",
-    "newegg_sku": "1YF-005G-000R1"
+    "newegg_sku": "1YF-005G-000R1",
+    "walmart_sku": 16984461772
   }
 }
