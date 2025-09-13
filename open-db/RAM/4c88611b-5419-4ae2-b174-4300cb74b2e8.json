@@ -21,7 +21,7 @@
     "BLACK"
   ],
   "cas_latency": 16,
-  "timings": "16-18-18-3",
+  "timings": "18-18-18-43",
   "voltage": 1.2,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",

@@ -24,5 +24,6 @@
   "cas_latency": 18,
   "voltage": 1.2,
   "heat_spreader": true,
+  "timings": "18-18-18-43",
   "general_product_information": {}
 }
