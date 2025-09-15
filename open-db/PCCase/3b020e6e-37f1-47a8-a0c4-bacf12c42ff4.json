@@ -37,5 +37,7 @@
     "_id": "688e62131f0f0198f3e0eca6"
   },
   "riser_expansion_slots": 4,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B09TQ1J58V"
+  }
 }
