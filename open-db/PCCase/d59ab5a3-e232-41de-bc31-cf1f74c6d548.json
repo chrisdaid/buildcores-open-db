@@ -17,16 +17,25 @@
   "supported_power_supply_form_factors": [],
   "side_panel": "Mesh",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 2 Type-C                                                    USB 3.2 Gen 1 Type-A",
-  "front_usb_ports": [],
+  "front_panel_usb": "USB Type-C x 1                                                                         USB 3.0 x 2",
+  "front_usb_ports": [
+    "USB Type-C x 1",
+    "USB 3.0 x 2"
+  ],
   "max_video_card_length": 400,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 158,
   "internal_3_5_bays": 1,
   "internal_2_5_bays": 2,
   "expansion_slots": 4,
   "dimensions": "451 x 202 x 286",
   "volume": 26.055,
-  "weight": null,
+  "weight": 12.74,
+  "dimensions_mm": {
+    "width": 202,
+    "height": 286,
+    "depth": 451,
+    "_id": "68c6f0eb4c2470cf682a0cda"
+  },
   "general_product_information": {
     "amazon_sku": "B0CV9FCR7B",
     "walmart_sku": 5914102058
