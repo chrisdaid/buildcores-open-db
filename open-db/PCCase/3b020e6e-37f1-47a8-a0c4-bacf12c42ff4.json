@@ -18,11 +18,13 @@
   "max_cpu_cooler_height": 180,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 4,
-  "expansion_slots": null,
+  "expansion_slots": 3.5,
   "dimensions": "470 x 320 x 470",
   "volume": 70.7,
   "weight": 29,
-  "color": [],
+  "color": [
+    "BLACK"
+  ],
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
     "USB 3.2 Gen 2 Type-C",
@@ -35,10 +37,5 @@
     "_id": "688e62131f0f0198f3e0eca6"
   },
   "riser_expansion_slots": 4,
-  "general_product_information": {
-    "amazon_sku": "B09TQ1J58V",
-    "newegg_sku": "N82E16811737002",
-    "bestbuy_sku": 6523830,
-    "walmart_sku": 465855450
-  }
+  "general_product_information": {}
 }

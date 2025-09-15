@@ -16,17 +16,26 @@
   "power_supply": "265 W",
   "side_panel": "None",
   "has_transparent_side_panel": false,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A                                                    USB 2.0 Type-A",
+  "front_panel_usb": "USB 3.0 x 2                                                                                   USB 2.0 x 2",
   "max_video_card_length": 251,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 47,
   "internal_3_5_bays": 1,
   "internal_2_5_bays": 1,
   "expansion_slots": 4,
   "dimensions": "276 x 95 x 305",
   "volume": 7.997,
-  "weight": null,
+  "weight": 7,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.0 x 2",
+    "USB 2.0 x 2"
+  ],
+  "dimensions_mm": {
+    "width": 95,
+    "height": 305,
+    "depth": 276,
+    "_id": "68c7e795d80db16b354a48de"
+  },
   "general_product_information": {
     "amazon_sku": "B081VV3SFH",
     "newegg_sku": "2AM-001H-001M5",

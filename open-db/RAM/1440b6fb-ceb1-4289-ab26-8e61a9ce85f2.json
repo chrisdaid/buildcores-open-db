@@ -5,7 +5,7 @@
     "capacity_gb": 16
   },
   "metadata": {
-    "name": "KINGBANK DDR5 Soarblade Heatsink UDIMM 6400MHz - 16G*2",
+    "name": "KINGBANK DDR5 Soarblade Heatsink UDIMM 6400MHz - 32GB (16G*2)",
     "manufacturer": "KINGBANK",
     "part_numbers": [
       "K5.01.FPA5FD9401"
@@ -25,5 +25,8 @@
   "voltage": 1.4,
   "heat_spreader": true,
   "height": 41.8,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0DF7JRV3H",
+    "newegg_sku": "9SIBW2BK9J5176"
+  }
 }
