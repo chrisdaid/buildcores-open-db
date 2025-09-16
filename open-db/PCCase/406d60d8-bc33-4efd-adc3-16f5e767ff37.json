@@ -37,6 +37,8 @@
     "_id": "688c9d82bcb0f52eeb892eaa"
   },
   "general_product_information": {
-    "amazon_sku": "B0D5PHHCK5"
+    "amazon_sku": "B0D5PHHCK5",
+    "newegg_sku": "9SIA0ZXK9J4545",
+    "walmart_sku": 8126060424
   }
 }
