@@ -17,7 +17,7 @@
   "supported_power_supply_form_factors": [],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 2x1 Type-C(20 Gbps)                                                    USB 3.2 Gen 1 x2 Type-A",
+  "front_panel_usb": "USB 3.2 Gen 2x1 Type-C (20 Gbps)                                                    USB 3.2 Gen 1 x2 Type-A",
   "max_video_card_length": 435,
   "max_cpu_cooler_height": 165,
   "internal_3_5_bays": 2,
@@ -27,7 +27,7 @@
   "volume": 66.894,
   "weight": 28.88056,
   "front_usb_ports": [
-    "USB 3.2 Gen 2x1 Type-C(20 Gbps)  ",
+    "USB 3.2 Gen 2x1 Type-C (20 Gbps)  ",
     " USB 3.2 Gen 1 x2 Type-A"
   ],
   "dimensions_mm": {
@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B0BFZZVDZR",
     "newegg_sku": "N82E16811146348",
-    "walmart_sku": 1881298527
+    "walmart_sku": 1881298527,
+    "manufacturer_url": "https://support.nzxt.com/hc/en-us/articles/37840024628891-H9-2023-Series-Specs"
   }
 }

@@ -2,12 +2,12 @@
   "opendb_id": "e3d8a0f2-ca35-4dae-802d-ab67902d2824",
   "metadata": {
     "name": "darkFlash DY470 ATX Mid Tower White with Tempered Glass Side Panel",
-    "manufacturer": "darkFlash",
+    "manufacturer": null,
     "part_numbers": [
       "DY470 White"
     ],
     "series": "DY470",
-    "variant": ""
+    "variant": "darkFlash DY470"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -17,7 +17,7 @@
   "supported_power_supply_form_factors": [],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "2x USB 3.0                                                                           1x  Type-C",
+  "front_panel_usb": "2x USB 3.0                                                                           1x USB 3.2 Gen 2 Type-C",
   "max_video_card_length": 390,
   "max_cpu_cooler_height": 175,
   "internal_3_5_bays": 2,
@@ -28,7 +28,7 @@
   "weight": 22,
   "front_usb_ports": [
     "2x USB 3.0",
-    "1x  Type-C"
+    " 1x USB 3.2 Gen 2 Type-C"
   ],
   "dimensions_mm": {
     "width": 298,
@@ -38,6 +38,8 @@
   },
   "general_product_information": {
     "amazon_sku": "B0DHWTLNPJ",
-    "newegg_sku": "N82E16811326008"
+    "newegg_sku": "N82E16811326008",
+    "walmart_sku": 15115120555,
+    "manufacturer_url": "https://www.darkflash.com/product/dy470"
   }
 }

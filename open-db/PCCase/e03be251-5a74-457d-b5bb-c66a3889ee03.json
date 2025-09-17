@@ -7,7 +7,7 @@
       "XR-W                                                    XR (W)                                                    XR-WH                                                    Montech_XR (W)"
     ],
     "series": "XR",
-    "variant": ""
+    "variant": "MONTECH XR WHITE"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -38,6 +38,8 @@
   },
   "general_product_information": {
     "amazon_sku": "B0D5PQTCS9",
-    "newegg_sku": "9SIA0ZXK9J4559"
+    "newegg_sku": "9SIA0ZXK9J4559",
+    "walmart_sku": 8123512624,
+    "manufacturer_url": "https://www.montechpc.com/xr"
   }
 }
