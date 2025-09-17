@@ -16,19 +16,19 @@
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "1x USB 3.0  Type-A                                                  2x  USB 2.0 Type-A",
+  "front_panel_usb": "1x USB 3.0                                               2x USB 2.0",
   "max_video_card_length": 305,
   "max_cpu_cooler_height": 160,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 2,
   "expansion_slots": 7,
-  "dimensions": "370*210*480",
+  "dimensions": "370 x 210 x 480",
   "volume": 37.296,
   "weight": 11.96,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
-    "1x USB 3.0  Type-A     ",
-    "2x  USB 2.0 Type-A"
+    "1x USB 3.0",
+    "2x USB 2.0"
   ],
   "dimensions_mm": {
     "width": 210,
@@ -38,6 +38,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B092441BHJ",
-    "newegg_sku": "2AM-00CN-00037"
+    "newegg_sku": "2AM-00CN-00037",
+    "walmart_sku": 1665825392
   }
 }

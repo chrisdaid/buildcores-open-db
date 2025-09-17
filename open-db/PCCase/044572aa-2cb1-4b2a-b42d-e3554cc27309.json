@@ -14,7 +14,7 @@
   "power_supply_included": false,
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "2 x USB 3.2 Gen 1 Type-A, 1 x USB 3.2 Gen 2 Type-C",
+  "front_panel_usb": "2 x USB 3.2 Gen 1 Type-A                                                      1 x USB 3.2 Gen 2 Type-C",
   "max_video_card_length": 410,
   "max_cpu_cooler_height": 185,
   "internal_3_5_bays": 2,
@@ -26,8 +26,8 @@
   "color": [],
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
-    "2 x USB 3.2 Gen 1 Type-A, ",
-    " 1 x USB 3.2 Gen 2 Type-C (20 Gbps)"
+    "2 x USB 3.2 Gen 1 Type-A",
+    " 1 x USB 3.2 Gen 2 Type-C"
   ],
   "dimensions_mm": {
     "width": 244,
@@ -37,6 +37,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B0CV4RRBNJ",
+    "newegg_sku": "9SIA7ABKCA2962",
     "bestbuy_sku": 6585811,
     "walmart_sku": 5857328797
   }

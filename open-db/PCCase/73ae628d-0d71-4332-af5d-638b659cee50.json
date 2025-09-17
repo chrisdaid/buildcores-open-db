@@ -18,7 +18,7 @@
   "has_transparent_side_panel": true,
   "front_panel_usb": "1 x USB 3.1 Gen 2 Type-C 2 x USB 3.0",
   "max_video_card_length": 355,
-  "max_cpu_cooler_height": 155,
+  "max_cpu_cooler_height": 170,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 2,
   "expansion_slots": 7,

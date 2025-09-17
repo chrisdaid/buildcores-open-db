@@ -17,7 +17,7 @@
   "supported_power_supply_form_factors": [],
   "side_panel": "Tinted Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 2x2 Type-C                                                    USB 3.2 Gen 1 Type-A",
+  "front_panel_usb": "1x USB 3.2 Gen 2x2 Type-C                                                   1x USB 3.2 Gen 1 Type-A",
   "front_usb_ports": [
     "1x USB 3.2 Gen 2x2 Type-C ",
     "1x USB 3.2 Type-A "
