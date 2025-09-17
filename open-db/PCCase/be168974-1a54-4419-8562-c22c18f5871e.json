@@ -7,7 +7,7 @@
       "PH-XT523P1-BK01"
     ],
     "series": "XT",
-    "variant": ""
+    "variant": "PRO BLACK"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -37,9 +37,11 @@
     "depth": 500,
     "_id": "688c9701477d36f51fece678"
   },
+  "supports_rear_connecting_motherboard": true,
   "general_product_information": {
     "amazon_sku": "B0CV365B3B",
     "newegg_sku": "N82E16811854132",
-    "walmart_sku": 5425103685
+    "walmart_sku": 5425103685,
+    "manufacturer_url": "https://phanteks.com/product/xt-pro-black/"
   }
 }

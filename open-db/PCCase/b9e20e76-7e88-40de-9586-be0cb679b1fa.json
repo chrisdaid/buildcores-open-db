@@ -6,8 +6,8 @@
     "part_numbers": [
       "DY470 Black"
     ],
-    "series": "DY470",
-    "variant": ""
+    "series": "DY",
+    "variant": "470 BLACK"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -38,6 +38,8 @@
   },
   "general_product_information": {
     "amazon_sku": "B0DHS1T739",
-    "newegg_sku": "N82E16811326007"
+    "newegg_sku": "N82E16811326007",
+    "walmart_sku": 15119607774,
+    "manufacturer_url": "https://www.darkflash.com/product/dy470"
   }
 }

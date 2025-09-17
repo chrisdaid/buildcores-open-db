@@ -7,7 +7,7 @@
       "C8                                                    0-761345-10019-9"
     ],
     "series": "C8",
-    "variant": ""
+    "variant": "C8 Black"
   },
   "form_factor": "ATX Full Tower",
   "color": [
@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B0CP3MZXVH",
     "newegg_sku": "N82E16811129306",
-    "walmart_sku": 5323397852
+    "walmart_sku": 5323397852,
+    "manufacturer_url": "https://www.antec.com/product/case/c8/"
   }
 }

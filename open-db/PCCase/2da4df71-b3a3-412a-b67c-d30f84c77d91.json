@@ -7,7 +7,7 @@
       "CC-H61FW-R1"
     ],
     "series": "H6",
-    "variant": ""
+    "variant": "Flow"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -40,6 +40,7 @@
     "amazon_sku": "B0C89S5PC5",
     "newegg_sku": "N82E16811146358",
     "bestbuy_sku": 6560309,
-    "walmart_sku": 5172816045
+    "walmart_sku": 5172816045,
+    "manufacturer_url": "https://nzxt.com/en-intl/products/h6-flow"
   }
 }

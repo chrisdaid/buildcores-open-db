@@ -7,7 +7,7 @@
       "KING 95 PRO (Blue)                                                    KING95PROP                                                    KING 95 PRO (PB)"
     ],
     "series": "KING",
-    "variant": ""
+    "variant": "95 PRO Blue"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -40,6 +40,7 @@
   "general_product_information": {
     "amazon_sku": "B0CQC9XQCH",
     "newegg_sku": "N82E16811970007",
-    "walmart_sku": 5199279212
+    "walmart_sku": 5199279212,
+    "manufacturer_url": "https://www.montechpc.com/king-95-pro"
   }
 }

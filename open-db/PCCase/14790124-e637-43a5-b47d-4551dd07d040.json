@@ -7,7 +7,7 @@
       "MCB-Q300L-KANN-S00"
     ],
     "series": "MasterBox",
-    "variant": null
+    "variant": "Q300L"
   },
   "form_factor": "Micro ATX Mini Tower",
   "color": [
@@ -39,6 +39,7 @@
     "amazon_sku": "B0785GRMPG",
     "newegg_sku": "N82E16811119331",
     "bestbuy_sku": 6303600,
-    "walmart_sku": 541482386
+    "walmart_sku": 541482386,
+    "manufacturer_url": "https://www.coolermaster.com/en-global/products/masterbox-q300l/"
   }
 }

@@ -20,11 +20,14 @@
   "max_cpu_cooler_height": 180,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 4,
-  "expansion_slots": 11,
+  "expansion_slots": 3.5,
   "dimensions": "470 x 320 x 470",
   "volume": 70.688,
   "weight": 24.91224,
-  "color": [],
+  "color": [
+    "BLACK",
+    "WHITE"
+  ],
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
     "1x USB-C 3.2 Gen 2",
@@ -36,10 +39,12 @@
     "depth": 470,
     "_id": "688ca847c2e4fbc597adbb56"
   },
+  "riser_expansion_slots": 4,
   "general_product_information": {
     "amazon_sku": "B0DKJZKB8Y",
     "newegg_sku": "N82E16811737019",
     "bestbuy_sku": 6619097,
-    "walmart_sku": 14153921934
+    "walmart_sku": 14153921934,
+    "manufacturer_url": "https://hyte.com/y70touch"
   }
 }

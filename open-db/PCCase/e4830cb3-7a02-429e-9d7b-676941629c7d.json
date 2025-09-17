@@ -7,7 +7,7 @@
       "Y6-N6-W"
     ],
     "series": "Y6",
-    "variant": ""
+    "variant": "Y6 White"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -39,6 +39,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B0C9H8XY75",
-    "newegg_sku": "9SIBWYHKBC6248"
+    "newegg_sku": "9SIBWYHKBC6248",
+    "manufacturer_url": "https://www.musetex.com/products/musetex-atx-pc-case-5-pwm-argb-fans-pre-installed-360mm-rad-support-type-c-gaming-pc-case-270-full-view-tempered-glass-mid-tower-pc-case-pure-white-atx-computer-case-y6"
   }
 }

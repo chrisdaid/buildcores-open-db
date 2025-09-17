@@ -7,7 +7,7 @@
       "O11DERGBX                                                    G99.O11DERGBX.00                                                    O11DERGBX.US                                                    PC-O11DERGBX"
     ],
     "series": "O11D",
-    "variant": ""
+    "variant": "O11 Dynamic Evo RGB"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B0CRKVN35N",
     "newegg_sku": "2AM-000Z-000C0",
-    "walmart_sku": 5348613041
+    "walmart_sku": 5348613041,
+    "manufacturer_url": "https://lian-li.com/product/o11d-evo-rgb/"
   }
 }

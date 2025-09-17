@@ -7,7 +7,7 @@
       "FD-C-NOR1C-02"
     ],
     "series": "North",
-    "variant": ""
+    "variant": "Tempered Glass"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -27,8 +27,8 @@
   "weight": 16.9756,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
-    "1 x USB 3.1 Gen 2 Type-C",
-    "2 x USB 3.0"
+    "1x USB 3.1 Gen 2 Type-C",
+    "2x USB 3.0"
   ],
   "dimensions_mm": {
     "width": 215,
@@ -40,6 +40,7 @@
     "amazon_sku": "B09V8HNWW9",
     "newegg_sku": "N82E16811352204",
     "bestbuy_sku": 6602166,
-    "walmart_sku": 2690115312
+    "walmart_sku": 2690115312,
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/north/north/chalk-white/"
   }
 }

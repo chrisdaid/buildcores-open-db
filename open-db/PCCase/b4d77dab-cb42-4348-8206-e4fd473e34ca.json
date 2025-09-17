@@ -7,7 +7,7 @@
       "O11VPX                                                    O11 Vision Compact Black                                                    G99.O11VPX.00                                                    PC-O11VPX"
     ],
     "series": "O11",
-    "variant": ""
+    "variant": "Vision"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B0DJPV8XG3",
     "newegg_sku": "2AM-000Z-000D8",
-    "walmart_sku": 13284423261
+    "walmart_sku": 13284423261,
+    "manufacturer_url": "https://lian-li.com/product/o11-vision/"
   }
 }
