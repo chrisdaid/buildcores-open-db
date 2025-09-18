@@ -11,7 +11,8 @@
       "F5-5200J4040A48GX2-RM5RK"
     ],
     "series": "Ripjaws",
-    "variant": "5200 CL40"
+    "variant": "5200 CL40",
+    "releaseYear": 2024
   },
   "speed": 5200,
   "ram_type": "DDR5",
@@ -30,6 +31,7 @@
   "general_product_information": {
     "amazon_sku": "B0D7JP9L2Q",
     "newegg_sku": "N82E16820374586",
-    "walmart_sku": 6684913822
+    "walmart_sku": 6684913822,
+    "manufacturer_url": "https://www.gskill.com/products/1/165/421/Ripjaws-M5-RGB-DDR5-Intel-XMP"
   }
 }
