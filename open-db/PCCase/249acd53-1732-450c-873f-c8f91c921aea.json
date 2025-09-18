@@ -7,7 +7,7 @@
       "FD-C-MES3X-06"
     ],
     "series": "Meshify",
-    "variant": ""
+    "variant": "3 XL RGB Black"
   },
   "form_factor": "ATX Full Tower",
   "color": [
@@ -29,7 +29,7 @@
   "expansion_slots": 7,
   "dimensions": "575 x 245 x 515",
   "volume": 72.551,
-  "weight": 25.1327,
+  "weight": 24,
   "dimensions_mm": {
     "width": 245,
     "height": 515,
@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B0DK5RW3LK",
     "newegg_sku": "N82E16811352236",
-    "walmart_sku": 16796120632
+    "walmart_sku": 16796120632,
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/meshify/meshify-3-xl/white-rgb-tg-clear-tint/"
   }
 }

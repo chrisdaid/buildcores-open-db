@@ -7,10 +7,12 @@
       "SST-ALG1MB"
     ],
     "series": "ALTA",
-    "variant": ""
+    "variant": "G1M Black"
   },
   "form_factor": "Micro ATX Mid Tower",
-  "color": [],
+  "color": [
+    "Black"
+  ],
   "power_supply": "None",
   "side_panel": "None",
   "has_transparent_side_panel": false,
@@ -36,6 +38,8 @@
   },
   "general_product_information": {
     "amazon_sku": "B09GVS5LBD",
-    "walmart_sku": 797282754
+    "newegg_sku": "N82E16811163424",
+    "walmart_sku": 797282754,
+    "manufacturer_url": "https://www.silverstonetek.com/en/product/info/computer-chassis/ALTAG1M/"
   }
 }

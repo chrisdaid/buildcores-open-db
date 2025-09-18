@@ -7,7 +7,7 @@
       "FD-CA-NODE-304-BL"
     ],
     "series": "Node",
-    "variant": ""
+    "variant": "304"
   },
   "form_factor": "Mini-ITX Tower",
   "color": [
@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B009LHF4FO",
     "newegg_sku": "N82E16811352027",
-    "walmart_sku": 23261985
+    "walmart_sku": 23261985,
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/node/node-304/black/"
   }
 }

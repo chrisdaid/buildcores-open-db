@@ -7,7 +7,7 @@
       "CA-1Y4-00S1WN-00"
     ],
     "series": "The Tower",
-    "variant": "Black"
+    "variant": "300 Black"
   },
   "form_factor": "Micro ATX Mid Tower",
   "power_supply": null,
@@ -36,8 +36,9 @@
     "_id": "68c6bb558991d82b507c10c3"
   },
   "general_product_information": {
-    "amazon_sku": "B0835RYQ8P",
-    "newegg_sku": "9SIA8EFB558779",
-    "walmart_sku": 299402799
+    "amazon_sku": "B0CS878V58",
+    "newegg_sku": "N82E16811133524",
+    "walmart_sku": 5385011371,
+    "manufacturer_url": "https://www.thermaltake.com/the-tower-300-micro-tower-chassis.html"
   }
 }

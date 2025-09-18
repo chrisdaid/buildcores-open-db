@@ -6,10 +6,24 @@
   "form_factor": "Micro ATX Mini Tower",
   "color": [],
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB3.0 x 1",
+    "USB2.0 x 1"
+  ],
+  "side_panel": null,
+  "front_panel_usb": "USB3.0 x 1                                        USB2.0 x 1",
+  "max_cpu_cooler_height": 175,
+  "dimensions": "210 x 415 x 400 ",
+  "dimensions_mm": {
+    "width": 210,
+    "height": 415,
+    "depth": 400,
+    "_id": "68cb0c24525535576e3ee04d"
+  },
+  "weight": 11.53,
   "general_product_information": {
     "amazon_sku": "B07Y5G9V6D",
-    "newegg_sku": "N82E16811352170",
+    "newegg_sku": "N82E16811553051",
     "walmart_sku": 698584915
   }
 }

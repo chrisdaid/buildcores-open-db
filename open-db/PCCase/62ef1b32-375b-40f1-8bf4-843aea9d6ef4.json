@@ -7,7 +7,7 @@
       "Helium Flow White"
     ],
     "series": "Helium",
-    "variant": ""
+    "variant": "Flow White"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B0DSJY7FQ8",
     "newegg_sku": "N82E16811147363",
-    "walmart_sku": 14918516325
+    "walmart_sku": 14918516325,
+    "manufacturer_url": "https://www.rosewill.com/p/9SIA072KEX6298"
   }
 }

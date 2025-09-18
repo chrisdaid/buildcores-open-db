@@ -7,7 +7,7 @@
       "SST-RM42-502B                                                    RM42-502                                                    SST-RM42-502"
     ],
     "series": "RM42-502",
-    "variant": ""
+    "variant": "RM42-502 Black"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B08DK8398B",
     "newegg_sku": "1B4-00JV-00082",
-    "walmart_sku": 160461589
+    "walmart_sku": 160461589,
+    "manufacturer_url": "https://www.silverstonetek.com/en/product/info/server-nas/RM42-502/"
   }
 }

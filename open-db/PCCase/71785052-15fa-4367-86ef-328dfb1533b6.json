@@ -6,8 +6,8 @@
     "part_numbers": [
       "SST-CS383"
     ],
-    "series": "CS383",
-    "variant": ""
+    "series": "CS",
+    "variant": "383 (Black)"
   },
   "form_factor": "ATX Full Tower",
   "color": [
@@ -37,6 +37,8 @@
     "_id": "68c6f1d277138a81d1c80819"
   },
   "general_product_information": {
-    "amazon_sku": "B0FDPNRYG9"
+    "amazon_sku": "B0FDPNRYG9",
+    "newegg_sku": "9SIBF8AKJA0484",
+    "manufacturer_url": "https://www.silverstonetek.com/en/product/info/computer-chassis/cs383/"
   }
 }

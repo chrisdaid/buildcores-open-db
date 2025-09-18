@@ -7,7 +7,7 @@
       "CS-HYTE-Y60-BR"
     ],
     "series": "Y60",
-    "variant": ""
+    "variant": "Red"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -41,6 +41,7 @@
     "amazon_sku": "B0BGVWX5H8",
     "newegg_sku": "N82E16811737003",
     "bestbuy_sku": 6537773,
-    "walmart_sku": 1912963292
+    "walmart_sku": 1912963292,
+    "manufacturer_url": "https://hyte.com/y60"
   }
 }

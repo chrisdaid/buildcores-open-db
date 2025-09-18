@@ -7,7 +7,7 @@
       "CC-H52FW-01"
     ],
     "series": "H5",
-    "variant": ""
+    "variant": "Flow 2024"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -40,6 +40,7 @@
     "amazon_sku": "B0D2MHBXRR",
     "newegg_sku": "N82E16811146366",
     "bestbuy_sku": 6590129,
-    "walmart_sku": 10145605293
+    "walmart_sku": 10145605293,
+    "manufacturer_url": "https://nzxt.com/en-intl/products/h5-flow"
   }
 }

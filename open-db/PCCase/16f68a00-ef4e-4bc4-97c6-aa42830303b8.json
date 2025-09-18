@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B07T4W3BMH",
     "newegg_sku": "1W8-010K-00006",
-    "walmart_sku": 555457626
+    "walmart_sku": 555457626,
+    "manufacturer_url": "https://www.bgears.com"
   }
 }

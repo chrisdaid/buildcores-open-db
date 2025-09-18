@@ -7,7 +7,7 @@
       "MCB-B400L-KN5N-S00"
     ],
     "series": "MasterBox",
-    "variant": ""
+    "variant": "MB400L with ODD (Black)"
   },
   "form_factor": "Micro ATX Mini Tower",
   "color": [
@@ -36,6 +36,7 @@
     "_id": "68c6e9e31c5747e660c913b2"
   },
   "general_product_information": {
-    "amazon_sku": "B084LKY5JG"
+    "amazon_sku": "B084LKY5JG",
+    "manufacturer_url": "https://www.coolermaster.com/en-global/products/masterbox-mb400l-odd-steel/?tab=overview"
   }
 }

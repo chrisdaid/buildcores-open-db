@@ -6,8 +6,8 @@
     "part_numbers": [
       "CA-1Z9-00SMWN-00"
     ],
-    "series": "The",
-    "variant": ""
+    "series": "The Tower",
+    "variant": "250"
   },
   "form_factor": "Mini-ITX Tower",
   "color": [
@@ -40,6 +40,7 @@
   "general_product_information": {
     "amazon_sku": "B0F68M1QM9",
     "newegg_sku": "2AM-000X-00365",
-    "walmart_sku": 16729861982
+    "walmart_sku": 16729861982,
+    "manufacturer_url": "https://www.thermaltake.com/the-tower-250-butter-caramel-mini-tower-chassis.html"
   }
 }

@@ -7,7 +7,7 @@
       "Helium Flow RGB"
     ],
     "series": "Helium",
-    "variant": ""
+    "variant": "Flow RGB Black"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -29,7 +29,7 @@
   "expansion_slots": 7,
   "dimensions": "444.5 x 230 x 494",
   "volume": 50.504,
-  "weight": 20.19,
+  "weight": 26.5,
   "dimensions_mm": {
     "width": 230,
     "height": 494,
@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B0DSJYH9Y2",
     "newegg_sku": "N82E16811147362",
-    "walmart_sku": 14989805456
+    "walmart_sku": 14989805456,
+    "manufacturer_url": "https://www.rosewill.com/p/9SIA072KEX6296"
   }
 }

@@ -6,8 +6,8 @@
     "part_numbers": [
       "CA-1Z9-00SLWN-00"
     ],
-    "series": "The",
-    "variant": ""
+    "series": "The Tower",
+    "variant": "250"
   },
   "form_factor": "Mini-ITX Tower",
   "color": [
@@ -40,6 +40,7 @@
   "general_product_information": {
     "amazon_sku": "B0F69PMFL1",
     "newegg_sku": "2AM-000X-00364",
-    "walmart_sku": 16562020877
+    "walmart_sku": 16562020877,
+    "manufacturer_url": "https://www.thermaltake.com/the-tower-250-mint-strawberry-mini-tower-chassis.html"
   }
 }

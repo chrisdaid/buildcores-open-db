@@ -7,7 +7,7 @@
       "FD-C-MES3A-07"
     ],
     "series": "Meshify",
-    "variant": ""
+    "variant": "3 White"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -40,6 +40,7 @@
     "amazon_sku": "B0DK5S2LDZ",
     "newegg_sku": "N82E16811352230",
     "bestbuy_sku": 6616610,
-    "walmart_sku": 16695417886
+    "walmart_sku": 16695417886,
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/meshify/meshify-3/ambience-pro-rgb-black-tg-light-tint/"
   }
 }

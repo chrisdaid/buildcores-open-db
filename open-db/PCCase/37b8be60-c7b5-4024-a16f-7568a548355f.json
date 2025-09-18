@@ -7,7 +7,7 @@
       "SST-FA313-B-C"
     ],
     "series": "FARA",
-    "variant": ""
+    "variant": "313 Black"
   },
   "form_factor": "Micro ATX Mid Tower",
   "color": [
@@ -38,7 +38,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B0BQQ7CC9Y",
-    "newegg_sku": "2AM-006F-001D6",
-    "walmart_sku": 2801464025
+    "newegg_sku": "9SIBF8AKJE8172",
+    "manufacturer_url": "https://www.silverstonetek.com/en/product/info/computer-chassis/FARA_313/"
   }
 }

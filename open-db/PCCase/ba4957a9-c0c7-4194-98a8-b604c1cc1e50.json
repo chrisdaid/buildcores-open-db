@@ -38,6 +38,8 @@
     "_id": "688d27df477d36f51f3cd733"
   },
   "general_product_information": {
-    "amazon_sku": "B0DGGYH2D3"
+    "amazon_sku": "B0DGGYH2D3",
+    "newegg_sku": "9SIBRESKGK4823",
+    "manufacturer_url": "https://www.apnx.com/product/v1/"
   }
 }

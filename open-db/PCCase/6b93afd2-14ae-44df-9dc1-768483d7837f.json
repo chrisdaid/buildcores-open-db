@@ -7,7 +7,7 @@
       "0-761345-10079-3                                                    C8 Wood"
     ],
     "series": "C8",
-    "variant": ""
+    "variant": "Wood"
   },
   "form_factor": "ATX Full Tower",
   "color": [
@@ -40,6 +40,7 @@
   "general_product_information": {
     "amazon_sku": "B0D7Z7TJFD",
     "newegg_sku": "N82E16811129311",
-    "walmart_sku": 7569867251
+    "walmart_sku": 7569867251,
+    "manufacturer_url": "https://www.antec.com/product/case/c8-wood"
   }
 }
