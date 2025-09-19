@@ -16,6 +16,7 @@
   "cache": 1024,
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B0F255ZJLP"
+    "amazon_sku": "B0F255ZJLP",
+    "walmart_sku": 16043266200
   }
 }

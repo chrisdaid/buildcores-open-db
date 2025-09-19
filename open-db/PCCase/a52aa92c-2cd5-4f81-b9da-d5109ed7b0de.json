@@ -6,8 +6,8 @@
     "part_numbers": [
       "CE685.FH300TB3"
     ],
-    "series": "CE685.FH300TB3",
-    "variant": ""
+    "series": "CE",
+    "variant": "685 (FH300TB3)"
   },
   "form_factor": "Micro ATX Slim Tower",
   "color": [
@@ -16,20 +16,30 @@
   "power_supply": "300 W",
   "side_panel": "None",
   "has_transparent_side_panel": false,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A                                                    USB 2.0 Type-A",
+  "front_panel_usb": "USB 3.0 x 2                                                                                               USB 2.0 x 2",
   "max_video_card_length": null,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 81,
   "internal_3_5_bays": 1,
   "internal_2_5_bays": 1,
   "expansion_slots": 4,
-  "dimensions": "332 x 96 x 370",
+  "dimensions": "370 x 96 x 334",
   "volume": 11.793,
-  "weight": null,
+  "weight": 11.9,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.0 x 2",
+    "USB 2.0 x 2"
+  ],
+  "dimensions_mm": {
+    "width": 96,
+    "height": 334,
+    "depth": 370,
+    "_id": "68cd451a766d8d1e2705ab51"
+  },
   "general_product_information": {
     "amazon_sku": "B00J8LZDSG",
     "newegg_sku": "N82E16811108109",
-    "walmart_sku": 37673395
+    "walmart_sku": 37673395,
+    "manufacturer_url": "https://www.in-win.com/en/computer-chassis/ce-series/USA"
   }
 }

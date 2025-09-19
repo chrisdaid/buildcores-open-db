@@ -16,6 +16,7 @@
   "cache": 512,
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B0CYQH562B"
+    "amazon_sku": "B0CYQH562B",
+    "walmart_sku": 6303705924
   }
 }

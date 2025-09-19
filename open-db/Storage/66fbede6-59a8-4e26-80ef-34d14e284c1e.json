@@ -16,6 +16,7 @@
   "cache": null,
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B0FF5QT34H"
+    "amazon_sku": "B0FF5QT34H",
+    "walmart_sku": 17215802670
   }
 }

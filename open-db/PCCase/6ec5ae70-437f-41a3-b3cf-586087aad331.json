@@ -7,7 +7,7 @@
       "FD-C-TOR1A-05"
     ],
     "series": "Torrent",
-    "variant": ""
+    "variant": "Black"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -24,11 +24,11 @@
   "expansion_slots": 7,
   "dimensions": "544 x 242 x 530",
   "volume": 69.773,
-  "weight": 24.47131,
+  "weight": 22.928,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
     "1x USB 3.2 Gen 2x2 Type-C (20 Gbps) ",
-    " 2x USB 3.0,"
+    " 2x USB 3.0"
   ],
   "dimensions_mm": {
     "width": 242,
@@ -39,7 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B099X5T116",
     "newegg_sku": "N82E16811352147",
-    "bestbuy_sku": 6507396,
-    "walmart_sku": 744791084
+    "walmart_sku": 744791084,
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/torrent/torrent/black-rgb-tg-light-tint/"
   }
 }
