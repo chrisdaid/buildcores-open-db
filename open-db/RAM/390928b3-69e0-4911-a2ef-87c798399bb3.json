@@ -27,7 +27,5 @@
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
-  "general_product_information": {
-    "newegg_sku": "N82E16820374550"
-  }
+  "general_product_information": {}
 }

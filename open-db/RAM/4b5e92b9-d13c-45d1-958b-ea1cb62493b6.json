@@ -5,7 +5,7 @@
     "capacity_gb": 16
   },
   "metadata": {
-    "name": "G.Skill Ripjaws M5 RGB DDR5-5600 CL46 32GB (2x16GB)",
+    "name": "G.Skill Ripjaws M5 RGB DDR5-5600 CL46 32GB (2x16GB) BLACK",
     "manufacturer": "G.SKILL",
     "part_numbers": [
       "F5-5600J4645A16GX2-RM5RK"
@@ -30,6 +30,6 @@
   "general_product_information": {
     "amazon_sku": "B0D7JW9ZLZ",
     "newegg_sku": "N82E16820374588",
-    "walmart_sku": 6659465447
+    "manufacturer_url": "https://www.gskill.com/products/1/165/421/Ripjaws-M5-RGB-DDR5-Intel-XMP"
   }
 }

@@ -42,6 +42,7 @@
     "_id": "68cb8a3e9b67bc35527ba361"
   },
   "general_product_information": {
-    "amazon_sku": "B0DW4H333L"
+    "amazon_sku": "B0DW4H333L",
+    "walmart_sku": 16299014736
   }
 }
