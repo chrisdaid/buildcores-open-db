@@ -22,14 +22,14 @@
   ],
   "cas_latency": 30,
   "timings": "30-36-36-89",
-  "voltage": null,
+  "voltage": 1.25,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
   "general_product_information": {
-    "amazon_sku": "B0D7JVB8T4",
     "newegg_sku": "N82E16820374551",
-    "walmart_sku": 6657317201
+    "walmart_sku": 6047354089,
+    "manufacturer_url": "https://www.gskill.com/products/6/165/Desktop-Memory-U-DIMM-CU-DIMM"
   }
 }

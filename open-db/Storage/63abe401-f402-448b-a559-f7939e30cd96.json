@@ -15,7 +15,6 @@
   "interface": "SATA III 6Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B0963SGYGF",
-    "walmart_sku": 2191252670
+    "amazon_sku": "B0963SGYGF"
   }
 }

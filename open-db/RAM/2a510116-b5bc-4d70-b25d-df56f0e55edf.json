@@ -22,12 +22,14 @@
   ],
   "cas_latency": 30,
   "timings": "30-36-36-89",
-  "voltage": null,
+  "voltage": 1.25,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
   "general_product_information": {
-    "newegg_sku": "N82E16820374552"
+    "newegg_sku": "N82E16820374552",
+    "walmart_sku": 6054364076,
+    "manufacturer_url": "F5-5600J3036D32GX2-RM5RK"
   }
 }

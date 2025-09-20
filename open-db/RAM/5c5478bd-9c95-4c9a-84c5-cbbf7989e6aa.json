@@ -1,17 +1,17 @@
 {
-  "opendb_id": "3b64337c-e5a0-4673-bf2a-06f872c2fdf1",
+  "opendb_id": "5c5478bd-9c95-4c9a-84c5-cbbf7989e6aa",
   "modules": {
     "quantity": 2,
     "capacity_gb": 16
   },
   "metadata": {
-    "name": "G.Skill Ripjaws M5 RGB Black DDR5-6000 CL30 32GB (2x16GB)",
+    "name": "G.Skill Ripjaws M5 RGB DDR5-6000 CL28 32GB (2x16GB) Black",
     "manufacturer": "G.SKILL",
     "part_numbers": [
-      "F5-6000J3040F16GX2-RM5RK"
+      "F5-6000J2836G16GX2-RM5RK"
     ],
     "series": "Ripjaws",
-    "variant": "6000 CL30"
+    "variant": "M5 RGB"
   },
   "speed": 6000,
   "ram_type": "DDR5",
@@ -20,16 +20,15 @@
   "color": [
     "BLACK"
   ],
-  "cas_latency": 30,
-  "timings": "30-40-40-96",
-  "voltage": 1.35,
+  "cas_latency": 28,
+  "timings": "28-36-36-96",
+  "voltage": 1.4,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
   "general_product_information": {
-    "amazon_sku": "B0D4TDPQK4",
-    "newegg_sku": "N82E16820374556",
-    "manufacturer_url": "https://www.gskill.com/products/3/165/Desktop-Memory-U-DIMM-CU-DIMM"
+    "newegg_sku": "9SIAD7HKKN4244",
+    "manufacturer_url": "https://www.gskill.com/product/165/421/1735193648/F5-6000J2836G16GX2-RM5RK"
   }
 }
