@@ -21,7 +21,7 @@
     "BLACK"
   ],
   "cas_latency": 16,
-  "voltage": 1.4,
+  "voltage": 1.35,
   "heat_spreader": true,
   "general_product_information": {}
 }

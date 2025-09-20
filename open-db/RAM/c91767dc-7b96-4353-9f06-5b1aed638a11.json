@@ -22,14 +22,13 @@
   ],
   "cas_latency": 16,
   "timings": "16-20-20-40",
-  "voltage": null,
+  "voltage": 1.35,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
   "general_product_information": {
     "amazon_sku": "B0937GY2LV",
-    "newegg_sku": "N82E16820331858",
     "walmart_sku": 267702303
   }
 }
