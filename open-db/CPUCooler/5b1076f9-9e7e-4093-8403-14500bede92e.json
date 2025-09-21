@@ -36,6 +36,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B09LGY38L4"
+    "amazon_sku": "B09LGY38L4",
+    "walmart_sku": 11017220577
   }
 }

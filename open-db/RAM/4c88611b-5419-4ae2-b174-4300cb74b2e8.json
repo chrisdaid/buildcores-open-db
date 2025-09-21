@@ -1,8 +1,8 @@
 {
   "opendb_id": "4c88611b-5419-4ae2-b174-4300cb74b2e8",
   "modules": {
-    "quantity": 2,
-    "capacity_gb": 8
+    "quantity": 1,
+    "capacity_gb": 32
   },
   "metadata": {
     "name": "TEAMGROUP T-Force Delta RGB Black DDR4-2666 CL15 16GB (2x8GB)",
@@ -16,7 +16,7 @@
   "speed": 2666,
   "ram_type": "DDR4",
   "form_factor": "288-pin DIMM (DDR4)",
-  "capacity": 16,
+  "capacity": 32,
   "color": [
     "BLACK"
   ],
@@ -27,5 +27,7 @@
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
-  "general_product_information": {}
+  "general_product_information": {
+    "manufacturer_url": "https://www.teamgroupinc.com/en/product-category/memory/desktop/?filter=ZmlsdGVyLTIyMT0yNTE4"
+  }
 }

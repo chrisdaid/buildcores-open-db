@@ -38,6 +38,7 @@
   "general_product_information": {
     "amazon_sku": "B0CS878V58",
     "newegg_sku": "N82E16811133524",
+    "bestbuy_sku": 6577421,
     "walmart_sku": 5385011371,
     "manufacturer_url": "https://www.thermaltake.com/the-tower-300-micro-tower-chassis.html"
   }

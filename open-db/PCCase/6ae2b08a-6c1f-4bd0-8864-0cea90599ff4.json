@@ -28,6 +28,8 @@
   "volume": 34.562,
   "weight": null,
   "general_product_information": {
-    "amazon_sku": "B0DB547DQ9"
+    "amazon_sku": "B0DB547DQ9",
+    "newegg_sku": "2AM-0023-000T3",
+    "walmart_sku": 10415822114
   }
 }

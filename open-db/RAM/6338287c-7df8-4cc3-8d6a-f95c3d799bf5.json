@@ -22,5 +22,10 @@
   "heat_spreader": true,
   "height": 49,
   "color": [],
-  "general_product_information": {}
+  "timings": "20-26-26-46",
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "general_product_information": {
+    "manufacturer_url": "https://www.teamgroupinc.com/en/product-category/memory/desktop/?filter=ZmlsdGVyLTIyMT0yNTE4"
+  }
 }
