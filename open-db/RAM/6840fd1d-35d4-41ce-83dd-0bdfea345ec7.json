@@ -1,24 +1,22 @@
 {
-  "opendb_id": "55fec0e8-a0e2-4698-b34a-e95890bbffa6",
+  "opendb_id": "6840fd1d-35d4-41ce-83dd-0bdfea345ec7",
   "modules": {
     "quantity": 2,
     "capacity_gb": 16
   },
   "metadata": {
-    "name": "TEAMGROUP T-Force Delta RGB White DDR4-3600 CL18 32GB (2x16GB)",
-    "manufacturer": "TEAMGROUP",
-    "part_numbers": [
-      "TF4D432G3600HC18JDC01"
-    ],
-    "series": "T-Force",
-    "variant": "3600 CL18"
+    "name": "GIGASTONE Game PRO 32GB Kit (2x16GB) DDR4 3600MHz CL 18",
+    "manufacturer": "Gigastone",
+    "series": "Game PRO",
+    "variant": "32GB Kit (2x16GB) DDR4 3600MHz",
+    "part_numbers": []
   },
   "speed": 3600,
   "ram_type": "DDR4",
   "form_factor": "288-pin DIMM (DDR4)",
   "capacity": 32,
   "color": [
-    "WHITE"
+    "RED"
   ],
   "cas_latency": 18,
   "timings": "18-22-22-42",
@@ -26,9 +24,8 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "rgb": true,
   "general_product_information": {
-    "newegg_sku": "N82E16820331515",
-    "walmart_sku": 820373668
+    "amazon_sku": "‎B0DCBN9TRN",
+    "manufacturer_url": "https://www.gigastone.com/en/products-detail/47"
   }
 }

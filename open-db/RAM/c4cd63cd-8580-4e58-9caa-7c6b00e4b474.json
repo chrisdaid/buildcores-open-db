@@ -1,25 +1,24 @@
 {
-  "opendb_id": "d36447d7-e1aa-49d6-a8a7-05897da0a71a",
+  "opendb_id": "c4cd63cd-8580-4e58-9caa-7c6b00e4b474",
   "modules": {
     "quantity": 2,
     "capacity_gb": 8
   },
   "metadata": {
-    "name": "GIGASTONE Game PRO 16GB Kit (2x8GB) DDR4 3200MHz",
-    "manufacturer": "GIGASTONE",
+    "name": "GIGASTONE Game PRO 16GB Kit (2x8GB) DDR4 3200MHz CL16",
+    "manufacturer": "Gigastone",
     "part_numbers": [
       ""
     ],
-    "series": "‎Game PRO",
-    "variant": "DDR4 3200MHz ",
-    "releaseYear": null
+    "series": "Game PRO",
+    "variant": "16GB Kit (2x8GB) DDR4 3200MHz"
   },
   "speed": 3200,
   "ram_type": "DDR4",
   "form_factor": "288-pin DIMM (DDR4)",
   "capacity": 16,
   "color": [
-    "WHITE"
+    "BLACK"
   ],
   "cas_latency": 16,
   "timings": "16-18-18-40",
@@ -27,10 +26,9 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "height": 14.986,
   "general_product_information": {
-    "amazon_sku": "\t‎B0CB2VNFDH",
-    "newegg_sku": "9SIAGDFK6H9739",
+    "amazon_sku": "B0CB2VYV3P",
+    "newegg_sku": "9SIAGDFK6H9738",
     "manufacturer_url": "https://www.gigastone.com/en/products-detail/47"
   }
 }
