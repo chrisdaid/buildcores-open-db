@@ -16,20 +16,29 @@
   "power_supply": "None",
   "side_panel": "None",
   "has_transparent_side_panel": false,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A                                                    USB 2.0 Type-A",
+  "front_panel_usb": "2x USB 3.0 (int.)                                                    2x USB 2.0",
   "max_video_card_length": 320,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 164,
   "internal_3_5_bays": 7,
   "internal_2_5_bays": 3,
   "expansion_slots": 7,
-  "dimensions": "189 x 425 x 501",
+  "dimensions": "501.4 x 190 x 426",
   "volume": 40.243,
-  "weight": null,
+  "weight": 12.3,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "2x USB 3.0 (int.)",
+    "2x USB 2.0"
+  ],
+  "dimensions_mm": {
+    "width": 190,
+    "height": 426,
+    "depth": 501.4,
+    "_id": "68d04b57098c601c660b18de"
+  },
   "general_product_information": {
     "amazon_sku": "B00DKXXBU0",
     "newegg_sku": "N82E16811119277",
-    "walmart_sku": 37938506
+    "walmart_sku": 1726218517
   }
 }
