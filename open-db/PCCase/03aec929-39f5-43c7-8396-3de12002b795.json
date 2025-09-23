@@ -7,7 +7,7 @@
       "CM-H72FB-01"
     ],
     "series": "H7",
-    "variant": ""
+    "variant": "\tFlow (2024)"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -24,7 +24,7 @@
   "expansion_slots": 7,
   "dimensions": "468 x 244 x 544",
   "volume": 62.12,
-  "weight": 24.91,
+  "weight": 24.537,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
     "1x USB 3.2 Gen 2x2 Type-C  (20 Gbps)",
@@ -40,6 +40,7 @@
     "amazon_sku": "B0CV4R1TWS",
     "newegg_sku": "N82E16811146361",
     "bestbuy_sku": 6585814,
-    "walmart_sku": 6181208830
+    "walmart_sku": 6181208830,
+    "manufacturer_url": "\thttps://nzxt.com/en-intl/products/h7-flow"
   }
 }

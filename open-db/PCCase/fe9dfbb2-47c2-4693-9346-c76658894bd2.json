@@ -16,9 +16,9 @@
   "power_supply": "None",
   "side_panel": "Acrylic",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.0  Type-A                                                    USB 2.0 Type-A",
+  "front_panel_usb": "1x USB 3.0  Type-A                                                   1x USB 2.0 Type-A",
   "max_video_card_length": 315,
-  "max_cpu_cooler_height": 152,
+  "max_cpu_cooler_height": 155,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 2,
   "expansion_slots": 6,
@@ -27,8 +27,8 @@
   "weight": 8.5,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
-    "USB 3.0  Type-A           ",
-    "USB 2.0 Type-A"
+    "1x USB 3.0  Type-A           ",
+    "1x USB 2.0 Type-A"
   ],
   "dimensions_mm": {
     "width": 175.768,
@@ -37,6 +37,7 @@
     "_id": "688e8e36bc754dfc6573bf6c"
   },
   "general_product_information": {
+    "amazon_sku": "B08TTRY2VD",
     "newegg_sku": "N82E16811353183"
   }
 }

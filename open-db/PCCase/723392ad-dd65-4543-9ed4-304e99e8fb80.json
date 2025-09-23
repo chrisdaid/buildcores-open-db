@@ -16,7 +16,7 @@
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 2 Type-C                                                    4x USB 3.2 Gen 1 Type-A",
+  "front_panel_usb": "1x USB 3.2 Gen 2 Type-C                                                    4x USB 3.2 Gen 1 Type-A",
   "max_video_card_length": 400,
   "max_cpu_cooler_height": 190,
   "internal_3_5_bays": 2,
@@ -27,7 +27,7 @@
   "weight": 36.15581,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
-    "USB 3.2 Gen 2 Type-C            ",
+    "1x USB 3.2 Gen 2 Type-C            ",
     "4x  USB 3.2 Gen 1 Type-A"
   ],
   "dimensions_mm": {
@@ -41,6 +41,6 @@
     "newegg_sku": "N82E16811139207",
     "bestbuy_sku": 6582288,
     "walmart_sku": 5321326763,
-    "manufacturer_url": "https://www.corsair.com/us/en/explorer/diy-builder/cases/corsair-6500-series/#p-data-block-keyurii1case-specificationsp"
+    "manufacturer_url": "https://www.corsair.com/us/en/p/pc-cases/cc-9011258-ww/6500x-mid-tower-dual-chamber-pc-case-white-cc-9011258-ww"
   }
 }

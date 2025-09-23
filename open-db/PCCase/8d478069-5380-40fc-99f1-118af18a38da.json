@@ -7,7 +7,7 @@
       "X5M (W)"
     ],
     "series": "X5M",
-    "variant": ""
+    "variant": "White"
   },
   "form_factor": "Micro ATX Mini Tower",
   "color": [
@@ -17,11 +17,11 @@
   "supported_power_supply_form_factors": [],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB Type-C                                                    USB 3.0 Type-A                                                    USB 2.0 Type-A",
+  "front_panel_usb": "1x USB Type-C                                                    1x USB 3.0 Type-A                                                    1x USB 2.0 Type-A",
   "front_usb_ports": [
-    "USB Type-C ",
-    "  USB 3.0 Type-A      ",
-    "USB 2.0 Type-A"
+    "1x USB Type-C ",
+    "1x USB 3.0 Type-A      ",
+    "1x USB 2.0 Type-A"
   ],
   "max_video_card_length": 405,
   "max_cpu_cooler_height": 165,
@@ -39,6 +39,8 @@
   },
   "general_product_information": {
     "amazon_sku": "B0FF7TS2QR",
-    "newegg_sku": "N82E16811970030"
+    "newegg_sku": "N82E16811970030",
+    "walmart_sku": 17011960659,
+    "manufacturer_url": "https://www.montechpc.com/x5m"
   }
 }

@@ -1,19 +1,19 @@
 {
-  "opendb_id": "bfe565c2-1b84-4acc-98ca-3eff970fc66d",
+  "opendb_id": "00224914-6d49-493d-8fda-5d0bfd2b087a",
   "modules": {
-    "quantity": 2,
-    "capacity_gb": 8
+    "quantity": 1,
+    "capacity_gb": 16
   },
   "metadata": {
-    "name": "TEAMGROUP T-Force Delta RGB White DDR4-3200 CL16 16GB (2x8GB) WHITE",
+    "name": "TEAMGROUP T-Force Delta RGB DDR4 16GB (1x16GB) 2666MHz CL16 WHITE",
     "manufacturer": "TEAMGROUP",
     "part_numbers": [
-      "TF4D416G3200HC16FDC01"
+      "TF4D416G2666HC16C01"
     ],
     "series": "T-Force",
-    "variant": "3200 CL16"
+    "variant": "Delta RGB White DDR4"
   },
-  "speed": 3200,
+  "speed": 2666,
   "ram_type": "DDR4",
   "form_factor": "288-pin DIMM (DDR4)",
   "capacity": 16,
@@ -21,16 +21,13 @@
     "WHITE"
   ],
   "cas_latency": 16,
-  "timings": "16-20-20-40",
-  "voltage": 1.35,
+  "timings": "16-18-18-38",
+  "voltage": 1.2,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
   "general_product_information": {
-    "amazon_sku": "B0937K692C",
-    "newegg_sku": "N82E16820331859",
-    "walmart_sku": 817939578,
     "manufacturer_url": "https://www.teamgroupinc.com/en/product-category/memory/desktop/?filter=ZmlsdGVyLTIyMT0yNTE4"
   }
 }

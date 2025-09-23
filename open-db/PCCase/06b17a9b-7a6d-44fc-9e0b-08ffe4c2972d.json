@@ -6,8 +6,8 @@
     "part_numbers": [
       "O11DMIV2W"
     ],
-    "series": "O11",
-    "variant": ""
+    "series": "O11 Dynamic",
+    "variant": "Mini V2 (White)"
   },
   "form_factor": "ATX Mini Tower",
   "color": [
@@ -29,7 +29,7 @@
   "expansion_slots": 5,
   "dimensions": "423.6 x 273.3 x 391.95",
   "volume": 45.376,
-  "weight": null,
+  "weight": 26.1,
   "supports_rear_connecting_motherboard": true,
   "dimensions_mm": {
     "width": 273.3,
@@ -40,6 +40,7 @@
   "general_product_information": {
     "amazon_sku": "B0F8H71D5R",
     "newegg_sku": "2AM-000Z-000G0",
-    "walmart_sku": 17552954285
+    "walmart_sku": 17552954285,
+    "manufacturer_url": "https://lian-li.com/product/o11-dynamic-mini-v2/"
   }
 }

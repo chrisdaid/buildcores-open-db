@@ -7,7 +7,7 @@
       "CC-9011219-WW"
     ],
     "series": "7000D",
-    "variant": ""
+    "variant": "AIRFLOW"
   },
   "form_factor": "ATX Full Tower",
   "color": [
@@ -38,8 +38,9 @@
     "_id": "689f78837ac0d5512f10c62c"
   },
   "general_product_information": {
-    "amazon_sku": "B09444VWX2",
+    "amazon_sku": "B094442NL5",
     "newegg_sku": "N82E16811139170",
-    "walmart_sku": 988745735
+    "walmart_sku": 988745735,
+    "manufacturer_url": "https://www.corsair.com/us/en/p/pc-cases/cc-9011219-ww/7000d-airflow-full-tower-atx-pc-case-white-cc-9011219-ww"
   }
 }

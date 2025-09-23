@@ -6,8 +6,8 @@
     "part_numbers": [
       "0-761345-10034-2                                                    C5 ARGB WHITE"
     ],
-    "series": "C5",
-    "variant": ""
+    "series": "Constellation",
+    "variant": "C5 ARGB (White)"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -16,7 +16,7 @@
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 2 Type-C                                                    USB 3.0 Gen 1 Type-A",
+  "front_panel_usb": "1x USB 3.2 Gen 2 Type-C                                                    2x USB 3.0 Gen 1 Type-A",
   "max_video_card_length": 410,
   "max_cpu_cooler_height": 160,
   "internal_3_5_bays": 1,
@@ -27,8 +27,8 @@
   "weight": 16.7551,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
-    "USB 3.2 Gen 2 Type-C      ",
-    "  USB 3.0 Gen 1 Type-A"
+    "1x USB 3.2 Gen 2 Type-C      ",
+    "2x USB 3.0 Gen 1 Type-A"
   ],
   "dimensions_mm": {
     "width": 285,
@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B0CWTPC32W",
     "newegg_sku": "N82E16811129316",
-    "walmart_sku": 5700716947
+    "walmart_sku": 5700716947,
+    "manufacturer_url": "https://antec.com/product/case/c5-white"
   }
 }

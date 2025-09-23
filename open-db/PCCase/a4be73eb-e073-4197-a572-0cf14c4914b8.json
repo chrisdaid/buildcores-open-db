@@ -39,6 +39,8 @@
   },
   "general_product_information": {
     "amazon_sku": "B0FF8NWT6F",
-    "newegg_sku": "N82E16811970029"
+    "newegg_sku": "N82E16811970029",
+    "walmart_sku": 16989808460,
+    "manufacturer_url": "\thttps://www.montechpc.com/x5m"
   }
 }

@@ -6,8 +6,8 @@
     "part_numbers": [
       "0-761345-10079-3                                                    C8 Wood"
     ],
-    "series": "C8",
-    "variant": "Wood"
+    "series": "Constellation",
+    "variant": "C8 Wood"
   },
   "form_factor": "ATX Full Tower",
   "color": [
@@ -25,7 +25,7 @@
   "expansion_slots": 8,
   "dimensions": "464 x 303 x 476",
   "volume": 66.922,
-  "weight": 22.906029,
+  "weight": 22.88,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
     "USB 3.0 x 2",
