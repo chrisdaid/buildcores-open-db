@@ -17,20 +17,30 @@
   "power_supply": "None",
   "side_panel": "None",
   "has_transparent_side_panel": false,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A                                                    USB 2.0 Type-A",
+  "front_panel_usb": "USB 3.0 x 2                                                    USB 2.0 x 1",
   "max_video_card_length": 330,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 182,
   "internal_3_5_bays": 0,
   "internal_2_5_bays": 3,
   "expansion_slots": 3,
   "dimensions": "368.1 x 247 x 215",
   "volume": 19.548,
-  "weight": null,
+  "weight": 10.7806,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.0 x 2",
+    "USB 2.0 x 1"
+  ],
+  "dimensions_mm": {
+    "width": 247,
+    "height": 215,
+    "depth": 368.1,
+    "_id": "68d25b8d9398952049560c3d"
+  },
   "general_product_information": {
     "amazon_sku": "B08HQ5WWX2",
     "newegg_sku": "2AM-0024-001C2",
-    "walmart_sku": 519693479
+    "walmart_sku": 519693479,
+    "manufacturer_url": "https://www.silverstonetek.com/en/product/info/computer-chassis/SUGO14/"
   }
 }
