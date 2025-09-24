@@ -17,19 +17,28 @@
   "power_supply": "None",
   "side_panel": "Tinted Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A",
+  "front_panel_usb": "USB 3.0 x 2",
   "max_video_card_length": 350,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 162,
   "internal_3_5_bays": 4,
   "internal_2_5_bays": 0,
   "expansion_slots": 7,
   "dimensions": "450 x 215 x 450",
   "volume": 43.538,
-  "weight": null,
+  "weight": 21.94,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.0 x 2"
+  ],
+  "dimensions_mm": {
+    "width": 215,
+    "height": 450,
+    "depth": 450,
+    "_id": "68d39bea936ee884ad9456a2"
+  },
   "general_product_information": {
     "amazon_sku": "B09SG8WXK5",
-    "newegg_sku": "2AM-05FM-00007"
+    "newegg_sku": "2AM-05FM-00007",
+    "manufacturer_url": "https://www.geometricfuture.com/product-1/10.html"
   }
 }
