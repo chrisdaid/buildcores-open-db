@@ -7,7 +7,7 @@
       "FD-C-TER1N-02"
     ],
     "series": "Terra",
-    "variant": "Silver"
+    "variant": "Graphite"
   },
   "form_factor": "Mini-ITX Tower",
   "power_supply": null,
@@ -20,7 +20,7 @@
   "internal_3_5_bays": 0,
   "internal_2_5_bays": 2,
   "expansion_slots": 3,
-  "dimensions": "343 mm x 153 mm x 218",
+  "dimensions": "343 x 153 x 218",
   "volume": 11.44,
   "weight": 6.8343,
   "color": [],
@@ -39,6 +39,7 @@
     "amazon_sku": "B0CD66CJ3N",
     "newegg_sku": "N82E16811352212",
     "bestbuy_sku": 6611003,
-    "walmart_sku": 3088660038
+    "walmart_sku": 3088660038,
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/terra/terra/terra-graphite/"
   }
 }

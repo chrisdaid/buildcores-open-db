@@ -16,18 +16,28 @@
   "power_supply": "None",
   "side_panel": "Mesh",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 2 Type-C                                                    USB 3.2 Gen 1 Type-A",
+  "front_panel_usb": "1x Type-C (USB 3.2 Gen 2)                                                    2x USB 3.0 ",
   "max_video_card_length": 365,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 175,
   "internal_3_5_bays": 1,
   "internal_2_5_bays": 5,
   "expansion_slots": 4,
-  "dimensions": "471 x 208 x 301",
+  "dimensions": "457x 208 x 301",
   "volume": 29.488,
-  "weight": null,
+  "weight": 14.5505,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "1x Type-C (USB 3.2 Gen 2) ",
+    "2x USB 3.0 "
+  ],
+  "dimensions_mm": {
+    "width": 208,
+    "height": 301,
+    "depth": 457,
+    "_id": "68d2e94c6d113f6d001bd802"
+  },
   "general_product_information": {
-    "amazon_sku": "B0D17WQPFF"
+    "amazon_sku": "B0D17WQPFF",
+    "manufacturer_url": "https://www.sharkoon.com/product/40513"
   }
 }

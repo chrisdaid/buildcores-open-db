@@ -16,20 +16,29 @@
   "power_supply": "250 W",
   "side_panel": "None",
   "has_transparent_side_panel": false,
-  "front_panel_usb": "USB 2.0 Type-A",
+  "front_panel_usb": "2x USB 2.0 Type-A",
   "max_video_card_length": null,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 50,
   "internal_3_5_bays": 1,
   "internal_2_5_bays": 0,
   "expansion_slots": 1,
-  "dimensions": "299 x 220 x 129",
+  "dimensions": "340 x 220 x 129",
   "volume": 8.486,
-  "weight": null,
+  "weight": 7.15,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "2x USB 2.0 Type-A"
+  ],
+  "dimensions_mm": {
+    "width": 220,
+    "height": 129,
+    "depth": 340,
+    "_id": "68d2eb2d40adfff54ec03944"
+  },
   "general_product_information": {
     "amazon_sku": "B001H0BA24",
     "newegg_sku": "N82E16811154091",
-    "walmart_sku": 40482099
+    "walmart_sku": 40482099,
+    "manufacturer_url": "https://www.apextechusa.com/products.asp?pID=171"
   }
 }

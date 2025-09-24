@@ -7,7 +7,7 @@
       "CS-HYTE-Y70-WW"
     ],
     "series": "Y70",
-    "variant": ""
+    "variant": "Snow White"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -24,7 +24,7 @@
   "expansion_slots": 7,
   "dimensions": "470 x 320 x 470",
   "volume": 70.688,
-  "weight": 24.4,
+  "weight": 24.3,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
     "1x USB-C 3.2 Gen 2",
@@ -40,6 +40,7 @@
     "amazon_sku": "B0CX57KQRY",
     "newegg_sku": "N82E16811737014",
     "bestbuy_sku": 6578774,
-    "walmart_sku": 5478274601
+    "walmart_sku": 5478274601,
+    "manufacturer_url": "https://hyte.com/store/y70/cs-hyte-y70-ww?srsltid=AfmBOop58Q7aZHvLaSZOst0NSJkjgpfXLeFCvEHBpRF3HGB8z0M_rkE5&zCountry=US"
   }
 }

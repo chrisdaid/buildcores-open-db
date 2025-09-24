@@ -43,7 +43,6 @@
   "coreFamily": "Haswell-EP",
   "socket": "LGA2011-3",
   "general_product_information": {
-    "amazon_sku": "B00M1BUUMO",
-    "walmart_sku": 41867410
+    "amazon_sku": "B00M1BUUMO"
   }
 }

@@ -6,8 +6,8 @@
     "part_numbers": [
       "O11DEXL-W"
     ],
-    "series": "O11DEXL-W",
-    "variant": "White"
+    "series": "O11 Dynamic",
+    "variant": "EVO XL (White)"
   },
   "form_factor": "EATX Full Tower",
   "color": [],
@@ -16,27 +16,29 @@
   "supported_power_supply_form_factors": [],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "4 x USB 3.0, 1 x USB 3.1 Type-C",
+  "front_panel_usb": "4 x USB 3.0                                                                                           1 x USB 3.1 Type-C",
   "max_video_card_length": 460,
   "max_cpu_cooler_height": 167,
   "internal_3_5_bays": 0,
   "internal_2_5_bays": 3,
   "expansion_slots": 8,
-  "dimensions": "(D)522 mm x (W) 304 mm x (H) 531.9 mm",
+  "dimensions": "522 x 304 mm x 531.9",
   "volume": 84.4,
-  "weight": 37.4786,
+  "weight": 43.4,
   "front_usb_ports": [
     "4 x USB 3.0",
     "1 x USB 3.1 Type-C"
   ],
   "dimensions_mm": {
     "width": 304,
-    "height": 231.9,
+    "height": 531.9,
     "depth": 522,
     "_id": "689f728d1fc4b10958b3c63f"
   },
   "general_product_information": {
     "amazon_sku": "B0CHM85TND",
-    "newegg_sku": "2AM-000Z-000B5"
+    "newegg_sku": "2AM-000Z-000B5",
+    "walmart_sku": 5117600313,
+    "manufacturer_url": "https://lian-li.com/product/o11-dynamic-evo-xl/"
   }
 }

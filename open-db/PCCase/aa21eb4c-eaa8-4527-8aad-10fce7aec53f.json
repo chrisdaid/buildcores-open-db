@@ -7,7 +7,7 @@
       "BG01756                                                    b-Pellucid MicroATX"
     ],
     "series": "b-Pellucid",
-    "variant": ""
+    "variant": "Micro ATX Black"
   },
   "form_factor": "Micro ATX Mini Tower",
   "color": [
@@ -38,6 +38,7 @@
   "general_product_information": {
     "amazon_sku": "B0CHXGGB3T",
     "newegg_sku": "N82E16811295014",
-    "walmart_sku": 5420459384
+    "walmart_sku": 5420459384,
+    "manufacturer_url": "https://bluegearsonlinestore.com/b-pellucid-microatx/"
   }
 }

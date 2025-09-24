@@ -6,8 +6,8 @@
     "part_numbers": [
       "O11DMIV2FX"
     ],
-    "series": "O11",
-    "variant": ""
+    "series": "O11 Dynamic",
+    "variant": "Mini V2 Flow (Black)"
   },
   "form_factor": "ATX Mini Tower",
   "color": [
@@ -29,7 +29,7 @@
   "expansion_slots": 5,
   "dimensions": "423.6 x 273.3 x 391.95",
   "volume": 45.376,
-  "weight": null,
+  "weight": 26,
   "dimensions_mm": {
     "width": 273.3,
     "height": 391.95,
@@ -37,8 +37,8 @@
     "_id": "689f6fc7e3630ae32fae556c"
   },
   "general_product_information": {
-    "amazon_sku": "B0F8HK5C8J",
     "newegg_sku": "2AM-000Z-000G2",
-    "walmart_sku": 17542061649
+    "walmart_sku": 17542061649,
+    "manufacturer_url": "https://lian-li.com/product/o11-dynamic-mini-v2/"
   }
 }
