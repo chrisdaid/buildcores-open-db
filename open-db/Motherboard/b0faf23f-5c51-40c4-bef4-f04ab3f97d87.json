@@ -1,0 +1,83 @@
+{
+  "opendb_id": "b0faf23f-5c51-40c4-bef4-f04ab3f97d87",
+  "memory": {
+    "max": 256,
+    "ram_type": "DDR5",
+    "slots": 4
+  },
+  "storage_devices": {
+    "sata_6_gb_s": 4
+  },
+  "usb_headers": {
+    "usb_2_0": 2,
+    "usb_3_2_gen_1": 2,
+    "usb_3_2_gen_2x2": 2
+  },
+  "fan_headers": {
+    "cpu_fan": 1,
+    "case_fan": 4,
+    "pump": 2,
+    "cpu_opt": 1
+  },
+  "rgb_headers": {
+    "argb_5v": 3
+  },
+  "front_panel_headers": {
+    "power_button": true,
+    "reset_button": true,
+    "power_led": true,
+    "hdd_led": true
+  },
+  "power_connectors": {
+    "main_power": "24-pin",
+    "cpu_power": [
+      "8-pin",
+      "8-pin"
+    ]
+  },
+  "audio": {
+    "chipset": "Realtek ALC4082",
+    "channels": "7.1"
+  },
+  "metadata": {
+    "name": "Asus X870E ROG CROSSHAIR HERO BTF WIFI DDR5 ATX",
+    "manufacturer": "ASUS",
+    "part_numbers": [
+      ""
+    ],
+    "series": "ROG Crosshair",
+    "variant": "Hero BTF",
+    "releaseYear": 2024
+  },
+  "socket": "AM5",
+  "form_factor": "ATX",
+  "chipset": "AMD X870E",
+  "color": [
+    "BLACK"
+  ],
+  "pcie_slots": [
+    {
+      "gen": "5.0",
+      "quantity": 1,
+      "lanes": 16,
+      "_id": "68d49978782cdee49723397d"
+    }
+  ],
+  "wireless_networking": "Wifi 7",
+  "ecc_support": true,
+  "raid_support": true,
+  "back_connect_connectors": true,
+  "bios_features": {
+    "flashback": true,
+    "clear_cmos": true,
+    "_id": "68d49978782cdee49723397e"
+  },
+  "back_panel_ports": [
+    ""
+  ],
+  "m2_slots": [],
+  "onboard_ethernet": [],
+  "general_product_information": {
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-hero-btf/"
+  }
+}

@@ -20,11 +20,13 @@
   "max_cpu_cooler_height": 190,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 5,
-  "expansion_slots": 12,
+  "expansion_slots": 9,
   "dimensions": "268 x 639 x 659",
-  "volume": 0,
+  "volume": 120.434,
   "weight": 45.86,
-  "color": [],
+  "color": [
+    "BLACK"
+  ],
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
     "4 x USB 3.2Gen1 ",
@@ -37,6 +39,7 @@
     "depth": 639,
     "_id": "68d3800aa44b0fdf9a0e6bc3"
   },
+  "riser_expansion_slots": 3,
   "general_product_information": {
     "amazon_sku": "B0BW21WZNG",
     "newegg_sku": "N82E16811173052",

@@ -43,6 +43,7 @@
     "_id": "68cb8a449b67bc35527ba383"
   },
   "general_product_information": {
-    "amazon_sku": "B008MHAMT2"
+    "amazon_sku": "B008MHAMT2",
+    "walmart_sku": 26464027
   }
 }

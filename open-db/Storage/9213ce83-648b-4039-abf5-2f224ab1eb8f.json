@@ -16,6 +16,7 @@
   "interface": "SATA 3.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B0053YLTBC"
+    "amazon_sku": "B0053YLTBC",
+    "walmart_sku": 26819940
   }
 }

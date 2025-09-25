@@ -2,10 +2,14 @@
   "opendb_id": "d8e6a220-4bb6-4ad9-95ad-be49980d11d2",
   "metadata": {
     "name": " ASUS ROG Hyperion GR701 Tempered Glass eATX Full Tower Computer Case - White",
-    "manufacturer": " rog.asus.com/cases/rog-hyperion-gr701-model/",
-    "part_numbers": []
+    "manufacturer": "ASUS",
+    "part_numbers": [
+      "GR701/WT/PWM FAN//"
+    ],
+    "series": "Hyperion ",
+    "variant": "GR701"
   },
-  "form_factor": " ATX Mid Tower",
+  "form_factor": " EATX Mid Tower",
   "has_transparent_side_panel": true,
   "front_panel_usb": "4 x USB 3.2Gen1                                     1 x USB 3.2 Gen2 Type C                                     1 x USB 3.2 Gen 2x2 Type C",
   "front_usb_ports": [
@@ -22,8 +26,16 @@
     "_id": "68d394fb11cffe07799266e2"
   },
   "weight": 45.856151,
-  "color": [],
+  "color": [
+    "WHITE"
+  ],
   "supported_power_supply_form_factors": [],
+  "max_video_card_length": 460,
+  "volume": 112.85,
+  "expansion_slots": 9,
+  "riser_expansion_slots": 3,
+  "internal_2_5_bays": 5,
+  "internal_3_5_bays": 2,
   "general_product_information": {
     "newegg_sku": "N82E16811173056",
     "walmart_sku": 5096548600,
