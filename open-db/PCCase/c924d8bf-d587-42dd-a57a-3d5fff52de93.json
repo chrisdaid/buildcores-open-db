@@ -16,19 +16,28 @@
   "power_supply": "None",
   "side_panel": "None",
   "has_transparent_side_panel": false,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A",
+  "front_panel_usb": "USB 3.0 x 2",
   "max_video_card_length": 175,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 70,
   "internal_3_5_bays": 0,
   "internal_2_5_bays": 4,
   "expansion_slots": 2,
-  "dimensions": "",
+  "dimensions": "350 x 109 x 205",
   "volume": null,
-  "weight": null,
+  "weight": 4.563569,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.0 x 2"
+  ],
+  "dimensions_mm": {
+    "width": 350,
+    "height": 109,
+    "depth": 205,
+    "_id": "68d56fa45d9e2e4f15b8e4f1"
+  },
   "general_product_information": {
     "amazon_sku": "B01ECDWGEI",
-    "walmart_sku": 334777424
+    "newegg_sku": "3C6-013W-00191",
+    "manufacturer_url": "https://www.silverstonetek.com/en/product/info/computer-chassis/ML09/"
   }
 }

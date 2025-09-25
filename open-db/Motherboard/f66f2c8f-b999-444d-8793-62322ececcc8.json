@@ -6,7 +6,7 @@
     "slots": 2
   },
   "storage_devices": {
-    "sata_6_gb_s": 0,
+    "sata_6_gb_s": 4,
     "sata_3_gb_s": 0,
     "u2": 0
   },
@@ -17,11 +17,33 @@
     "usb_3_2_gen_2x2": 2,
     "usb_4": 0
   },
+  "fan_headers": {
+    "cpu_fan": 1,
+    "case_fan": 2,
+    "pump": 1,
+    "cpu_opt": 1
+  },
+  "rgb_headers": {
+    "argb_5v": 3
+  },
+  "front_panel_headers": {
+    "power_button": true,
+    "power_led": true,
+    "reset_button": true,
+    "hdd_led": true
+  },
+  "other_headers": {
+    "temperature_sensor": 1
+  },
   "power_connectors": {
-    "cpu_power": []
+    "cpu_power": [
+      "8-pin",
+      "8-pin"
+    ],
+    "main_power": "24-pin"
   },
   "audio": {
-    "chipset": "Realtek",
+    "chipset": null,
     "channels": "7.1"
   },
   "metadata": {
@@ -30,8 +52,8 @@
     "part_numbers": [
       "ROG CROSSHAIR X870E APEX"
     ],
-    "series": "ASUS",
-    "variant": ""
+    "series": "CROSSHAIR X870E",
+    "variant": "APEX"
   },
   "socket": "AM5",
   "form_factor": "ATX",
@@ -41,84 +63,42 @@
   ],
   "pcie_slots": [
     {
-      "gen": "4.0",
+      "gen": "5.0",
       "quantity": 2,
       "lanes": 16,
       "_id": "680e7d1553adf782a1c7099b"
-    },
-    {
-      "gen": "4.0",
-      "quantity": 1,
-      "lanes": 4,
-      "_id": "680e7d1553adf782a1c7099c"
-    },
-    {
-      "gen": "4.0",
-      "quantity": 1,
-      "lanes": 1,
-      "_id": "680e7d1553adf782a1c7099d"
     }
   ],
   "m2_slots": [
     {
-      "size": "2242-2260",
+      "size": "2242/2260/2280",
       "key": "M",
-      "interface": "PCIe 4.0 x4",
+      "interface": "PCIe 5.0 x4",
       "_id": "680e7d1553adf782a1c7099e"
     },
     {
-      "size": "2280",
+      "size": "2242/2260/2280",
       "key": "M",
-      "interface": "PCIe 4.0 x4",
+      "interface": "PCIe 5.0 x4",
       "_id": "680e7d1553adf782a1c7099f"
     },
     {
-      "size": "2242-2260",
+      "size": "2242/2260/2280",
       "key": "M",
-      "interface": "PCIe 4.0 x4",
+      "interface": "PCIe 5.0 x4",
       "_id": "680e7d1553adf782a1c709a0"
     },
     {
-      "size": "2280",
+      "size": "2242/2260/2280",
       "key": "M",
       "interface": "PCIe 4.0 x4",
       "_id": "680e7d1553adf782a1c709a1"
     },
     {
-      "size": "2242-2260",
+      "size": "2242/2260/2280",
       "key": "M",
       "interface": "PCIe 4.0 x4",
       "_id": "680e7d1553adf782a1c709a2"
-    },
-    {
-      "size": "2280",
-      "key": "M",
-      "interface": "PCIe 4.0 x4",
-      "_id": "680e7d1553adf782a1c709a3"
-    },
-    {
-      "size": "2230-2242",
-      "key": "M",
-      "interface": "PCIe 4.0 x4",
-      "_id": "680e7d1553adf782a1c709a4"
-    },
-    {
-      "size": "2280",
-      "key": "M",
-      "interface": "PCIe 4.0 x4",
-      "_id": "680e7d1553adf782a1c709a5"
-    },
-    {
-      "size": "2230-2242",
-      "key": "M",
-      "interface": "PCIe 4.0 x4",
-      "_id": "680e7d1553adf782a1c709a6"
-    },
-    {
-      "size": "2280",
-      "key": "M",
-      "interface": "PCIe 4.0 x4",
-      "_id": "680e7d1553adf782a1c709a7"
     }
   ],
   "onboard_ethernet": [
@@ -128,18 +108,31 @@
       "_id": "680e7d1553adf782a1c709a8"
     }
   ],
-  "ecc_support": false,
+  "ecc_support": true,
   "raid_support": true,
   "back_connect_connectors": false,
   "bios_features": {
-    "flashback": false,
-    "clear_cmos": false,
+    "flashback": true,
+    "clear_cmos": true,
     "_id": "680e7d1553adf782a1c709a9"
   },
   "back_panel_ports": [
-    "1 x 5 Gb/s Ports (Realtek)"
+    "2 x USB4® (40Gbps) ports (2 x USB Type-C®)",
+    "6 x USB 10Gbps ports (5 x Type-A + 1 x USB Type-C®) ",
+    "2 x USB 5Gbps ports (2 x Type-A)",
+    "1 x Wi-Fi module",
+    "1 x Realtek 5Gb Ethernet port",
+    "1 x PS/2 keyboard/mouse combo port ",
+    "2 x Gold-plated audio jacks",
+    "1 x Optical S/PDIF out port",
+    "1 x BIOS FlashBack™ button ",
+    "1 x Clear CMOS button "
   ],
+  "wireless_networking": "Wi-Fi 7 Bluetooth 5.4",
   "general_product_information": {
-    "newegg_sku": "N82E16813119734"
+    "amazon_sku": "‎B0F25LTGBN",
+    "newegg_sku": "N82E16813119734",
+    "walmart_sku": 16431363223,
+    "manufacturer_url": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-apex/"
   }
 }

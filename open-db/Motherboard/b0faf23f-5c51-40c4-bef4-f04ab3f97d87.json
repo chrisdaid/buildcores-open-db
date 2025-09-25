@@ -63,7 +63,7 @@
       "_id": "68d49978782cdee49723397d"
     }
   ],
-  "wireless_networking": "Wifi 7",
+  "wireless_networking": "Wifi 7 Bluetooth® v5.4",
   "ecc_support": true,
   "raid_support": true,
   "back_connect_connectors": true,
@@ -73,11 +73,52 @@
     "_id": "68d49978782cdee49723397e"
   },
   "back_panel_ports": [
-    ""
+    "2 x USB4® (40Gbps) ports (2 x USB Type-C®)",
+    "8 x USB 10Gbps ports (6 x Type-A + 2 x USB Type-C®) ",
+    "1 x HDMI™ port",
+    "1 x Wi-Fi module",
+    "1 x Intel® 2.5Gb Ethernet port",
+    "1 x Realtek 5Gb Ethernet port",
+    "2 x Gold-plated audio jacks",
+    "1 x Optical S/PDIF out port",
+    "1 x BIOS FlashBack™ button",
+    "1 x Clear CMOS button"
   ],
-  "m2_slots": [],
+  "m2_slots": [
+    {
+      "size": " 2242/2260/2280",
+      "key": "M",
+      "interface": " PCIe 5.0 x4",
+      "_id": "68d55e59a1302c387c63afdd"
+    },
+    {
+      "size": " 2242/2260/2280",
+      "key": "M",
+      "interface": " PCIe 5.0 x4",
+      "_id": "68d55e59a1302c387c63afde"
+    },
+    {
+      "size": " 2242/2260/2280",
+      "key": "M",
+      "interface": " PCIe 5.0 x4",
+      "_id": "68d55e59a1302c387c63afdf"
+    },
+    {
+      "size": "2242/2260/2280",
+      "key": "M",
+      "interface": "PCIe 4.0 x4",
+      "_id": "68d55e59a1302c387c63afe0"
+    },
+    {
+      "size": "2280",
+      "key": "M",
+      "interface": "PCIe 4.0 x4 ",
+      "_id": "68d55e59a1302c387c63afe1"
+    }
+  ],
   "onboard_ethernet": [],
   "general_product_information": {
+    "newegg_sku": "N82E16813119764",
     "manufacturer_url": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-hero-btf/"
   }
 }

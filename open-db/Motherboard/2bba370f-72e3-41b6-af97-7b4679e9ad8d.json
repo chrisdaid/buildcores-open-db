@@ -37,8 +37,8 @@
   },
   "power_connectors": {
     "cpu_power": [
-      "dual 8 pin",
-      "12V CPU Power connector"
+      "8 pin",
+      "8 pin"
     ],
     "main_power": "24-Pin"
   },

@@ -13,12 +13,34 @@
   "usb_headers": {
     "usb_2_0": 2,
     "usb_3_2_gen_1": 2,
-    "usb_3_2_gen_2": 6,
-    "usb_3_2_gen_2x2": 0,
-    "usb_4": 2
+    "usb_3_2_gen_2": 0,
+    "usb_3_2_gen_2x2": 1,
+    "usb_4": 0
+  },
+  "fan_headers": {
+    "cpu_fan": 1,
+    "pump": 1,
+    "case_fan": 2
+  },
+  "rgb_headers": {
+    "argb_5v": 3,
+    "rgb_12v": 1
+  },
+  "front_panel_headers": {
+    "power_button": true,
+    "power_led": true,
+    "reset_button": true,
+    "hdd_led": true
+  },
+  "other_headers": {
+    "temperature_sensor": 1
   },
   "power_connectors": {
-    "cpu_power": []
+    "cpu_power": [
+      "8-pin",
+      "8-pin"
+    ],
+    "main_power": "24-pin"
   },
   "audio": {
     "chipset": "Realtek ALC4080 + ALC897",
@@ -27,9 +49,8 @@
   "metadata": {
     "name": "GIGABYTE TRX50 AI TOP",
     "manufacturer": "Gigabyte",
-    "part_number": "TRX50-AI-TOP",
-    "series": "AI TOP",
-    "variant": null,
+    "series": "TRX",
+    "variant": "AI TOP",
     "releaseYear": 2024,
     "part_numbers": []
   },
@@ -39,15 +60,9 @@
   "pcie_slots": [
     {
       "gen": "5.0",
-      "quantity": 4,
+      "quantity": 3,
       "lanes": 16,
       "_id": "678e63fc80ab6e6069cea782"
-    },
-    {
-      "gen": "5.0",
-      "quantity": 4,
-      "lanes": 4,
-      "_id": "678e63fc80ab6e6069cea783"
     }
   ],
   "m2_slots": [
@@ -84,7 +99,7 @@
     }
   ],
   "ecc_support": true,
-  "raid_support": false,
+  "raid_support": true,
   "back_connect_connectors": false,
   "bios_features": {
     "flashback": true,
@@ -92,16 +107,24 @@
     "_id": "678e63fc80ab6e6069cea789"
   },
   "back_panel_ports": [
-    "Dual USB4 40Gbps Type-C",
-    "DisplayPort Input",
-    "6 x USB 3.2 Gen 2",
-    "Dual 10GbE LAN",
-    "Hi-Fi audio with DTS:X®Ultra",
-    "RGB Fusion"
+    "1 x Q-Flash Plus button",
+    "2 x SMA antenna connectors (2T2R)",
+    "1 x DisplayPort In port",
+    "1 x USB4® USB Type-C® port (DisplayPort)",
+    "1 x USB4® USB Type-C® port",
+    "6 x USB 3.2 Gen 2 Type-A ports (red)",
+    "2 x RJ-45 port",
+    "2 x audio jacks"
   ],
-  "color": [],
+  "color": [
+    "BLACK",
+    "GREY",
+    "SILVER"
+  ],
+  "wireless_networking": "Wi-Fi 7 Bluetooth 5.4",
   "general_product_information": {
     "amazon_sku": "B0DFHQVCBV",
-    "newegg_sku": "N82E16813145539"
+    "newegg_sku": "N82E16813145539",
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/TRX50-AI-TOP/"
   }
 }
