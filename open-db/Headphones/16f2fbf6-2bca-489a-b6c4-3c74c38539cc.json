@@ -9,6 +9,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B08Q8C3LHT",
-    "newegg_sku": "0TH-033Y-000H4"
+    "newegg_sku": "0TH-033Y-000H4",
+    "walmart_sku": 276165525
   }
 }

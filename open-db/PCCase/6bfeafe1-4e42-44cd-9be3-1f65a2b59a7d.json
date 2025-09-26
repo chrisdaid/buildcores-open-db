@@ -16,19 +16,29 @@
   "power_supply": "None",
   "side_panel": "None",
   "has_transparent_side_panel": false,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A",
+  "front_panel_usb": "USB 3.0 x 2",
   "max_video_card_length": 267,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 61,
   "internal_3_5_bays": 1,
   "internal_2_5_bays": 1,
   "expansion_slots": 2,
   "dimensions": "285 x 222 x 181",
   "volume": 11.452,
-  "weight": null,
+  "weight": 5.445418,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.0 x 2"
+  ],
+  "dimensions_mm": {
+    "width": 222,
+    "height": 181,
+    "depth": 285,
+    "_id": "68d5933ce5ead80d2e31e92d"
+  },
   "general_product_information": {
     "amazon_sku": "B00U8IS8BW",
-    "walmart_sku": 45109821
+    "newegg_sku": "0X6-088R-00002",
+    "walmart_sku": 45109821,
+    "manufacturer_url": "https://www.silverstonetek.com/en/product/info/computer-chassis/SG13/"
   }
 }

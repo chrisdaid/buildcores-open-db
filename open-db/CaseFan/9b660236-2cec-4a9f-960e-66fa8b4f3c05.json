@@ -1,14 +1,13 @@
 {
   "opendb_id": "9b660236-2cec-4a9f-960e-66fa8b4f3c05",
   "metadata": {
-    "name": "Thermalright TL-C12RW-S V2 120mm Black / White PWM Addressable RGB 58 CFM",
+    "name": "Thermalright TL-C12RW-S V2 120mm White PWM Addressable RGB 58 CFM",
     "manufacturer": "Thermalright",
     "series": "TL-C12RW-S",
     "variant": "120mm Black / White"
   },
   "size": 120,
   "color": [
-    "BLACK",
     "WHITE"
   ],
   "quantity": 1,
