@@ -1,14 +1,14 @@
 {
   "opendb_id": "8497e119-2561-4c3a-97af-ea8545f1e19d",
   "metadata": {
-    "name": "NZXT F120 RGB Core 120mm Black RGB PWM 78.86 CFM 3-Pack",
+    "name": "NZXT F120 RGB 120mm White RGB PWM 78.86 CFM 3-Pack",
     "manufacturer": "NZXT",
     "series": "F120",
     "variant": "120mm Black"
   },
   "size": 120,
   "color": [
-    "BLACK"
+    "WHITE"
   ],
   "quantity": 3,
   "min_airflow": 78.86,
