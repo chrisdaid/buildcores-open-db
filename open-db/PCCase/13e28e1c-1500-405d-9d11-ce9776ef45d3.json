@@ -17,19 +17,30 @@
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A                                                    USB 2.0 Type-A",
+  "front_panel_usb": "USB 3.0 x 1                                              USB 2.0 x 2",
   "max_video_card_length": 320,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 160,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 2,
   "expansion_slots": 4,
   "dimensions": "366 x 210 x 392",
   "volume": 30.129,
-  "weight": null,
+  "weight": 10.1413,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.0 x 1     ",
+    "USB 2.0 x 2"
+  ],
+  "dimensions_mm": {
+    "width": 210,
+    "height": 392,
+    "depth": 366,
+    "_id": "68d7fe7c791bc949ab7975ef"
+  },
   "general_product_information": {
     "amazon_sku": "B09P8G7J7G",
-    "walmart_sku": 940893562
+    "newegg_sku": "2KH-0030-00248",
+    "walmart_sku": 940893562,
+    "manufacturer_url": "https://www.silverstonetek.com/en/product/info/computer-chassis/FARAH1MPRO/"
   }
 }

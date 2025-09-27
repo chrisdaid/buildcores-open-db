@@ -16,19 +16,29 @@
   "power_supply": "None",
   "side_panel": "None",
   "has_transparent_side_panel": false,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A",
+  "front_panel_usb": "USB 3.0 x 2",
   "max_video_card_length": 330,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 83,
   "internal_3_5_bays": 1,
   "internal_2_5_bays": 2,
   "expansion_slots": 2,
-  "dimensions": "",
-  "volume": null,
-  "weight": null,
+  "dimensions": "376 x 107 x 351",
+  "volume": 14,
+  "weight": 10.1413,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB 3.0 x 2"
+  ],
+  "dimensions_mm": {
+    "width": 376,
+    "height": 107,
+    "depth": 351,
+    "_id": "68d8142f785e6c74e8722790"
+  },
   "general_product_information": {
     "amazon_sku": "B00WENHTC8",
-    "walmart_sku": 181049707
+    "newegg_sku": "N82E16811163399",
+    "walmart_sku": 181049707,
+    "manufacturer_url": "https://www.silverstonetek.com/en/product/info/computer-chassis/FTZ01/"
   }
 }

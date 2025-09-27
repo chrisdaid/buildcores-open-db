@@ -14,18 +14,27 @@
   "power_supply": "250 W",
   "side_panel": "None",
   "has_transparent_side_panel": false,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A",
+  "front_panel_usb": "2x USB3.0",
   "max_video_card_length": 170,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 110,
   "internal_3_5_bays": 1,
   "internal_2_5_bays": 1,
   "expansion_slots": 1,
   "dimensions": "240 x 135 x 295",
   "volume": 9.558,
-  "weight": null,
+  "weight": 6.239082,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "2x USB3.0"
+  ],
+  "dimensions_mm": {
+    "width": 135,
+    "height": 295,
+    "depth": 240,
+    "_id": "68d809700829ff708203a6ee"
+  },
   "general_product_information": {
-    "amazon_sku": "B001SIKIRS"
+    "amazon_sku": "B001SIKIRS",
+    "manufacturer_url": "https://www.chieftec.eu/products-detail/93/BT-02B-U3-250VS"
   }
 }
