@@ -40,6 +40,7 @@
   "general_product_information": {
     "amazon_sku": "B0DMPFLHJZ",
     "newegg_sku": "N82E16811173068",
-    "walmart_sku": 15368124593
+    "walmart_sku": 15368124593,
+    "manufacturer_url": "https://www.asus.com/motherboards-components/cases/asus/asus-a31-case/"
   }
 }

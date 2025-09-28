@@ -37,6 +37,8 @@
     "_id": "68a121bb9272c65c630e51f1"
   },
   "general_product_information": {
-    "amazon_sku": "B0CL7NXB8R"
+    "amazon_sku": "B0CL7NXB8R",
+    "newegg_sku": "3C6-00TT-00CU8",
+    "manufacturer_url": "https://www.apevia.com/products-cases/prism-wh"
   }
 }

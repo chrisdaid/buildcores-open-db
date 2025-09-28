@@ -16,7 +16,7 @@
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "2 x USB 3.2 Gen1 Type-A (5 Gbps)",
+  "front_panel_usb": "2x USB 3.2 Gen1 Type-A",
   "max_video_card_length": 330,
   "max_cpu_cooler_height": 160,
   "internal_3_5_bays": 2,
@@ -27,11 +27,18 @@
   "weight": 11.6,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
-    "2 x USB 3.2 Gen1 Type-A (5 Gbps)"
+    "2x USB 3.2 Gen1 Type-A"
   ],
+  "dimensions_mm": {
+    "width": 214,
+    "height": 485,
+    "depth": 409,
+    "_id": "68d8e8514a5b5257ec00d679"
+  },
   "general_product_information": {
     "amazon_sku": "B0BZBWSXKH",
     "newegg_sku": "N82E16811320053",
-    "walmart_sku": 2428662022
+    "walmart_sku": 2428662022,
+    "manufacturer_url": "https://www.msi.com/PC-Case/MAG-FORGE-112R"
   }
 }
