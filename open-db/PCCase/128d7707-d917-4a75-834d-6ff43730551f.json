@@ -38,6 +38,7 @@
   "general_product_information": {
     "amazon_sku": "B0167NCADS",
     "newegg_sku": "N82E16811108471",
+    "walmart_sku": 52518354,
     "manufacturer_url": "https://ipc.in-win.com/soho-smb-iw-ms04"
   }
 }

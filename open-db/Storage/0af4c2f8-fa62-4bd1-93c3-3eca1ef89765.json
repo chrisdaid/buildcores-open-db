@@ -15,6 +15,7 @@
   "interface": "SATA 3.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B003D18DM0"
+    "amazon_sku": "B003D18DM0",
+    "walmart_sku": 14860247
   }
 }
