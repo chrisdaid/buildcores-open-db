@@ -3,11 +3,10 @@
   "metadata": {
     "name": "WD_BLACK Gaming Internal Hard Drive",
     "manufacturer": "WD_BLACK",
-    "part_number": "WD5003AZEX",
+    "part_numbers": [],
     "series": "WD_BLACK",
     "variant": "500GB",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "capacity": 500,
   "type": "HDD",

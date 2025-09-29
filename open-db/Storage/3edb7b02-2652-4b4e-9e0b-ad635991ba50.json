@@ -3,11 +3,10 @@
   "metadata": {
     "name": "Western Digital Ultrastar 14TB DC HC530 7200 RPM SATA 6.0Gb/s 3.5\" Data Center Internal Hard Disk Drive - 0F31284",
     "manufacturer": "Western Digital",
-    "part_number": "0F31284",
+    "part_numbers": [],
     "series": "Ultrastar DC HC530",
     "variant": null,
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "capacity": 14000,
   "type": "HDD",

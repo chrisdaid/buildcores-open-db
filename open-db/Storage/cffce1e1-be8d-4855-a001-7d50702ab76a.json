@@ -3,11 +3,10 @@
   "metadata": {
     "name": "WD Red Plus Internal NAS HDD 3.5\" - 8TB",
     "manufacturer": "Western Digital",
-    "part_number": "WD80EFZZ",
+    "part_numbers": [],
     "series": "WD Red Plus",
     "variant": "Internal NAS HDD",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "capacity": 8000,
   "type": "HDD",

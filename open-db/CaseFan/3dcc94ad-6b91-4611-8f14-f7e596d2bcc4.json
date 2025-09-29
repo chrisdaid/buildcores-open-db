@@ -4,7 +4,8 @@
     "name": "NZXT AER RGB 2 120mm White Addressable RGB PWM 52.44 CFM 3-Pack",
     "manufacturer": "NZXT",
     "series": "AER",
-    "variant": "120mm White"
+    "variant": "120mm White",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

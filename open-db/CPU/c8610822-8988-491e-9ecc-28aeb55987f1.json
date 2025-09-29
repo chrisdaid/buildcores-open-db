@@ -44,9 +44,8 @@
   },
   "metadata": {
     "name": "Ryzen Threadripper 2950X",
-    "vendor": "AMD",
-    "releaseYear": 2018,
-    "part_numbers": []
+    "part_numbers": [],
+    "releaseYear": 2018
   },
   "series": "Ryzen Threadripper",
   "microarchitecture": "Zen+",

@@ -4,7 +4,8 @@
     "name": "Cougar Vortex 120mm Black PWM Addressable RGB 43.54 CFM",
     "manufacturer": "Cougar",
     "series": "Vortex",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

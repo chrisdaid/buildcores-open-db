@@ -7,11 +7,10 @@
   "metadata": {
     "name": "G.Skill Trident Z Neo 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
     "manufacturer": "G.SKILL",
-    "part_number": "F4-3600C18D-16GTZN",
+    "part_numbers": [],
     "series": "Trident Z Neo Series",
     "variant": "DDR4-3600 CL18",
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "speed": 3600,
   "ram_type": "DDR4",

@@ -45,9 +45,8 @@
   },
   "metadata": {
     "name": "Intel Celeron G6900",
-    "vendor": "Intel",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "part_numbers": [],
+    "releaseYear": 2022
   },
   "series": "Celeron",
   "microarchitecture": "Alder Lake",

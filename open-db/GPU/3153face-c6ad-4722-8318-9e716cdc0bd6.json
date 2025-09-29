@@ -9,14 +9,14 @@
   "metadata": {
     "name": "ROG Strix GeForce RTX™ 3050 OC Edition 8 GB",
     "manufacturer": "ASUS",
-    "part_number": "ROG-STRIX-RTX3050-O8G-GAMING",
+    "part_numbers": [],
     "series": "ROG Strix",
     "variant": "OC Edition",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 3050",
+  "core_count": 0,
   "memory": 8,
   "memory_type": "GDDR6",
   "core_base_clock": 0,
@@ -24,6 +24,7 @@
   "effective_memory_clock": 0,
   "memory_bus": 128,
   "interface": "PCI Express 4.0",
+  "color": [],
   "frame_sync": null,
   "length": 300,
   "tdp": 130,
@@ -40,8 +41,6 @@
     "vga": 0,
     "_id": "67bb8aeaa40bd22d8340ed9d"
   },
-  "color": [],
-  "core_count": 0,
   "general_product_information": {
     "amazon_sku": "B09R92F6ZF",
     "newegg_sku": "N82E16814126556R",

@@ -11,8 +11,7 @@
       "VZ249HE                                                    90LM02Q0-B01670"
     ],
     "series": "",
-    "variant": "Black",
-    "model": "VZ249HE                                                    90LM02Q0-B01670"
+    "variant": "Black"
   },
   "screen_size": 23.8,
   "refresh_rate": 60,
@@ -28,7 +27,7 @@
   "hdr": "",
   "adaptive_sync": "None",
   "general_product_information": {
-    "amazon_sku": "B07281PZWK",
+    "amazon_sku": "B07MXHPGR5",
     "walmart_sku": 207892058
   }
 }

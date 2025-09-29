@@ -3,11 +3,10 @@
   "metadata": {
     "name": "XPG SX8200 Pro Series: 2TB Internal Solid State Drive PCIe Gen3x4 M.2 2280",
     "manufacturer": "XPG",
-    "part_number": "ASX8200PNP-512GT-C",
+    "part_numbers": [],
     "series": "SX8200 Pro Series",
     "variant": null,
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "capacity": 512,
   "type": "SSD",

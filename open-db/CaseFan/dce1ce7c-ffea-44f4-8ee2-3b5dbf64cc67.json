@@ -4,7 +4,8 @@
     "name": "Thermaltake Thunderblade 92mm Black 48.7 CFM",
     "manufacturer": "Thermaltake",
     "series": "Thunderblade",
-    "variant": "92mm Black"
+    "variant": "92mm Black",
+    "part_numbers": []
   },
   "size": 92,
   "color": [

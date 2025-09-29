@@ -44,9 +44,8 @@
   },
   "metadata": {
     "name": "Intel Core i3-8350K",
-    "vendor": "Intel",
-    "releaseYear": 2017,
-    "part_numbers": []
+    "part_numbers": [],
+    "releaseYear": 2017
   },
   "series": "Core i3",
   "microarchitecture": "Coffee Lake",

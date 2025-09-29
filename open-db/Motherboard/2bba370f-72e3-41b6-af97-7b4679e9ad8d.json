@@ -19,9 +19,9 @@
   },
   "fan_headers": {
     "cpu_fan": 1,
-    "cpu_opt": 1,
     "case_fan": 2,
-    "pump": 2
+    "pump": 2,
+    "cpu_opt": 1
   },
   "rgb_headers": {
     "argb_5v": 2
@@ -29,18 +29,18 @@
   "front_panel_headers": {
     "power_button": true,
     "reset_button": true,
-    "hdd_led": true,
-    "power_led": true
+    "power_led": true,
+    "hdd_led": true
   },
   "other_headers": {
     "temperature_sensor": 1
   },
   "power_connectors": {
+    "main_power": "24-Pin",
     "cpu_power": [
       "8 pin",
       "8 pin"
-    ],
-    "main_power": "24-Pin"
+    ]
   },
   "audio": {
     "chipset": null,
@@ -109,6 +109,7 @@
       "_id": "688ec9143ebf909c29b7c822"
     }
   ],
+  "wireless_networking": "Wi-Fi 7                             Bluetooth® v5.4",
   "ecc_support": true,
   "raid_support": true,
   "back_connect_connectors": false,
@@ -126,7 +127,6 @@
     "2 x LED-illuminated audio jacks",
     "1 x Optical S/PDIF out port"
   ],
-  "wireless_networking": "Wi-Fi 7                             Bluetooth® v5.4",
   "general_product_information": {
     "amazon_sku": "B0F8PSWNMV",
     "newegg_sku": "N82E16813119738",

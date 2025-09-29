@@ -4,7 +4,8 @@
     "name": "NZXT F120P (2022) 120mm White PWM 78.02 CFM",
     "manufacturer": "NZXT",
     "series": "F120P",
-    "variant": "120mm White"
+    "variant": "120mm White",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

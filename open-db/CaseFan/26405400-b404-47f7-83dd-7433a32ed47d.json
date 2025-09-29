@@ -4,7 +4,8 @@
     "name": "Cooler Master MasterFan SF120M 120mm Black ARGB PWM",
     "manufacturer": "Cooler Master",
     "series": "MasterFan",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

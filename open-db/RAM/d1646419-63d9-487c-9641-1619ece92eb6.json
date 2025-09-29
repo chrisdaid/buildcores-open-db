@@ -7,11 +7,10 @@
   "metadata": {
     "name": "Samsung M378A2K43CB1-CTD 16 GB DDR4 2666 MHz Memory Module",
     "manufacturer": "Samsung",
-    "part_number": "M378A2K43CB1-CTD",
+    "part_numbers": [],
     "series": "M378A2K43CB1",
     "variant": "2666 MHz CL19",
-    "releaseYear": 2018,
-    "part_numbers": []
+    "releaseYear": 2018
   },
   "speed": 2666,
   "ram_type": "DDR4",

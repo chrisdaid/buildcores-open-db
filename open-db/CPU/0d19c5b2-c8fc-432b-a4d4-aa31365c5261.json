@@ -44,9 +44,8 @@
   },
   "metadata": {
     "name": "Intel Celeron Processor G5920",
-    "vendor": "Intel",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "part_numbers": [],
+    "releaseYear": 2020
   },
   "series": "Intel Celeron Processor G Series",
   "microarchitecture": "Comet Lake",

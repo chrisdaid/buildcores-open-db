@@ -4,7 +4,8 @@
     "name": "NZXT F140Q 140mm White PWM (2022) 101 CFM",
     "manufacturer": "NZXT",
     "series": "F140Q",
-    "variant": "140mm White"
+    "variant": "140mm White",
+    "part_numbers": []
   },
   "size": 140,
   "color": [

@@ -9,14 +9,14 @@
   "metadata": {
     "name": "XFX Speedster SWFT 210 AMD Radeon™ RX 6650 XT Core Gaming Graphics Card with 8GB GDDR6, AMD RDNA™ 2",
     "manufacturer": "XFX",
-    "part_number": "RX-665X8DFDY",
+    "part_numbers": [],
     "series": "SPEEDSTER",
     "variant": "SWFT 210",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 6650 XT",
+  "core_count": 2048,
   "memory": 8,
   "memory_type": "GDDR6",
   "core_base_clock": 2055,
@@ -24,6 +24,7 @@
   "effective_memory_clock": 17500,
   "memory_bus": 128,
   "interface": "PCIe 4.0 x16",
+  "color": [],
   "frame_sync": "FreeSync™",
   "length": 274,
   "tdp": 0,
@@ -39,8 +40,6 @@
     "vga": 0,
     "_id": "6770a2ab393a7e8e313e5200"
   },
-  "color": [],
-  "core_count": 2048,
   "general_product_information": {
     "amazon_sku": "B09ZLRDMXX",
     "walmart_sku": 2885153435

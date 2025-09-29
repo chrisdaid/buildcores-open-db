@@ -27,15 +27,15 @@
   "metadata": {
     "name": "TUF GAMING B450M-PLUS II",
     "manufacturer": "ASUS",
-    "part_number": null,
+    "part_numbers": [],
     "series": "TUF GAMING",
     "variant": null,
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "socket": "AM4",
   "form_factor": "Micro ATX",
   "chipset": "AMD B450",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "3.0",
@@ -90,7 +90,6 @@
     "2 x USB 3.2 Gen 1",
     "3 x Audio jacks"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B08KGXBNLR",
     "newegg_sku": "9SIAD6HJKZ4953",

@@ -39,9 +39,9 @@
   "metadata": {
     "name": "ASRock PHANTOM GAMING Z890 Riptide WiFi",
     "manufacturer": "ASRock",
+    "part_numbers": [],
     "series": "PHANTOM GAMING",
-    "variant": "PHANTOM GAMING Z890 Riptide WiFi",
-    "part_numbers": []
+    "variant": "PHANTOM GAMING Z890 Riptide WiFi"
   },
   "socket": "LGA 1851",
   "form_factor": "ATX",
@@ -101,6 +101,7 @@
       "_id": "68c4a8b7cf16d17f801ee4b8"
     }
   ],
+  "onboard_ethernet": [],
   "wireless_networking": "Wi-Fi 7 Bluetooth 5.4",
   "raid_support": true,
   "bios_features": {
@@ -120,7 +121,6 @@
     "1 x Line Out Jack (Gold Audio Jack)",
     "1 x Microphone Input Jack (Gold Audio Jack)"
   ],
-  "onboard_ethernet": [],
   "general_product_information": {
     "amazon_sku": "B0DJPY6CZX",
     "newegg_sku": " N82E16813162172"

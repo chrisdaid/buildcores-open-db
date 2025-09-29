@@ -7,11 +7,10 @@
   "metadata": {
     "name": "TEAMGROUP T-FORCE Vulcan Z 16 GB (2 x 8 GB) DDR4-3200 CL16",
     "manufacturer": "TEAMGROUP",
-    "part_number": "TLZGD416G3200HC16CDC01",
+    "part_numbers": [],
     "series": "Vulcan Z",
     "variant": "DDR4-3200 CL16",
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "speed": 3200,
   "ram_type": "DDR4",

@@ -9,14 +9,14 @@
   "metadata": {
     "name": "Gigabyte GAMING OC GeForce RTX 3080 Ti 12 GB",
     "manufacturer": "Gigabyte",
-    "part_number": "GV-N308TGAMING OC-12GD",
+    "part_numbers": [],
     "series": "Gaming",
     "variant": "OC",
-    "releaseYear": 2024,
-    "part_numbers": []
+    "releaseYear": 2024
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 3080 Ti",
+  "core_count": 10240,
   "memory": 12,
   "memory_type": "GDDR6X",
   "core_base_clock": 1710,
@@ -24,6 +24,7 @@
   "effective_memory_clock": 19000,
   "memory_bus": 384,
   "interface": "PCI Express 4.0 x16",
+  "color": [],
   "frame_sync": "G-SYNC",
   "length": 320,
   "tdp": 350,
@@ -38,8 +39,6 @@
     "vga": 0,
     "_id": "67740bd7b75bf4b1f99ef029"
   },
-  "color": [],
-  "core_count": 10240,
   "general_product_information": {
     "amazon_sku": "B083HZGMWZ",
     "walmart_sku": 922512041

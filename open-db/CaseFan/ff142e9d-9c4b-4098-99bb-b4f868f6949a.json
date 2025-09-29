@@ -4,7 +4,8 @@
     "name": "Thermaltake TOUGHFAN 140mm Black PWM 119.1 CFM",
     "manufacturer": "Thermaltake",
     "series": "TOUGHFAN",
-    "variant": "140mm Black"
+    "variant": "140mm Black",
+    "part_numbers": []
   },
   "size": 140,
   "color": [

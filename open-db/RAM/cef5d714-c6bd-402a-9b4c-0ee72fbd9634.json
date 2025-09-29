@@ -7,15 +7,16 @@
   "metadata": {
     "name": "DOMINATOR® PLATINUM RGB 64 GB (2 x 32 GB) DDR5-5600 CL40 Memory",
     "manufacturer": "Corsair",
+    "part_numbers": [],
     "series": "DOMINATOR RGB DDR5",
     "variant": "5600 CL40",
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "speed": 5600,
   "ram_type": "DDR5",
   "form_factor": "UDIMM",
   "capacity": 64,
+  "color": [],
   "cas_latency": 40,
   "timings": "40-40-40-77",
   "voltage": 1.25,
@@ -24,7 +25,6 @@
   "heat_spreader": true,
   "rgb": true,
   "height": 0,
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B0B39C6GV3",
     "walmart_sku": 1094341175

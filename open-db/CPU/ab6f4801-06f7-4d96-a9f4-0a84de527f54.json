@@ -44,9 +44,8 @@
   },
   "metadata": {
     "name": "AMD Ryzen 7 3800XT",
-    "vendor": "AMD",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "part_numbers": [],
+    "releaseYear": 2020
   },
   "series": "AMD Ryzen 7",
   "microarchitecture": "Zen 2",

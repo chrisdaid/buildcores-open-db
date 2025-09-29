@@ -4,7 +4,8 @@
     "name": "NZXT F140 140mm Black RGB DUO PWM 84.75 CFM 2-Pack",
     "manufacturer": "NZXT",
     "series": "F140",
-    "variant": "140mm Black"
+    "variant": "140mm Black",
+    "part_numbers": []
   },
   "size": 140,
   "color": [

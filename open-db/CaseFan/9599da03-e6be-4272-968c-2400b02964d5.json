@@ -4,7 +4,8 @@
     "name": "Thermalright TL-C12C 120mm Black PWM",
     "manufacturer": "Thermalright",
     "series": "TL-C12C",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

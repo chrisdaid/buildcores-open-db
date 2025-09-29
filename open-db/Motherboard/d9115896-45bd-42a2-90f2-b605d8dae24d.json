@@ -31,10 +31,10 @@
     "reset_button": true
   },
   "power_connectors": {
+    "main_power": "24-pin",
     "cpu_power": [
       "8-pin"
-    ],
-    "main_power": "24-pin"
+    ]
   },
   "audio": {
     "chipset": "Realtek",
@@ -91,6 +91,7 @@
       "_id": "67f9b8af865ad0c3553dca43"
     }
   ],
+  "wireless_networking": "Realtek® Wi-Fi 6E       BLUETOOTH 5.3",
   "ecc_support": false,
   "raid_support": true,
   "back_connect_connectors": false,
@@ -112,7 +113,6 @@
     "2 x audio jacks",
     "1 x optical S/PDIF Out connector"
   ],
-  "wireless_networking": "Realtek® Wi-Fi 6E       BLUETOOTH 5.3",
   "general_product_information": {
     "amazon_sku": "B0DQLJGTRM",
     "newegg_sku": "N82E16813145549",

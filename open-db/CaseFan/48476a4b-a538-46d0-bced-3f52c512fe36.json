@@ -4,7 +4,8 @@
     "name": "EK Vardar EVO 120ER 120mm Black / White PWM Addressable RGB",
     "manufacturer": "EK",
     "series": "Vardar",
-    "variant": "120mm Black / White"
+    "variant": "120mm Black / White",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

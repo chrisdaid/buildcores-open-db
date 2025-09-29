@@ -3,6 +3,7 @@
   "metadata": {
     "name": "Thermaltake SWAFAN EX14 140mm Black RGB 3-Pack",
     "manufacturer": "Thermaltake",
+    "part_numbers": [],
     "series": "SWAFAN",
     "variant": "140mm Black"
   },
@@ -23,6 +24,7 @@
   "flow_direction": "Standard",
   "general_product_information": {
     "amazon_sku": "B0BWHJ1BH1",
+    "newegg_sku": "N82E16835106731",
     "bestbuy_sku": 6543481,
     "walmart_sku": 2947119941
   }

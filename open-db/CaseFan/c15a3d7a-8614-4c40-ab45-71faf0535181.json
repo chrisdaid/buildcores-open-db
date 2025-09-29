@@ -4,7 +4,8 @@
     "name": "Thermalright TL-B14 140mm Gray PWM",
     "manufacturer": "Thermalright",
     "series": "TL-B14",
-    "variant": "140mm Gray"
+    "variant": "140mm Gray",
+    "part_numbers": []
   },
   "size": 140,
   "color": [

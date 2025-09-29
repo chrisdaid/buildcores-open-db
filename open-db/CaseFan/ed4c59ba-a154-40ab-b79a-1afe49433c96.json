@@ -4,7 +4,8 @@
     "name": "Noctua A14 industrialPPC-2000 140mm Brown / Black 107.42 CFM 2000RPM",
     "manufacturer": "Noctua",
     "series": "A14",
-    "variant": "140mm Brown / Black"
+    "variant": "140mm Brown / Black",
+    "part_numbers": []
   },
   "size": 140,
   "color": [

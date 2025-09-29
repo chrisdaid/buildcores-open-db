@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASUS TUF Gaming Z790-PLUS WIFI D4",
     "manufacturer": "ASUS",
-    "part_number": "90MB1CR0-M0AAY0",
+    "part_numbers": [],
     "series": "TUF Gaming",
     "variant": "Z790-PLUS WIFI D4",
-    "releaseYear": 2024,
-    "part_numbers": []
+    "releaseYear": 2024
   },
   "socket": "LGA1700",
   "form_factor": "ATX",
   "chipset": "Intel Z790",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "5.0",
@@ -114,7 +114,6 @@
     "5 x Audio jacks",
     "1 x Optical S/PDIF Out"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B0BG7DY6MT",
     "newegg_sku": "N82E16813119602",

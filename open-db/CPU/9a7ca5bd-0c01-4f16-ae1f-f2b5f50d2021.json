@@ -44,9 +44,8 @@
   },
   "metadata": {
     "name": "Intel Pentium Gold G5400 Processor",
-    "vendor": "Intel",
-    "releaseYear": 2018,
-    "part_numbers": []
+    "part_numbers": [],
+    "releaseYear": 2018
   },
   "series": "Intel® Pentium® Gold",
   "microarchitecture": "Coffee Lake",

@@ -4,7 +4,8 @@
     "name": "NZXT Aer P 140mm Black PWM",
     "manufacturer": "NZXT",
     "series": "Aer",
-    "variant": "140mm Black"
+    "variant": "140mm Black",
+    "part_numbers": []
   },
   "size": 140,
   "color": [

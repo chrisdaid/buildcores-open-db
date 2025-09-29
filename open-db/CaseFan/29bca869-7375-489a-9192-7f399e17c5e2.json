@@ -4,7 +4,8 @@
     "name": "Cooler Master SickleFlow 120mm Black Addressable RGB PWM 62 CFM 3-Pack",
     "manufacturer": "Cooler Master",
     "series": "SickleFlow",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

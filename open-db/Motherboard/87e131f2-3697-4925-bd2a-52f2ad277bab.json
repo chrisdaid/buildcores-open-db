@@ -27,15 +27,15 @@
   "metadata": {
     "name": "MSI PRO B650-P WIFI",
     "manufacturer": "MSI",
-    "part_number": "PRO B650-P WIFI",
+    "part_numbers": [],
     "series": "PRO",
     "variant": "B650-P WIFI",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "socket": "AM5",
   "form_factor": "ATX",
   "chipset": "AMD B650",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "4.0",
@@ -91,7 +91,6 @@
     "USB 3.2 Gen 2 10Gbps (Type-A)",
     "USB 3.2 Gen 2x2 20Gbps (Type-C)"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B0BHBT5BD3",
     "newegg_sku": "N82E16813144560",

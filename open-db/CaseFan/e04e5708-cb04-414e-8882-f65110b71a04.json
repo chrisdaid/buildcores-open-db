@@ -4,7 +4,8 @@
     "name": "Silverstone FW 120mm Blue / White PWM 76.5 CFM",
     "manufacturer": "Silverstone",
     "series": "FW",
-    "variant": "120mm Blue / White"
+    "variant": "120mm Blue / White",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

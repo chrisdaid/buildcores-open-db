@@ -4,7 +4,8 @@
     "name": "Antec Prizm 120mm Black PWM Addressable RGB 5+C 45.03 CFM 5-Pack",
     "manufacturer": "Antec",
     "series": "Prizm",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

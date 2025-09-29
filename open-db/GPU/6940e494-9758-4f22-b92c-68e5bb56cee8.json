@@ -9,11 +9,10 @@
   "metadata": {
     "name": "GeForce® GTX 1660 OC 6G",
     "manufacturer": "GIGABYTE",
-    "part_number": "GV-N1660OC-6GD",
+    "part_numbers": [],
     "series": "GeForce GTX 16",
     "variant": "OC 6G",
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce GTX 1660",

@@ -12,11 +12,10 @@
   "metadata": {
     "name": "Cooler Master MWE GOLD 750 V2 FULL MODULAR",
     "manufacturer": "Cooler Master",
-    "part_number": "MPE-7501-AFAAG-US",
+    "part_numbers": [],
     "series": "MWE Gold V2",
     "variant": "Full Modular",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "wattage": 750,
   "form_factor": "ATX",

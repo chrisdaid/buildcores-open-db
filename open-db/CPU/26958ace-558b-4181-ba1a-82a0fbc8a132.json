@@ -44,8 +44,8 @@
   },
   "metadata": {
     "name": "Intel® Pentium® Gold G6400 Processor (4M Cache, 4.00 GHz)",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "part_numbers": [],
+    "releaseYear": 2020
   },
   "series": "Intel Pentium Gold Processor Series",
   "microarchitecture": "Comet Lake",

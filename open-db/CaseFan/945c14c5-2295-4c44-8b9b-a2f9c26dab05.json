@@ -4,7 +4,8 @@
     "name": "be quiet! Pure Wings 2 80mm Black PWM",
     "manufacturer": "be quiet!",
     "series": "Pure",
-    "variant": "80mm Black"
+    "variant": "80mm Black",
+    "part_numbers": []
   },
   "size": 80,
   "color": [

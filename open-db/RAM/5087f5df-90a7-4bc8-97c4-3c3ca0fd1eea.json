@@ -7,16 +7,16 @@
   "metadata": {
     "name": "DOMINATOR® PLATINUM RGB 32GB (2 x 16GB) DDR4 DRAM 3466MHz C16 Memory Kit",
     "manufacturer": "Corsair",
-    "part_number": "CMT32GX4M2C3466C16",
+    "part_numbers": [],
     "series": "DOMINATOR® PLATINUM RGB",
     "variant": "3466 MHz C16",
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "speed": 3466,
   "ram_type": "DDR4",
   "form_factor": "288-pin DIMM",
   "capacity": 32,
+  "color": [],
   "cas_latency": 16,
   "timings": "16-18-18-36",
   "voltage": 1.35,
@@ -25,7 +25,6 @@
   "heat_spreader": true,
   "rgb": true,
   "height": 0,
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B07PJXC8JS",
     "newegg_sku": "9SIA8UCJYU7902",

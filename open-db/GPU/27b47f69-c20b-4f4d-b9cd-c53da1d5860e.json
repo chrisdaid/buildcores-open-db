@@ -9,14 +9,14 @@
   "metadata": {
     "name": "NVIDIA Founders Edition GeForce RTX 3090 24GB GDDR6X",
     "manufacturer": "NVIDIA",
-    "part_number": null,
+    "part_numbers": [],
     "series": "RTX 3090",
     "variant": "Founders Edition",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 3090",
+  "core_count": 10496,
   "memory": 24,
   "memory_type": "GDDR6X",
   "core_base_clock": 1560,
@@ -24,6 +24,7 @@
   "effective_memory_clock": null,
   "memory_bus": 384,
   "interface": "PCIe 4.0 x16",
+  "color": [],
   "frame_sync": "G-Sync",
   "length": 313,
   "tdp": 350,
@@ -39,8 +40,6 @@
     "vga": null,
     "_id": "6771a5e4d414deb1430b4c09"
   },
-  "color": [],
-  "core_count": 10496,
   "general_product_information": {
     "amazon_sku": "B08HR6ZBYJ",
     "newegg_sku": "9SIAYTVH6A3710",

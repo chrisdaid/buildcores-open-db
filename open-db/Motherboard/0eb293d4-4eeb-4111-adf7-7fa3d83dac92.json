@@ -38,6 +38,7 @@
   "socket": "AM5",
   "form_factor": "ATX",
   "chipset": "AMD X870",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "5.0",
@@ -106,7 +107,6 @@
     "1 x BIOS FlashBack™ button",
     "1 x Clear CMOS button"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B0DGQ91QLK"
   }

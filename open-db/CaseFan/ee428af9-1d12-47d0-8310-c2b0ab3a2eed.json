@@ -4,7 +4,8 @@
     "name": "Raidmax NV-R120TP 120mm White RGB PWM",
     "manufacturer": "Raidmax",
     "series": "NV-R120TP",
-    "variant": "120mm White"
+    "variant": "120mm White",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

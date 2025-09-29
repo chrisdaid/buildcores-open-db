@@ -9,11 +9,10 @@
   "metadata": {
     "name": "PowerColor RED DEVIL Radeon RX 6950 XT 16GB GDDR6 PCI Express 4.0 ATX Video Card AXRX 6950XT 16GBD6-3DHE/OC",
     "manufacturer": "PowerColor",
-    "part_number": "AXRX 6950XT 16GBD6-3DHE/OC",
+    "part_numbers": [],
     "series": "RED DEVIL",
     "variant": null,
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 6950 XT",

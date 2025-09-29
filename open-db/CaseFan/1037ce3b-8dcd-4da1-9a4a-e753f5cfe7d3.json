@@ -4,7 +4,8 @@
     "name": "Thermalright TL-B8 80mm White PWM",
     "manufacturer": "Thermalright",
     "series": "TL-B8",
-    "variant": "80mm White"
+    "variant": "80mm White",
+    "part_numbers": []
   },
   "size": 80,
   "color": [

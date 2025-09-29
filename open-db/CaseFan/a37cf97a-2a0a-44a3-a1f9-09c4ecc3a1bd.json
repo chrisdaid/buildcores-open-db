@@ -4,7 +4,8 @@
     "name": "Enermax D.F. Storm 120mm Black PWM (155.08 CFM)",
     "manufacturer": "Enermax",
     "series": "D.F.",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

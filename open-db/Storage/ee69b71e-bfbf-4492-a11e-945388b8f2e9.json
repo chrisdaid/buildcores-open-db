@@ -3,11 +3,10 @@
   "metadata": {
     "name": "Seagate IronWolf NAS 4TB Internal Hard Drive",
     "manufacturer": "Seagate",
-    "part_number": "ST4000VNZ06/006",
+    "part_numbers": [],
     "series": "IronWolf",
     "variant": "4TB",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "capacity": 4000,
   "type": "HDD",

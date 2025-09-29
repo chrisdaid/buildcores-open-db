@@ -11,8 +11,7 @@
       "E1715S"
     ],
     "series": "",
-    "variant": "Black",
-    "model": "E1715S"
+    "variant": "Black"
   },
   "screen_size": 17,
   "refresh_rate": 60,
@@ -28,7 +27,7 @@
   "hdr": "",
   "adaptive_sync": "None",
   "general_product_information": {
-    "amazon_sku": "B00K0MJ0JA",
+    "amazon_sku": "B00JVJJCEG",
     "walmart_sku": 38670876
   }
 }

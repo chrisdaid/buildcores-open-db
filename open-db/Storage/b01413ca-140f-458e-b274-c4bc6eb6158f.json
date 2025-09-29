@@ -3,11 +3,10 @@
   "metadata": {
     "name": "970 EVO PLUS 500GB PCIe Gen 3.0 x4, NVMe 1.3 V-NAND Internal Solid State Drive",
     "manufacturer": "Samsung",
-    "part_number": "MZ-V7S500B/AM",
+    "part_numbers": [],
     "series": "970 EVO PLUS",
     "variant": "500GB",
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "capacity": 500,
   "type": "SSD",

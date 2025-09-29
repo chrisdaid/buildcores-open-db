@@ -4,7 +4,8 @@
     "name": "be quiet! Silent Wings 3 120mm Black 50.5 CFM PWM",
     "manufacturer": "be quiet!",
     "series": "Silent",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

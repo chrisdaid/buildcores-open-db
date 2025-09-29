@@ -44,9 +44,8 @@
   },
   "metadata": {
     "name": "AMD Ryzen Threadripper 7970X",
-    "vendor": "AMD",
-    "releaseYear": 0,
-    "part_numbers": []
+    "part_numbers": [],
+    "releaseYear": 0
   },
   "series": "Ryzen Threadripper",
   "microarchitecture": "Zen 4",

@@ -4,7 +4,8 @@
     "name": "Thermaltake Pure 200mm Black ARGB PWM TT Premium Edition 129.54 CFM",
     "manufacturer": "Thermaltake",
     "series": "Pure",
-    "variant": "200mm Black"
+    "variant": "200mm Black",
+    "part_numbers": []
   },
   "size": 200,
   "color": [

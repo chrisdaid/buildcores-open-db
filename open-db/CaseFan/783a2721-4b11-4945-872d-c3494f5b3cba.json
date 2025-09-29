@@ -4,7 +4,8 @@
     "name": "Cooler Master MasterFan MF Halo 120mm White Addressable RGB PWM 47.2 CFM",
     "manufacturer": "Cooler Master",
     "series": "MasterFan",
-    "variant": "120mm White"
+    "variant": "120mm White",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

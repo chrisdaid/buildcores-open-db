@@ -4,7 +4,8 @@
     "name": "NZXT Aer RGB 140mm Black PWM Addressable RGB 71.6 CFM 3-Pack",
     "manufacturer": "NZXT",
     "series": "Aer",
-    "variant": "140mm Black"
+    "variant": "140mm Black",
+    "part_numbers": []
   },
   "size": 140,
   "color": [

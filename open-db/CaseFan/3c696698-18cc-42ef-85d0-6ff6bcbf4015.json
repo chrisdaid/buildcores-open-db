@@ -4,7 +4,8 @@
     "name": "Gigabyte AORUS 120 ARGB 120mm Black ARGB PWM 40.85 CFM",
     "manufacturer": "Gigabyte",
     "series": "AORUS",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

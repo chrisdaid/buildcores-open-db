@@ -28,16 +28,16 @@
   },
   "front_panel_headers": {
     "power_button": true,
-    "power_led": true,
     "reset_button": true,
+    "power_led": true,
     "hdd_led": true
   },
   "power_connectors": {
+    "main_power": "24-pin",
     "cpu_power": [
       "8-pin",
       "8-pin"
-    ],
-    "main_power": "24-pin"
+    ]
   },
   "audio": {
     "chipset": "Realtek ALC4082",
@@ -105,6 +105,7 @@
       "_id": "67f9b82d865ad0c3553dbba3"
     }
   ],
+  "wireless_networking": "Wi-Fi 7                                              Bluetooth 5.4",
   "ecc_support": true,
   "raid_support": true,
   "back_connect_connectors": false,
@@ -125,7 +126,6 @@
     "1 x BIOS FlashBack™ button ",
     "1 x BIOS FlashBack™ button "
   ],
-  "wireless_networking": "Wi-Fi 7                                              Bluetooth 5.4",
   "general_product_information": {
     "amazon_sku": "B0DDZSP2BG",
     "newegg_sku": "N82E16813119681",

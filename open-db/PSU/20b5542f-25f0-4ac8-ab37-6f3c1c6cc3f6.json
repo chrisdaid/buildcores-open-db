@@ -12,11 +12,10 @@
   "metadata": {
     "name": "ATX-MT1000W ATX 3.0 & PCIE 5.0",
     "manufacturer": "Apevia",
-    "part_number": "20201210010CNXM",
+    "part_numbers": [],
     "series": "ATX-MT1000W",
     "variant": null,
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "wattage": 1000,
   "form_factor": "ATX",

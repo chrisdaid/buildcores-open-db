@@ -4,7 +4,8 @@
     "name": "Silverstone FN80 80mm Black 27.81 CFM",
     "manufacturer": "Silverstone",
     "series": "FN80",
-    "variant": "80mm Black"
+    "variant": "80mm Black",
+    "part_numbers": []
   },
   "size": 80,
   "color": [

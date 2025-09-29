@@ -9,11 +9,10 @@
   "metadata": {
     "name": "SAPPHIRE PULSE AMD Radeon RX 6400",
     "manufacturer": "Sapphire",
-    "part_number": "11315-01-20G",
+    "part_numbers": [],
     "series": "PULSE",
     "variant": null,
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 6400",

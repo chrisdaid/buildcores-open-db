@@ -9,11 +9,10 @@
   "metadata": {
     "name": "NVIDIA GeForce GTX 1080 Ti",
     "manufacturer": "NVIDIA",
-    "part_number": null,
+    "part_numbers": [],
     "series": "GTX 10",
     "variant": "Founders Edition",
-    "releaseYear": 2017,
-    "part_numbers": []
+    "releaseYear": 2017
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GP102",

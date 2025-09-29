@@ -4,7 +4,8 @@
     "name": "Thermalright TL-C12B-S V3 120mm Black Addressable RGB PWM 66.17 CFM",
     "manufacturer": "Thermalright",
     "series": "TL-C12B-S",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

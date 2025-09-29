@@ -47,9 +47,8 @@
   },
   "metadata": {
     "name": "Intel Core i3-7100T Processor",
-    "vendor": "Intel",
-    "releaseYear": 2017,
-    "part_numbers": []
+    "part_numbers": [],
+    "releaseYear": 2017
   },
   "series": "Intel Core i3",
   "microarchitecture": "Kaby Lake",

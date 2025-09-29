@@ -3,6 +3,7 @@
   "metadata": {
     "name": "Corsair RS120 MAX 120mm Black PWM 72 CFM 1-Pack",
     "manufacturer": "Corsair",
+    "part_numbers": [],
     "series": "RS120",
     "variant": "120mm Black"
   },
@@ -23,7 +24,6 @@
   "flow_direction": "Standard",
   "general_product_information": {
     "amazon_sku": "B0CXSFJV6P",
-    "newegg_sku": "N82E16835181423",
-    "walmart_sku": 5654777924
+    "newegg_sku": "N82E16835181423"
   }
 }

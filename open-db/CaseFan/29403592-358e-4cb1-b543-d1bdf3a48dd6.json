@@ -4,7 +4,8 @@
     "name": "Montech AIR FAN P120 73 CFM 120mm Gray / Black PWM 2-Pack",
     "manufacturer": "Montech",
     "series": "AIR",
-    "variant": "120mm Gray / Black"
+    "variant": "120mm Gray / Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [
@@ -22,5 +23,9 @@
   "controller": "None",
   "static_pressure": 1.71,
   "flow_direction": "Standard",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B08X156B69",
+    "newegg_sku": "1YF-00Y5-00003",
+    "manufacturer_url": "https://www.montechpc.com/air-fan-p120"
+  }
 }

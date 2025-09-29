@@ -4,7 +4,8 @@
     "name": "Xigmatek XLF 120mm Black PWM White LED 61 CFM",
     "manufacturer": "Xigmatek",
     "series": "XLF",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

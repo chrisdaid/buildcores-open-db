@@ -45,9 +45,8 @@
   },
   "metadata": {
     "name": "Intel Core i9-13900F",
-    "vendor": "Intel",
-    "releaseYear": 2023,
-    "part_numbers": []
+    "part_numbers": [],
+    "releaseYear": 2023
   },
   "series": "Core i9",
   "microarchitecture": "Raptor Lake",

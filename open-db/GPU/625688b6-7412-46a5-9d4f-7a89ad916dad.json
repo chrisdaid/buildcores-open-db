@@ -9,11 +9,10 @@
   "metadata": {
     "name": "MSI GeForce RTX 4090 VENTUS 3X E 24G OC",
     "manufacturer": "MSI",
-    "part_number": "not specified",
+    "part_numbers": [],
     "series": "VENTUS 3X",
     "variant": "E OC",
-    "releaseYear": 2024,
-    "part_numbers": []
+    "releaseYear": 2024
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 4090",

@@ -9,14 +9,14 @@
   "metadata": {
     "name": "MSI GeForce RTX 3060 VENTUS 2X 12G OC",
     "manufacturer": "MSI",
-    "part_number": "G3060V2X12C",
+    "part_numbers": [],
     "series": "Ventus 2X",
     "variant": "OC",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 3060",
+  "core_count": 3584,
   "memory": 12,
   "memory_type": "GDDR6",
   "core_base_clock": 0,
@@ -24,6 +24,7 @@
   "effective_memory_clock": 15,
   "memory_bus": 192,
   "interface": "PCIe 4.0 x16",
+  "color": [],
   "frame_sync": "G-SYNC",
   "length": 235,
   "tdp": 170,
@@ -39,8 +40,6 @@
     "vga": 0,
     "_id": "6770a359393a7e8e313e526e"
   },
-  "color": [],
-  "core_count": 3584,
   "general_product_information": {
     "amazon_sku": "B08WPRMVWB",
     "newegg_sku": "N82E16814137632",

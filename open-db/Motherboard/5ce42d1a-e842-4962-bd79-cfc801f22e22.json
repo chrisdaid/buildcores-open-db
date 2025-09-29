@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASRock X670E PG Lightning AMD AM5 ATX Motherboard",
     "manufacturer": "ASRock",
-    "part_number": "MBX670EPGLIGHTN",
+    "part_numbers": [],
     "series": "PG Lightning",
     "variant": null,
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "socket": "AM5",
   "form_factor": "ATX",
   "chipset": "AMD X670E",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "5.0",
@@ -116,7 +116,6 @@
     "1 x Line Out Jack (Gold Audio Jack)",
     "1 x Microphone Input Jack (Gold Audio Jack)"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B0BGPH2LQJ",
     "bestbuy_sku": 6522043,

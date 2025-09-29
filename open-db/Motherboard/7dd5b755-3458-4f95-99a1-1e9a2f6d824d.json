@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASUS Pro WS TRX50-SAGE WIFI",
     "manufacturer": "ASUS",
-    "part_number": "90MB1FZ0-M0AAY0",
+    "part_numbers": [],
     "series": "PRO WS",
     "variant": null,
-    "releaseYear": 2023,
-    "part_numbers": []
+    "releaseYear": 2023
   },
   "socket": "sTR5",
   "form_factor": "CEB",
   "chipset": "AMD TRX50",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "5.0",
@@ -114,7 +114,6 @@
     "1 x BIOS FlashBack™ button",
     "1 x Clear CMOS button"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B0CMZHDQPD",
     "newegg_sku": "N82E16813119666",

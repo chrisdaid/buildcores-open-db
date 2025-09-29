@@ -6,7 +6,8 @@
     "part_number": null,
     "series": null,
     "variant": null,
-    "releaseYear": 0
+    "releaseYear": 0,
+    "part_numbers": []
   },
   "size": null,
   "color": null,

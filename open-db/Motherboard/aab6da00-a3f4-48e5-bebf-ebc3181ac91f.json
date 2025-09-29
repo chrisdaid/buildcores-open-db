@@ -36,6 +36,7 @@
   "socket": "AM4",
   "form_factor": "Micro ATX",
   "chipset": "AMD A520",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "4.0",
@@ -82,7 +83,6 @@
   "back_panel_ports": [
     "1 x 1 Gb/s (Realtek RTL8111H)"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B08HHMCCXV",
     "walmart_sku": 604609503

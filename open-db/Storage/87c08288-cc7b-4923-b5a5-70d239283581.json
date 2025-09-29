@@ -3,11 +3,10 @@
   "metadata": {
     "name": "Kingston A400 120GB M.2-2280 SATA Solid State Drive",
     "manufacturer": "Kingston Technology",
-    "part_number": "SA400S37/120G",
+    "part_numbers": [],
     "series": "A400",
     "variant": "120GB",
-    "releaseYear": 2018,
-    "part_numbers": []
+    "releaseYear": 2018
   },
   "capacity": 120,
   "type": "SSD",

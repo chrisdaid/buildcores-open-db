@@ -9,11 +9,10 @@
   "metadata": {
     "name": "PowerColor Radeon RX 7900 XTX Red Devil Limited Edition",
     "manufacturer": "PowerColor",
-    "part_number": "LERX7900XTX24GE",
+    "part_numbers": [],
     "series": "RX7900XTX 24G-E/OC/LIMITED",
     "variant": "Limited Edition",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 7900 XTX",

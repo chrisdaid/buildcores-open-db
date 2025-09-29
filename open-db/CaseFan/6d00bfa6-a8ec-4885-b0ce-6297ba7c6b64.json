@@ -4,7 +4,8 @@
     "name": "be quiet! Silent Wings 3 140mm Black PWM",
     "manufacturer": "be quiet!",
     "series": "Silent",
-    "variant": "140mm Black"
+    "variant": "140mm Black",
+    "part_numbers": []
   },
   "size": 140,
   "color": [

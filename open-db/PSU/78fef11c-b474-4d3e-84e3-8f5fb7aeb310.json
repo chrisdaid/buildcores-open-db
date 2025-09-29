@@ -12,11 +12,10 @@
   "metadata": {
     "name": "CORSAIR SF Series SF600 CP-9020182-NA 600 W SFX 80 PLUS PLATINUM Certified Full Modular Power Supply",
     "manufacturer": "Corsair",
-    "part_number": "CP-9020182-NA",
+    "part_numbers": [],
     "series": "SF Series",
     "variant": "SF600",
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "wattage": 600,
   "form_factor": "SFX",

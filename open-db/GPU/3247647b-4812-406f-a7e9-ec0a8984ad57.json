@@ -6,9 +6,9 @@
   "metadata": {
     "name": "PowerColor Hellhound Spectral White AMD Radeon™ RX 9060 XT 16GB GDDR6",
     "manufacturer": "PowerColor",
+    "part_numbers": [],
     "series": "Radeon RX 9060 XT",
-    "releaseYear": 2025,
-    "part_numbers": []
+    "releaseYear": 2025
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 9060 XT",
@@ -20,6 +20,7 @@
   "effective_memory_clock": 20000,
   "memory_bus": 128,
   "interface": "PCIe 5.0 x16",
+  "color": [],
   "frame_sync": "FreeSync",
   "length": 310,
   "case_expansion_slot_width": 2,
@@ -30,7 +31,6 @@
     "displayport_2_1a": 2,
     "_id": "68ab5d7ddc4b1baa6a83eef8"
   },
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B0CWFR34L7",
     "newegg_sku": "RX9060XT 16G-L/OC/WHITE"

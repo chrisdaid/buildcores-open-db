@@ -4,7 +4,8 @@
     "name": "EK Vardar X3M 120mm Black PWM Addressable RGB 120ER 67 CFM",
     "manufacturer": "EK",
     "series": "Vardar",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

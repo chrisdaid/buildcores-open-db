@@ -9,11 +9,10 @@
   "metadata": {
     "name": "XFX RX-79TMBABF9 Radeon RX 7900 XT 20 GB Video Card",
     "manufacturer": "XFX",
-    "part_number": "RX-79TMBABF9",
+    "part_numbers": [],
     "series": "Radeon RX 7900 XT",
     "variant": null,
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 7900 XT",

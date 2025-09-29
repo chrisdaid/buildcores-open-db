@@ -9,10 +9,10 @@
   "metadata": {
     "name": "Intel® Arc™ B580 Graphics",
     "manufacturer": "Intel",
+    "part_numbers": [],
     "series": "Intel Arc B-Series",
     "variant": "Limited Edition",
-    "releaseYear": 2024,
-    "part_numbers": []
+    "releaseYear": 2024
   },
   "chipset_manufacturer": "Intel",
   "chipset": "ARC B580",

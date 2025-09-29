@@ -6,11 +6,11 @@
   "metadata": {
     "part_numbers": []
   },
-  "back_panel_ports": [],
+  "color": [],
+  "pcie_slots": [],
   "m2_slots": [],
   "onboard_ethernet": [],
-  "pcie_slots": [],
-  "color": [],
+  "back_panel_ports": [],
   "general_product_information": {
     "amazon_sku": "B0CP18RY4B"
   }

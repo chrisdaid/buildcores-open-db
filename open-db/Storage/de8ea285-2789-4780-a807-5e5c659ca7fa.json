@@ -3,11 +3,10 @@
   "metadata": {
     "name": "WD_BLACK 3.5-Inch Gaming Hard Drive - 2TB",
     "manufacturer": "Western Digital",
-    "part_number": "WD2003FZEX",
+    "part_numbers": [],
     "series": "WD_BLACK",
     "variant": "2TB",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "capacity": 2000,
   "type": "HDD",

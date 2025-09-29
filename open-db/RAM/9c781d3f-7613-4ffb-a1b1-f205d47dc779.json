@@ -7,11 +7,10 @@
   "metadata": {
     "name": "G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory (F4-3600C16D-32GTZRC)",
     "manufacturer": "G.SKILL",
-    "part_number": "F4-3600C16D-32GTZRC",
+    "part_numbers": [],
     "series": "Trident Z RGB",
     "variant": "DDR4-3600 CL16-19-19-39",
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "speed": 3600,
   "ram_type": "DDR4",

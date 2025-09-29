@@ -7,16 +7,16 @@
   "metadata": {
     "name": "CORSAIR Vengeance 32GB (2 x 16GB) DDR5-6000 CL30 Memory Kit — Black",
     "manufacturer": "Corsair",
-    "part_number": "CMK32GX5M2B6000C30",
+    "part_numbers": [],
     "series": "VENGEANCE DDR5",
     "variant": "6000 MT/s CL30",
-    "releaseYear": 2023,
-    "part_numbers": []
+    "releaseYear": 2023
   },
   "speed": 6000,
   "ram_type": "DDR5",
   "form_factor": "288-pin DIMM",
   "capacity": 32,
+  "color": [],
   "cas_latency": 30,
   "timings": "30-36-36-76",
   "voltage": 1.4,
@@ -25,7 +25,6 @@
   "heat_spreader": true,
   "rgb": false,
   "height": 0,
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B0C3RYHZJQ",
     "newegg_sku": "N82E16820982007",

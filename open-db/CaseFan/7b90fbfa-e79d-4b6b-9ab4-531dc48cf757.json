@@ -4,7 +4,8 @@
     "name": "be quiet! Pure Wings 2 120mm Black PWM 87 CFM",
     "manufacturer": "be quiet!",
     "series": "Pure",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

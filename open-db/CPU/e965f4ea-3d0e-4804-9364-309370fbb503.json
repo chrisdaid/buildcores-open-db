@@ -44,9 +44,8 @@
   },
   "metadata": {
     "name": "Intel Core i5-10600 Processor",
-    "vendor": "Intel",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "part_numbers": [],
+    "releaseYear": 2020
   },
   "series": "Intel Core i5",
   "microarchitecture": "Comet Lake",

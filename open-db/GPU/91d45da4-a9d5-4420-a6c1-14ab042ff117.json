@@ -9,14 +9,14 @@
   "metadata": {
     "name": "MSI GeForce RTX 4060 VENTUS 2X WHITE 8G OC GDDR6 8GB",
     "manufacturer": "MSI",
-    "part_number": "G4060V2XW8C",
+    "part_numbers": [],
     "series": "VENTUS 2X",
     "variant": "WHITE",
-    "releaseYear": null,
-    "part_numbers": []
+    "releaseYear": null
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 4060",
+  "core_count": 3072,
   "memory": 8,
   "memory_type": "GDDR6",
   "core_base_clock": 2490,
@@ -24,6 +24,7 @@
   "effective_memory_clock": 17,
   "memory_bus": 128,
   "interface": "PCI Express® Gen 4 x 8",
+  "color": [],
   "frame_sync": null,
   "length": null,
   "tdp": 115,
@@ -39,8 +40,6 @@
     "vga": null,
     "_id": "6770a1ee393a7e8e313e51a3"
   },
-  "color": [],
-  "core_count": 3072,
   "general_product_information": {
     "amazon_sku": "B0CFK42YQ8",
     "newegg_sku": "N82E16814137832",

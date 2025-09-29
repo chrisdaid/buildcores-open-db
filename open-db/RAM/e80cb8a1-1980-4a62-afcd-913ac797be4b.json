@@ -7,10 +7,10 @@
   "metadata": {
     "name": "CORSAIR DOMINATOR PLATINUM RGB 32GB (2x16GB) DDR5 DRAM 6600MHz C32 Memory Kit — Black",
     "manufacturer": "Corsair",
+    "part_numbers": [],
     "series": "DOMINATOR PLATINUM RGB",
     "variant": "DDR5-6600 CL32",
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "speed": 6600,
   "ram_type": "DDR5",

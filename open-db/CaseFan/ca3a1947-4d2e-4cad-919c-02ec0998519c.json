@@ -4,7 +4,8 @@
     "name": "ARCTIC F12 120mm White PWM",
     "manufacturer": "ARCTIC",
     "series": "F12",
-    "variant": "120mm White"
+    "variant": "120mm White",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

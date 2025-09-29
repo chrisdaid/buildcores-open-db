@@ -3,10 +3,9 @@
   "metadata": {
     "name": "Cooler Master MasterCase H500M ATX Mid Tower Case",
     "manufacturer": "Cooler Master",
-    "part_number": "MCM-H500M-IHNN-S00",
+    "part_numbers": [],
     "series": "MasterCase",
-    "variant": "H500M",
-    "part_numbers": []
+    "variant": "H500M"
   },
   "form_factor": "ATX Mid Tower",
   "power_supply": "Not Included",

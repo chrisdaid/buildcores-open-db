@@ -7,16 +7,16 @@
   "metadata": {
     "name": "G.SKILL Trident Z Neo 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
     "manufacturer": "G.SKILL",
-    "part_number": "F4-3600C18D-16GTZN",
+    "part_numbers": [],
     "series": "Trident Z Neo Series",
     "variant": null,
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "speed": 3600,
   "ram_type": "DDR4",
   "form_factor": "288-pin DIMM (DDR4)",
   "capacity": 16,
+  "color": [],
   "cas_latency": 18,
   "timings": "18-22-22-42",
   "voltage": 1.35,
@@ -25,7 +25,6 @@
   "heat_spreader": true,
   "rgb": false,
   "height": 0,
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B07WVT8SGF",
     "newegg_sku": "9SIA4YUEDY6843",

@@ -9,11 +9,10 @@
   "metadata": {
     "name": "MSI GeForce RTX 2060 GAMING Z 6G",
     "manufacturer": "MSI",
-    "part_number": null,
+    "part_numbers": [],
     "series": "GAMING Z",
     "variant": "6G",
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 2060",

@@ -4,7 +4,8 @@
     "name": "NZXT F140 140mm White PWM RGB 2-Pack",
     "manufacturer": "NZXT",
     "series": "F140",
-    "variant": "140mm White"
+    "variant": "140mm White",
+    "part_numbers": []
   },
   "size": 140,
   "color": [

@@ -9,14 +9,14 @@
   "metadata": {
     "name": "MSI NVIDIA GeForce RTX 3090 Ti Suprim X Overclocked Triple Fan 24GB GDDR6X PCIe 4.0 Graphics Card",
     "manufacturer": "MSI",
-    "part_number": "RTX3090TISUPRIM",
+    "part_numbers": [],
     "series": "Suprim X",
     "variant": "Overclocked Triple Fan",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 3090 Ti",
+  "core_count": 10752,
   "memory": 24,
   "memory_type": "GDDR6X",
   "core_base_clock": 1950,
@@ -24,6 +24,7 @@
   "effective_memory_clock": 21,
   "memory_bus": 384,
   "interface": "PCIe 4.0 x16",
+  "color": [],
   "frame_sync": "None",
   "length": 338,
   "tdp": 480,
@@ -40,8 +41,6 @@
     "vga": 0,
     "_id": "6778afcdcda752bef3858f6a"
   },
-  "color": [],
-  "core_count": 10752,
   "general_product_information": {
     "amazon_sku": "B09R9JPVK9",
     "newegg_sku": "N82E16814137727R",

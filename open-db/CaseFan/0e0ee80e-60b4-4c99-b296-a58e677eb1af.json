@@ -4,7 +4,8 @@
     "name": "EK Loop Fan FPT 120mm Black PWM D-RGB",
     "manufacturer": "EK",
     "series": "Loop",
-    "variant": "120mm Black"
+    "variant": "120mm Black",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

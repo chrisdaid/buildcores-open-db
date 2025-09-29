@@ -9,11 +9,10 @@
   "metadata": {
     "name": "MSI GeForce RTX™ 4060 Ti VENTUS 2X BLACK 8G OC",
     "manufacturer": "MSI",
-    "part_number": "G406tV2XB8C",
+    "part_numbers": [],
     "series": "VENTUS 2X",
     "variant": "BLACK 8G OC",
-    "releaseYear": 2023,
-    "part_numbers": []
+    "releaseYear": 2023
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 4060 Ti",

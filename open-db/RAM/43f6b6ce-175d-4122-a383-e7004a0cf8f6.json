@@ -7,16 +7,16 @@
   "metadata": {
     "name": "SAMSUNG 8GB DDR4 PC4-21300 2666MHz 288 PIN UDIMM 1.2V CL 19 Desktop ram Memory Module M378A1K43DB2-CTD",
     "manufacturer": "Samsung",
-    "part_number": "M378A1K43DB2-CTD",
+    "part_numbers": [],
     "series": "M378A",
     "variant": "2666 MHz CL19",
-    "releaseYear": 2017,
-    "part_numbers": []
+    "releaseYear": 2017
   },
   "speed": 2666,
   "ram_type": "DDR4",
   "form_factor": "288-pin DIMM",
   "capacity": 8,
+  "color": [],
   "cas_latency": 19,
   "timings": "CL19",
   "voltage": 1.2,
@@ -25,7 +25,6 @@
   "heat_spreader": true,
   "rgb": false,
   "height": 32,
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B07DNRD3T7",
     "newegg_sku": "9SIACWTBAK8401"

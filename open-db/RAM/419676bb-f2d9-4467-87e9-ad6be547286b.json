@@ -7,11 +7,10 @@
   "metadata": {
     "name": "Patriot Signature Premium 32GB DDR4 3200 MHz UDIMM Memory Kit (2 x 16GB)",
     "manufacturer": "Patriot",
-    "part_number": "PSP432G3200KH1",
+    "part_numbers": [],
     "series": "Signature Line Premium",
     "variant": null,
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "speed": 3200,
   "ram_type": "DDR4",
