@@ -9,11 +9,10 @@
   "metadata": {
     "name": "Radeon RX 5700 XT GAMING OC 8G",
     "manufacturer": "GIGABYTE",
-    "part_number": "GV-R57XTGAMING OC-8GD",
+    "part_numbers": [],
     "series": "Radeon RX 5700 XT GAMING OC",
     "variant": "8G",
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 5700 XT",

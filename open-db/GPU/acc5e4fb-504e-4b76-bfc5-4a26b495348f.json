@@ -9,11 +9,10 @@
   "metadata": {
     "name": "XFX Speedster MERC319 AMD Radeon RX 6750XT Black Gaming Graphics Card with 12GB GDDR6 HDMI 3xDP, AMD RDNA 2 RX-675XYTBDP",
     "manufacturer": "XFX",
-    "part_number": "RX-675XYTBDP",
+    "part_numbers": [],
     "series": "RX 6750",
     "variant": "Speedster MERC319",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 6750 XT",

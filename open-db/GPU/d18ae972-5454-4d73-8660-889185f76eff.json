@@ -9,11 +9,10 @@
   "metadata": {
     "name": "ZOTAC GAMING GeForce RTX 4080 16GB Trinity OC",
     "manufacturer": "ZOTAC",
-    "part_number": "ZT-D40810J-10P",
+    "part_numbers": [],
     "series": "Trinity OC",
     "variant": "GeForce RTX 4080",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 4080",

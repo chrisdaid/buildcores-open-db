@@ -9,11 +9,10 @@
   "metadata": {
     "name": "GIGABYTE GeForce RTX 3060 GAMING OC 12G (rev. 1.0)",
     "manufacturer": "GIGABYTE",
-    "part_number": "GV-N3060GAMING OC-12GD",
+    "part_numbers": [],
     "series": "GAMING OC",
     "variant": "12G",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 3060",

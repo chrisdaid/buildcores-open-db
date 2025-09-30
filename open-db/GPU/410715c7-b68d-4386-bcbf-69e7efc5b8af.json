@@ -9,11 +9,10 @@
   "metadata": {
     "name": "GeForce® RTX 2060 SUPER™ GAMING X",
     "manufacturer": "MSI",
-    "part_number": null,
+    "part_numbers": [],
     "series": "RTX 2060 SUPER GAMING X",
     "variant": "GAMING X",
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 2060 SUPER",
