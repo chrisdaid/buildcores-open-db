@@ -10,7 +10,7 @@
     "USB3.0 x 1",
     "USB2.0 x 1"
   ],
-  "side_panel": null,
+  "side_panel": "Tempered Glass",
   "front_panel_usb": "USB3.0 x 1                                        USB2.0 x 1",
   "max_cpu_cooler_height": 175,
   "dimensions": "210 x 415 x 400 ",
