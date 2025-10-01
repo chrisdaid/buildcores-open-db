@@ -4,12 +4,12 @@
     "pcie_8_pin": 1
   },
   "metadata": {
-    "name": "Acer Nitro Intel\u00ae Arc\u2122 B570 OC 10GB",
+    "name": "Acer Nitro Intel Arc B570 OC 10GB",
     "manufacturer": "Acer",
     "part_numbers": [
       "DP.Z4CWW.P01"
     ],
-    "series": "Nitro Intel\u00ae Arc\u2122",
+    "series": "Nitro Intel Arc",
     "variant": "B570 OC",
     "releaseYear": 2025
   },
@@ -43,7 +43,7 @@
     "_id": "68cef89429fdb8ac5dc9f866"
   },
   "general_product_information": {
-    "amazon_sku": "\u200eB0DTC5QFN6",
+    "amazon_sku": "B0DTC5QFN6",
     "newegg_sku": "N82E16814553011",
     "walmart_sku": 15151705058,
     "manufacturer_url": "https://store.acer.com/en-us/nitro-intelr-arctm-b570-oc-graphics-card"

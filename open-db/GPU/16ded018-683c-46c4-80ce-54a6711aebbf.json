@@ -4,7 +4,7 @@
     "pcie_8_pin": null
   },
   "metadata": {
-    "name": "MSI GeForce RTX\u2122 5070 Ti 16G GAMING TRIO PLUS",
+    "name": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO PLUS",
     "manufacturer": "MSI",
     "part_numbers": [
       "G507T-16GTCP"
@@ -33,6 +33,6 @@
   },
   "color": [],
   "general_product_information": {
-    "amazon_sku": "\u200eB0DV9GMDLR"
+    "amazon_sku": "B0DV9GMDLR"
   }
 }
