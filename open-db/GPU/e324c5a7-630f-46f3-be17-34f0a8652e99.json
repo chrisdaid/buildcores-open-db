@@ -15,8 +15,8 @@
     "releaseYear": 2019,
     "part_numbers": []
   },
-  "chipset_manufacturer": null,
-  "chipset": null,
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce GTX 1660",
   "memory": 6,
   "memory_type": "GDDR5",
   "core_base_clock": 0,

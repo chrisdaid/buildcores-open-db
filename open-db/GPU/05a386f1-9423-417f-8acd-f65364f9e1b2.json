@@ -16,7 +16,7 @@
     "part_numbers": []
   },
   "chipset_manufacturer": "NVIDIA",
-  "chipset": "GP108",
+  "chipset": "GeForce GT 1030",
   "memory": 2,
   "memory_type": [
     "DDR4"
