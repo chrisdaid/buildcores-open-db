@@ -9,11 +9,10 @@
   "metadata": {
     "name": "PowerColor Fighter AMD Radeon RX 6800 Gaming Graphics card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
     "manufacturer": "PowerColor",
-    "part_number": "AXRX 6800 16GBD6-3DH/OC",
+    "part_numbers": [],
     "series": "Fighter",
     "variant": null,
-    "releaseYear": 2021,
-    "part_numbers": []
+    "releaseYear": 2021
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 6800",

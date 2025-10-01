@@ -9,11 +9,10 @@
   "metadata": {
     "name": "XFX Speedster SWFT 210 AMD Radeon™ RX 6600 XT Core Gaming Graphics Card with 8GB GDDR6, AMD RDNA™ 2",
     "manufacturer": "XFX",
-    "part_number": "RX-66XT8DFDQ",
+    "part_numbers": [],
     "series": "Speedster SWFT 210",
     "variant": "Core Gaming",
-    "releaseYear": 2021,
-    "part_numbers": []
+    "releaseYear": 2021
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 6600 XT",

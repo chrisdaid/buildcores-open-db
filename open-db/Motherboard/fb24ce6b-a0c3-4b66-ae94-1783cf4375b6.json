@@ -27,15 +27,15 @@
   "metadata": {
     "name": "Z590 AORUS XTREME",
     "manufacturer": "Gigabyte",
-    "part_number": null,
+    "part_numbers": [],
     "series": "AORUS",
     "variant": null,
-    "releaseYear": 2021,
-    "part_numbers": []
+    "releaseYear": 2021
   },
   "socket": "LGA1200",
   "form_factor": "EATX",
   "chipset": "Intel Z590",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "4.0",
@@ -107,7 +107,6 @@
     "1 x optical S/PDIF Out connector",
     "5 x audio jacks"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B083HZ86V5",
     "newegg_sku": "9SIBMM4KC25104",

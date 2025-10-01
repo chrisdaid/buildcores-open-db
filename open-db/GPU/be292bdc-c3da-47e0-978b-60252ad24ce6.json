@@ -9,11 +9,10 @@
   "metadata": {
     "name": "MSI Radeon™ RX 7600 MECH 2X CLASSIC 8G OC",
     "manufacturer": "MSI",
-    "part_number": null,
+    "part_numbers": [],
     "series": "MECH 2X",
     "variant": "CLASSIC",
-    "releaseYear": 2023,
-    "part_numbers": []
+    "releaseYear": 2023
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 7600",

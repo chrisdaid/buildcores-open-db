@@ -9,11 +9,10 @@
   "metadata": {
     "name": "AMD Radeon RX 7900 XT Triple Fan",
     "manufacturer": "PowerColor",
-    "part_number": "RX7900XT20G",
+    "part_numbers": [],
     "series": "RX 7000 Series",
     "variant": null,
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 7900 XT",

@@ -12,11 +12,10 @@
   "metadata": {
     "name": "Silverstone Strider 650 W 80+ Gold Certified Fully Modular ATX Power Supply",
     "manufacturer": "SilverStone",
-    "part_number": "ST65F-G",
+    "part_numbers": [],
     "series": "Strider Gold S",
     "variant": "ST65F-G",
-    "releaseYear": 2018,
-    "part_numbers": []
+    "releaseYear": 2018
   },
   "wattage": 650,
   "form_factor": "ATX",

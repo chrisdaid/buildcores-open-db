@@ -36,6 +36,8 @@
   "riser_expansion_slots": 3,
   "internal_2_5_bays": 5,
   "internal_3_5_bays": 2,
+  "side_panel": "Tempered Glass",
+  "power_supply_shroud": true,
   "general_product_information": {
     "amazon_sku": "B0CHN643V2",
     "newegg_sku": "N82E16811173056",

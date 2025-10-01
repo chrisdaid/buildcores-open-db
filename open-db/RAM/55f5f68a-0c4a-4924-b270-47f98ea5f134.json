@@ -1,15 +1,15 @@
 {
   "opendb_id": "55f5f68a-0c4a-4924-b270-47f98ea5f134",
   "modules": {
-    "capacity_gb": 16,
-    "quantity": 2
+    "quantity": 2,
+    "capacity_gb": 16
   },
   "metadata": {
+    "name": "Thermaltake TOUGHRAM XG RGB D5 32GB (2x16GB) DDR5 6000MT/s C36 Memory Black/Gray",
+    "manufacturer": "Thermaltake",
     "part_numbers": [
       "RG34D516GX2-6000C36B"
     ],
-    "manufacturer": "Thermaltake",
-    "name": "Thermaltake TOUGHRAM XG RGB D5 32GB (2x16GB) DDR5 6000MT/s C36 Memory Black/Gray",
     "series": "TOUGHRAM XG RGB",
     "variant": "Black/Gray"
   },

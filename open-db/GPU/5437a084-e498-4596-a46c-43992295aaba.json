@@ -9,11 +9,10 @@
   "metadata": {
     "name": "GeForce RTX 3070 VENTUS 3X PLUS 8G OC LHR",
     "manufacturer": "MSI",
-    "part_number": "G3070V3XCL",
+    "part_numbers": [],
     "series": "GeForce RTX 3070 VENTUS",
     "variant": "OC LHR",
-    "releaseYear": null,
-    "part_numbers": []
+    "releaseYear": null
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 3070",

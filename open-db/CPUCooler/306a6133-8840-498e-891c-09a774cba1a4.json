@@ -3,11 +3,10 @@
   "metadata": {
     "name": "be quiet! Dark Rock 3",
     "manufacturer": "be quiet!",
-    "part_number": "BK018",
+    "part_numbers": [],
     "series": "Dark Rock",
     "variant": null,
-    "releaseYear": 2014,
-    "part_numbers": []
+    "releaseYear": 2014
   },
   "min_fan_rpm": 400,
   "max_fan_rpm": 1400,

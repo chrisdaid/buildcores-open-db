@@ -9,14 +9,14 @@
   "metadata": {
     "name": "ASUS ROG Strix GeForce RTX 4080 SUPER White Edition Gaming Graphics Card (PCIe 4.0, 16GB GDDR6X, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, Vapor Chamber, Aura Sync)",
     "manufacturer": "ASUS",
-    "part_number": "ROG-STRIX-RTX4080S-16G-WHITE",
+    "part_numbers": [],
     "series": "ROG Strix",
     "variant": "White Edition",
-    "releaseYear": 2024,
-    "part_numbers": []
+    "releaseYear": 2024
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 4080 SUPER",
+  "core_count": 10240,
   "memory": 16,
   "memory_type": "GDDR6X",
   "core_base_clock": 2550,
@@ -24,6 +24,7 @@
   "effective_memory_clock": 2670,
   "memory_bus": 256,
   "interface": "PCI Express 4.0",
+  "color": [],
   "frame_sync": null,
   "length": 358,
   "tdp": 350,
@@ -40,8 +41,6 @@
     "vga": 0,
     "_id": "67bb9a46656a333a9fdf61c1"
   },
-  "color": [],
-  "core_count": 10240,
   "general_product_information": {
     "amazon_sku": "B0CSZCBYFW",
     "newegg_sku": "N82E16814126703",

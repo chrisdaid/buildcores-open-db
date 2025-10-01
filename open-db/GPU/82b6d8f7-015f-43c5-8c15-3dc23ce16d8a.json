@@ -9,11 +9,10 @@
   "metadata": {
     "name": "Radeon RX 580",
     "manufacturer": "XFX",
-    "part_number": "RX-580P8DFD6",
+    "part_numbers": [],
     "series": "GTS RX 580 XXX",
     "variant": "XXX Edition",
-    "releaseYear": 2017,
-    "part_numbers": []
+    "releaseYear": 2017
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 580",
