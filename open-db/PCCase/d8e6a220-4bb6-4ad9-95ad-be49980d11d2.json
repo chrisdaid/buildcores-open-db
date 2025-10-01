@@ -9,7 +9,7 @@
     "series": "Hyperion ",
     "variant": "GR701"
   },
-  "form_factor": " EATX Mid Tower",
+  "form_factor": "EATX Full Tower",
   "has_transparent_side_panel": true,
   "front_panel_usb": "4 x USB 3.2Gen1                                     1 x USB 3.2 Gen2 Type C                                     1 x USB 3.2 Gen 2x2 Type C",
   "front_usb_ports": [
