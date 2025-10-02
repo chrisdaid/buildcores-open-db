@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASUS ROG Maximus XII Extreme",
     "manufacturer": "ASUS",
-    "part_number": "ROG MAXIMUS XII EXTREME",
+    "part_numbers": [],
     "series": "ROG Maximus",
     "variant": "Extreme",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "socket": "LGA1200",
   "form_factor": "EATX",
   "chipset": "Intel Z490",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "3.0",
@@ -105,7 +105,6 @@
     "1xLAN",
     "1xOpticalS/PDIF"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B087LKNCW3",
     "newegg_sku": "9SIBTK0KAU9488",

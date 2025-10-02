@@ -7,11 +7,10 @@
   "metadata": {
     "name": "DOMINATOR PLATINUM RGB 64GB (4x16GB) DDR4 3200MHz C16 Memory Kit - White",
     "manufacturer": "Corsair",
-    "part_number": "CMT64GX4M4C3200C16W",
+    "part_numbers": [],
     "series": "Dominator Platinum RGB",
     "variant": "3200MHz C16",
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "speed": 3200,
   "ram_type": "DDR4",

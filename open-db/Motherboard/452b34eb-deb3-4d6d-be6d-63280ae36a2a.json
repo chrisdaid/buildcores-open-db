@@ -27,15 +27,15 @@
   "metadata": {
     "name": "MSI Performance Gaming AMD Ryzen 2ND and 3rd Gen AM4 M.2 USB 3 DDR4 DVI HDMI Crossfire ATX Motherboard (B450 GAMING PLUS Max)",
     "manufacturer": "MSI",
-    "part_number": "B450 GAMING PLUS MAX",
+    "part_numbers": [],
     "series": "B450 GAMING PLUS MAX",
     "variant": null,
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "socket": "AM4",
   "form_factor": "ATX",
   "chipset": "AMD B450",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "3.0",
@@ -89,7 +89,6 @@
     "Audio Jacks",
     "Flash BIOS Button"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B07XHH4YG4",
     "newegg_sku": "9SIBWH3K9Z4769",

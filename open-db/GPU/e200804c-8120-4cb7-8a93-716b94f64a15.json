@@ -9,11 +9,10 @@
   "metadata": {
     "name": "EVGA GeForce RTX 3050 XC GAMING",
     "manufacturer": "EVGA",
-    "part_number": "08G-P5-3553-KR",
+    "part_numbers": [],
     "series": "XC GAMING",
     "variant": "RTX 3050",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 3050",
