@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASUS ProArt Z490-CREATOR 10G Intel Z490 LGA 1200 ATX Content Creation Motherboard",
     "manufacturer": "ASUS",
-    "part_number": null,
+    "part_numbers": [],
     "series": "ProArt",
     "variant": null,
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "socket": "LGA1200",
   "form_factor": "ATX",
   "chipset": "Intel Z490",
+  "color": [],
   "pcie_slots": [],
   "m2_slots": [],
   "onboard_ethernet": [
@@ -67,7 +67,6 @@
     "Intel I225-V 2.5Gb LAN",
     "HYPER 10G LAN"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B087YVMZ5K",
     "newegg_sku": "9SIAGBAJBN0859",

@@ -9,11 +9,10 @@
   "metadata": {
     "name": "PowerColor Radeon RX 6750 XT Red Devil 12GB GDDR6",
     "manufacturer": "PowerColor",
-    "part_number": "AXRX 6750XT 12GBD6-3DHE-OC",
+    "part_numbers": [],
     "series": "Red Devil",
     "variant": null,
-    "releaseYear": null,
-    "part_numbers": []
+    "releaseYear": null
   },
   "chipset_manufacturer": "AMD",
   "chipset": "RX 6750 XT",

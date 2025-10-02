@@ -17,6 +17,7 @@
   "cache": null,
   "nvme": true,
   "general_product_information": {
-    "amazon_sku": "B0FD2LGBZF"
+    "amazon_sku": "B0FD2LGBZF",
+    "newegg_sku": "0D9-001B-005C6"
   }
 }

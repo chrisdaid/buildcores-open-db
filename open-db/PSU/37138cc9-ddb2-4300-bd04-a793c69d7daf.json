@@ -12,11 +12,10 @@
   "metadata": {
     "name": "SeaSonic PRIME PX-1300 1300 W 80+ Platinum Certified Fully Modular ATX Power Supply",
     "manufacturer": "SeaSonic",
-    "part_number": "SSR-1300PD",
+    "part_numbers": [],
     "series": "PRIME PX",
     "variant": "1300W",
-    "releaseYear": 2018,
-    "part_numbers": []
+    "releaseYear": 2018
   },
   "wattage": 1300,
   "form_factor": "ATX",

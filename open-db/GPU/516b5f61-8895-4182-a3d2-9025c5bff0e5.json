@@ -9,11 +9,10 @@
   "metadata": {
     "name": "AMD Radeon RX 580",
     "manufacturer": "Various",
-    "part_number": null,
+    "part_numbers": [],
     "series": "Radeon RX 500 Series",
     "variant": null,
-    "releaseYear": 2017,
-    "part_numbers": []
+    "releaseYear": 2017
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 580",

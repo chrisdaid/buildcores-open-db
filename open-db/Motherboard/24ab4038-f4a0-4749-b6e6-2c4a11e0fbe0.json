@@ -27,15 +27,15 @@
   "metadata": {
     "name": "TRX50 AERO D",
     "manufacturer": "Gigabyte",
-    "part_number": "TRX50 AERO D",
+    "part_numbers": [],
     "series": "TRX50 AERO D",
     "variant": null,
-    "releaseYear": 2023,
-    "part_numbers": []
+    "releaseYear": 2023
   },
   "socket": "sTR5",
   "form_factor": "EATX",
   "chipset": "AMD TRX50",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "5.0",
@@ -113,7 +113,6 @@
     "2 x RJ-45 ports",
     "2 x audio jacks"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B0CPW1F841",
     "walmart_sku": 5211078073

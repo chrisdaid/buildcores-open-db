@@ -27,15 +27,15 @@
   "metadata": {
     "name": "MSI B450 GAMING PLUS MAX",
     "manufacturer": "MSI",
-    "part_number": null,
+    "part_numbers": [],
     "series": "B450 GAMING PLUS MAX",
     "variant": null,
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "socket": "AM4",
   "form_factor": "ATX",
   "chipset": "AMD B450",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "3.0",
@@ -90,7 +90,6 @@
     "HDMI™ Port",
     "USB 3.2 Gen2"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B07V9L4RT6",
     "walmart_sku": 116350751

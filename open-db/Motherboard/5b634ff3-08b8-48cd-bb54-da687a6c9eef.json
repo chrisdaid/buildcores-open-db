@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASRock X399 Taichi",
     "manufacturer": "ASRock",
-    "part_number": null,
+    "part_numbers": [],
     "series": null,
     "variant": null,
-    "releaseYear": 2017,
-    "part_numbers": []
+    "releaseYear": 2017
   },
   "socket": "TR4",
   "form_factor": "ATX",
   "chipset": "AMD X399",
+  "color": [],
   "pcie_slots": [],
   "m2_slots": [],
   "onboard_ethernet": [
@@ -54,7 +54,6 @@
     "_id": "67bd298969cf807c9c205086"
   },
   "back_panel_ports": [],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B074J5R36W",
     "newegg_sku": "N82E16813119104R",

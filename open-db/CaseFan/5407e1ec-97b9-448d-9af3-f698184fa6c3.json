@@ -1,11 +1,11 @@
 {
   "opendb_id": "5407e1ec-97b9-448d-9af3-f698184fa6c3",
   "metadata": {
-    "name": "Montech HP 140mm White 95.61 CFM PWM Addressable RGB 1-Pack",
+    "name": "Montech HP 140mm White Addressable RGB PWM 95.61 CFM 1-Pack",
     "manufacturer": "Montech",
-    "part_numbers": [],
     "series": "HP",
-    "variant": "140mm White"
+    "variant": "140mm White",
+    "part_numbers": []
   },
   "size": 140,
   "color": [

@@ -9,11 +9,10 @@
   "metadata": {
     "name": "SAPPHIRE PULSE Radeon RX 580 8GB GDDR5 PCI-E Dual HDMI / DVI-D / Dual DP OC w/ Backplate (UEFI), 100411P8GOCL",
     "manufacturer": "SAPPHIRE",
-    "part_number": "100411P8GOCL",
+    "part_numbers": [],
     "series": "PULSE",
     "variant": "8GB GDDR5",
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 580",

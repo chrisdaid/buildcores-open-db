@@ -32,10 +32,10 @@
     "reset_button": true
   },
   "power_connectors": {
+    "main_power": "24-pin",
     "cpu_power": [
       "8-pin"
-    ],
-    "main_power": "24-pin"
+    ]
   },
   "audio": {
     "chipset": "Realtek",
@@ -98,6 +98,7 @@
       "_id": "67f9b909865ad0c3553dd49c"
     }
   ],
+  "wireless_networking": "Realtek® Wi-Fi 7                             BLUETOOTH 5.4",
   "ecc_support": false,
   "raid_support": true,
   "back_connect_connectors": false,
@@ -119,7 +120,6 @@
     "2 x audio jacks",
     "1 x optical S/PDIF Out connector"
   ],
-  "wireless_networking": "Realtek® Wi-Fi 7                             BLUETOOTH 5.4",
   "general_product_information": {
     "amazon_sku": "B0DQLKRXKW",
     "newegg_sku": "N82E16813145544",

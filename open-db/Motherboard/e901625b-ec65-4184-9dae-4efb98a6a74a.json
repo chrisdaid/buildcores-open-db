@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASRock Z390 Phantom Gaming-ITX/ac Mini ITX LGA1151 Motherboard",
     "manufacturer": "ASRock",
-    "part_number": "Z390 Phantom Gaming-ITX/ac",
+    "part_numbers": [],
     "series": "Phantom Gaming",
     "variant": "ITX/ac",
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "socket": "LGA1151",
   "form_factor": "Mini-ITX",
   "chipset": "Intel Z390",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "3.0",
@@ -85,7 +85,6 @@
     "1 x Clear CMOS Button",
     "HD Audio Jacks: Rear Speaker / Central / Bass / Line in / Front Speaker / Microphone (Gold Audio Jacks)"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B07HYNL939",
     "walmart_sku": 780958637

@@ -9,11 +9,10 @@
   "metadata": {
     "name": "GeForce GTX 1660 GAMING X 6G",
     "manufacturer": "MSI",
-    "part_number": "GTX 1660 GAMING X 6G, G1660GX6, GEFORCE GTX 1660 GAMING X 6G, 912-V379-009, V379-001R",
+    "part_numbers": [],
     "series": "GeForce GTX 1660",
     "variant": "GAMING X",
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce GTX 1660",

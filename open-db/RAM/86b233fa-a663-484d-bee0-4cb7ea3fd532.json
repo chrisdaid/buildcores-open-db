@@ -7,11 +7,10 @@
   "metadata": {
     "name": "Crucial Ballistix 3200 MHz DDR4 DRAM Desktop Gaming Memory Kit 16GB (8GBx2) CL16 BL2K8G32C16U4B (Black)",
     "manufacturer": "Crucial",
-    "part_number": "BL2K8G32C16U4B",
+    "part_numbers": [],
     "series": "Ballistix Sport",
     "variant": "3200 MHz",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "speed": 3200,
   "ram_type": "DDR4",

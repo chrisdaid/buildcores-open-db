@@ -9,11 +9,10 @@
   "metadata": {
     "name": "MSI GeForce GTX 1660 Ti VENTUS XS 6G OC",
     "manufacturer": "MSI",
-    "part_number": null,
+    "part_numbers": [],
     "series": "Ventus",
     "variant": "XS OC",
-    "releaseYear": 2018,
-    "part_numbers": []
+    "releaseYear": 2018
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce GTX 1660 Ti",
