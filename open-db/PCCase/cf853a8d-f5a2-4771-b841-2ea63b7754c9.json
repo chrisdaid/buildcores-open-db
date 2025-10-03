@@ -38,6 +38,8 @@
   },
   "general_product_information": {
     "amazon_sku": "B084BNS4NP",
-    "newegg_sku": "N82E16811133425"
+    "newegg_sku": "N82E16811133425",
+    "walmart_sku": 714358976,
+    "manufacturer_url": "https://www.thermaltake.com/s300-tg-snow-mid-tower.html"
   }
 }

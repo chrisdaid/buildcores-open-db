@@ -16,20 +16,30 @@
   "power_supply": "None",
   "side_panel": "Tinted Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 2 Type-CUSB 3.2 Gen 1 Type-A",
+  "front_panel_usb": "1x USB 3.2 Gen 2 Type-C                                                         2x USB 3.1",
   "max_video_card_length": 370,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 170,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 3,
   "expansion_slots": 7,
-  "dimensions": "",
-  "volume": null,
-  "weight": null,
+  "dimensions": "502 x 233 x 508",
+  "volume": 59.6,
+  "weight": 29.365573,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "1x USB 3.2 Gen 2 Type-C ",
+    "2x USB 3.1"
+  ],
+  "dimensions_mm": {
+    "width": 233,
+    "height": 508,
+    "depth": 502,
+    "_id": "68df66825f8b7709dd06284f"
+  },
   "general_product_information": {
     "amazon_sku": "B074T6691B",
     "newegg_sku": "9SIAET8ECD2757",
-    "walmart_sku": 544671030
+    "walmart_sku": 544671030,
+    "manufacturer_url": "https://www.corsair.com/us/en/p/pc-cases/cc-9011116-ww/obsidian-series-500d-premium-mid-tower-case-cc-9011116-ww"
   }
 }

@@ -27,7 +27,9 @@
   "volume": 46.218,
   "weight": 15.8733,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "2x USB 3.0"
+  ],
   "dimensions_mm": {
     "width": 215,
     "height": 454,
@@ -37,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B08KTMB9N7",
     "newegg_sku": "N82E16811352171",
-    "walmart_sku": 1015679300
+    "walmart_sku": 1015679300,
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/pop/pop-air/rgb-black-tg-clear/"
   }
 }
