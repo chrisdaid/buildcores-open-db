@@ -9,11 +9,10 @@
   "metadata": {
     "name": "TUF-RTX3070TI-8G-GAMING",
     "manufacturer": "ASUS",
-    "part_number": "TUF-RTX3070TI-8G-GAMING",
+    "part_numbers": [],
     "series": "TUF Gaming",
     "variant": null,
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 3070 Ti",

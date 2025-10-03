@@ -3,11 +3,10 @@
   "metadata": {
     "name": "SABRENT Rocket 5 1TB Advanced Performance Internal M.2 PCIe GEN 5 14GB/s X4 NVMe SSD",
     "manufacturer": "SABRENT",
-    "part_number": "SB-RKT5-1TB",
+    "part_numbers": [],
     "series": "Rocket 5",
     "variant": null,
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "capacity": 1000,
   "type": "SSD",

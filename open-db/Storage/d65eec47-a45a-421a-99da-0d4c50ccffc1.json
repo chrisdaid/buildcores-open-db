@@ -3,11 +3,10 @@
   "metadata": {
     "name": "Sabrent Rocket Q 2TB,Internal,M.2 2280 (SB-RKTQ-2TB) SSD",
     "manufacturer": "SABRENT",
-    "part_number": "SBRKTQ2TB",
+    "part_numbers": [],
     "series": "Rocket Q",
     "variant": null,
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "capacity": 2000,
   "type": "SSD",

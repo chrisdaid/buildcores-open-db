@@ -9,11 +9,10 @@
   "metadata": {
     "name": "ASUS ROG Strix GeForce RTX 3060 Ti OC Edition",
     "manufacturer": "ASUS",
-    "part_number": "ROG-STRIX-RTX3060TI-O8G-GAMING",
+    "part_numbers": [],
     "series": "ROG STRIX",
     "variant": "OC Edition",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 3060 Ti",

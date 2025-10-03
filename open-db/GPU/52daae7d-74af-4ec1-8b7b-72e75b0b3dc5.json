@@ -9,11 +9,10 @@
   "metadata": {
     "name": "ZOTAC GAMING GeForce GTX 1650 SUPER Twin Fan",
     "manufacturer": "ZOTAC",
-    "part_number": "ZT-T16510F-10L",
+    "part_numbers": [],
     "series": "GTX 1650 Super Twin Fan 4GB",
     "variant": "Twin Fan",
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce® GTX 1650 SUPER",

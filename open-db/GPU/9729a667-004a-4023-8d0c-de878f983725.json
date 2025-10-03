@@ -9,11 +9,10 @@
   "metadata": {
     "name": "ZOTAC GAMING GeForce GTX 1650 OC GDDR6",
     "manufacturer": "ZOTAC",
-    "part_number": "ZT-T16520F-10L",
+    "part_numbers": [],
     "series": "ZOTAC GAMING GeForce GTX 16 Series",
     "variant": "OC",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce GTX 1650",

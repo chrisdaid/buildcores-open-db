@@ -38,6 +38,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B093HJNWWX",
-    "walmart_sku": 614255302
+    "walmart_sku": 614255302,
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/meshify/meshify-2-lite/"
   }
 }

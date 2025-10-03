@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASUS Prime X470-PRO",
     "manufacturer": "ASUS",
-    "part_number": "Prime X470-PRO",
+    "part_numbers": [],
     "series": "Prime",
     "variant": "X470-PRO",
-    "releaseYear": 2018,
-    "part_numbers": []
+    "releaseYear": 2018
   },
   "socket": "AM4",
   "form_factor": "ATX",
   "chipset": "AMD X470",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "3.0",
@@ -90,7 +90,6 @@
     "Optical S/PDIF out",
     "Audio jack"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B07C57Q1XH",
     "newegg_sku": "9SIBWH3KA58277",

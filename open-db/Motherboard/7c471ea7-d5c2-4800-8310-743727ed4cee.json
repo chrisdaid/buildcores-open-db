@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASUS Republic of Gamers Maximus XI Code LGA 1151 ATX Motherboard",
     "manufacturer": "ASUS",
-    "part_number": "ROG MAXIMUS XI CODE",
+    "part_numbers": [],
     "series": "ROG Maximus XI",
     "variant": "Code",
-    "releaseYear": 2018,
-    "part_numbers": []
+    "releaseYear": 2018
   },
   "socket": "LGA1151",
   "form_factor": "ATX",
   "chipset": "Intel Z390",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "3.0",
@@ -93,7 +93,6 @@
     "S/PDIF",
     "5x 1/8\" / 3.5 mm"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B07HM4LX15",
     "newegg_sku": "9SIBWH3K9X0015",

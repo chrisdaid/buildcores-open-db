@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASRock B550 TAICHI Supports 3rd Gen AMD AM4 Ryzen/Future AMD Ryzen Processors Motherboard",
     "manufacturer": "ASRock",
-    "part_number": "B550 TAICHI",
+    "part_numbers": [],
     "series": "B550 TAICHI",
     "variant": null,
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "socket": "AM4",
   "form_factor": "ATX",
   "chipset": "AMD B550",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "4.0",
@@ -99,7 +99,6 @@
     "1 x BIOS Flashback Button",
     "HD Audio Jacks: Rear Speaker / Central / Bass / Line in / Front Speaker / Microphone (Gold Audio Jacks)"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B089RBRJMF",
     "bestbuy_sku": 6422283,

@@ -7,11 +7,10 @@
   "metadata": {
     "name": "PINNACLE MM1-KONDUIT Performance DDR4 UDIMM Memory White",
     "manufacturer": "Timetec",
-    "part_number": "PKMD4U32C16CNHW8G",
+    "part_numbers": [],
     "series": "Konduit",
     "variant": "3600MHz CL18 / 16GB Kit (2x8GB)",
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "speed": 3600,
   "ram_type": "DDR4",
