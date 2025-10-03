@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASUS ROG Maximus XI Hero (Wi-Fi) Z390 Gaming Motherboard LGA1151 (Intel 8th 9th Gen) ATX DDR4 DP HDMI M.2 USB 3.1 Gen2 802.11AC Wi-Fi",
     "manufacturer": "ASUS",
-    "part_number": null,
+    "part_numbers": [],
     "series": "ROG Maximus XI Hero",
     "variant": "Wi-Fi",
-    "releaseYear": 2018,
-    "part_numbers": []
+    "releaseYear": 2018
   },
   "socket": "LGA1151",
   "form_factor": "ATX",
   "chipset": "Intel Z390",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "3.0",
@@ -99,7 +99,6 @@
     "1 x ASUS Wi-Fi Module",
     "5 x Gold-plated audio jacks"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B07HCXT591",
     "newegg_sku": "9SIAPMXKC97927",
