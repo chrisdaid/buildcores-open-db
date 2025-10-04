@@ -3,11 +3,10 @@
   "metadata": {
     "name": "Seagate IronWolf NAS 10 TB 3.5\" 7200 RPM Internal Hard Drive",
     "manufacturer": "Seagate",
-    "part_number": "ST10000VN0008",
+    "part_numbers": [],
     "series": "IronWolf",
     "variant": "NAS",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "capacity": 10,
   "type": "HDD",

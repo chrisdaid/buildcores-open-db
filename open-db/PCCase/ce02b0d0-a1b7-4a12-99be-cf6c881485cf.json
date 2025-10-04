@@ -27,5 +27,7 @@
   "weight": null,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [],
-  "general_product_information": {}
+  "general_product_information": {
+    "walmart_sku": 743109943
+  }
 }
