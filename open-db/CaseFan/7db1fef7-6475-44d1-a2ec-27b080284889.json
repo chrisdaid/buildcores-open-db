@@ -1,11 +1,11 @@
 {
   "opendb_id": "7db1fef7-6475-44d1-a2ec-27b080284889",
   "metadata": {
-    "name": "Cooler Master Q300L White Default Fan",
+    "name": "Cooler Master White 120mm OEM Fan",
     "manufacturer": "Cooler Master",
-    "part_numbers": [],
     "series": "",
-    "variant": "120mm White"
+    "variant": "120mm White",
+    "part_numbers": []
   },
   "size": 120,
   "color": [

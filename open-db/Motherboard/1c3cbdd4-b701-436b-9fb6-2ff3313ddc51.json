@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASUS PRO B460M-C/CSM",
     "manufacturer": "ASUS",
-    "part_number": null,
+    "part_numbers": [],
     "series": "PRO",
     "variant": "B460M-C/CSM",
-    "releaseYear": 2020,
-    "part_numbers": []
+    "releaseYear": 2020
   },
   "socket": "LGA1200",
   "form_factor": "Micro ATX",
   "chipset": "Intel B460",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "3.0",
@@ -96,7 +96,6 @@
     "USB 2.0",
     "Audio jack(s)"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B087M212FF",
     "newegg_sku": "9SIBEJ2J151963",

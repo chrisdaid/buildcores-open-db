@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASUS PRIME Z790-P WIFI D4",
     "manufacturer": "ASUS",
-    "part_number": "PRIME-Z790-P-WIFI-D4",
+    "part_numbers": [],
     "series": "PRIME",
     "variant": "Z790-P WIFI D4",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "socket": "LGA1700",
   "form_factor": "ATX",
   "chipset": "Intel Z790",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "5.0",
@@ -103,7 +103,6 @@
     "3 x Audio jacks",
     "1 x PS/2 Keyboard/Mouse combo port"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B0BG6ML17L",
     "newegg_sku": "N82E16813119605",

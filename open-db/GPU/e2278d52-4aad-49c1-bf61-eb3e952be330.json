@@ -9,11 +9,10 @@
   "metadata": {
     "name": "EVGA GeForce RTX 2060 SC Ultra GAMING",
     "manufacturer": "EVGA",
-    "part_number": "06G-P4-2067-RX",
+    "part_numbers": [],
     "series": "GeForce RTX 2060",
     "variant": "SC Ultra GAMING",
-    "releaseYear": 0,
-    "part_numbers": []
+    "releaseYear": 0
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 2060",

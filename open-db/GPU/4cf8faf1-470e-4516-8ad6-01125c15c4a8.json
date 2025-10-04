@@ -9,11 +9,10 @@
   "metadata": {
     "name": "GeForce RTX™ 2060 VENTUS GP 12G OC",
     "manufacturer": "MSI",
-    "part_number": null,
+    "part_numbers": [],
     "series": "GeForce RTX 2060 VENTUS",
     "variant": "GP 12G OC",
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 2060",

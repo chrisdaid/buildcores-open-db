@@ -9,11 +9,10 @@
   "metadata": {
     "name": "GeForce RTX 4070 Ti SUPRIM 12G",
     "manufacturer": "MSI",
-    "part_number": null,
+    "part_numbers": [],
     "series": "SUPRIM",
     "variant": null,
-    "releaseYear": 2023,
-    "part_numbers": []
+    "releaseYear": 2023
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 4070 Ti",
