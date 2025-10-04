@@ -15,6 +15,7 @@
   "interface": "SATA 3.0 Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B00272NHP4"
+    "amazon_sku": "B00272NHP4",
+    "walmart_sku": 44443240
   }
 }

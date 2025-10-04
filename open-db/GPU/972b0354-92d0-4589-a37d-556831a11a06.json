@@ -9,11 +9,10 @@
   "metadata": {
     "name": "PNY NVIDIA® GeForce® GT 1030 Graphics Card",
     "manufacturer": "PNY",
-    "part_number": "VCGGT10302PB-BB",
+    "part_numbers": [],
     "series": null,
     "variant": null,
-    "releaseYear": 2017,
-    "part_numbers": []
+    "releaseYear": 2017
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce GT 1030",
