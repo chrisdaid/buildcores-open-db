@@ -9,11 +9,10 @@
   "metadata": {
     "name": "MSI GeForce RTX™ 4070 VENTUS 2X 12G OC",
     "manufacturer": "MSI",
-    "part_number": null,
+    "part_numbers": [],
     "series": "Ventus",
     "variant": "RTX 4070 12G OC",
-    "releaseYear": 2023,
-    "part_numbers": []
+    "releaseYear": 2023
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 4070",

@@ -9,11 +9,10 @@
   "metadata": {
     "name": "MSI GeForce RTX™ 4080 16GB GAMING X TRIO",
     "manufacturer": "MSI",
-    "part_number": "G408016GXT",
+    "part_numbers": [],
     "series": "GAMING X TRIO",
     "variant": "RTX 4080",
-    "releaseYear": 2022,
-    "part_numbers": []
+    "releaseYear": 2022
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 4080",

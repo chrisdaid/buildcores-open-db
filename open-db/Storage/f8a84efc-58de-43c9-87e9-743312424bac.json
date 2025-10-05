@@ -3,11 +3,10 @@
   "metadata": {
     "name": "Seagate BarraCuda ESA-3502 Internal Hard Drive 3.5 Inches - 500 GB (ST500DM002) + Silicone HDD 3.5 Inch Protective Cover - White",
     "manufacturer": "Seagate",
-    "part_number": "ST500DM002",
+    "part_numbers": [],
     "series": "BarraCuda",
     "variant": "ESA-3502",
-    "releaseYear": 2012,
-    "part_numbers": []
+    "releaseYear": 2012
   },
   "capacity": 500,
   "type": "HDD",
@@ -15,7 +14,7 @@
   "interface": "SATA 6Gb/s",
   "nvme": false,
   "general_product_information": {
-    "amazon_sku": "B005EE5P84",
+    "amazon_sku": "B005CT56R6",
     "walmart_sku": 871895320
   }
 }

@@ -9,11 +9,10 @@
   "metadata": {
     "name": "MSI GeForce RTX™ 4070 SUPER 12G VENTUS 2X OC",
     "manufacturer": "MSI",
-    "part_number": "G407S12GV2XC",
+    "part_numbers": [],
     "series": "GeForce RTX 4070 SUPER",
     "variant": "VENTUS 2X OC",
-    "releaseYear": 2024,
-    "part_numbers": []
+    "releaseYear": 2024
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 4070 SUPER",

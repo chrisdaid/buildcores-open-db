@@ -27,15 +27,15 @@
   "metadata": {
     "name": "ASUS ROG Strix X299-E Gaming LGA 2066 ATX Motherboard",
     "manufacturer": "ASUS",
-    "part_number": "ROG STRIX X299-E GAMING",
+    "part_numbers": [],
     "series": "ROG Strix X299-E Gaming",
     "variant": null,
-    "releaseYear": 2017,
-    "part_numbers": []
+    "releaseYear": 2017
   },
   "socket": "LGA2066",
   "form_factor": "ATX",
   "chipset": "Intel X299",
+  "color": [],
   "pcie_slots": [
     {
       "gen": "3.0",
@@ -94,7 +94,6 @@
     "S/PDIF",
     "Ethernet"
   ],
-  "color": [],
   "general_product_information": {
     "amazon_sku": "B072MCN1FD",
     "newegg_sku": "9SIBTK0KAS3911",
