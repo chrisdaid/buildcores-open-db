@@ -3,11 +3,10 @@
   "metadata": {
     "name": "SABRENT 1TB Rocket NVMe 4.0 Gen4 PCIe M.2 Internal SSD Extreme Performance Solid State Drive (SB-ROCKET-NVMe4-1TB)",
     "manufacturer": "SABRENT",
-    "part_number": "SB-ROCKET-NVMe4-1TB",
+    "part_numbers": [],
     "series": "Rocket 4.0",
     "variant": null,
-    "releaseYear": 2023,
-    "part_numbers": []
+    "releaseYear": 2023
   },
   "capacity": 1000,
   "type": "SSD",
