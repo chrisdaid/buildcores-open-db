@@ -9,11 +9,10 @@
   "metadata": {
     "name": "MSI GeForce RTX 2080 TI VENTUS 11G OC GeForce RTX 2080 Ti 11 GB Video Card",
     "manufacturer": "MSI",
-    "part_number": "G208TV11C",
+    "part_numbers": [],
     "series": "RTX 2080 Ti",
     "variant": "VentUs 11G OC",
-    "releaseYear": 2018,
-    "part_numbers": []
+    "releaseYear": 2018
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 2080 Ti",
