@@ -46,6 +46,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B0924NWHW4"
+    "amazon_sku": "B0924NWHW4",
+    "walmart_sku": 187808815
   }
 }
