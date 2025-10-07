@@ -7,7 +7,8 @@
       "HVN-CA-BF360-03"
     ],
     "series": "BF",
-    "variant": "360 FLOW WHITE"
+    "variant": "360 FLOW WHITE",
+    "releaseYear": 2025
   },
   "color": [
     "WHITE"
@@ -34,5 +35,8 @@
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "form_factor": "ATX Mid Tower",
-  "general_product_information": {}
+  "expansion_slots": 7,
+  "general_product_information": {
+    "amazon_sku": "B0FR6P9BG5"
+  }
 }

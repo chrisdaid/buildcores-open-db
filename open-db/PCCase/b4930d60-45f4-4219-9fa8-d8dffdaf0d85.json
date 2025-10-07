@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B08KTM51SZ",
     "newegg_sku": "N82E16811352172",
-    "walmart_sku": 1245326267
+    "walmart_sku": 1245326267,
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/pop/pop-air/rgb-magenta-core/"
   }
 }

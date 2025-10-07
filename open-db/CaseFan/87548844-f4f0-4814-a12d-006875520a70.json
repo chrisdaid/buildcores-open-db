@@ -19,5 +19,9 @@
   "max_noise_level": 32.2,
   "pwm": true,
   "static_pressure": 3,
-  "general_product_information": {}
+  "flow_direction": "Standard",
+  "general_product_information": {
+    "amazon_sku": "B0FSLCSRBX",
+    "manufacturer_url": "https://havn.global/products/havn-h12-pc-case-fan"
+  }
 }

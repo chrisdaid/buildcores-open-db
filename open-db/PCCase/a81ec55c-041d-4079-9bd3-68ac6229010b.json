@@ -7,7 +7,8 @@
       "HVN-CA-BF360-02"
     ],
     "series": "BF",
-    "variant": "360 BLACK"
+    "variant": "360 BLACK",
+    "releaseYear": 2025
   },
   "color": [
     "BLACK"
@@ -35,5 +36,9 @@
   "dimensions": "515 x 254 x 522.6",
   "internal_3_5_bays": 1,
   "internal_2_5_bays": 1,
-  "general_product_information": {}
+  "expansion_slots": 7,
+  "general_product_information": {
+    "amazon_sku": "B0FR5L1TGW",
+    "manufacturer_url": "https://havn.global/products/bf-360"
+  }
 }

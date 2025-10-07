@@ -19,5 +19,9 @@
   "max_noise_level": 30.8,
   "pwm": true,
   "static_pressure": 2.19,
-  "general_product_information": {}
+  "flow_direction": "Standard",
+  "general_product_information": {
+    "amazon_sku": "B0FSLBY4JZ",
+    "manufacturer_url": "https://havn.global/products/havn-h14-pc-case-fan"
+  }
 }

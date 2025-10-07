@@ -23,7 +23,7 @@
   "internal_2_5_bays": 2,
   "expansion_slots": 4,
   "dimensions": " 376x208x405",
-  "volume": null,
+  "volume": 31.35,
   "weight": 10.8,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
@@ -37,6 +37,8 @@
     "_id": "68be94aa0e06db1ea4f420e5"
   },
   "general_product_information": {
-    "amazon_sku": "B082LZ844J"
+    "amazon_sku": "B082LZ844J",
+    "newegg_sku": "2AM-008X-00007",
+    "manufacturer_url": "https://www.darkflash.com/product/dlm21matx"
   }
 }

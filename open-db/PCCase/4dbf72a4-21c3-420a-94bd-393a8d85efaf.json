@@ -20,8 +20,8 @@
   "internal_3_5_bays": 1,
   "internal_2_5_bays": 2,
   "expansion_slots": 5,
-  "dimensions": "422 x 332 x 380 mm",
-  "volume": 0,
+  "dimensions": "422 x 332 x 380 ",
+  "volume": 53.24,
   "weight": 20.9,
   "color": [],
   "supported_power_supply_form_factors": [],
@@ -37,6 +37,7 @@
   "general_product_information": {
     "amazon_sku": "B06XFW9W43",
     "newegg_sku": "9SIB11NJRY4795",
-    "walmart_sku": 581571435
+    "walmart_sku": 581571435,
+    "manufacturer_url": "https://www.thermaltake.com/core-p1-tg-mini-itx.html"
   }
 }

@@ -7,7 +7,8 @@
       "HVN-CA-BF360-04"
     ],
     "series": "BF",
-    "variant": "360 FLOW BLACK"
+    "variant": "360 FLOW BLACK",
+    "releaseYear": 2025
   },
   "color": [
     "BLACK"
@@ -34,5 +35,8 @@
   },
   "volume": 68.361306,
   "weight": 32.61,
-  "general_product_information": {}
+  "expansion_slots": 7,
+  "general_product_information": {
+    "amazon_sku": "B0FR5XTKVZ"
+  }
 }

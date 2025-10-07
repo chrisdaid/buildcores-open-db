@@ -19,5 +19,8 @@
   "max_noise_level": 35,
   "pwm": true,
   "static_pressure": 2.19,
-  "general_product_information": {}
+  "flow_direction": "Standard",
+  "general_product_information": {
+    "manufacturer_url": "https://havn.global/products/havn-h18-pc-case-fan"
+  }
 }

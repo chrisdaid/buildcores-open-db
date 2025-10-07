@@ -20,7 +20,7 @@
   "internal_3_5_bays": 6,
   "internal_2_5_bays": 4,
   "expansion_slots": 7,
-  "dimensions": "547 x 240 x 475 mm",
+  "dimensions": "547 x 240 x 475 ",
   "volume": 57.7,
   "weight": 29.7,
   "color": [],
@@ -36,9 +36,11 @@
     "depth": 547,
     "_id": "68be6b0d506c50c04a3e4198"
   },
+  "riser_expansion_slots": 2,
   "general_product_information": {
     "amazon_sku": "B08146VVWT",
     "newegg_sku": "N82E16811352114",
-    "walmart_sku": 111021684
+    "walmart_sku": 111021684,
+    "manufacturer_url": "https://www.fractal-design.com/products/cases/define/define-7/black-tg-dark-tint/"
   }
 }

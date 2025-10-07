@@ -5,7 +5,8 @@
     "manufacturer": "HAVN",
     "part_numbers": [],
     "series": "H",
-    "variant": "12 WHITE"
+    "variant": "12 WHITE",
+    "releaseYear": 2025
   },
   "size": 120,
   "color": [
@@ -18,5 +19,9 @@
   "max_noise_level": 32.2,
   "pwm": true,
   "static_pressure": 3,
-  "general_product_information": {}
+  "flow_direction": "Standard",
+  "general_product_information": {
+    "amazon_sku": "B0FSL95CGC",
+    "manufacturer_url": "https://havn.global/products/havn-h12-pc-case-fan?variant=56269564576128"
+  }
 }
