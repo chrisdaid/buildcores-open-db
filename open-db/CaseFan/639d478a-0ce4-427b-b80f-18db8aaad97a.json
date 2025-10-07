@@ -3,12 +3,21 @@
   "metadata": {
     "name": "HAVN H18 Black",
     "manufacturer": "HAVN",
-    "part_numbers": []
+    "part_numbers": [],
+    "series": "H",
+    "variant": "18 BLACK",
+    "releaseYear": 2025
   },
   "size": 180,
   "color": [
     "BLACK"
   ],
   "quantity": 1,
+  "min_airflow": 0,
+  "max_airflow": 164.63,
+  "min_noise_level": 0,
+  "max_noise_level": 35,
+  "pwm": true,
+  "static_pressure": 2.19,
   "general_product_information": {}
 }

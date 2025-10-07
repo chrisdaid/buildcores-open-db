@@ -3,12 +3,21 @@
   "metadata": {
     "name": "HAVN H14 White",
     "manufacturer": "HAVN",
-    "part_numbers": []
+    "part_numbers": [],
+    "series": "H",
+    "variant": "14 WHITE",
+    "releaseYear": 2025
   },
   "size": 140,
   "color": [
     "WHITE"
   ],
   "quantity": 1,
+  "min_airflow": 0,
+  "max_airflow": 85.18,
+  "min_noise_level": 0,
+  "max_noise_level": 30.8,
+  "pwm": true,
+  "static_pressure": 2.19,
   "general_product_information": {}
 }
