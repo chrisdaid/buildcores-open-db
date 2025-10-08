@@ -16,7 +16,7 @@
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.0 x 1,                                                                   Type-C 3.2 Gen 2 x 1,",
+  "front_panel_usb": "USB 3.0 x 1                                                               Type-C 3.2 Gen 2 x 1",
   "max_video_card_length": 415,
   "max_cpu_cooler_height": 160,
   "internal_3_5_bays": 1,
@@ -27,8 +27,8 @@
   "weight": 16.667,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
-    "USB 3.0 x 1,       ",
-    " Type-C 3.2 Gen 2 x 1,"
+    "USB 3.0 x 1     ",
+    " Type-C 3.2 Gen 2 x 1"
   ],
   "dimensions_mm": {
     "width": 210,
@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B0CVQBPNQ8",
     "newegg_sku": "N82E16811129308",
-    "walmart_sku": 5548136582
+    "walmart_sku": 5548136582,
+    "manufacturer_url": "https://www.antec.com/product/case/c3"
   }
 }
