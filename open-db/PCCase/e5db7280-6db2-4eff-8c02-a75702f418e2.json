@@ -16,20 +16,30 @@
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 1 Type-A                                                    USB 2.0 Type-A",
+  "front_panel_usb": "USB3.0 x 2                                                    USB2.0 x 2",
   "max_video_card_length": 390,
-  "max_cpu_cooler_height": null,
+  "max_cpu_cooler_height": 170,
   "internal_3_5_bays": 2,
   "internal_2_5_bays": 4,
   "expansion_slots": 8,
   "dimensions": "556 x 266 x 612",
   "volume": 90.512,
-  "weight": null,
+  "weight": 28.130985,
   "supported_power_supply_form_factors": [],
-  "front_usb_ports": [],
+  "front_usb_ports": [
+    "USB3.0 x 2  ",
+    "USB2.0 x 2"
+  ],
+  "dimensions_mm": {
+    "width": 266,
+    "height": 612,
+    "depth": 556,
+    "_id": "68e55acb7e9835a4de2c8dd9"
+  },
   "general_product_information": {
     "amazon_sku": "B07YN2H66T",
     "newegg_sku": "9SIB5SCJEP0003",
-    "walmart_sku": 903487103
+    "walmart_sku": 903487103,
+    "manufacturer_url": "https://cougargaming.com/products/cases/panzermax-g/"
   }
 }
