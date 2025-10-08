@@ -30,10 +30,17 @@
     "USB 3.2 Gen 2x2 Type-C  ",
     "USB 3.2 Gen 1 Type-A"
   ],
+  "dimensions_mm": {
+    "width": 315,
+    "height": 506,
+    "depth": 481,
+    "_id": "68e65748bd5170964b447b15"
+  },
   "general_product_information": {
     "amazon_sku": "B0DQPRVD4C",
     "newegg_sku": "2AM-000T-00208",
     "bestbuy_sku": 6629587,
-    "walmart_sku": 17545873913
+    "walmart_sku": 17545873913,
+    "manufacturer_url": "https://nzxt.com/en-intl/products/h9-flow?srsltid=AfmBOooZHv14DVXuo8qwJD6VN8ckQJhtCDsih19AhBKvTei1toggZHdw"
   }
 }

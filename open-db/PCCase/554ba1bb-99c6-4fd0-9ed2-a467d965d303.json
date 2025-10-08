@@ -24,7 +24,7 @@
   "expansion_slots": 8,
   "dimensions": "518.7 x 290 x 482",
   "volume": 72.504,
-  "weight": null,
+  "weight": 24.91,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
     "1 x USB 20Gbps Type-C ",
@@ -41,6 +41,7 @@
     "amazon_sku": "B0DG4ZX48Z",
     "newegg_sku": "N82E16811320066",
     "bestbuy_sku": 6629567,
-    "walmart_sku": 11374900917
+    "walmart_sku": 11374900917,
+    "manufacturer_url": "https://www.msi.com/PC-Case/MAG-PANO-100R-PZ"
   }
 }

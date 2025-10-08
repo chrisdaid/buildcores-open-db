@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B0CT27364G",
     "newegg_sku": "N82E16811129314",
-    "walmart_sku": 9014354312
+    "walmart_sku": 9014354312,
+    "manufacturer_url": "https://www.antec.com/product/case/c8-white"
   }
 }

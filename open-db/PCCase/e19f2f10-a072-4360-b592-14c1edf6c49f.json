@@ -13,7 +13,7 @@
   "power_supply": "None",
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "1x USB 3.2 Gen 2x2 Type-C (20 Gbps),                                                          2xUSB 3.0",
+  "front_panel_usb": "1x USB 3.2 Gen 2x2 Type-C (20 Gbps)                                                        2xUSB 3.0",
   "max_video_card_length": 355,
   "max_cpu_cooler_height": 170,
   "internal_3_5_bays": 2,
@@ -28,7 +28,7 @@
   ],
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
-    "1x USB 3.2 Gen 2x2 Type-C (20 Gbps),    ",
+    "1x USB 3.2 Gen 2x2 Type-C (20 Gbps)   ",
     "   2xUSB 3.0"
   ],
   "dimensions_mm": {

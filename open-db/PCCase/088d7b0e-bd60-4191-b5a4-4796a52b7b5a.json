@@ -37,6 +37,9 @@
     "_id": "68a0baa70988344924b1888c"
   },
   "general_product_information": {
-    "amazon_sku": "B0D7N5WPF3"
+    "amazon_sku": "B0D7N5WPF3",
+    "newegg_sku": "N82E16811119456",
+    "walmart_sku": 11689050109,
+    "manufacturer_url": "https://www.coolermaster.com/en-global/products/elite-301-lite/"
   }
 }
