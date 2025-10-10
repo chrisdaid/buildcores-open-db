@@ -38,7 +38,8 @@
     "part_numbers": [
       "100-100000591WOF"
     ],
-    "series": "AMD Ryzen 7"
+    "series": "AMD Ryzen 7",
+    "releaseYear": 2022
   },
   "series": "AMD Ryzen 7",
   "microarchitecture": "Zen 4",
