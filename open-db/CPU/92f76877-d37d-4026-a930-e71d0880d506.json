@@ -45,7 +45,6 @@
   "coreFamily": "Bristol Ridge",
   "socket": "AM4",
   "general_product_information": {
-    "amazon_sku": "B074B856CD",
-    "walmart_sku": 761300587
+    "amazon_sku": "B074B856CD"
   }
 }

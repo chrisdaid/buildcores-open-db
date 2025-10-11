@@ -43,7 +43,6 @@
   "coreFamily": "Haswell",
   "socket": "LGA1150",
   "general_product_information": {
-    "amazon_sku": "B00EUUIWZ6",
-    "walmart_sku": 39105813
+    "amazon_sku": "B00EUUIWZ6"
   }
 }
