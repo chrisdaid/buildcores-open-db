@@ -23,7 +23,6 @@
   "static_pressure": null,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B00E20SSZ8",
-    "walmart_sku": 43690115
+    "amazon_sku": "B00E20SSZ8"
   }
 }

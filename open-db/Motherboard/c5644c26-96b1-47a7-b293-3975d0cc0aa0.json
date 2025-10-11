@@ -20,17 +20,17 @@
   },
   "fan_headers": {
     "cpu_fan": 1,
-    "cpu_opt": 1,
     "case_fan": 4,
-    "pump": 1
+    "pump": 1,
+    "cpu_opt": 1
   },
   "rgb_headers": {
     "argb_5v": 3
   },
   "front_panel_headers": {
     "power_button": true,
-    "power_led": true,
     "reset_button": true,
+    "power_led": true,
     "hdd_led": true
   },
   "other_headers": {
@@ -38,11 +38,11 @@
     "thunderbolt": 1
   },
   "power_connectors": {
+    "main_power": "24-pin",
     "cpu_power": [
       "8-pin",
       "8-pin"
-    ],
-    "main_power": "24-pin"
+    ]
   },
   "audio": {
     "chipset": "Realtek",
