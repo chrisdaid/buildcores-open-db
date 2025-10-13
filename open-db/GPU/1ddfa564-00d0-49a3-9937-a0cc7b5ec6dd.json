@@ -13,38 +13,44 @@
       "VCG5060T16TFXXPB1-O"
     ],
     "series": "GeForce RTX 5060 Ti",
-    "variant": "PNY"
+    "variant": "5060 Ti EPIC-X ",
+    "releaseYear": 2036
   },
-  "chipset_manufacturer": "GeForce",
+  "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 5060 Ti",
   "core_count": 4608,
   "memory": 16,
   "memory_type": "GDDR7",
   "core_base_clock": 2407,
-  "core_boost_clock": 2692,
-  "effective_memory_clock": 28000,
+  "core_boost_clock": 2689,
+  "effective_memory_clock": 1750,
   "memory_bus": 128,
-  "interface": "PCIe x16",
+  "interface": "PCIe 5.0 x8",
   "color": [
-    "BLACK"
+    "BLACK",
+    "WHITE",
+    "RGB"
   ],
-  "length": 297,
+  "length": 300,
   "tdp": 180,
   "total_slot_width": 2,
   "cooling": "3 Fans",
   "video_outputs": {
     "hdmi_2_1": 1,
     "hdmi_2_0": 0,
-    "displayport_2_1": 1,
+    "displayport_2_1": null,
     "displayport_2_1a": 0,
     "displayport_1_4a": 0,
+    "displayport_2_1_b": 3,
     "dvi_d": 0,
     "vga": 0,
     "_id": "684cd41e1d3a20a8514d34bf"
   },
+  "frame_sync": "NVIDIA G-SYNC",
   "general_product_information": {
     "amazon_sku": "B0F68R489D",
     "newegg_sku": "N82E16814133992",
-    "walmart_sku": 16301573412
+    "walmart_sku": 16301573412,
+    "manufacturer_url": "https://www.pny.com/geforce-rtx-5060-ti-16gb-models"
   }
 }
