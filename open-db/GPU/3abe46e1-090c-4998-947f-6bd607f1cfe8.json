@@ -3,7 +3,7 @@
   "power_connectors": {
     "pcie_6_pin": 0,
     "pcie_8_pin": null,
-    "pcie_12VHPWR": 1,
+    "pcie_12VHPWR": null,
     "pcie_12V_2x6": 1
   },
   "metadata": {
