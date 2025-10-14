@@ -22,14 +22,14 @@
   "memory_type": "GDDR6",
   "core_base_clock": 2310,
   "core_boost_clock": 2565,
-  "effective_memory_clock": 18000,
-  "memory_bus": 2250,
+  "effective_memory_clock": 2250,
+  "memory_bus": 128,
   "interface": "PCIe 4.0 x8",
   "frame_sync": "NVIDIA G-SYNC",
   "length": 308,
   "tdp": 160,
   "case_expansion_slot_width": 2,
-  "total_slot_width": 2,
+  "total_slot_width": null,
   "cooling": "3 Fans",
   "video_outputs": {
     "hdmi_2_1": 1,
@@ -42,8 +42,8 @@
     "_id": "67e89c7411815510c7c785ca"
   },
   "color": [
-    "Black",
-    "Grey"
+    "BLACK",
+    "GREY"
   ],
   "core_count": 4352,
   "general_product_information": {

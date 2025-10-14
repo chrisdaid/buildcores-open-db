@@ -5,12 +5,14 @@
     "capacity_gb": 16
   },
   "metadata": {
-    "name": "OLOy DDR4 RAM 32GB (2x16GB) 3200 MHz CL16 1.35V 288-Pin Desktop Gaming UDIMM (MD4U1632161DHRDA)",
+    "name": "OLOy DDR4 RAM 32GB (2x16GB) 3200 MHz CL16 1.35V 288-Pin Desktop Gaming UDIMM (MD4U1632161DHRDA) RED",
     "manufacturer": "OLOy",
     "part_numbers": [
       "(MD4U1632161DHRDA)"
     ],
-    "variant": "32GB (2x16GB) 3200 MHz CL16"
+    "variant": "32GB (2x16GB) 3200 MHz CL16",
+    "series": "DDR4 RED",
+    "releaseYear": 2020
   },
   "speed": 3200,
   "ram_type": "DDR4",
@@ -25,7 +27,9 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
+  "height": 38.862,
   "general_product_information": {
-    "amazon_sku": "‎B08FXHH54G"
+    "amazon_sku": "‎B08FXHH54G",
+    "manufacturer_url": "https://www.oloymemory.com/products.html"
   }
 }

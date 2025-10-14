@@ -7,25 +7,29 @@
   "metadata": {
     "name": "OLOy DDR4 RAM 16GB (2x8GB) 3600 MHz CL18 1.35V 288-Pin Desktop Gaming UDIMM (MD4U0836181BHWDA)",
     "manufacturer": "OLOy",
-    "series": "(MD4U0836181BHWDA)",
+    "series": "DDR4 White",
     "variant": "3600 CL18",
-    "part_numbers": []
+    "part_numbers": [
+      "MD4U0836181BHWDA"
+    ],
+    "releaseYear": 2020
   },
   "speed": 3600,
   "ram_type": "DDR4",
   "form_factor": "288-pin DIMM (DDR4)",
   "capacity": 16,
   "color": [
-    "BLACK",
-    ""
+    "WHITE"
   ],
   "cas_latency": 18,
-  "timings": "18-20-20-40",
+  "timings": "18-22-22-42",
   "voltage": 1.35,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
+  "height": 38.836,
   "general_product_information": {
-    "amazon_sku": "‎B08K2HY5B8"
+    "amazon_sku": "‎B08K2HY5B8",
+    "manufacturer_url": "https://www.oloymemory.com/products.html"
   }
 }
