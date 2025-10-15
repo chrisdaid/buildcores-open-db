@@ -9,7 +9,7 @@
   "color": [
     "BLACK"
   ],
-  "quantity": 0,
+  "quantity": 1,
   "led": "Addressable RGB",
   "flow_direction": "Standard",
   "general_product_information": {}

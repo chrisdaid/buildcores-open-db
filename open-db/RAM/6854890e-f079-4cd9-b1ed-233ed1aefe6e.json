@@ -10,8 +10,8 @@
     "part_numbers": [
       "MD4U163016BJDA"
     ],
-    "series": "DDR4 BLACK",
-    "variant": "3000 CL16",
+    "series": "DDR4",
+    "variant": "3200 CL16",
     "releaseYear": 2020
   },
   "speed": 3000,
@@ -27,6 +27,7 @@
   "registered": "Unbuffered",
   "heat_spreader": true,
   "height": 38.836,
+  "timings": "16-20-20-38",
   "general_product_information": {
     "amazon_sku": "‎B086XFF76B",
     "manufacturer_url": "https://www.oloymemory.com/products.html"

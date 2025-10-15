@@ -9,7 +9,7 @@
   "color": [
     "WHITE"
   ],
-  "quantity": -2,
+  "quantity": 1,
   "pwm": true,
   "led": "Addressable RGB",
   "flow_direction": "Standard",

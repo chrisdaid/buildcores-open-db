@@ -3,7 +3,6 @@
   "metadata": {
     "name": "Cooler Master MegaFlow 200 - Sleeve Bearing 200mm Silent Fan for Computer Cases (Black)",
     "manufacturer": "Cooler Master",
-    "part_number": "R4-MFJR-07FK-R1",
     "series": "MegaFlow",
     "variant": null,
     "releaseYear": 0,
@@ -13,7 +12,7 @@
   "color": [
     "Black"
   ],
-  "quantity": 0,
+  "quantity": 1,
   "min_airflow": 110,
   "max_airflow": 0,
   "min_noise_level": 19,

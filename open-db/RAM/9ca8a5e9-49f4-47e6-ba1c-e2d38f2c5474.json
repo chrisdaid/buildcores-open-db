@@ -1,37 +1,36 @@
 {
-  "opendb_id": "aa862395-92a6-4f30-aae7-b7a3d39bf1b1",
+  "opendb_id": "9ca8a5e9-49f4-47e6-ba1c-e2d38f2c5474",
   "modules": {
     "quantity": 2,
-    "capacity_gb": 8
+    "capacity_gb": 16
   },
   "metadata": {
-    "name": "OLOy  Black DDR4-2666 CL19 16GB (2x8GB) MD4U082619BJDA BLACK",
-    "manufacturer": "OLOy",
+    "name": "OLOy DDR4 RAM 32GB (2x16GB) 2666 MHz CL19 1.2V (MD4U162619DJDA) BLACK",
     "part_numbers": [
-      "MD4U082619BJDA"
+      "MD4U162619DJDA"
     ],
+    "releaseYear": 2020,
+    "manufacturer": "OLOy",
     "series": "DDR4",
-    "variant": "2666 CL19",
-    "releaseYear": 2020
+    "variant": "2666 CL19"
   },
   "speed": 2666,
   "ram_type": "DDR4",
-  "form_factor": "288-pin DIMM (DDR4)",
-  "capacity": 16,
+  "form_factor": "288-pin DIMM",
+  "capacity": 32,
   "color": [
     "BLACK"
   ],
   "cas_latency": 19,
   "timings": "19-19-19-43",
-  "voltage": null,
+  "voltage": 1.2,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "rgb": false,
   "height": 38.862,
   "general_product_information": {
-    "amazon_sku": "‎B08H84NXSH",
-    "newegg_sku": "9SIBTSNKFE8129",
+    "amazon_sku": "B086XDH5ZN",
+    "newegg_sku": "9SIBWSYKGT1509",
     "manufacturer_url": "https://www.oloymemory.com/products.html"
   }
 }
