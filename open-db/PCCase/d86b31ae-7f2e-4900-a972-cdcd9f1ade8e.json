@@ -3,12 +3,16 @@
   "metadata": {
     "name": "COUGAR MG120 Black Micro ATX Mini Tower Case",
     "manufacturer": "COUGAR",
-    "part_numbers": ["MG120"],
+    "part_numbers": [
+      "MG120"
+    ],
     "series": "MG",
     "variant": "MG120",
     "releaseYear": 2019
   },
-  "color": ["Black"],
+  "color": [
+    "BLACK"
+  ],
   "power_supply_included": false,
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
