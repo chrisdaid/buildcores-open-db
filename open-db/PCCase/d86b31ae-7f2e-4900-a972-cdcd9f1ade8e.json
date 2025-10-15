@@ -13,9 +13,6 @@
   "color": [
     "BLACK"
   ],
-  "power_supply_included": false,
-  "side_panel": "Tempered Glass",
-  "has_transparent_side_panel": true,
   "front_usb_ports": [
     "USB 3.0",
     "USB 2.0"
