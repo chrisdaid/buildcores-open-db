@@ -13,7 +13,8 @@
       "DUAL-RTX3060-O12G-V2                                                    90YV0GB2-M0NA10"
     ],
     "series": "GeForce RTX 3060 12GB",
-    "variant": "Asus"
+    "variant": "Asus",
+    "releaseYear": 2021
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 3060 12 GB",
@@ -42,10 +43,13 @@
     "_id": "67f9c589865ad0c3553e9a0c"
   },
   "core_count": 3584,
+  "frame_sync": "NVIDIA G-SYNC",
+  "case_expansion_slot_width": 2,
   "general_product_information": {
     "amazon_sku": "B096658ZWP",
     "newegg_sku": "N82E16814126524",
     "bestbuy_sku": 6557544,
-    "walmart_sku": 339298741
+    "walmart_sku": 339298741,
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rtx3060-o12g-v2/"
   }
 }
