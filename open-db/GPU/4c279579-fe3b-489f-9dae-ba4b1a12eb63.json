@@ -2,7 +2,7 @@
   "opendb_id": "4c279579-fe3b-489f-9dae-ba4b1a12eb63",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 3,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
@@ -13,24 +13,25 @@
       "tuf-rx9070xt-o16g-gaming                                                    90YV0L70-M0NA00"
     ],
     "series": "Radeon RX 9070 XT",
-    "variant": "Asus"
+    "variant": "TUF GAMING OC",
+    "releaseYear": 2025
   },
-  "chipset_manufacturer": "Radeon",
+  "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 9070 XT",
   "memory": 16,
   "memory_type": "GDDR6",
-  "core_base_clock": 2520,
-  "core_boost_clock": 3080,
-  "effective_memory_clock": 0,
+  "core_base_clock": 1660,
+  "core_boost_clock": 3060,
+  "effective_memory_clock": 2518,
   "memory_bus": 256,
-  "interface": "PCIe x16",
+  "interface": "PCIe 5.0 x16",
   "color": [
     "BLACK",
     "GREY"
   ],
   "length": 330,
-  "tdp": 304,
-  "total_slot_width": 4,
+  "tdp": 330,
+  "total_slot_width": 0,
   "cooling": "3 Fans",
   "video_outputs": {
     "hdmi_2_1": 1,
@@ -38,14 +39,18 @@
     "displayport_2_1": 0,
     "displayport_2_1a": 3,
     "displayport_1_4a": 0,
+    "displayport_2_1_b": 0,
     "dvi_d": 0,
     "vga": 0,
     "_id": "67f9c472865ad0c3553e892e"
   },
   "core_count": 4096,
+  "frame_sync": "AMD Radeon FreeSync",
+  "case_expansion_slot_width": 3,
   "general_product_information": {
     "amazon_sku": "B0DRRDLC8J",
     "newegg_sku": "N82E16814126745",
-    "walmart_sku": 15518803578
+    "walmart_sku": 15518803578,
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/tuf-rx9070xt-o16g-gaming/"
   }
 }
