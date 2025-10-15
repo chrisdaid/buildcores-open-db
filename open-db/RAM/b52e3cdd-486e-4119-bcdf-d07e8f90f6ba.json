@@ -5,13 +5,13 @@
     "capacity_gb": 16
   },
   "metadata": {
-    "name": "OLOy DDR4 RAM 32GB (2x16GB) 3200 MHz CL16 1.35V 288-Pin Desktop Gaming UDIMM White MD4U1632161BHWDA",
+    "name": "OLOy DDR4 RAM 32GB (2x16GB) 3200 MHz CL16 1.35V White MD4U1632161BHWDA",
     "manufacturer": "OLOy",
     "part_numbers": [
       "‎MD4U1632161BHWDA"
     ],
-    "series": "DDR4 White",
-    "variant": "32GB (2x16GB) 3200 MHz CL16",
+    "series": "DDR4",
+    "variant": "3200 MHz CL16",
     "releaseYear": 2020
   },
   "speed": 3200,
