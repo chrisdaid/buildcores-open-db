@@ -16,7 +16,7 @@
     "variant": "AMD"
   },
   "chipset_manufacturer": "Radeon",
-  "chipset": "Radeon Pro WX 8200",
+  "chipset": "Radeon PRO WX 8200",
   "memory": 8,
   "memory_type": "HBM2",
   "core_base_clock": 1200,
