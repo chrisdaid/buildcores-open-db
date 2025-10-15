@@ -13,7 +13,7 @@
       "GV-N506TAERO OC-8GD"
     ],
     "series": "GeForce RTX 5060 Ti",
-    "variant": "GeForce RTX 5060 AERO OC",
+    "variant": "AERO OC",
     "releaseYear": 2025
   },
   "chipset_manufacturer": "NVIDIA",
@@ -28,12 +28,12 @@
   "interface": "PCIe 5.0 x8",
   "color": [
     "WHITE",
-    "Grey",
+    "GREY",
     "RGB"
   ],
   "length": 281,
   "tdp": 180,
-  "total_slot_width": 2,
+  "total_slot_width": null,
   "cooling": "3 Fans",
   "video_outputs": {
     "hdmi_2_1": 1,
@@ -47,6 +47,7 @@
     "_id": "684cd4011d3a20a8514d26e8"
   },
   "frame_sync": "NVIDIA G-SYNC",
+  "case_expansion_slot_width": 2,
   "general_product_information": {
     "amazon_sku": "B0F4ZGWSPJ",
     "newegg_sku": "N82E16814932792",

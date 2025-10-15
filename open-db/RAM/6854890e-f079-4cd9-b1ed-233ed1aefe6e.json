@@ -1,21 +1,20 @@
 {
-  "opendb_id": "07fa23ea-b49e-46ce-a602-0c183afa92df",
+  "opendb_id": "6854890e-f079-4cd9-b1ed-233ed1aefe6e",
   "modules": {
     "quantity": 2,
     "capacity_gb": 16
   },
   "metadata": {
-    "name": "OLOy Black DDR4-3200 CL16 32GB (2x16GB) ND4U1632161DJ0DA",
+    "name": "OLOy DDR4 RAM 32GB (2x16GB) 3000 MHz CL16 1.35V 288-Pin Desktop Gaming UDIMM (MD4U163016BJDA) BLACK",
     "manufacturer": "OLOy",
     "part_numbers": [
-      "MD4U163216BJDA",
-      "ND4U1632161DJ0DA"
+      "MD4U163016BJDA"
     ],
-    "series": "DDR4",
-    "variant": "3200 CL16",
+    "series": "DDR4 BLACK",
+    "variant": "3000 CL16",
     "releaseYear": 2020
   },
-  "speed": 3200,
+  "speed": 3000,
   "ram_type": "DDR4",
   "form_factor": "288-pin DIMM (DDR4)",
   "capacity": 32,
@@ -23,16 +22,13 @@
     "BLACK"
   ],
   "cas_latency": 16,
-  "timings": "16-20-20-38",
   "voltage": 1.35,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "rgb": false,
-  "height": 38.862,
+  "height": 38.836,
   "general_product_information": {
-    "amazon_sku": "\t‎B08DK6J7CP",
-    "newegg_sku": "9SIC2H2KM69676",
+    "amazon_sku": "‎B086XFF76B",
     "manufacturer_url": "https://www.oloymemory.com/products.html"
   }
 }

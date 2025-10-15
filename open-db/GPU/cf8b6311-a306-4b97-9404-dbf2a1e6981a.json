@@ -13,7 +13,7 @@
       "GV-N5060AERO OC-8GD"
     ],
     "series": "GeForce RTX 5060",
-    "variant": "GeForce RTX 5060 AERO OC",
+    "variant": "AERO OC",
     "releaseYear": 2025
   },
   "chipset_manufacturer": "NVIDIA",
@@ -27,16 +27,17 @@
   "interface": "PCIe 5.0 x8",
   "color": [
     "GREY",
-    "WHITE"
+    "WHITE",
+    "RGB"
   ],
   "length": 281,
   "tdp": 145,
-  "total_slot_width": 2,
+  "total_slot_width": null,
   "cooling": "3 Fans",
   "video_outputs": {
     "hdmi_2_1": 1,
     "hdmi_2_0": 0,
-    "displayport_2_1": 3,
+    "displayport_2_1": null,
     "displayport_2_1a": 0,
     "displayport_1_4a": 0,
     "displayport_2_1_b": 3,
@@ -46,7 +47,7 @@
   },
   "core_count": 3840,
   "frame_sync": "NVIDIA G-SYNC",
-  "case_expansion_slot_width": null,
+  "case_expansion_slot_width": 2,
   "general_product_information": {
     "amazon_sku": "B0F8MH9LG2",
     "newegg_sku": "N82E16814932799",

@@ -20,7 +20,8 @@
   "fan_headers": {
     "cpu_fan": 1,
     "pump": 1,
-    "case_fan": 2
+    "case_fan": 5,
+    "cpu_opt": 1
   },
   "rgb_headers": {
     "argb_5v": 3,
@@ -33,7 +34,7 @@
     "hdd_led": true
   },
   "other_headers": {
-    "temperature_sensor": 1
+    "temperature_sensor": 2
   },
   "power_connectors": {
     "cpu_power": [
