@@ -16,7 +16,7 @@
     "variant": "Yeston"
   },
   "chipset_manufacturer": "Radeon",
-  "chipset": "Radeon RX 9060 XT",
+  "chipset": "Radeon RX 9060 XT 16 GB",
   "memory": 16,
   "memory_type": "GDDR6",
   "core_base_clock": 2220,

@@ -4,14 +4,14 @@
     "pcie_8_pin": 1
   },
   "metadata": {
-    "name": "PowerColor Hellhound Spectral White AMD Radeon™ RX 9060 XT 16GB GDDR6",
+    "name": "PowerColor Hellhound Spectral White AMD Radeon RX 9060 XT 16GB GDDR6",
     "manufacturer": "PowerColor",
     "part_numbers": [],
     "series": "Radeon RX 9060 XT",
     "releaseYear": 2025
   },
   "chipset_manufacturer": "AMD",
-  "chipset": "Radeon RX 9060 XT",
+  "chipset": "Radeon RX 9060 XT 16 GB",
   "core_count": 2048,
   "memory": 16,
   "memory_type": "GDDR6",

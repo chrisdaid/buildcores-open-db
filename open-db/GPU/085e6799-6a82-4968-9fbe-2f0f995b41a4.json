@@ -14,7 +14,7 @@
     "releaseYear": 2025
   },
   "chipset_manufacturer": "AMD",
-  "chipset": "Radeon RX 9070XT",
+  "chipset": "Radeon RX 9070 XT",
   "core_count": 4096,
   "memory": 16,
   "memory_type": "GDDR6",
@@ -38,7 +38,7 @@
     "_id": "68e7d9c148cc14a6c64c57d1"
   },
   "general_product_information": {
-    "amazon_sku": "‎B0DXVQQXMG",
+    "amazon_sku": "B0DXVQQXMG",
     "manufacturer_url": "https://www.xfxforce.com/shop/xfx-quicksilver-amd-radeon-rx-9070xt-magnetic-air-edition"
   }
 }
