@@ -3,7 +3,6 @@
   "metadata": {
     "name": "upHere 5V 6-Pack 120mm Silent Intelligent Control 5V Addressable RGB Fan Motherboard Sync, Adjustable Colorful Fans with Controller T3SYC3-6",
     "manufacturer": "upHere",
-    "part_number": "T3SYC3-6",
     "series": "T3 RGB",
     "variant": "6-Pack",
     "releaseYear": 0,
@@ -11,7 +10,7 @@
   },
   "size": 120,
   "color": [
-    "Unspecified"
+    "BLACK"
   ],
   "quantity": 6,
   "min_airflow": 0,

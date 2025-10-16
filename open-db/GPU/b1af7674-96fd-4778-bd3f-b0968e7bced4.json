@@ -8,7 +8,7 @@
     "part_numbers": [
       "DUAL-RTX5050-O8G"
     ],
-    "manufacturer": "Asus",
+    "manufacturer": "ASUS",
     "series": "GeForce RTX 5050",
     "releaseYear": 2025,
     "variant": "Dual OC 8GB"
@@ -36,6 +36,7 @@
     "displayport_2_1_b": 3,
     "_id": "68f0b9ea92a06de8fe631b2a"
   },
+  "total_slot_width": 2,
   "general_product_information": {
     "amazon_sku": "B0FFXT3TRD",
     "newegg_sku": "N82E16814126810",

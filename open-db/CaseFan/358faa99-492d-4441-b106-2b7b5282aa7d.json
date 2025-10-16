@@ -3,7 +3,6 @@
   "metadata": {
     "name": "ML120 120mm PWM Premium Magnetic Levitation Fan — Twin Pack",
     "manufacturer": "Corsair",
-    "part_number": "CO-9050039-WW",
     "series": "ML120",
     "variant": "Twin Pack",
     "releaseYear": null,
@@ -11,7 +10,7 @@
   },
   "size": 120,
   "color": [
-    "Unspecified"
+    "BLACK"
   ],
   "quantity": 2,
   "min_airflow": 75,
