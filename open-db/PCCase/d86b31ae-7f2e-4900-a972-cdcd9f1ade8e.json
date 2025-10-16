@@ -10,9 +10,11 @@
     "series": "MG",
     "variant": "MG120"
   },
+  "form_factor": "Micro ATX Mini Tower",
   "color": [
     "BLACK"
   ],
+  "supported_power_supply_form_factors": [],
   "front_usb_ports": [
     "USB 3.0",
     "USB 2.0"
