@@ -24,7 +24,7 @@
   "core_boost_clock": 2602,
   "effective_memory_clock": 0,
   "memory_bus": 128,
-  "interface": "PCIe x16",
+  "interface": "PCIe 5.0x8",
   "color": [
     "BLACK"
   ],

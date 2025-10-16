@@ -10,10 +10,10 @@
     "name": "Asus DUAL GeForce RTX 5050 8GB GDDR6 Black",
     "manufacturer": "Asus",
     "part_numbers": [
-      "dual-rtx5050-8g"
+      "Dual-rtx5050-8g"
     ],
     "series": "GeForce RTX 5050",
-    "variant": "Asus",
+    "variant": "Dual 8GB",
     "releaseYear": 2025
   },
   "chipset_manufacturer": "GeForce",
@@ -22,9 +22,9 @@
   "memory_type": "GDDR6",
   "core_base_clock": 2317,
   "core_boost_clock": 2602,
-  "effective_memory_clock": 0,
+  "effective_memory_clock": 20000,
   "memory_bus": 128,
-  "interface": "PCIe x16",
+  "interface": "PCIe 5.0 x8",
   "color": [
     "BLACK"
   ],
