@@ -3,7 +3,6 @@
   "metadata": {
     "name": "Rosewill RFA-80RL - 120mm CULLINAN Computer Case Cooling Fan with LP4 Adapter - Semi-Transparent Frame & Red LED Lights, Sleeve Bearing, Silent",
     "manufacturer": "Rosewill",
-    "part_number": "RFA-80-RL",
     "series": "CULLINAN",
     "variant": "Silent",
     "releaseYear": 0,
@@ -13,7 +12,7 @@
   "color": [
     "Clear / Black"
   ],
-  "quantity": 0,
+  "quantity": 1,
   "min_airflow": 41.9,
   "max_airflow": 0,
   "min_noise_level": 23.2,

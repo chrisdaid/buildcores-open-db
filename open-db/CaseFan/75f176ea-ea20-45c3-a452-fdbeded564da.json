@@ -3,7 +3,6 @@
   "metadata": {
     "name": "upHere P20 Series P200RD-Hydraulic Bearing 200mm Silent Red LED Computer Case Fan,P200RD",
     "manufacturer": "upHere",
-    "part_number": "P200RD-USA",
     "series": "P20 Series",
     "variant": "P200RD",
     "releaseYear": 2019,
@@ -13,7 +12,7 @@
   "color": [
     "Red"
   ],
-  "quantity": 0,
+  "quantity": 1,
   "min_airflow": 98,
   "max_airflow": 0,
   "min_noise_level": 19,
