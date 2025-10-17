@@ -18,7 +18,7 @@
   "min_noise_level": 30,
   "max_noise_level": 0,
   "pwm": true,
-  "led": "ARGB RGB",
+  "led": "Addressable RGB",
   "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
   "controller": "5V Addressable RGB",
   "static_pressure": 0,
