@@ -11,7 +11,7 @@
     "variant": "Black"
   },
   "form_factor": "EATX Full Tower",
-  "power_supply": "Not Included",
+  "power_supply": "None",
   "power_supply_included": false,
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
@@ -40,6 +40,7 @@
     "_id": "68d3800aa44b0fdf9a0e6bc3"
   },
   "riser_expansion_slots": 3,
+  "power_supply_shroud": true,
   "general_product_information": {
     "amazon_sku": "B0BW21WZNG",
     "newegg_sku": "N82E16811173052",

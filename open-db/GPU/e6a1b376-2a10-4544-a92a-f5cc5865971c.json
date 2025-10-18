@@ -13,7 +13,8 @@
       "ZT-B50600H-10M"
     ],
     "series": "GeForce RTX 5060",
-    "variant": "Zotac"
+    "variant": "8GB Twin Edge OC White Edition",
+    "releaseYear": 2025
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 5060",
@@ -43,5 +44,6 @@
     "vga": 0,
     "_id": "684cd4061d3a20a8514d289d"
   },
+  "frame_sync": "G-Sync",
   "general_product_information": {}
 }

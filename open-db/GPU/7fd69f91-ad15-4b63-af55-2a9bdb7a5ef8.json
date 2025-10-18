@@ -2,7 +2,7 @@
   "opendb_id": "7fd69f91-ad15-4b63-af55-2a9bdb7a5ef8",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 1,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
@@ -13,7 +13,8 @@
       "ZT-B50620F-10M"
     ],
     "series": "GeForce RTX 5060 Ti",
-    "variant": "Zotac"
+    "variant": "16GB AMP",
+    "releaseYear": 2025
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 5060 Ti 16 GB",
@@ -23,7 +24,7 @@
   "core_boost_clock": 2632,
   "effective_memory_clock": 28000,
   "memory_bus": 128,
-  "interface": "PCIe x16",
+  "interface": "PCIe 5.0 x8",
   "color": [
     "BLACK"
   ],
@@ -42,9 +43,11 @@
     "_id": "684cd4171d3a20a8514d3188"
   },
   "core_count": 4608,
+  "frame_sync": "G-Sync",
   "general_product_information": {
     "amazon_sku": "B0F58S445K",
     "newegg_sku": "N82E16814500611",
-    "walmart_sku": 16189053029
+    "walmart_sku": 16189053029,
+    "manufacturer_url": "https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-rtx-5060-ti-16gb-amp"
   }
 }
