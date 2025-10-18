@@ -10,8 +10,9 @@
     "part_numbers": [
       "ND4U0832160BHVDA"
     ],
-    "series": "OWL",
-    "variant": "3200 CL16"
+    "series": "DDR4",
+    "variant": "3200 CL16",
+    "releaseYear": 2020
   },
   "speed": 3200,
   "ram_type": "DDR4",
@@ -22,10 +23,11 @@
   ],
   "cas_latency": 16,
   "timings": "16-20-20-38",
-  "voltage": null,
+  "voltage": 1.35,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
+  "height": 38.862,
   "general_product_information": {}
 }

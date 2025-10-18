@@ -11,7 +11,8 @@
     ],
     "series": "DDR4",
     "variant": "3200 CL16 ",
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "manufacturer": "OLOy"
   },
   "speed": 3200,
   "ram_type": "DDR4",
