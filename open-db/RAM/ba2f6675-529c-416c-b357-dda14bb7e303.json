@@ -2,17 +2,17 @@
   "opendb_id": "ba2f6675-529c-416c-b357-dda14bb7e303",
   "modules": {
     "quantity": 2,
-    "capacity_gb": 15
+    "capacity_gb": 16
   },
   "metadata": {
-    "name": "KINGBANK DDR5 Soarblade RGB UDIMM 6000MHz-16G*2",
+    "name": "RGB Computer Desktop Memory Ram DDR5 32GB(2x16GB) 6000MT/s CL36",
     "manufacturer": "KINGBANK",
     "part_numbers": [
       "K5.01.FLM5ED9301"
     ],
-    "series": "DDR5 Soarblade RGB UDIMM ",
-    "variant": "6000MHz-16G*2",
-    "releaseYear": null
+    "series": "DDR5 Dark Soarblade",
+    "variant": "6000 CL36",
+    "releaseYear": 2024
   },
   "speed": 6000,
   "ram_type": "DDR5",
@@ -27,6 +27,8 @@
   "heat_spreader": true,
   "rgb": true,
   "height": 41.8,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
   "general_product_information": {
     "amazon_sku": "‎B0DF7DNVW7",
     "newegg_sku": " 9SIBW2BK9N7328",
