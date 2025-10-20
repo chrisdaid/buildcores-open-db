@@ -9,11 +9,10 @@
   "metadata": {
     "name": "AORUS GeForce RTX™ 4090 XTREME WATERFORCE 24G (rev. 1.0)",
     "manufacturer": "GIGABYTE",
-    "part_number": "GV-N4090AORUSX-W-24GD",
+    "part_numbers": [],
     "series": "AORUS",
     "variant": "XTREME WATERFORCE",
-    "releaseYear": 2024,
-    "part_numbers": []
+    "releaseYear": 2024
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "GeForce RTX 4090",

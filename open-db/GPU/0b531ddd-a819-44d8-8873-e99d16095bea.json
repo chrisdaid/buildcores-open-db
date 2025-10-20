@@ -9,11 +9,10 @@
   "metadata": {
     "name": "SAPPHIRE NITRO Radeon RX 7900 XTX 24GB GDDR6 PCI Express 4.0 x16 ATX Video Card 11322-01-40G",
     "manufacturer": "SAPPHIRE",
-    "part_number": "11322-01-40G",
+    "part_numbers": [],
     "series": "NITRO",
     "variant": "24G",
-    "releaseYear": 2023,
-    "part_numbers": []
+    "releaseYear": 2023
   },
   "chipset_manufacturer": "AMD",
   "chipset": "Radeon RX 7900 XTX",

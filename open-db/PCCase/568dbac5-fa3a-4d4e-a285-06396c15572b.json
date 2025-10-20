@@ -3,10 +3,10 @@
   "metadata": {
     "name": "Antec C5 Curve ARGB ATX Mid Tower White with Tempered Glass Side Panel",
     "manufacturer": "Antec",
-    "series": "C5",
-    "releaseYear": 2025,
     "part_numbers": [],
-    "variant": "Curve White"
+    "series": "C5",
+    "variant": "Curve White",
+    "releaseYear": 2025
   },
   "form_factor": "ATX Mid Tower",
   "color": [
