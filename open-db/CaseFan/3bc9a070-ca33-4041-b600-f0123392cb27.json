@@ -22,5 +22,8 @@
   "controller": "None",
   "static_pressure": 4.35,
   "flow_direction": "Standard",
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0DJDCHG3C",
+    "walmart_sku": 17502464582
+  }
 }
