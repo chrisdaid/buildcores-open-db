@@ -39,11 +39,11 @@
     "com_port": 1
   },
   "power_connectors": {
+    "main_power": "24-pin",
     "cpu_power": [
       "8-pin",
       "8-pin"
-    ],
-    "main_power": "24-pin"
+    ]
   },
   "audio": {
     "chipset": "Realtek",
