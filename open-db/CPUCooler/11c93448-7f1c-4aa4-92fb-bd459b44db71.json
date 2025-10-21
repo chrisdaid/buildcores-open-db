@@ -3,11 +3,10 @@
   "metadata": {
     "name": "Noctua NH-U12S chromax.Black",
     "manufacturer": "Noctua",
-    "part_number": "NH-U12S chromax.Black",
+    "part_numbers": [],
     "series": "NH-U12S",
     "variant": "chromax.Black",
-    "releaseYear": 2019,
-    "part_numbers": []
+    "releaseYear": 2019
   },
   "min_fan_rpm": 300,
   "max_fan_rpm": 1500,
