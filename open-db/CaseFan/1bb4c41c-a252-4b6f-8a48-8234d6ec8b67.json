@@ -1,0 +1,16 @@
+{
+  "opendb_id": "1bb4c41c-a252-4b6f-8a48-8234d6ec8b67",
+  "metadata": {
+    "name": "Montech X5M OEM 140mm Fixed Speed Black",
+    "manufacturer": "Montech",
+    "part_numbers": []
+  },
+  "size": 140,
+  "color": [
+    "Black"
+  ],
+  "quantity": 1,
+  "led": "Addressable RGB",
+  "flow_direction": "Standard",
+  "general_product_information": {}
+}

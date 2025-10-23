@@ -1,0 +1,16 @@
+{
+  "opendb_id": "902944c0-9005-42de-8ace-3dec483e1939",
+  "metadata": {
+    "name": "Montech X5M OEM 120mm Fixed Speed Black",
+    "manufacturer": "Montech",
+    "part_numbers": []
+  },
+  "size": 120,
+  "color": [
+    "Black"
+  ],
+  "quantity": 1,
+  "led": "Addressable RGB",
+  "flow_direction": "Standard",
+  "general_product_information": {}
+}
