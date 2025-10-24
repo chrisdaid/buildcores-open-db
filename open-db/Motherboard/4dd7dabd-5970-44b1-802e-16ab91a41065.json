@@ -1,0 +1,20 @@
+{
+  "opendb_id": "4dd7dabd-5970-44b1-802e-16ab91a41065",
+  "power_connectors": {
+    "cpu_power": []
+  },
+  "metadata": {
+    "name": "Colorful iGame X870 Senna V14",
+    "manufacturer": "Colorful",
+    "series": "iGame",
+    "part_numbers": []
+  },
+  "socket": "AM5",
+  "chipset": "AMD X870",
+  "color": [],
+  "pcie_slots": [],
+  "m2_slots": [],
+  "onboard_ethernet": [],
+  "back_panel_ports": [],
+  "general_product_information": {}
+}

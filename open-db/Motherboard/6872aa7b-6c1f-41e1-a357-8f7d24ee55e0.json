@@ -1,0 +1,19 @@
+{
+  "opendb_id": "6872aa7b-6c1f-41e1-a357-8f7d24ee55e0",
+  "power_connectors": {
+    "cpu_power": []
+  },
+  "metadata": {
+    "name": "Colorful iGame B860M Ultra V20",
+    "manufacturer": "Colorful",
+    "series": "iGame",
+    "part_numbers": []
+  },
+  "socket": "LGA1851",
+  "color": [],
+  "pcie_slots": [],
+  "m2_slots": [],
+  "onboard_ethernet": [],
+  "back_panel_ports": [],
+  "general_product_information": {}
+}
