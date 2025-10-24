@@ -43,5 +43,7 @@
     "_id": "684cd42f1d3a20a8514d3a1d"
   },
   "core_count": 6144,
-  "general_product_information": {}
+  "general_product_information": {
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-12G-VENTUS-2X/"
+  }
 }
