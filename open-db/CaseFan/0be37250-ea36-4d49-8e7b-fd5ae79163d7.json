@@ -1,15 +1,17 @@
 {
-  "opendb_id": "1bb4c41c-a252-4b6f-8a48-8234d6ec8b67",
+  "opendb_id": "0be37250-ea36-4d49-8e7b-fd5ae79163d7",
   "metadata": {
-    "name": "Montech X5M OEM 140mm Fixed Speed Black",
+    "name": "Montech X5 OEM 140mm White Fixed Speed",
     "manufacturer": "Montech",
+    "variant": "140mm White",
     "part_numbers": []
   },
   "size": 140,
   "color": [
-    "Black"
+    "White"
   ],
   "quantity": 1,
+  "pwm": true,
   "led": "Addressable RGB",
   "flow_direction": "Standard",
   "general_product_information": {}
