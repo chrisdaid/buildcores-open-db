@@ -2,8 +2,8 @@
   "opendb_id": "f2c69fbe-93b9-47bc-8190-0e56fdcc8fe4",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 8,
-    "pcie_12VHPWR": 0,
+    "pcie_8_pin": 0,
+    "pcie_12VHPWR": 1,
     "pcie_12V_2x6": 0
   },
   "metadata": {
@@ -22,10 +22,11 @@
   "core_base_clock": 2340,
   "core_boost_clock": 2685,
   "effective_memory_clock": 21000,
-  "memory_bus": 0,
+  "memory_bus": 256,
   "interface": "PCIe x16",
   "color": [
-    "GREY",
+    "BLACK",
+    "GOLD",
     "SILVER"
   ],
   "length": 312,
