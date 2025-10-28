@@ -1,13 +1,17 @@
 {
   "opendb_id": "c9c426d5-f4ae-4c3e-b7ec-1305fcb2ea4e",
   "power_connectors": {
-    "pcie_8_pin": 2
+    "pcie_8_pin": 1
   },
   "metadata": {
     "name": "MSI VENTUS 2X PLUS GeForce RTX 5060 Ti 16GB GDDR7 White",
     "manufacturer": "MSI",
     "series": "GeForce RTX 5060 Ti",
-    "part_numbers": []
+    "part_numbers": [
+      "G506T16V2WP"
+    ],
+    "variant": "16G VENTUS 2X PLUS",
+    "releaseYear": 2025
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 5060 Ti 16 GB",
@@ -18,7 +22,7 @@
   "core_boost_clock": 2587,
   "effective_memory_clock": 28000,
   "memory_bus": 128,
-  "interface": "PCIe 5.0 x16",
+  "interface": "PCIe 5.0 x8",
   "color": [
     "WHITE"
   ],
@@ -32,5 +36,8 @@
     "displayport_2_1_b": 3,
     "_id": "68fab7d263d91d2c5d5bd258"
   },
-  "general_product_information": {}
+  "case_expansion_slot_width": 2,
+  "general_product_information": {
+    "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-16G-VENTUS-2X-WHITE-PLUS/"
+  }
 }

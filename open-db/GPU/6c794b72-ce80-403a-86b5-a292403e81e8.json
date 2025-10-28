@@ -31,7 +31,7 @@
   ],
   "length": 360,
   "tdp": 575,
-  "total_slot_width": null,
+  "total_slot_width": 4,
   "cooling": "3 Fans",
   "video_outputs": {
     "hdmi_2_1": 1,
@@ -46,7 +46,7 @@
   },
   "core_count": 21760,
   "frame_sync": "NVIDIA G-SYNC",
-  "case_expansion_slot_width": 4,
+  "case_expansion_slot_width": 3,
   "general_product_information": {
     "amazon_sku": "B0DVCH9WJH",
     "newegg_sku": "N82E16814932765",
