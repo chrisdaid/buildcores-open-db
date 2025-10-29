@@ -39,6 +39,7 @@
   "general_product_information": {
     "amazon_sku": "B0CT2LSSHK",
     "newegg_sku": "N82E16811129310",
-    "walmart_sku": 8503956167
+    "walmart_sku": 8503956167,
+    "manufacturer_url": "https://www.antec.com/product/case/c8-argb"
   }
 }

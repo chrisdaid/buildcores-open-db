@@ -56,18 +56,33 @@
       "B650 GAMING X AX V2"
     ],
     "series": "B650",
-    "variant": "B650 GAMING X AX V2"
+    "variant": "GAMING X AX V2"
   },
   "socket": "AM5",
   "form_factor": "ATX",
   "chipset": "AMD B650",
-  "color": [],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "pcie_slots": [
     {
-      "gen": "4.0",
-      "quantity": 3,
+      "gen": "5.0",
+      "quantity": 1,
       "lanes": 16,
       "_id": "67f9b98f865ad0c3553de389"
+    },
+    {
+      "gen": "4.0",
+      "quantity": 1,
+      "lanes": 4,
+      "_id": "69011a4e060d91887e4be192"
+    },
+    {
+      "gen": "3.0",
+      "quantity": 2,
+      "lanes": 1,
+      "_id": "69011a4e060d91887e4be193"
     }
   ],
   "m2_slots": [
@@ -88,12 +103,6 @@
       "key": "M",
       "interface": "PCIe 4.0 x4",
       "_id": "67f9b98f865ad0c3553de38c"
-    },
-    {
-      "size": "2280",
-      "key": "M",
-      "interface": "PCIe 4.0 x4",
-      "_id": "67f9b98f865ad0c3553de38d"
     }
   ],
   "onboard_ethernet": [

@@ -26,7 +26,8 @@
   "interface": "PCIe x16",
   "color": [
     "BLACK",
-    "GOLD"
+    "GOLD",
+    "SILVER"
   ],
   "length": 312,
   "tdp": 320,
@@ -44,6 +45,7 @@
   },
   "core_count": 10240,
   "case_expansion_slot_width": 3,
+  "frame_sync": "G-Sync",
   "general_product_information": {
     "amazon_sku": "B0CSZBBQ9B",
     "newegg_sku": "N82E16814137871",
