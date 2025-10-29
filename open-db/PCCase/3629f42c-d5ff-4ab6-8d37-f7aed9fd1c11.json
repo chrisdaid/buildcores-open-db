@@ -27,5 +27,9 @@
   "dimensions": "395 x 195 x 450",
   "volume": 34.661,
   "weight": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0CLQWN1CV",
+    "newegg_sku": "2AM-00BP-00065",
+    "manufacturer_url": "https://www.gamdias.com/en/aura/component/case/AURA_GC2_ELITE_WH"
+  }
 }
