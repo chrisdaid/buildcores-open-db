@@ -8,8 +8,9 @@
     ]
   },
   "general_product_information": {
-    "amazon_sku": "B09M17Q9QP",
+    "amazon_sku": "B09HXMKKCM",
     "newegg_sku": "3EE-0019-00015",
-    "walmart_sku": 711762567
+    "walmart_sku": 711762567,
+    "ibuypower_sku": "27339"
   }
 }
