@@ -154,6 +154,20 @@
           ],
           "description": "Adorama product SKU"
         },
+        "ibuypower_sku": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "iBuyPower product SKU"
+        },
+        "hyte_sku": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "HYTE product SKU"
+        },
         "manufacturer_url": {
           "type": [
             "string",
