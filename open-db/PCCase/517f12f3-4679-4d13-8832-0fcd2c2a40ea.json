@@ -4,7 +4,8 @@
     "name": "HYTE Y70 Touch Infinite ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C USB 3.2 Gen 1 Type-A",
     "manufacturer": "HYTE",
     "part_numbers": [
-      "CS-HYTE-Y70TI-BB                                                    CS-HYTE-Y70TTI-BB"
+      "CS-HYTE-Y70TI-BB",
+      "CS-HYTE-Y70TTI-BB"
     ],
     "series": "Y70",
     "variant": "Touch Infinite Black"
@@ -41,6 +42,7 @@
     "newegg_sku": "N82E16811737020",
     "walmart_sku": 14134616293,
     "ibuypower_sku": "31264",
-    "manufacturer_url": "hyte.com/store/y70/cs-hyte-y70tti-ww"
+    "hyte_sku": "CS-HYTE-Y70TTI-BB",
+    "manufacturer_url": "https://hyte.com/store/y70/cs-hyte-y70tti-bb"
   }
 }
