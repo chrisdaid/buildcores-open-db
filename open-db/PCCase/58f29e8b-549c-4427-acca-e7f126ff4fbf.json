@@ -1,7 +1,7 @@
 {
   "opendb_id": "58f29e8b-549c-4427-acca-e7f126ff4fbf",
   "metadata": {
-    "name": "Thermaltake View 270 ATX Mid Tower White Tempered Glass Side Panel, USB 3.2 Gen 2 Type-C USB 3.2 Gen 1 Type-A",
+    "name": "Thermaltake View 270 ATX Mid Tower White Tempered Glass Side Panel, SNOW ",
     "manufacturer": "Thermaltake",
     "part_numbers": [
       "CA-1Y7-00M6WN-00"
@@ -38,6 +38,7 @@
   },
   "general_product_information": {
     "amazon_sku": "B0CW675NNR",
-    "newegg_sku": "N82E16811133536"
+    "newegg_sku": "N82E16811133536",
+    "manufacturer_url": "https://www.thermaltake.com/view-270-tg-argb-snow-mid-tower-chassis.html"
   }
 }

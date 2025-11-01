@@ -7,7 +7,7 @@
       "CA-11E-00M1WN-00"
     ],
     "series": "View",
-    "variant": ""
+    "variant": "380 XL"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -40,6 +40,7 @@
     "amazon_sku": "B0DVZYDYMC",
     "newegg_sku": "N82E16811133562",
     "bestbuy_sku": 6626451,
-    "walmart_sku": 15558071506
+    "walmart_sku": 15558071506,
+    "manufacturer_url": "https://www.thermaltake.com/view-380-xl-tg-argb-mid-tower-chassis.html"
   }
 }

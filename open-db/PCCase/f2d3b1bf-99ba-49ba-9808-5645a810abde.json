@@ -23,7 +23,7 @@
   "max_video_card_length": 435,
   "max_cpu_cooler_height": 187,
   "internal_2_5_bays": 2,
-  "external_3_5_bays": 2,
+  "external_3_5_bays": null,
   "expansion_slots": 7,
   "riser_expansion_slots": 2,
   "dimensions": "450 x 245 x 462",
@@ -36,6 +36,7 @@
   "volume": 50.9355,
   "weight": 18.7,
   "supported_power_supply_form_factors": [],
+  "internal_3_5_bays": 2,
   "general_product_information": {
     "amazon_sku": "‎B0FWVGN77V",
     "newegg_sku": "N82E16811970049",
