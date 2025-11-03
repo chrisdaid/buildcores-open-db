@@ -1,0 +1,23 @@
+{
+  "opendb_id": "9436942a-e7b6-4689-b78a-d48b9b95cc11",
+  "metadata": {
+    "name": "Arctic P12 PST 120mm White A-RGB PWM 0dB 48.8 CFM",
+    "manufacturer": "ARCTIC",
+    "series": "P12",
+    "variant": "120mm White",
+    "part_numbers": []
+  },
+  "size": 120,
+  "color": [
+    "WHITE"
+  ],
+  "quantity": 1,
+  "min_airflow": 48.8,
+  "min_noise_level": 10.64,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "controller": "None",
+  "static_pressure": 1.85,
+  "flow_direction": "Standard",
+  "general_product_information": {}
+}
