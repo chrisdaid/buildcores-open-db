@@ -28,5 +28,8 @@
   "fanless": false,
   "fan_size": null,
   "fan_quantity": null,
-  "general_product_information": {}
+  "general_product_information": {
+    "ibuypower_sku": "28449",
+    "hyte_sku": "FAN-HYTE-Q60-BW"
+  }
 }

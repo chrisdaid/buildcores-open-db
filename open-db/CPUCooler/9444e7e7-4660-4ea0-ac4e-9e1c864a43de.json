@@ -35,6 +35,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B0DDR5NNFP"
+    "amazon_sku": "B0DDR5NNFP",
+    "ibuypower_sku": "29338"
   }
 }

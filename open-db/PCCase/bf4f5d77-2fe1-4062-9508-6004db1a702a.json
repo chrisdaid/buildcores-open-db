@@ -1,0 +1,16 @@
+{
+  "opendb_id": "bf4f5d77-2fe1-4062-9508-6004db1a702a",
+  "metadata": {
+    "name": "Montech King 45 Black",
+    "series": "KING",
+    "variant": "45",
+    "part_numbers": [],
+    "manufacturer": "MONTECH"
+  },
+  "supported_power_supply_form_factors": [
+    "BLACK"
+  ],
+  "color": [],
+  "front_usb_ports": [],
+  "general_product_information": {}
+}

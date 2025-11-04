@@ -25,6 +25,7 @@
   "flow_direction": "Standard",
   "general_product_information": {
     "amazon_sku": "B0BMWCV1T6",
-    "walmart_sku": 2917452003
+    "walmart_sku": 2917452003,
+    "ibuypower_sku": "28451"
   }
 }
