@@ -1,0 +1,16 @@
+{
+  "opendb_id": "9d105509-2f9f-4b6b-b973-224f00c0f752",
+  "metadata": {
+    "name": "Nvidia RTX 5000 Ada Generation Graphics Card",
+    "manufacturer": "NVIDIA",
+    "series": "Ada Generation",
+    "variant": "RTX 5000",
+    "part_numbers": []
+  },
+  "chipset_manufacturer": "NVIDIA",
+  "color": [
+    "BLACK",
+    "GOLD"
+  ],
+  "general_product_information": {}
+}

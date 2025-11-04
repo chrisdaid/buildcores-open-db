@@ -1,0 +1,18 @@
+{
+  "opendb_id": "c61eb857-8fd6-4088-9e29-44fef4511bac",
+  "metadata": {
+    "name": "NVIDIA RTX 5880 Ada Generation Graphics Card",
+    "manufacturer": "NVIDIA",
+    "part_numbers": [
+      ""
+    ],
+    "series": "Ada Generation",
+    "variant": "RTX 5880 "
+  },
+  "chipset_manufacturer": "NVIDA",
+  "color": [
+    "BLACK",
+    "GOLD"
+  ],
+  "general_product_information": {}
+}
