@@ -1,20 +1,20 @@
 {
-  "opendb_id": "9cbbf041-3d7b-4cab-9be9-60c58e07b4f3",
+  "opendb_id": "6054dae5-a810-4d94-9be0-717ab55db074",
   "metadata": {
-    "name": "Montech RX120 Pro White",
+    "name": "Montech RX120 Pro Black. Pack of 3",
     "manufacturer": "Montech",
-    "series": "RX",
-    "variant": "120 Pro",
     "part_numbers": [
-      "RX120PW"
+      "RX120PB3in1"
     ],
+    "series": "RX",
+    "variant": "120 Pro Pack of 3",
     "releaseYear": 2025
   },
-  "color": [
-    "WHITE"
-  ],
   "size": 120,
-  "quantity": 1,
+  "color": [
+    "BLACK"
+  ],
+  "quantity": 3,
   "min_airflow": 0,
   "max_airflow": 72.3,
   "min_noise_level": 0,
@@ -25,7 +25,7 @@
   "static_pressure": 1.63,
   "flow_direction": "Reverse",
   "general_product_information": {
-    "amazon_sku": "B0FWXKBRRR",
+    "amazon_sku": "B0FWXC8BSY",
     "manufacturer_url": "https://www.montechpc.com/rx120-pro"
   }
 }

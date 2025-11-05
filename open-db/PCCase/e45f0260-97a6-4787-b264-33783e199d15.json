@@ -6,7 +6,9 @@
     "series": "KING",
     "variant": "15 Pro",
     "releaseYear": 2025,
-    "part_numbers": []
+    "part_numbers": [
+      "‎KING15PB"
+    ]
   },
   "form_factor": "Micro ATX Mid Tower",
   "color": [
@@ -15,8 +17,8 @@
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_usb_ports": [
-    "1x USB 3.2 Gen 2 Type-C",
-    "2x USB 3.0 Type A"
+    "1x Type-C",
+    "2x USB 3.0 "
   ],
   "max_video_card_length": 435,
   "max_cpu_cooler_height": 187,
@@ -34,6 +36,7 @@
   "volume": 46.63,
   "weight": 19.43,
   "supported_power_supply_form_factors": [],
+  "power_supply": "None",
   "general_product_information": {
     "amazon_sku": "‎B0FWVBGQRD",
     "newegg_sku": "N82E16811970047",

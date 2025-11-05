@@ -1,31 +1,31 @@
 {
-  "opendb_id": "9cbbf041-3d7b-4cab-9be9-60c58e07b4f3",
+  "opendb_id": "46f45be5-5bf5-410b-8b05-18637f99c45f",
   "metadata": {
-    "name": "Montech RX120 Pro White",
+    "name": "Montech RX120 Pro White. Pack of 3",
     "manufacturer": "Montech",
-    "series": "RX",
-    "variant": "120 Pro",
     "part_numbers": [
-      "RX120PW"
+      "RX120PW3in1"
     ],
+    "series": "RX",
+    "variant": "120 Pro Pack of 3",
     "releaseYear": 2025
   },
+  "size": 120,
   "color": [
     "WHITE"
   ],
-  "size": 120,
-  "quantity": 1,
+  "quantity": 3,
   "min_airflow": 0,
   "max_airflow": 72.3,
   "min_noise_level": 0,
   "max_noise_level": 27.8,
   "pwm": true,
-  "led": "Addressable RGB",
   "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
   "static_pressure": 1.63,
   "flow_direction": "Reverse",
+  "led": "Addressable RGB",
   "general_product_information": {
-    "amazon_sku": "B0FWXKBRRR",
+    "amazon_sku": "B0FWXNQHR5",
     "manufacturer_url": "https://www.montechpc.com/rx120-pro"
   }
 }

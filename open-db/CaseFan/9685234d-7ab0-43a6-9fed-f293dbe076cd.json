@@ -1,30 +1,31 @@
 {
-  "opendb_id": "5ea18583-4c0b-408d-aad5-ebd7e5a2a126",
+  "opendb_id": "9685234d-7ab0-43a6-9fed-f293dbe076cd",
   "metadata": {
-    "name": "Montech AX120 Pro White",
-    "manufacturer": "MONTECH",
-    "series": "AX",
-    "variant": "120 Pro",
+    "name": "Montech AX120 Pro White. Pack of 3",
+    "manufacturer": "Montech",
     "part_numbers": [
-      "‎AX120PW"
+      "‎AX120PW3in1"
     ],
+    "series": "AX",
+    "variant": "120 Pro Pack of 3",
     "releaseYear": 2025
   },
+  "size": 120,
   "color": [
     "WHITE"
   ],
-  "size": 120,
-  "quantity": 1,
+  "quantity": 3,
   "min_airflow": 0,
   "max_airflow": 72.3,
   "min_noise_level": 0,
   "max_noise_level": 25.4,
   "pwm": true,
   "led": "Addressable RGB",
+  "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
   "static_pressure": 1.85,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B0FWXDLG2Z",
+    "amazon_sku": "B0FWXKTCZ2",
     "manufacturer_url": "https://www.montechpc.com/ax120-pro"
   }
 }
