@@ -6,8 +6,8 @@
     "part_numbers": [
       "CA-11E-00M1WN-WS"
     ],
-    "series": "View",
-    "variant": "380 XL"
+    "series": "View 380 XL WS ARGB",
+    "variant": "Black"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
@@ -35,6 +35,7 @@
   "volume": 63.619,
   "weight": 15.28,
   "supported_power_supply_form_factors": [],
+  "supports_rear_connecting_motherboard": true,
   "general_product_information": {
     "amazon_sku": "‎B0FTQPLN76",
     "newegg_sku": "9SIA8EFKNJ7124",

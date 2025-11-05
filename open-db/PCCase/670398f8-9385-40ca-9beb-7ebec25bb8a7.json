@@ -6,7 +6,7 @@
     "part_numbers": [
       "CA-11E-00MGWN-00"
     ],
-    "series": "View",
+    "series": "View 380 XL TG ARGB",
     "variant": ""
   },
   "form_factor": "ATX Mid Tower",
@@ -37,6 +37,7 @@
     "depth": 469,
     "_id": "68bbef4c7cbd1c91e0645176"
   },
+  "supports_rear_connecting_motherboard": true,
   "general_product_information": {
     "amazon_sku": "B0DW1J74HY",
     "newegg_sku": "N82E16811133565",

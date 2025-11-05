@@ -1,0 +1,18 @@
+{
+  "opendb_id": "c3135ae8-dd9c-4d9e-b7f9-7c2bd2b8f431",
+  "metadata": {
+    "name": "Thermaltake View 380 XL WS ARGB Mid Tower Chassis Wood Edition Matcha",
+    "manufacturer": "Thermaltake",
+    "series": "View 380 XL WS ARGB",
+    "variant": "Matcha Green",
+    "part_numbers": []
+  },
+  "form_factor": "ATX Mid Tower",
+  "color": [
+    "GREEN"
+  ],
+  "supports_rear_connecting_motherboard": true,
+  "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
+  "general_product_information": {}
+}

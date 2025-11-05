@@ -1,0 +1,26 @@
+{
+  "opendb_id": "eecc3adc-0024-435f-aa71-092bf139d39a",
+  "metadata": {
+    "name": "Thermaltake View 380 XL ATX Mid Tower Bumblebee",
+    "manufacturer": "Thermaltake",
+    "part_numbers": [
+      "CA-11E-00M4WN-00"
+    ],
+    "series": "View 380 XL TG ARGB"
+  },
+  "form_factor": "ATX Mid Tower",
+  "color": [
+    "YELLOW"
+  ],
+  "side_panel": "Tempered Glass",
+  "has_transparent_side_panel": true,
+  "supports_rear_connecting_motherboard": true,
+  "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
+  "general_product_information": {
+    "amazon_sku": "B0DW141CJN",
+    "newegg_sku": "N82E16811133564",
+    "bestbuy_sku": 6626448,
+    "manufacturer_url": "https://thermaltakeusa.com/products/view-380-xl-tg-argb-bumblebee-mid-tower-chassis-ca-11e-00m4wn-00"
+  }
+}
