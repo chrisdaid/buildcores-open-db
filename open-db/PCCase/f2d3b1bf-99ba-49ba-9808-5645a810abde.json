@@ -4,7 +4,7 @@
     "name": "Montech King 45 Pro Black",
     "manufacturer": "MONTECH",
     "part_numbers": [
-      ""
+      "KING45PB"
     ],
     "series": "KING",
     "variant": "45 Pro",
@@ -37,6 +37,7 @@
   "weight": 18.7,
   "supported_power_supply_form_factors": [],
   "internal_3_5_bays": 2,
+  "power_supply": "None",
   "general_product_information": {
     "amazon_sku": "‎B0FWVGN77V",
     "newegg_sku": "N82E16811970049",
