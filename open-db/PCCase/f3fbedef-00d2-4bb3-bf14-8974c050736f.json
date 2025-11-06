@@ -6,22 +6,20 @@
     "part_numbers": [
       "CA-1Y7-00M6WN-WS"
     ],
-    "series": "View 270 Plus WS ARGB",
-    "variant": "Snow White"
+    "series": "View",
+    "variant": "270 Plus WS ARGB"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
     "WHITE"
   ],
   "power_supply_included": false,
-  "supported_power_supply_form_factors": [
-    "ATX"
-  ],
+  "supported_power_supply_form_factors": [],
   "side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
   "front_usb_ports": [
-    "USB 3.2 Gen 2 Type-C",
-    "USB 3.0"
+    "1x USB 3.2 Gen 2 Type-C",
+    "2x USB 3.0"
   ],
   "max_video_card_length": 420,
   "max_cpu_cooler_height": 180,
@@ -37,7 +35,10 @@
     "_id": "690ac456f5f7869c0f449b00"
   },
   "volume": 47.7,
+  "weight": 14,
   "general_product_information": {
+    "amazon_sku": "B0FNS65CBZ",
+    "walmart_sku": 18361365581,
     "manufacturer_url": "https://www.thermaltake.com/view-270-plus-ws-argb-snow-mid-tower-chassis.html"
   }
 }

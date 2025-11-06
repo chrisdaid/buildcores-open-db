@@ -1,7 +1,7 @@
 {
   "opendb_id": "27bcac76-0db0-495a-87ea-f1df2ff5cc10",
   "metadata": {
-    "name": "Montech XR  ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A",
+    "name": "Montech XR  ATX Mid Tower White with Tempered Glass Side Panel",
     "manufacturer": "MONTECH",
     "part_numbers": [
       "XR WOOD (W)"
@@ -11,7 +11,7 @@
   },
   "form_factor": "ATX Mid Tower",
   "color": [
-    "BLACK"
+    "WHITE"
   ],
   "power_supply": "None",
   "side_panel": "Tempered Glass",
