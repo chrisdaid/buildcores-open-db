@@ -2,7 +2,7 @@
   "opendb_id": "51ebb74b-aacf-4504-b334-697a0baa9f94",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 2,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
@@ -13,7 +13,8 @@
       "VCNRTX4500ADA-PB"
     ],
     "series": "RTX 4500 Ada Generation",
-    "variant": "PNY"
+    "variant": "PNY",
+    "releaseYear": 2023
   },
   "chipset_manufacturer": "RTX",
   "chipset": "RTX 4500 Ada",
@@ -21,9 +22,9 @@
   "memory_type": "GDDR6",
   "core_base_clock": 2070,
   "core_boost_clock": 2580,
-  "effective_memory_clock": 18000,
-  "memory_bus": 0,
-  "interface": "PCIe x16",
+  "effective_memory_clock": 2250,
+  "memory_bus": 192,
+  "interface": "PCIe 4.0 x16",
   "color": [
     "BLACK",
     "GOLD"
@@ -31,7 +32,7 @@
   "length": 245,
   "tdp": 210,
   "total_slot_width": 2,
-  "cooling": "1 Fan",
+  "cooling": "Blower",
   "video_outputs": {
     "hdmi_2_1": 0,
     "hdmi_2_0": 0,
@@ -42,9 +43,11 @@
     "vga": 0,
     "_id": "67f9c523865ad0c3553e93b7"
   },
-  "core_count": 0,
+  "core_count": 7680,
+  "case_expansion_slot_width": 2,
   "general_product_information": {
     "amazon_sku": "B0CJQH8519",
-    "newegg_sku": "N82E16814133871"
+    "newegg_sku": "N82E16814133871",
+    "manufacturer_url": "https://www.nvidia.com/en-us/products/workstations/rtx-4500/"
   }
 }
