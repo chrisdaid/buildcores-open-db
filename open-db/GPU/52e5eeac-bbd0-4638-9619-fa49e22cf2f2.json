@@ -25,7 +25,7 @@
   "memory_bus": 160,
   "interface": "PCIe x16",
   "frame_sync": "None",
-  "length": 369,
+  "length": 260,
   "tdp": 153,
   "case_expansion_slot_width": 3,
   "total_slot_width": 3,
