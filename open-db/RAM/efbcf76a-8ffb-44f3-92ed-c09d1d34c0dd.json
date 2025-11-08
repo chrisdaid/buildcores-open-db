@@ -8,7 +8,7 @@
     "name": "Silicon Power XPOWER Zenith RGB Gaming Black DDR5-6000 CL30 32GB (2x16GB)",
     "manufacturer": "Silicon Power",
     "part_numbers": [
-      "SP032GXLWU60AFDF                                                    SU032GXLWU60AFDFAB                                                    SU032GXLWU60AFDFBH"
+      "SP032GXLWU60AFDF"
     ],
     "series": "XPOWER Zenith RGB",
     "variant": "6000 CL30"
@@ -29,7 +29,6 @@
   "rgb": true,
   "height": 38.5,
   "general_product_information": {
-    "amazon_sku": "B0D2HLLBB8",
     "manufacturer_url": "https://www.silicon-power.com/en/product-detail/XPOWER_Zenith_DDR5_Gaming_UDIMM/"
   }
 }

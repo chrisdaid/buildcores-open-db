@@ -5,7 +5,7 @@
     "capacity_gb": 32
   },
   "metadata": {
-    "name": "Silicon Power DDR5 64GB (2x32GB) Zenith RGB 6000MHz CL30 BLACK",
+    "name": "Silicon Power DDR5 64GB (2x32GB) Zenith RGB 6000MHz CL30 WHITE",
     "manufacturer": "Silicon Power",
     "part_numbers": [
       "SU064GXLWU60AFDHBH"
@@ -18,7 +18,7 @@
   "form_factor": "288-pin DIMM (DDR5)",
   "capacity": 64,
   "color": [
-    "BLACK"
+    "WHITE"
   ],
   "cas_latency": 30,
   "timings": "30-38-38-96",

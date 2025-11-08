@@ -8,7 +8,7 @@
     "name": "Silicon Power XPOWER Zenith RGB Gaming White DDR5-6000 CL30 32GB (2x16GB)",
     "manufacturer": "Silicon Power",
     "part_numbers": [
-      "SP032GXLWU60AFDH                                                    SU032GXLWU60AFDHSW                                                    SU032GXLWU60AFDHBH"
+      "SP032GXLWU60AFDH"
     ],
     "series": "XPOWER Zenith RGB",
     "variant": "6000 CL30"
@@ -22,13 +22,13 @@
   ],
   "cas_latency": 30,
   "timings": "30-38-38-96",
-  "voltage": null,
+  "voltage": 1.35,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
   "general_product_information": {
     "amazon_sku": "B0CLVBQWDL",
-    "newegg_sku": "0RN-002K-000H9"
+    "manufacturer_url": "https://www.silicon-power.com/product-detail/XPOWER_Zenith_DDR5_RGB_Gaming_UDIMM/"
   }
 }
