@@ -10,7 +10,8 @@
     "part_numbers": [
       "SP016GXLWU520FSH"
     ],
-    "variant": "5200 CL38"
+    "variant": "5200 CL38",
+    "series": "XPOWER Zenith RGB"
   },
   "speed": 5200,
   "ram_type": "DDR5",
@@ -25,6 +26,8 @@
   "heat_spreader": true,
   "rgb": true,
   "height": 38.5,
+  "timings": "38-38-38-84",
+  "ecc": "Non-ECC",
   "general_product_information": {
     "manufacturer_url": "silicon-power.com/product-detail/XPOWER_Zenith_DDR5_RGB_Gaming_UDIMM/"
   }

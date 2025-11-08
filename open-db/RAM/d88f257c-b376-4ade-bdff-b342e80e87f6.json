@@ -10,7 +10,8 @@
       "SP064GXLWU560FDF"
     ],
     "series": "XPOWER Zenith RGB",
-    "variant": "5600 CL40"
+    "variant": "5600 CL40",
+    "manufacturer": "Silicon Power"
   },
   "speed": 5600,
   "ram_type": "DDR5",

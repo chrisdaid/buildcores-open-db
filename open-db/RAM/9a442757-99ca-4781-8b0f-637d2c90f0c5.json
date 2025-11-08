@@ -9,7 +9,9 @@
     "part_numbers": [
       "SP016GXLWU520FSF"
     ],
-    "variant": "5200 CL38"
+    "variant": "5200 CL38",
+    "manufacturer": "Silicon Power",
+    "series": "XPOWER Zenith RGB"
   },
   "speed": 5200,
   "ram_type": "DDR5",
