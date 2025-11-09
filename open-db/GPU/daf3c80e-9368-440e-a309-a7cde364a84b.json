@@ -28,8 +28,8 @@
   "frame_sync": "NVIDIA G-SYNC",
   "length": 358,
   "tdp": 360,
-  "case_expansion_slot_width": 4,
-  "total_slot_width": null,
+  "case_expansion_slot_width": 2,
+  "total_slot_width": 4,
   "cooling": "4 Fans",
   "video_outputs": {
     "hdmi_2_1": 2,

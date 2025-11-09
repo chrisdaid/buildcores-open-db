@@ -10,7 +10,8 @@
       "SP064GXLWU60BFDH"
     ],
     "series": "XPOWER Zenith RGB",
-    "variant": "6000 CL38"
+    "variant": "6000 CL38",
+    "manufacturer": "Silicon Power"
   },
   "speed": 6000,
   "ram_type": "DDR5",
