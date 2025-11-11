@@ -9,7 +9,9 @@
     "part_numbers": [
       "SP016GXLWU60AFSF"
     ],
-    "series": "XPOWER Zenith RGB"
+    "series": "XPOWER Zenith RGB",
+    "manufacturer": "Silicon Power",
+    "variant": "6000 CL30"
   },
   "speed": 6000,
   "ram_type": "DDR5",
