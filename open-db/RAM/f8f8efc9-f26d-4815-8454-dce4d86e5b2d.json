@@ -10,7 +10,7 @@
     "part_numbers": [
       "SU032GXLWU560FDGAB"
     ],
-    "series": "XPOWER",
+    "series": "XPOWER Zenith RGB",
     "variant": "5600 CL40"
   },
   "speed": 5600,
@@ -26,9 +26,9 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "rgb": false,
+  "rgb": true,
+  "height": 38.6,
   "general_product_information": {
-    "amazon_sku": "B0BV2PDLJ7",
     "manufacturer_url": "https://www.silicon-power.com/en/product-detail/XPOWER_Zenith_DDR5_Gaming_UDIMM/"
   }
 }
