@@ -46,6 +46,7 @@
   "fan_size": null,
   "fan_quantity": null,
   "general_product_information": {
-    "amazon_sku": "B09BCWPG1S"
+    "amazon_sku": "B09BCWPG1S",
+    "newegg_sku": "13C-001F-00073"
   }
 }
