@@ -86,6 +86,7 @@
     "1 x 2.5 Gb/s Ports (Intel I226-V)                                                    1 x 1 Gb/s Ports (Intel I219-V)"
   ],
   "general_product_information": {
-    "amazon_sku": "B0BJF1H163"
+    "amazon_sku": "B0BJF1H163",
+    "newegg_sku": "N82E16813162094"
   }
 }

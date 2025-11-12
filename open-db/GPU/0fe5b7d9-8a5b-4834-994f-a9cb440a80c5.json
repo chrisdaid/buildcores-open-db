@@ -43,6 +43,7 @@
   "color": [],
   "core_count": 1024,
   "general_product_information": {
-    "amazon_sku": "B0BFD8DSM3"
+    "amazon_sku": "B0BFD8DSM3",
+    "newegg_sku": "N82E16814930076"
   }
 }

@@ -86,6 +86,7 @@
     "1 x 1 Gb/s Ports (Realtek RTL8111H)"
   ],
   "general_product_information": {
-    "amazon_sku": "B089W26FCB"
+    "amazon_sku": "B089W26FCB",
+    "newegg_sku": "N82E16813157953"
   }
 }

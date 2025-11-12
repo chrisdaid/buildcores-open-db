@@ -37,6 +37,7 @@
     "_id": "68bbdfb1b35e758fc033e9c2"
   },
   "general_product_information": {
-    "amazon_sku": "B0DYM1C6LB"
+    "amazon_sku": "B0DYM1C6LB",
+    "newegg_sku": "N82E16811734017"
   }
 }
