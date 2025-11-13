@@ -10,12 +10,13 @@
     "part_numbers": [
       "SP032GXLWU520FSE"
     ],
-    "series": "XPOWER Zenith"
+    "series": "XPOWER Zenith",
+    "variant": "5200 CL40"
   },
   "speed": 5200,
   "ram_type": "DDR5",
   "form_factor": "288-pin DIMM (DDR5)",
-  "capacity": 31,
+  "capacity": 32,
   "color": [
     "BLACK"
   ],

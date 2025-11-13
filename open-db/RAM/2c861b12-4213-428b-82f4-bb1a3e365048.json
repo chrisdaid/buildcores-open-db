@@ -1,14 +1,14 @@
 {
-  "opendb_id": "c8917ba0-1685-433e-94dc-b493b3e72f76",
+  "opendb_id": "2c861b12-4213-428b-82f4-bb1a3e365048",
   "modules": {
     "quantity": 2,
-    "capacity_gb": 8
+    "capacity_gb": 16
   },
   "metadata": {
-    "name": "Silicon Power DDR5 16GB (2x8GB) Zenith RGB 6000MHz CL30 WHITE",
+    "name": "Silicon Power DDR5 32GB (2x16GB) Zenith 6000MHz CL36 White",
     "manufacturer": "Silicon Power",
     "part_numbers": [
-      "SP016GXLWU60AFSG"
+      "SU032GXLWU60AFDGSW"
     ],
     "series": "XPOWER Zenith",
     "variant": "6000 CL30"
@@ -16,7 +16,7 @@
   "speed": 6000,
   "ram_type": "DDR5",
   "form_factor": "288-pin DIMM (DDR5)",
-  "capacity": 16,
+  "capacity": 32,
   "color": [
     "WHITE"
   ],
@@ -26,8 +26,10 @@
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
-  "height": 38.5,
+  "height": 38.6,
   "general_product_information": {
+    "amazon_sku": "‎B0FYPNNWVS",
+    "newegg_sku": "9SIBDGPK7E6518",
     "manufacturer_url": "https://www.silicon-power.com/product-detail/XPOWER_Zenith_DDR5_Gaming_UDIMM/"
   }
 }
