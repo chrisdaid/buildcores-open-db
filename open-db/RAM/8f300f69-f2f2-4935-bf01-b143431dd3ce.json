@@ -11,7 +11,7 @@
       "SP016GXLWU60FFSE"
     ],
     "series": "XPOWER Zenith",
-    "variant": "SP016GXLWU60FFSE"
+    "variant": "6000 CL36"
   },
   "speed": 6000,
   "ram_type": "DDR5",
@@ -26,6 +26,7 @@
   "registered": "Unbuffered",
   "heat_spreader": true,
   "height": 38.5,
+  "timings": "36-46-46-86",
   "general_product_information": {
     "manufacturer_url": "https://www.silicon-power.com/product-detail/XPOWER_Zenith_DDR5_Gaming_UDIMM/"
   }
