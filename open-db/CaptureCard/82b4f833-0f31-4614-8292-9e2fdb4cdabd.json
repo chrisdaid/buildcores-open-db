@@ -1,7 +1,9 @@
 {
   "opendb_id": "82b4f833-0f31-4614-8292-9e2fdb4cdabd",
   "metadata": {
-    "part_numbers": []
+    "part_numbers": [],
+    "name": "EVGA XR1 Pro Capture Card",
+    "manufacturer": "EVGA"
   },
   "general_product_information": {
     "amazon_sku": "B09N55K5FG",

@@ -1,7 +1,9 @@
 {
   "opendb_id": "c7feb910-642b-45f1-85d8-6bed92622c94",
   "metadata": {
-    "part_numbers": []
+    "part_numbers": [],
+    "name": "Intel X710-T2L 2 x 10 Gb/s Ethernet PCIe x8 Network Adapter",
+    "manufacturer": "Intel"
   },
   "general_product_information": {
     "amazon_sku": "B086LLRQKZ",
