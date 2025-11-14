@@ -1,12 +1,12 @@
 {
   "opendb_id": "9330edb5-58e7-421c-8ffb-4fea9e314c02",
   "memory": {
-    "max": 192,
+    "max": 256,
     "ram_type": "DDR5",
     "slots": 4
   },
   "storage_devices": {
-    "sata_6_gb_s": 0,
+    "sata_6_gb_s": 4,
     "sata_3_gb_s": 0,
     "u2": 0
   },
@@ -17,8 +17,25 @@
     "usb_3_2_gen_2x2": 0,
     "usb_4": 0
   },
+  "fan_headers": {
+    "cpu_fan": 1,
+    "case_fan": 2
+  },
+  "rgb_headers": {
+    "argb_5v": 2,
+    "rgb_12v": 1
+  },
+  "front_panel_headers": {
+    "power_button": true,
+    "power_led": true,
+    "reset_button": true,
+    "hdd_led": true
+  },
   "power_connectors": {
-    "cpu_power": []
+    "cpu_power": [
+      "8-pin"
+    ],
+    "main_power": "24-pin"
   },
   "audio": {
     "chipset": "Realtek",
@@ -31,7 +48,7 @@
       "B650M GAMING PLUS WF                                                    B650M GAMING PLUS WIFI"
     ],
     "series": "B650M",
-    "variant": ""
+    "variant": "GAMING PLUS WIFI DDR5 Micro ATX"
   },
   "socket": "AM5",
   "form_factor": "Micro ATX",
@@ -48,7 +65,7 @@
       "_id": "67f9b753865ad0c3553da44a"
     },
     {
-      "gen": "4.0",
+      "gen": "3.0",
       "quantity": 1,
       "lanes": 1,
       "_id": "67f9b753865ad0c3553da44b"
@@ -56,22 +73,16 @@
   ],
   "m2_slots": [
     {
-      "size": "2280",
+      "size": "2580/2280",
       "key": "M",
       "interface": "PCIe 4.0 x4",
       "_id": "67f9b753865ad0c3553da44c"
     },
     {
-      "size": "2280-22110",
+      "size": "2280/22110",
       "key": "M",
       "interface": "PCIe 4.0 x4",
       "_id": "67f9b753865ad0c3553da44d"
-    },
-    {
-      "size": "2280",
-      "key": "M",
-      "interface": "PCIe 4.0 x4",
-      "_id": "67f9b753865ad0c3553da44e"
     }
   ],
   "onboard_ethernet": [
@@ -85,16 +96,26 @@
   "raid_support": true,
   "back_connect_connectors": false,
   "bios_features": {
-    "flashback": false,
-    "clear_cmos": false,
+    "flashback": true,
+    "clear_cmos": true,
     "_id": "67f9b753865ad0c3553da450"
   },
   "back_panel_ports": [
-    "1 x 2.5 Gb/s Ports (Realtek)"
+    "1 x 2.5 Gb/s Ports (Realtek)",
+    "1 x PS/2 keyboard/mouse port",
+    "1 x USB Type-C® port, with USB 3.2 Gen 1 support",
+    "3 x USB 3.2 Gen 1 ports",
+    "2 x USB 2.0/1.1 ports",
+    "1 x HDMI port",
+    "2 x DisplayPorts",
+    "1 x RJ-45 port",
+    "3 x audio jacks"
   ],
+  "wireless_networking": "Realtek Wi-Fi 6E  BLUETOOTH 5.3",
   "general_product_information": {
     "amazon_sku": "B0D2V4VH2C",
     "newegg_sku": "N82E16813145502",
-    "walmart_sku": 5487334955
+    "walmart_sku": 5487334955,
+    "manufacturer_url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-PLUS-WIFI-rev-10-11-12/sp#sp"
   }
 }

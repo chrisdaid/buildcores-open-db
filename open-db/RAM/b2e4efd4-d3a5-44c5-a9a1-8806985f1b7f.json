@@ -10,7 +10,7 @@
     "part_numbers": [
       "SP016GXLWU680FSE"
     ],
-    "series": "XPOWER",
+    "series": "XPOWER Zenith",
     "variant": "6800 CL40"
   },
   "speed": 6800,
@@ -22,7 +22,7 @@
   ],
   "cas_latency": 40,
   "timings": "40-40-40-77",
-  "voltage": null,
+  "voltage": 1.35,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
