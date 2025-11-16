@@ -1,0 +1,22 @@
+{
+  "opendb_id": "037451fb-f332-4a41-9043-43bfbcaccc64",
+  "metadata": {
+    "name": "TRYX ROTA SL 120mm White Reverse Addressable RGB PWM 65.64 CFM",
+    "manufacturer": "TRYX",
+    "series": "ROTA",
+    "variant": "120mm Black",
+    "part_numbers": []
+  },
+  "size": 120,
+  "color": [
+    "WHITE"
+  ],
+  "quantity": 1,
+  "min_airflow": 65.64,
+  "min_noise_level": 28.87,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "static_pressure": 2.49,
+  "flow_direction": "Reverse",
+  "general_product_information": {}
+}

@@ -27,5 +27,9 @@
   "weight": null,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [],
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0BVH7ZM6N",
+    "newegg_sku": "2AM-000Z-000B3",
+    "manufacturer_url": "https://lian-li.com/product/lancool-216/"
+  }
 }

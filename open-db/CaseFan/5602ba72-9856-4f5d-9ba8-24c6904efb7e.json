@@ -1,0 +1,18 @@
+{
+  "opendb_id": "5602ba72-9856-4f5d-9ba8-24c6904efb7e",
+  "metadata": {
+    "name": "TRYX ROTA PRO 140 WHITE",
+    "manufacturer": "TRYX",
+    "series": "Rota Pro",
+    "part_numbers": []
+  },
+  "size": 140,
+  "color": [
+    "WHITE"
+  ],
+  "quantity": 1,
+  "pwm": true,
+  "led": "None",
+  "flow_direction": "Standard",
+  "general_product_information": {}
+}
