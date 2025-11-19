@@ -2,7 +2,7 @@
   "opendb_id": "e21f5e7a-3091-46b0-876f-9af69932e177",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 1,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
@@ -10,20 +10,21 @@
     "name": "Asus PRIME OC GeForce RTX 5060 Ti 8GB GDDR7 Black",
     "manufacturer": "Asus",
     "part_numbers": [
-      "prime-rtx5060ti-o8g                                                    90YV0MP0-M0NA00"
+      "PRIME-RTX5060TI-O8G"
     ],
     "series": "GeForce RTX 5060 Ti",
-    "variant": "Asus"
+    "variant": "OC Edition 8GB",
+    "releaseYear": 2025
   },
   "chipset_manufacturer": "GeForce",
   "chipset": "GeForce RTX 5060 Ti",
   "memory": 8,
   "memory_type": "GDDR7",
-  "core_base_clock": 2410,
+  "core_base_clock": 2407,
   "core_boost_clock": 2647,
-  "effective_memory_clock": 0,
+  "effective_memory_clock": 1750,
   "memory_bus": 128,
-  "interface": "PCIe x16",
+  "interface": "PCIe 5.0 x8",
   "color": [
     "BLACK"
   ],
@@ -34,16 +35,21 @@
   "video_outputs": {
     "hdmi_2_1": 1,
     "hdmi_2_0": 0,
-    "displayport_2_1": 3,
+    "displayport_2_1": null,
     "displayport_2_1a": 0,
     "displayport_1_4a": 0,
+    "displayport_2_1_b": 3,
     "dvi_d": 0,
     "vga": 0,
     "_id": "684cd40a1d3a20a8514d2acc"
   },
   "core_count": 4608,
+  "frame_sync": "G-Sync",
+  "case_expansion_slot_width": 2,
   "general_product_information": {
     "amazon_sku": "B0F4DVXKKX",
-    "newegg_sku": "N82E16814126793"
+    "newegg_sku": "N82E16814126793",
+    "walmart_sku": 16665354859,
+    "manufacturer_url": "https://www.asus.com/motherboards-components/graphics-cards/prime/prime-rtx5060ti-o8g/techspec/"
   }
 }
