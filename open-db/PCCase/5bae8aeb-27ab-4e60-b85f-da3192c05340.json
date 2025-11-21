@@ -1,0 +1,21 @@
+{
+  "opendb_id": "5bae8aeb-27ab-4e60-b85f-da3192c05340",
+  "metadata": {
+    "name": "Asus ROG Strix Helios II White",
+    "manufacturer": "ASUS",
+    "series": "ROG Helios",
+    "variant": "II White",
+    "part_numbers": []
+  },
+  "form_factor": "ATX Mid Tower",
+  "color": [
+    "WHITE"
+  ],
+  "side_panel": "Tempered Glass",
+  "has_transparent_side_panel": true,
+  "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
+  "general_product_information": {
+    "amazon_sku": "B0FLF8BS63"
+  }
+}

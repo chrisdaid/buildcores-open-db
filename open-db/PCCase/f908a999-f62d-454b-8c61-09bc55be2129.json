@@ -1,0 +1,21 @@
+{
+  "opendb_id": "f908a999-f62d-454b-8c61-09bc55be2129",
+  "metadata": {
+    "name": "Asus ROG Strix Helios II Hatsune Miku",
+    "manufacturer": "Asus",
+    "series": "ROG Helios",
+    "variant": "II Hatsune Miku",
+    "part_numbers": []
+  },
+  "form_factor": "ATX Mid Tower",
+  "color": [
+    "BLUE"
+  ],
+  "side_panel": "Tempered Glass",
+  "has_transparent_side_panel": true,
+  "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
+  "general_product_information": {
+    "amazon_sku": "B0FLF6LJTV"
+  }
+}

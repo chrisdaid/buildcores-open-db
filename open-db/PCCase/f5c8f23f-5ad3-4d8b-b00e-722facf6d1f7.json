@@ -1,0 +1,21 @@
+{
+  "opendb_id": "f5c8f23f-5ad3-4d8b-b00e-722facf6d1f7",
+  "metadata": {
+    "name": "Asus ROG Strix Helios II Black",
+    "manufacturer": "Asus",
+    "series": "ROG Helios",
+    "variant": "II Black",
+    "part_numbers": []
+  },
+  "form_factor": "ATX Mid Tower",
+  "color": [
+    "BLACK"
+  ],
+  "side_panel": "Tempered Glass",
+  "has_transparent_side_panel": true,
+  "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
+  "general_product_information": {
+    "amazon_sku": "B0FLF98DRB"
+  }
+}

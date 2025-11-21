@@ -23,6 +23,10 @@
   "static_pressure": 2.49,
   "flow_direction": "Standard",
   "general_product_information": {
-    "newegg_sku": "1YF-01RF-00006"
+    "amazon_sku": " B0F1MTH1MY",
+    "newegg_sku": "1YF-01RF-00006",
+    "bestbuy_sku": 11079235,
+    "walmart_sku": 16464601492,
+    "manufacturer_url": "https://www.tryxzone.com/rota/4026"
   }
 }
