@@ -1,12 +1,12 @@
 {
   "opendb_id": "1f48999a-18bd-479e-b27a-006636cd296e",
   "metadata": {
-    "name": "MONTECH XR, ATX Mid-Tower PC Gaming Case, 3 x 120mm ARGB PWM Fans Pre-Installed, Full-View Dual Tempered Glass Panel, Wood-Grain Design I/O Interface, Support 4090 GPUs, 360mm Radiator Support, Black",
+    "name": "Montech X2 Mesh ATX Mid Tower Case",
     "manufacturer": "MONTECH",
     "part_numbers": [
       "9SIA0ZXK9J4545"
     ],
-    "series": "XR",
+    "series": "X2",
     "variant": "Black"
   },
   "form_factor": "ATX Mid Tower",
@@ -26,7 +26,6 @@
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [],
   "general_product_information": {
-    "amazon_sku": "B08CMWD2XM",
-    "newegg_sku": "9SIAK91BP89584"
+    "newegg_sku": "2AM-00CN-00021"
   }
 }
