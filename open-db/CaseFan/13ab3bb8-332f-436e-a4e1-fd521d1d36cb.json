@@ -3,7 +3,9 @@
   "metadata": {
     "name": "TRYX OEM ARGB 120 White",
     "manufacturer": "TRYX",
-    "part_numbers": []
+    "part_numbers": [],
+    "series": "OEM",
+    "variant": "120mm White"
   },
   "size": 120,
   "color": [
@@ -12,5 +14,6 @@
   "quantity": 1,
   "led": "Addressable RGB",
   "flow_direction": "Standard",
+  "pwm": true,
   "general_product_information": {}
 }

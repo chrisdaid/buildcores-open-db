@@ -36,6 +36,7 @@
     "depth": 430,
     "_id": "688e65b3c32f82b5e1edb5a0"
   },
+  "power_supply_shroud": true,
   "general_product_information": {
     "amazon_sku": "B0D2MHBXRR",
     "newegg_sku": "N82E16811146366",

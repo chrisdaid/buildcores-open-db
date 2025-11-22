@@ -3,7 +3,9 @@
   "metadata": {
     "name": "TRYX OEM ARGB 140 Black",
     "manufacturer": "TRYX",
-    "part_numbers": []
+    "part_numbers": [],
+    "series": "OEM",
+    "variant": "140mm Black"
   },
   "size": 140,
   "color": [
