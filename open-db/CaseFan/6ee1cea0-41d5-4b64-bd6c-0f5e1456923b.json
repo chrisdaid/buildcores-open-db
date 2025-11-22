@@ -3,9 +3,12 @@
   "metadata": {
     "name": "TRYX ROTA PRO 120mm White PWM",
     "manufacturer": "TRYX",
-    "part_numbers": [],
+    "part_numbers": [
+      "F-R120P-NN1M-G0W"
+    ],
     "series": "ROTA",
-    "variant": "120mm White"
+    "variant": "120mm White",
+    "releaseYear": 2024
   },
   "size": 120,
   "color": [
@@ -23,6 +26,8 @@
   "static_pressure": 3.66,
   "flow_direction": "Standard",
   "general_product_information": {
-    "newegg_sku": "1YF-01RF-00003"
+    "amazon_sku": "B0DF4PT3GP",
+    "newegg_sku": "1YF-01RF-00003",
+    "manufacturer_url": "https://www.tryxzone.com/rota/567"
   }
 }

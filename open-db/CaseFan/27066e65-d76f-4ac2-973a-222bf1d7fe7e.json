@@ -3,8 +3,10 @@
   "metadata": {
     "name": "TRYX ROTA SL 120mm Black Addressable RGB PWM 65.64 CFM 3-Pack",
     "manufacturer": "TRYX",
-    "part_numbers": [],
-    "series": "ROTA",
+    "part_numbers": [
+      "F-R120A-AM3M-G0K"
+    ],
+    "series": "ROTA SL ARGB",
     "variant": "120mm Black"
   },
   "size": 120,
@@ -23,7 +25,7 @@
   "static_pressure": 2.49,
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": " B0F1MTH1MY",
+    "amazon_sku": "B0F1MTH1MY",
     "newegg_sku": "1YF-01RF-00006",
     "bestbuy_sku": 11079235,
     "walmart_sku": 16464601492,

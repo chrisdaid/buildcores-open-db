@@ -4,10 +4,10 @@
     "name": "TRYX PANORAMA 100.3 CFM Water 280mm White",
     "manufacturer": "TRYX",
     "part_numbers": [
-      "L-P280N-DS2M-G0W                                                    PANORAMA 280 WHITE"
+      "L-P280N-DS2M-G0W"
     ],
     "series": "PANORAMA",
-    "variant": "White",
+    "variant": "White 280",
     "releaseYear": null
   },
   "min_fan_rpm": 500,
@@ -32,9 +32,11 @@
   "water_cooled": true,
   "radiator_size": 280,
   "fanless": false,
-  "fan_size": null,
-  "fan_quantity": null,
+  "fan_size": 140,
+  "fan_quantity": 2,
   "general_product_information": {
-    "newegg_sku": "2YM-00BE-00009"
+    "amazon_sku": "B0DF4KG3HL",
+    "newegg_sku": "9SIBM6CKJ82717",
+    "manufacturer_url": "https://www.tryxzone.com/panorama/1568"
   }
 }

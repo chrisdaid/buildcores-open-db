@@ -43,5 +43,8 @@
     "_id": "688ec9a43ebf909c29b82193"
   },
   "core_count": 10752,
-  "general_product_information": {}
+  "general_product_information": {
+    "amazon_sku": "B0FNBS4FNM",
+    "walmart_sku": 17872356985
+  }
 }

@@ -4,7 +4,11 @@
     "name": "TRYX ROTA PRO 140 Black",
     "manufacturer": "TRYX",
     "series": "Rota Pro",
-    "part_numbers": []
+    "part_numbers": [
+      "F-R140P-NN1M-G0K"
+    ],
+    "variant": "140mm Black",
+    "releaseYear": 2024
   },
   "size": 140,
   "color": [
@@ -14,5 +18,15 @@
   "pwm": true,
   "led": "None",
   "flow_direction": "Standard",
-  "general_product_information": {}
+  "min_airflow": 100.3,
+  "min_noise_level": 32,
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": 2.53,
+  "general_product_information": {
+    "amazon_sku": "B0DF46V9HH",
+    "newegg_sku": "9SIBWC8KA91415",
+    "walmart_sku": 16236374780,
+    "manufacturer_url": "https://www.tryxzone.com/rota/812"
+  }
 }
