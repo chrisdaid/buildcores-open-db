@@ -2,11 +2,11 @@
   "opendb_id": "11449671-8f3c-4239-9bc4-b9b45ea86f9e",
   "connectors": {
     "atx_24_pin": 1,
-    "eps_8_pin": 0,
-    "pcie_12vhpwr": 0,
-    "pcie_6_plus_2_pin": 0,
-    "sata": 6,
-    "molex_4_pin": 0,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 4,
+    "molex_4_pin": 2,
     "floppy_4_pin": 0
   },
   "metadata": {
@@ -16,7 +16,7 @@
       "CP-9020297-NA                                                    CP-9020297-UK                                                    CP-9020297-AU                                                    CP-9020297-EU"
     ],
     "series": "RM1000e",
-    "variant": "1000W "
+    "variant": "1000e"
   },
   "wattage": 1000,
   "form_factor": "ATX",
@@ -32,6 +32,7 @@
     "newegg_sku": "N82E16817139337",
     "bestbuy_sku": 6611987,
     "walmart_sku": 15069700086,
-    "ibuypower_sku": "30660"
+    "ibuypower_sku": "30660",
+    "manufacturer_url": "https://www.corsair.com/us/en/p/psu/cp-9020264-na/rme-series-rm1000e-fully-modular-low-noise-atx-power-supply-cp-9020264-na?srsltid=AfmBOoodC0ZsJIPRDSlCEHq4Y9ybwtUwa_JXZ0O3ag5oco_9I6eL8WJE"
   }
 }
