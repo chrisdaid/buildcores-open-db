@@ -18,6 +18,7 @@
   "led": "Addressable RGB",
   "flow_direction": "Standard",
   "general_product_information": {
-    "amazon_sku": "B0DLWBHM8C"
+    "amazon_sku": "B0DLWBHM8C",
+    "bestbuy_sku": 6629602
   }
 }

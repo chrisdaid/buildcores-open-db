@@ -25,6 +25,8 @@
   "general_product_information": {
     "amazon_sku": "B083M7WLXC",
     "newegg_sku": "9SIA25VKBT0958",
-    "walmart_sku": 781205221
+    "bestbuy_sku": 10920339,
+    "walmart_sku": 781205221,
+    "manufacturer_url": "https://www.fractal-design.com/products/fans/dynamic/dynamic-x2-gp-18-pwm/black/"
   }
 }
