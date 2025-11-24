@@ -37,6 +37,8 @@
   "general_product_information": {
     "amazon_sku": "B0DF49XMC4",
     "newegg_sku": "9SIBWC8KD89792",
+    "bestbuy_sku": 11175873,
+    "walmart_sku": 15845811071,
     "manufacturer_url": "https://www.tryxzone.com/panorama/527"
   }
 }
