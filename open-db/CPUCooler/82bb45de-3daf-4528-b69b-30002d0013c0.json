@@ -4,10 +4,10 @@
     "name": "TRYX PANORAMA Water 240mm 81.32 CFM Black",
     "manufacturer": "TRYX",
     "part_numbers": [
-      "L-P240N-DS2M-G0K                                                    PANORAMA 240 Black"
+      "L-P240N-DS2M-G0K                                        "
     ],
     "series": "PANORAMA",
-    "variant": "Black",
+    "variant": "Black 240",
     "releaseYear": null
   },
   "min_fan_rpm": 500,
@@ -32,9 +32,10 @@
   "water_cooled": true,
   "radiator_size": 240,
   "fanless": false,
-  "fan_size": null,
-  "fan_quantity": null,
+  "fan_size": 120,
+  "fan_quantity": 2,
   "general_product_information": {
-    "newegg_sku": "2YM-00BE-00011"
+    "amazon_sku": "B0DF4NWSM1",
+    "manufacturer_url": "https://www.tryxzone.com/panorama/832"
   }
 }

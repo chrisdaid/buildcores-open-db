@@ -38,6 +38,8 @@
     "_id": "68fbdfe440c5cc953479d620"
   },
   "general_product_information": {
+    "newegg_sku": "N82E16814137993",
+    "bestbuy_sku": 11021302,
     "manufacturer_url": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-Ti-16G-VENTUS-3X-OC"
   }
 }

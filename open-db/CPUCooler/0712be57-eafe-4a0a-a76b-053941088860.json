@@ -1,7 +1,7 @@
 {
   "opendb_id": "0712be57-eafe-4a0a-a76b-053941088860",
   "metadata": {
-    "name": "ROG RYUJIN III 360 ARGB WHT All-in-one Liquid CPU Cooler",
+    "name": "ASUS ROG RYUJIN III 240 ARGB White Edition ",
     "manufacturer": "ASUS",
     "part_numbers": [],
     "series": "ROG RYUJIN III",
@@ -23,7 +23,7 @@
     "AM4"
   ],
   "water_cooled": true,
-  "radiator_size": 360,
+  "radiator_size": 240,
   "fanless": false,
   "fan_size": 120,
   "fan_quantity": 3,

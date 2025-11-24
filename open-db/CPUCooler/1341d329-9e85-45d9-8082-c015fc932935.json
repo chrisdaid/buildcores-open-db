@@ -7,12 +7,12 @@
       "L-P360L-AM3M-G0K"
     ],
     "series": "PANORAMA",
-    "variant": "Black",
-    "releaseYear": null
+    "variant": "Black 360",
+    "releaseYear": 2025
   },
   "min_fan_rpm": 500,
   "max_fan_rpm": 1850,
-  "min_noise_level": null,
+  "min_noise_level": 28,
   "max_noise_level": null,
   "color": [
     "BLACK"
@@ -32,11 +32,12 @@
   "water_cooled": true,
   "radiator_size": 360,
   "fanless": false,
-  "fan_size": null,
-  "fan_quantity": null,
+  "fan_size": 120,
+  "fan_quantity": 3,
   "general_product_information": {
-    "amazon_sku": "B0DQTZFS74",
+    "amazon_sku": "B0F9WV43J1",
     "newegg_sku": "2YM-00BE-00013",
-    "walmart_sku": 15308854192
+    "walmart_sku": 15308854192,
+    "manufacturer_url": "https://www.tryxzone.com/panorama/2745"
   }
 }

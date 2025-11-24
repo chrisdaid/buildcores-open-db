@@ -3,8 +3,10 @@
   "metadata": {
     "name": "TRYX ROTA SL 120mm PWM Addressable RGB 65.64 CFM White 3-Pack",
     "manufacturer": "TRYX",
-    "part_numbers": [],
-    "series": "ROTA",
+    "part_numbers": [
+      "F-R120A-AM3M-G0W"
+    ],
+    "series": "ROTA SL ARGB",
     "variant": "120mm White"
   },
   "size": 120,
@@ -25,6 +27,7 @@
   "general_product_information": {
     "amazon_sku": "B0F1MV15Y9",
     "newegg_sku": "1YF-01RF-00005",
-    "walmart_sku": 16499407182
+    "walmart_sku": 16499407182,
+    "manufacturer_url": "https://www.tryxzone.com/rota/4025"
   }
 }

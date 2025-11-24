@@ -49,6 +49,7 @@
   "general_product_information": {
     "amazon_sku": "B0DWHGLDHG",
     "newegg_sku": "N82E16814137925",
-    "walmart_sku": 15382054450
+    "walmart_sku": 15382054450,
+    "ibuypower_sku": "31629"
   }
 }

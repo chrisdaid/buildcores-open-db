@@ -44,6 +44,7 @@
   },
   "core_count": 2560,
   "general_product_information": {
-    "newegg_sku": "N82E16814987001"
+    "newegg_sku": "N82E16814987001",
+    "bestbuy_sku": 11019330
   }
 }

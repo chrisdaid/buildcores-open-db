@@ -1,7 +1,7 @@
 {
   "opendb_id": "136cafe7-58f8-4002-9ccd-5caf34742a2a",
   "metadata": {
-    "name": "Corsair Crystal 280X RGB Micro ATX Mid Tower White Tempered Glass",
+    "name": "Corsair Crystal 280X RGB Micro ATX Mid Tower Black Tempered Glass",
     "manufacturer": "Corsair",
     "part_numbers": [
       "CC-9011137-WW"
@@ -11,7 +11,7 @@
   },
   "form_factor": "Micro ATX Mid Tower",
   "color": [
-    "WHITE"
+    "BLACK"
   ],
   "power_supply": "None",
   "side_panel": "Tempered Glass",

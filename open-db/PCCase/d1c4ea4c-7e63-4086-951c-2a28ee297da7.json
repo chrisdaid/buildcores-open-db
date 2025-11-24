@@ -1,7 +1,7 @@
 {
   "opendb_id": "d1c4ea4c-7e63-4086-951c-2a28ee297da7",
   "metadata": {
-    "name": "NZXT H6 Flow ATX Mid Tower Black with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C USB 3.2 Gen 1 Type-A",
+    "name": "NZXT H6 Flow ATX Mid Tower Black with Tempered Glass Side Panel",
     "manufacturer": "NZXT",
     "part_numbers": [
       "CC-H61FB-01"
@@ -27,7 +27,7 @@
   "weight": 20.7235,
   "supported_power_supply_form_factors": [],
   "front_usb_ports": [
-    "1x USB 3.2 Gen 2 Type-C     ",
+    "1x USB 3.2 Gen 2x2 Type-C     ",
     "2x USB 3.2 Gen 1 Type-A"
   ],
   "dimensions_mm": {
