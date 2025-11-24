@@ -7,7 +7,7 @@
       "90RC00L0-M0UAY0                                                    ROG RYUJIN III 360                                                    90RC00L0-M0AAY0"
     ],
     "series": "ROG",
-    "variant": "Black",
+    "variant": "RYUJIN III 360",
     "releaseYear": null
   },
   "min_fan_rpm": 450,
@@ -32,11 +32,11 @@
   "water_cooled": true,
   "radiator_size": 360,
   "fanless": false,
-  "fan_size": null,
-  "fan_quantity": null,
+  "fan_size": 120,
+  "fan_quantity": 3,
   "general_product_information": {
     "amazon_sku": "B0C8BVRYB5",
     "newegg_sku": "N82E16835101097",
-    "walmart_sku": 2778940066
+    "manufacturer_url": "https://rog.asus.com/cooling/cpu-liquid-coolers/rog-ryujin/rog-ryujin-iii-360/spec/"
   }
 }
