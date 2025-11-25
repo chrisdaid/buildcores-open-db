@@ -20,7 +20,7 @@
   "chipset": "Radeon RX 9060 XT 16 GB",
   "core_count": 2048,
   "memory": 16,
-  "core_base_clock": 2620,
+  "core_base_clock": 1700,
   "core_boost_clock": 3250,
   "effective_memory_clock": 2518,
   "memory_bus": 128,
