@@ -17,7 +17,7 @@
   "pwm": true,
   "led": "Addressable RGB",
   "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
-  "controller": "4-pin PWM + 3-pin 5V Addressable RGB",
+  "controller": "None",
   "static_pressure": 2.16,
   "flow_direction": "Standard",
   "general_product_information": {
