@@ -11,9 +11,9 @@
   "connection_types": ["Wired 3.5mm"],
   "has_microphone": true,
   "microphone_type": "Detachable Boom",
-  "noise_cancellation_mic": false,
+  "noise_cancellation_mic": true,
   "features": ["Multi-Device Pairing"],
-  "use_cases": ["Gaming", "Casual"],
+  "use_cases": ["Gaming"],
   "platforms": ["PC", "Mobile", "Console"],
   "lighting": ["None"],
   "metadata": {
