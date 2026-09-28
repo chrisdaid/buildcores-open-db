@@ -1,0 +1,23 @@
+{
+  "opendb_id": "12a289e6-4273-4356-9296-3ea69097cd02",
+  "screen_size": 27,
+  "resolution": {
+    "horizontalRes": 2560,
+    "verticalRes": 1440
+  },
+  "refresh_rate": 540,
+  "panel_type": "OLED",
+  "color": [],
+  "lighting": ["RGB", "Display"],
+  "metadata": {
+    "name": "ASUS ROG Swift OLED PG27AQWP-G Edition 20",
+    "manufacturer": "ASUS",
+    "part_numbers": []
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

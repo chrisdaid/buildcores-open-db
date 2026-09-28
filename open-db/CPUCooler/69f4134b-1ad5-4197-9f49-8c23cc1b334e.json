@@ -5,7 +5,7 @@
   "min_noise_level": 29,
   "max_noise_level": null,
   "color": ["BLACK"],
-  "lighting": [],
+  "lighting": ["None"],
   "height": 155,
   "cpu_sockets": [
     "AM4",
