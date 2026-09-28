@@ -1,0 +1,23 @@
+{
+  "opendb_id": "197d48d8-90b0-4453-97bf-3c07eb84a77b",
+  "screen_size": 27,
+  "resolution": {
+    "horizontalRes": 2560,
+    "verticalRes": 1440
+  },
+  "refresh_rate": 280,
+  "panel_type": "QD-OLED",
+  "color": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Gigabyte MO27Q2A 27\" 1440p 280Hz QD-OLED Monitor Black",
+    "manufacturer": "Gigabyte",
+    "part_numbers": []
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

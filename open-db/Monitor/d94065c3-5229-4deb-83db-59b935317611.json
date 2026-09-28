@@ -1,0 +1,23 @@
+{
+  "opendb_id": "d94065c3-5229-4deb-83db-59b935317611",
+  "screen_size": 27,
+  "resolution": {
+    "horizontalRes": 2560,
+    "verticalRes": 1440
+  },
+  "refresh_rate": 280,
+  "panel_type": "QD-OLED",
+  "color": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Gigabyte MO27Q2A ICE 27\" 1440p 280Hz QD-OLED Monitor White",
+    "manufacturer": "Gigabyte",
+    "part_numbers": []
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}
