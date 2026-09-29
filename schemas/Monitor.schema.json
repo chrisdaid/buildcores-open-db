@@ -242,7 +242,7 @@
         "type": "object",
         "properties": {
           "id": {
-            "description": "Stable system-generated row identifier. It is assigned on save and is not entered by reviewers.",
+            "description": "Stable port ID for per-claim DQ evidence; assigned on save.",
             "type": ["string", "null"],
             "minLength": 1
           },
@@ -300,7 +300,7 @@
               "type": "object",
               "properties": {
                 "id": {
-                  "description": "Stable system-generated row identifier. It is assigned on save and is not entered by reviewers.",
+                  "description": "Stable claim ID for per-claim DQ evidence; assigned on save.",
                   "type": ["string", "null"],
                   "minLength": 1
                 },
@@ -365,7 +365,7 @@
         "type": "object",
         "properties": {
           "id": {
-            "description": "Stable system-generated row identifier. It is assigned on save and is not entered by reviewers.",
+            "description": "Stable port ID for per-claim DQ evidence; assigned on save.",
             "type": ["string", "null"],
             "minLength": 1
           },
@@ -423,7 +423,7 @@
               "type": "object",
               "properties": {
                 "id": {
-                  "description": "Stable system-generated row identifier. It is assigned on save and is not entered by reviewers.",
+                  "description": "Stable claim ID for per-claim DQ evidence; assigned on save.",
                   "type": ["string", "null"],
                   "minLength": 1
                 },
