@@ -263,7 +263,7 @@
         "type": "object",
         "properties": {
           "id": {
-            "description": "Stable port ID for per-claim DQ evidence; assigned on save.",
+            "description": "Stable system-generated port ID used to attach DQ evidence to its mode claims. Reviewers do not enter it.",
             "type": ["string", "null"],
             "minLength": 1
           },
@@ -321,7 +321,7 @@
               "type": "object",
               "properties": {
                 "id": {
-                  "description": "Stable claim ID for per-claim DQ evidence; assigned on save.",
+                  "description": "Stable system-generated claim ID used to attach DQ evidence to this claim. Reviewers do not enter it.",
                   "type": ["string", "null"],
                   "minLength": 1
                 },
