@@ -1,0 +1,25 @@
+{
+  "opendb_id": "2ffd26af-de14-45e3-afa4-61fd0825ea94",
+  "height": 161,
+  "cpu_sockets": ["AM5", "AM4"],
+  "water_cooled": false,
+  "fanless": false,
+  "fan_size": 120,
+  "fan_quantity": 2,
+  "metadata": {
+    "name": "be quiet! Dark Rock 5 Pro",
+    "manufacturer": "be quiet!",
+    "series": "Dark Rock",
+    "variant": "5 Pro",
+    "releaseYear": 2024,
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.bequiet.com/en/cpucooler/5110"
+  },
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

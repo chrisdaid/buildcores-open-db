@@ -16,7 +16,7 @@
   "switches": "Mechanical Switches",
   "onboard_memory": true,
   "rgb": true,
-  "lighting": ["RGB", "ARGB"],
+  "lighting": ["ARGB", "RGB"],
   "battery_life": 146,
   "battery_type": "Rechargeable",
   "grip_types": ["Claw", "Fingertip", "Palm"],
@@ -25,6 +25,8 @@
     "name": "GravaStar Mercury M1 Pro Wireless Gaming Mouse, Lightweight Magnesium Alloy, 26,000 DPI, PAW3395DM Sensor, 5 Programmable Buttons, Support Wired/2.4GHz/BT, Up to 200 Hours Battery Life (Gradient Pink)",
     "manufacturer": "GravaStar",
     "part_numbers": [],
+    "series": "Mercury M1 Pro",
+    "variant": "Gradient Pink",
     "releaseYear": 2024
   },
   "general_product_information": {

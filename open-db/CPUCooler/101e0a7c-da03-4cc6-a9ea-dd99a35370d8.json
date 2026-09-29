@@ -24,7 +24,8 @@
     "name": "bequiet! Dark Rock 6 Air cooler",
     "manufacturer": "be quiet!",
     "part_numbers": ["BK046"],
-    "series": "Dark Rock 6",
+    "series": "Dark Rock",
+    "variant": "6",
     "releaseYear": 2026,
     "manufacturer_color": "Black"
   },

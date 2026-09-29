@@ -8,7 +8,7 @@
   },
   "size": "Medium",
   "shape": "Ambidextrous",
-  "connectivity": ["Wired", "Wireless 2.4GHz", "Bluetooth"],
+  "connectivity": ["Wireless 2.4GHz", "Bluetooth", "Wired USB-C"],
   "sensor": "Pixart PAW3395",
   "max_dpi": 26000,
   "polling_rate": 4000,
@@ -25,6 +25,8 @@
     "name": "GravaStar Mercury M1 Pro Gunmetal Gray",
     "manufacturer": "GravaStar",
     "part_numbers": [],
+    "series": "Mercury M1 Pro",
+    "variant": "Gunmetal Grey",
     "releaseYear": 2024
   },
   "general_product_information": {

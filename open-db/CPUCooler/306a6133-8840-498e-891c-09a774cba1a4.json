@@ -28,7 +28,8 @@
     "name": "be quiet! Dark Rock 3",
     "manufacturer": "be quiet!",
     "part_numbers": [],
-    "series": "Dark Rock 3",
+    "series": "Dark Rock",
+    "variant": "3",
     "releaseYear": 2014,
     "manufacturer_color": "Black"
   },

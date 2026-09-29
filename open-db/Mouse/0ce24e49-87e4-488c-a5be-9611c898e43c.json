@@ -22,9 +22,11 @@
   "grip_types": ["Palm", "Fingertip", "Claw"],
   "silent_clicks": false,
   "metadata": {
-    "name": "GravaStar Mercury M1 Pro Gaming Mouse, 78g Lightweight Magnesium Alloy, 26,000 DPI, PAW3395DM Sensor, 5 Programmable Buttons, Support Wired/2.4GHz/BT, Up to 200 Hours Battery Life",
+    "name": "GravaStar Mercury M1 Pro Gaming Mouse, 78g Lightweight Magnesium Alloy, 26,000 DPI, PAW3395DM Sensor, 5 Programmable Buttons, Support Wired/2.4GHz/BT, Up to 200 Hours Battery Life (Ice Blue)",
     "manufacturer": "GravaStar",
     "part_numbers": [],
+    "series": "Mercury M1 Pro",
+    "variant": "Ice Blue",
     "releaseYear": 2024
   },
   "general_product_information": {

@@ -26,13 +26,13 @@
   "water_cooled": false,
   "radiator_size": null,
   "fanless": false,
-  "fan_size": null,
+  "fan_size": 120,
   "fan_quantity": null,
   "metadata": {
     "name": "be quiet! Dark Rock 3 Air 160mm 67.8 CFM Fluid Dynamic Bearing",
     "manufacturer": "be quiet!",
     "part_numbers": ["BK018"],
-    "series": "Dark",
+    "series": "Dark Rock",
     "variant": "",
     "releaseYear": null
   },
