@@ -1,9 +1,12 @@
 {
   "opendb_id": "8b38132e-1e57-422e-ac55-d7395ec0b229",
+  "weight": 1630,
   "metadata": {
     "name": "Govee RGBICW Smart Floor Lamp Basic (H6076) Blue",
     "manufacturer": "Govee",
     "part_numbers": [],
+    "series": "Smart Floor Lamp Basic",
+    "variant": "Blue",
     "releaseYear": 2023
   },
   "general_product_information": {

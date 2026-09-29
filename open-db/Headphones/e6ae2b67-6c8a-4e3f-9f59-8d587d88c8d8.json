@@ -17,7 +17,7 @@
   "has_microphone": true,
   "microphone_type": "Built-In",
   "noise_cancellation_mic": true,
-  "features": [],
+  "features": ["Spatial Audio", "Ambient Mode", "App Support", "Multi-Device Pairing"],
   "use_cases": ["Gaming", "Casual"],
   "platforms": ["PC", "Mobile", "Console"],
   "lighting": ["None"],
@@ -25,6 +25,8 @@
     "name": "Logitech G ASTRO A50 X LIGHTSPEED Wireless Gaming Headset Black",
     "manufacturer": "Logitech",
     "part_numbers": [],
+    "series": "Astro A50X",
+    "variant": "Black",
     "releaseYear": 2024
   },
   "general_product_information": {

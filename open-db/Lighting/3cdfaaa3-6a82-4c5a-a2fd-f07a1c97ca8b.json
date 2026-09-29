@@ -1,9 +1,12 @@
 {
   "opendb_id": "3cdfaaa3-6a82-4c5a-a2fd-f07a1c97ca8b",
+  "weight": 620,
   "metadata": {
     "name": "BenQ ScreenBar Pro Silver",
     "manufacturer": "BenQ",
     "part_numbers": [],
+    "series": "ScreenBar Pro",
+    "variant": "Silver",
     "releaseYear": 2024
   },
   "general_product_information": {

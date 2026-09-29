@@ -2,13 +2,13 @@
   "opendb_id": "34f40104-da1b-49fa-b7d1-7f916823d026",
   "weight": 60,
   "dimensions": {
-    "length": 40,
+    "length": 125,
     "width": 63,
-    "height": 125
+    "height": 40
   },
   "size": "Medium",
   "shape": "Ambidextrous",
-  "connectivity": ["Wired", "Wireless 2.4GHz"],
+  "connectivity": ["Wireless 2.4GHz", "Wired USB-C", "Wired USB-A"],
   "sensor": "HERO 2 Optical Sensor",
   "max_dpi": 44000,
   "polling_rate": 8000,
@@ -25,6 +25,8 @@
     "name": "Logitech PRO X Superlight 2 Wireless/Wired Optical Pink Gaming Mouse",
     "manufacturer": "Logitech",
     "part_numbers": [],
+    "series": "G PRO X Superlight 2",
+    "variant": "Pink",
     "releaseYear": 2023
   },
   "general_product_information": {

@@ -1,6 +1,6 @@
 {
   "opendb_id": "faa4bedc-a053-474c-9840-c7011670dc10",
-  "max_fan_rpm": 1400,
+  "min_fan_rpm": 1400,
   "min_noise_level": 10.5,
   "max_noise_level": 21.4,
   "color": ["BLACK"],

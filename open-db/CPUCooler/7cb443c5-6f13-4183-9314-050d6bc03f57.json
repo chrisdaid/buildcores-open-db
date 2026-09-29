@@ -1,7 +1,7 @@
 {
   "opendb_id": "7cb443c5-6f13-4183-9314-050d6bc03f57",
-  "max_fan_rpm": 1500,
-  "max_noise_level": 25.6,
+  "min_fan_rpm": 1500,
+  "min_noise_level": 25.6,
   "color": ["BLACK"],
   "lighting": ["ARGB"],
   "height": 53,

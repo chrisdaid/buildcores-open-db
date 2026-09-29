@@ -1,7 +1,8 @@
 {
   "opendb_id": "4b8b25e9-7f30-47e7-87b3-554c04e98936",
   "min_fan_rpm": 2000,
-  "min_noise_level": 32.4,
+  "min_noise_level": 7.5,
+  "max_noise_level": 32.4,
   "color": ["BLACK"],
   "lighting": ["None"],
   "height": 169,
@@ -24,7 +25,7 @@
     "manufacturer": "be quiet!",
     "part_numbers": ["BK048"],
     "series": "Dark Rock",
-    "variant": "Pro 6",
+    "variant": "Pro",
     "releaseYear": 2026,
     "manufacturer_color": "Black"
   },

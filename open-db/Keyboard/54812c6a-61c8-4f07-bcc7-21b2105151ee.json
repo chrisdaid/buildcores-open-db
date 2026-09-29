@@ -1,6 +1,7 @@
 {
   "opendb_id": "54812c6a-61c8-4f07-bcc7-21b2105151ee",
-  "switch": "Hall Effect Magnetic",
+  "weight": 1630,
+  "switch": "Gateron Double-Rail Magnetic Switch",
   "switch_type": "Magnetic",
   "size": "75%",
   "layout": "ANSI",
@@ -16,6 +17,8 @@
     "name": "Lemokey P1 HE Black Non-Shine-Through US ANSI Gateron Double-Rail Magnetic Nebula Gaming Keyboard",
     "manufacturer": "Lemokey",
     "part_numbers": [],
+    "series": "P1 HE",
+    "variant": "Black Non Shine Through",
     "releaseYear": 2024
   },
   "general_product_information": {
