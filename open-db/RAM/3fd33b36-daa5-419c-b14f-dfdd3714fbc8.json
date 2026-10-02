@@ -2,7 +2,7 @@
   "opendb_id": "3fd33b36-daa5-419c-b14f-dfdd3714fbc8",
   "speed": 5200,
   "ram_type": "DDR5",
-  "profile_support": ["XMP", "EXPO"],
+  "profile_support": ["XMP"],
   "form_factor": "288-pin DIMM",
   "modules": {
     "quantity": 1,
