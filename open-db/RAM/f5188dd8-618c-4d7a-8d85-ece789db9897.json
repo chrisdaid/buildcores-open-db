@@ -10,7 +10,7 @@
   },
   "capacity": 16,
   "color": ["BLACK"],
-  "lighting": [],
+  "lighting": ["ARGB"],
   "cas_latency": 38,
   "timings": "38-40-40-84",
   "voltage": null,
