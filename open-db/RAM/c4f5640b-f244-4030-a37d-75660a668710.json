@@ -10,7 +10,7 @@
   },
   "capacity": 16,
   "color": [],
-  "lighting": [],
+  "lighting": ["None"],
   "cas_latency": 18,
   "timings": "18-26-26-46",
   "voltage": 1.5,
@@ -24,6 +24,7 @@
     "manufacturer": "Corsair",
     "part_numbers": [],
     "series": "Vengeance LPX",
+    "variant": "Default",
     "releaseYear": 2019,
     "manufacturer_color": "Black"
   },
