@@ -60,16 +60,14 @@
     "height": 358,
     "height_min": 358,
     "height_max": 358,
-    "depth": 53.2
+    "depth": 65
   },
   "weight": {
     "with_stand_kg": 6.09,
     "without_stand_kg": 4.59
   },
   "power_consumption": {
-    "typical_w": 35,
-    "manufacturer_max_w": 35,
-    "explicitly_reported_peak_w": 35
+    "typical_w": 35
   },
   "max_brightness": 1000,
   "hdr": "VESA DisplayHDR True Black 400",

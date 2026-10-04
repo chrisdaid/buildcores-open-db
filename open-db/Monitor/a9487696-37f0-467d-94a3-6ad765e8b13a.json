@@ -8,7 +8,7 @@
   "refresh_rate": 240,
   "panel_type": "QD-OLED",
   "response_time": 0.03,
-  "color": ["BLACK"],
+  "color": ["BLUE", "BLACK"],
   "lighting": ["None"],
   "viewing_angle": "178° H x 178° V",
   "aspect_ratio": "16:9",
@@ -31,7 +31,7 @@
       "id": "c285e3d2-1ff4-4ad6-b701-43525bfb5394",
       "connector": "hdmi",
       "count": 2,
-      "version_label": "2.4",
+      "version_label": "2.1",
       "video_signal": "hdmi",
       "transport": "native",
       "graphics_route": "switchable"
@@ -63,7 +63,7 @@
     "depth": 72.6
   },
   "weight": {
-    "with_stand_kg": 6.79,
+    "with_stand_kg": 6.26,
     "without_stand_kg": 4.3
   },
   "power_consumption": {

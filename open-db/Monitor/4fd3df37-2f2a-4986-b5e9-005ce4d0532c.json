@@ -6,6 +6,18 @@
     "verticalRes": 2160
   },
   "refresh_rate": 165,
+  "native_refresh_activation": "automatic",
+  "alternate_display_modes": [
+    {
+      "id": "aebe13b7-cfbd-4396-9373-ed145e6c51eb",
+      "resolution": {
+        "horizontalRes": 2560,
+        "verticalRes": 1440
+      },
+      "refresh_rate": 330,
+      "activation": "manual_mode_switch"
+    }
+  ],
   "panel_type": "OLED",
   "response_time": 0.03,
   "color": ["BLACK"],
@@ -14,7 +26,8 @@
   "aspect_ratio": "21:9",
   "video_outputs": {
     "hdmi_2_1": 2,
-    "displayport_1_4a": 1
+    "displayport_2_1": 1,
+    "usb_c": 1
   },
   "connectors": "2 x HDMI                                                            1 x DisplayPort",
   "display_inputs": [
@@ -43,7 +56,7 @@
       {
         "id": "bc4301f5-714b-4ce6-8aec-09521697334d",
         "pattern": "100x100",
-        "mounted_weight_kg": 11.22,
+        "mounted_weight_kg": 7.76,
         "installation": "direct"
       }
     ]
@@ -67,11 +80,10 @@
     "without_stand_kg": 7.76
   },
   "power_consumption": {
-    "typical_w": 58,
-    "manufacturer_max_w": 58,
-    "explicitly_reported_peak_w": 58
+    "typical_w": 58
   },
   "max_brightness": 1300,
+  "hdr": "VESA DisplayHDR True Black 500",
   "adaptive_sync": "G-Sync Compatible",
   "metadata": {
     "name": "Alienware AW3926QW 38.9\" 5120x2160 165Hz OLED Curved Monitor Nova Black",
