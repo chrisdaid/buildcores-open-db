@@ -4,7 +4,7 @@ _Curious about a hosted API or 3D configurator? See the [BuildCores API](https:/
 
 # BuildCores OpenDB
 
-The world's largest, community-driven, and open database for PC components and tech products. This repository contains structured data about computer hardware components that can be used for compatibility checking, component research, and building PC builder / part picking apps.
+A community-driven database of PC components and tech products for compatibility checking, component research, and PC builder apps. See the [license](#license) for reuse permissions.
 
 _For an easy way to browse and search all components in a user-friendly interface, you can visit:_
 https://buildcores.com/products
@@ -85,6 +85,8 @@ For detailed guidance on adding variants, see [docs/VARIANTS.md](docs/VARIANTS.m
 3. **Validate your changes** against the appropriate schema
 4. **Submit a pull request** with your changes
 
+Before submitting new protected material, review the [contribution licensing requirements](CONTRIBUTING.md#licensing-and-contributor-permissions). Contributors retain ownership; commercial licensing of their protected contributions requires an express grant.
+
 ### PR Validation
 
 When you submit a pull request, GitHub Actions will automatically:
@@ -113,16 +115,6 @@ We cannot provide price data or retailer-specific data due to restrictions.
 
 ## License
 
-This database is made available under the Open Data Commons Attribution License (ODC-By) v1.0.
+Identified new protected database material uses **[CC BY-NC-SA 4.0](LICENSE.txt)**: noncommercial use with attribution, and ShareAlike for publicly shared protected adaptations. Commercial exercise of covered rights needs separate permission from the relevant rights holder. Nonprofit status alone does not determine whether a use is noncommercial.
 
-You are free:
-
-- To share: To copy, distribute and use the database.
-- To create: To produce works from the database.
-- To adapt: To modify, transform and build upon the database.
-
-As long as you:
-
-- Attribute: You must attribute any public use of the database, or works produced from the database, in the manner specified in the license. For any use or redistribution of the database, or works produced from it, you must make clear to others the license of the database and keep intact any notices on the original database.
-
-For more information, see [opendatacommons.org/licenses/by/1-0](https://opendatacommons.org/licenses/by/1-0/).
+**Previously published ODC-By material retains its earlier permissions, including commercial use. No new material is currently designated as covered.** See [NOTICE.md](NOTICE.md) for scope and the [licensing guide](docs/licensing/README.md) for [commercial requests](docs/licensing/README.md#commercial-requests) and contributor permissions.
