@@ -27,13 +27,13 @@ This grant independently authorizes the approved commercial use. For public Shar
 
 CC's NonCommercial limitation does not govern this approved commercial use. The standard public license remains unchanged for others. Approval alone does not waive attribution or ShareAlike, authorize recipients' commercial use, or supply another rights holder's permission. Each waiver must identify the obligations, rights, distributions, and recipients affected.
 
-Customer may keep approved internal modifications private and owns its original additions subject to underlying rights. No publication or contribution upstream is required for private changes. Unprotected facts, statutory exceptions, and independently available public or legacy permissions remain unaffected.
+Customer may keep approved internal modifications private and owns its original additions subject to underlying rights. No publication or contribution upstream is required for private changes. Unprotected facts, statutory exceptions, and independently available permissions remain unaffected.
 
 ## 3 Downstream access
 
-Personnel and contractors may process material solely on Customer's behalf for approved uses under confidentiality and limits on independent reuse. They must preserve notices; their handling does not offer public rights in Customer's unpublished changes. Customer is responsible for authorized acts on its behalf. Affiliates and end users receive only the commercial permissions specified in the order; independent public and legacy permissions survive.
+Personnel and contractors may process material solely on Customer's behalf for approved uses under confidentiality and limits on independent reuse. They must preserve notices; their handling does not offer public rights in Customer's unpublished changes. Customer is responsible for authorized acts on its behalf. Affiliates and end users receive only the commercial permissions specified in the order; independent permissions survive.
 
-Unless expressly scoped otherwise with relevant waivers, authorized public Sharing must carry CC BY-NC-SA 4.0 and required notices, preserve direct public offers for original material, and license Customer's protected adaptations under an allowed adapter's license. For authorized private delivery, preserve original public and legacy offers; Customer's unpublished additions follow the authorized downstream grant.
+Unless expressly scoped otherwise with relevant waivers, authorized public Sharing must carry CC BY-NC-SA 4.0 and required notices, preserve direct public offers for original material, and license Customer's protected adaptations under an allowed adapter's license. For authorized private delivery, respect independently available permissions; Customer's unpublished additions follow the authorized downstream grant.
 
 Permission for product display does not authorize raw-data sales, an independent data API, or commercially reusable forks. Commercial sublicenses must remain within the order and permit no further commercial relicensing unless authorized. Sublicensing permission alone does not waive the sharing duties in section 2 or bind BuildCores to other permissions.
 
@@ -51,7 +51,7 @@ Either party may terminate for a material breach uncured 30 days after written n
 
 On expiry or termination, Customer must stop uses requiring the commercial grant and remove affected copies from active commercial systems within 30 days. Legally required records and inaccessible backups may remain until ordinary deletion, without active use. Continued end-user licenses, distributed products, model artifacts, and wind-down rights require explicit order terms.
 
-Independent public and legacy grants and expressly surviving downstream rights remain available. Accrued payment obligations and terms needed to enforce accrued rights survive.
+Independent permissions and expressly surviving downstream rights remain available. Accrued payment obligations and terms needed to enforce accrued rights survive.
 
 ## 6 Warranties and liability
 

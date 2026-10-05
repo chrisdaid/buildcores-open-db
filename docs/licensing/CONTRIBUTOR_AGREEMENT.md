@@ -24,7 +24,7 @@ To the extent lawful, You will not assert moral rights solely to prevent authori
 
 BuildCores will offer Contributions accepted into public OpenDB releases under unmodified CC BY-NC-SA 4.0 or a later CC license with the same Attribution, NonCommercial, and ShareAlike elements and at least those noncommercial permissions. Commercial licensing may operate alongside that public grant.
 
-BuildCores may decline, correct, remove, or stop distributing Contributions. Those choices do not withdraw valid public grants, including earlier ODC-By permissions.
+BuildCores may decline, correct, remove, or stop distributing Contributions. Those choices do not withdraw valid public grants.
 
 ## 4 Authority and provenance
 

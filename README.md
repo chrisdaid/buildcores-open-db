@@ -117,4 +117,4 @@ We cannot provide price data or retailer-specific data due to restrictions.
 
 Identified new protected database material uses **[CC BY-NC-SA 4.0](LICENSE.txt)**: noncommercial use with attribution, and ShareAlike for publicly shared protected adaptations. Commercial exercise of covered rights needs separate permission from the relevant rights holder. Nonprofit status alone does not determine whether a use is noncommercial.
 
-**Previously published ODC-By material retains its earlier permissions, including commercial use. No new material is currently designated as covered.** See [NOTICE.md](NOTICE.md) for scope and the [licensing guide](docs/licensing/README.md) for [commercial requests](docs/licensing/README.md#commercial-requests) and contributor permissions.
+**No new material is currently designated as covered.** See [NOTICE.md](NOTICE.md) for scope and the [licensing guide](docs/licensing/README.md) for [commercial requests](docs/licensing/README.md#commercial-requests) and contributor permissions.

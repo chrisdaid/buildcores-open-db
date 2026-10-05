@@ -4,9 +4,9 @@ Thank you for your interest in contributing to BuildCores OpenDB! This document 
 
 ## Licensing and Contributor Permissions
 
-[NOTICE.md](NOTICE.md) defines the scope of [CC BY-NC-SA 4.0](LICENSE.txt) and preserves earlier ODC-By permissions. Contributors retain ownership; commercial sublicensing of their protected material requires an express grant or other verified authority.
+[NOTICE.md](NOTICE.md) defines the scope of [CC BY-NC-SA 4.0](LICENSE.txt). Contributors retain ownership; commercial sublicensing of their protected material requires an express grant or other verified authority.
 
-- Identify sources, third-party restrictions, original protected content, and incorporated legacy material. Public availability does not establish permission to copy protected content.
+- Identify sources, third-party restrictions, original protected content, and incorporated third-party material. Public availability does not establish permission to copy protected content.
 - Where needed, arrange private acceptance of the completed [contributor agreement](docs/licensing/CONTRIBUTOR_AGREEMENT.md) before merge. A PR or checkbox is not acceptance; keep legal identities and signatures private.
 - Maintainers must verify authority, retain exact grant and acceptance records, and add coverage to `NOTICE.md` before release. Hold protected contributions needing a commercial grant until it is verified. Review is manual.
 
