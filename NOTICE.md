@@ -1,25 +1,25 @@
 # OpenDB Licensing Notice
 
-New protected database material identified below is offered under unmodified [CC BY-NC-SA 4.0](LICENSE.txt). Commercial exercise of those rights requires separate permission from the relevant rights holder. This notice defines coverage and adds no conditions to the standard license.
+[CC BY-NC-SA 4.0](LICENSE.txt) applies to data released under it. Commercial use of that data requires separate permission from the rights holder. This notice adds no conditions to the standard license.
 
 ## Coverage
 
-**No new database material is currently designated as covered. Existing permissions remain valid.**
+**No data has been added under this license yet. Existing permissions remain valid.**
 
-Before releasing new covered material, add a record identifying:
+Before releasing data under this license, record:
 
-- The database portion and exact commit or release, including incorporated third-party material.
-- The protected contribution, rights holder, and supplied attribution.
-- Sources, third-party terms, exclusions, and authority to license the identified rights. Reference verified permission records without publishing private agreements or signatures.
+- The files or database entries and the exact commit or release, including data from other sources.
+- The original work, any copyright or database rights, the rights holder, and required credits.
+- Sources, third-party terms, exclusions, and permission to license the data. Reference permission records without publishing private agreements or signatures.
 
-The license grants only rights the licensor controls. Ordinary facts, statutory exceptions, and independent permissions remain unaffected. New identifiers or file formats do not establish new protected rights. This notice does not assign new licenses to software, schemas, logos, photographs, manuals, or other third-party content.
+The license applies only to rights the person offering the data can grant. Product facts, legal exceptions, and separate permissions remain unaffected. Changing a file name or format alone does not create rights in the data. Software, schemas, logos, photographs, manuals, and other third-party content need their own permissions.
 
 ## Attribution and forks
 
-For covered material, retain supplied attribution and notices, identify changes, and provide the license text or link under CC section 3(a). Suggested credit:
+When publicly sharing data under this license, credit its source, keep notices, say what changed, and include the license text or link (section 3(a)). Suggested credit:
 
-> Contains data from BuildCores OpenDB (https://github.com/buildcores/buildcores-open-db), licensed under CC BY-NC-SA 4.0 for identified covered material. Source release: [identifier]. Changes: [description].
+> Data from BuildCores OpenDB (https://github.com/buildcores/buildcores-open-db), licensed under CC BY-NC-SA 4.0. Source release: [identifier]. Changes: [description].
 
-Publicly shared protected adaptations must use an adapter's license permitted by CC section 3(b); applicable database rights are addressed in section 4. The original noncommercial restriction remains. Private changes, independent application code, and unprotected facts do not have to be published.
+For publicly shared changes that need permission under copyright or database rights, use a license allowed by section 3(b). Keep the original data's noncommercial terms. Section 4 addresses database rights. Private changes and your app's own code do not have to be published.
 
-See the [licensing guide](docs/licensing/README.md) for commercial requests and contributor permissions. BuildCores can approve only rights it owns or is authorized to license, including in forks.
+See the [licensing guide](docs/licensing/README.md) for commercial requests and contributor permissions. BuildCores can approve only rights it owns or has permission to license, including in forks.
