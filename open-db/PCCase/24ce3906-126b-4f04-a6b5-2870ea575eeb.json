@@ -14,7 +14,7 @@
   "max_psu_length": 250,
   "internal_3_5_bays": 4,
   "internal_2_5_bays": 6,
-  "power_supply_shroud": true,
+  "power_supply_shroud": false,
   "expansion_slots": 7,
   "supports_rear_connecting_motherboard": true,
   "dimensions_mm": {

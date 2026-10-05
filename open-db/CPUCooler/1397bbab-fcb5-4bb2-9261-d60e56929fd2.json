@@ -1,5 +1,6 @@
 {
   "opendb_id": "1397bbab-fcb5-4bb2-9261-d60e56929fd2",
+  "weight": 1380,
   "min_fan_rpm": 2500,
   "min_noise_level": 18.7,
   "max_noise_level": 36.9,

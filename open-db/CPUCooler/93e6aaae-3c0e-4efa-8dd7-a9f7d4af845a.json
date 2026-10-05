@@ -5,7 +5,7 @@
   "min_noise_level": 27.2,
   "color": ["WHITE"],
   "lighting": ["ARGB"],
-  "height": 53,
+  "height": 53.15,
   "cpu_sockets": [
     "AM4",
     "AM5",
@@ -14,10 +14,12 @@
     "LGA 1155",
     "LGA 1156",
     "LGA 1200",
-    "LGA 1700"
+    "LGA 1700",
+    "LGA 1851"
   ],
   "water_cooled": true,
   "radiator_size": 360,
+  "fanless": false,
   "fan_size": 120,
   "fan_quantity": 3,
   "metadata": {
@@ -26,6 +28,7 @@
     "part_numbers": [],
     "series": "MasterLiquid ATMOS",
     "variant": "Default",
+    "releaseYear": 2023,
     "manufacturer_color": "White",
     "last_manually_spec_verified_at": "2025-11-27T15:14:34.022Z"
   },

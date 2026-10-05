@@ -1,5 +1,6 @@
 {
   "opendb_id": "faa4bedc-a053-474c-9840-c7011670dc10",
+  "weight": 920,
   "min_fan_rpm": 1400,
   "min_noise_level": 10.5,
   "max_noise_level": 21.4,
@@ -15,7 +16,8 @@
     "LGA 1150",
     "LGA 1151",
     "LGA 1155",
-    "LGA 2011-3"
+    "LGA 2011-3",
+    "LGA 2011"
   ],
   "water_cooled": false,
   "radiator_size": null,

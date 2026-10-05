@@ -6,7 +6,7 @@
   "max_noise_level": null,
   "color": ["BLACK"],
   "lighting": ["ARGB"],
-  "height": 36,
+  "height": 39,
   "cpu_sockets": [
     "AM4",
     "AM5",
