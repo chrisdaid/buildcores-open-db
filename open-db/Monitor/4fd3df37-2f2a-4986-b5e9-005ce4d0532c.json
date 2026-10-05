@@ -62,14 +62,14 @@
     ]
   },
   "dimensions_with_stand_mm": {
-    "width": 920,
+    "width": 920.49,
     "height": 580,
     "height_min": 470,
     "height_max": 580,
     "depth": 242
   },
   "dimensions_without_stand_mm": {
-    "width": 920,
+    "width": 920.49,
     "height": 408,
     "height_min": 408,
     "height_max": 408,
