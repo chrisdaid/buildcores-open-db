@@ -53,6 +53,11 @@
       "type": ["number", "null"],
       "exclusiveMinimum": 0
     },
+    "max_total_display_weight_kg": {
+      "description": "Separately published maximum combined weight in kg of all displays attached to this exact stand or arm configuration. This is distinct from the per-display maximum; never calculate it by multiplying that maximum by the supported display count.",
+      "type": ["number", "null"],
+      "exclusiveMinimum": 0
+    },
     "supported_display_count": {
       "description": "Published positive number of displays supported by this exact mount configuration.",
       "type": ["integer", "null"],

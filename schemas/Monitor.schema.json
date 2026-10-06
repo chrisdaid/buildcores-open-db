@@ -242,7 +242,7 @@
         "type": "object",
         "properties": {
           "id": {
-            "description": "Stable system-generated port ID used to attach DQ evidence to its mode claims. Reviewers do not enter it.",
+            "description": "Stable system-generated row identifier. It is assigned on save and is not entered by reviewers.",
             "type": ["string", "null"],
             "minLength": 1
           },
@@ -300,7 +300,7 @@
               "type": "object",
               "properties": {
                 "id": {
-                  "description": "Stable system-generated claim ID used to attach DQ evidence to this claim. Reviewers do not enter it.",
+                  "description": "Stable system-generated row identifier. It is assigned on save and is not entered by reviewers.",
                   "type": ["string", "null"],
                   "minLength": 1
                 },
@@ -365,7 +365,7 @@
         "type": "object",
         "properties": {
           "id": {
-            "description": "Stable system-generated port ID used to attach DQ evidence to its mode claims. Reviewers do not enter it.",
+            "description": "Stable system-generated row identifier. It is assigned on save and is not entered by reviewers.",
             "type": ["string", "null"],
             "minLength": 1
           },
@@ -423,7 +423,7 @@
               "type": "object",
               "properties": {
                 "id": {
-                  "description": "Stable system-generated claim ID used to attach DQ evidence to this claim. Reviewers do not enter it.",
+                  "description": "Stable system-generated row identifier. It is assigned on save and is not entered by reviewers.",
                   "type": ["string", "null"],
                   "minLength": 1
                 },
