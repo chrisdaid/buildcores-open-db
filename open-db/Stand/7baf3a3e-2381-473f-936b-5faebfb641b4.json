@@ -1,9 +1,28 @@
 {
   "opendb_id": "7baf3a3e-2381-473f-936b-5faebfb641b4",
+  "weight": 5000,
+  "display_mount_vesa_patterns": [
+    {
+      "width_mm": 75,
+      "height_mm": 75
+    },
+    {
+      "width_mm": 100,
+      "height_mm": 100
+    }
+  ],
+  "min_supported_display_weight_kg": 1.99,
+  "max_supported_display_weight_kg": 8.98,
+  "supported_display_count": 2,
+  "host_attachment_methods": ["desk_clamp", "grommet"],
+  "min_clamp_thickness_mm": 14.98,
+  "max_clamp_thickness_mm": 89.96,
   "metadata": {
-    "name": "HUANUO HNDS6W Dual Monitor Mount White",
+    "name": "HUANUO HNDS6 Dual Monitor Mount White",
     "manufacturer": "HUANUO",
     "part_numbers": [],
+    "series": "HNDS6",
+    "variant": "Dual Monitor White",
     "releaseYear": 2021
   },
   "general_product_information": {

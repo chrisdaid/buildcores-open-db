@@ -1,9 +1,12 @@
 {
   "opendb_id": "5fb6ac33-031d-4ccb-b9fa-eda20c1b54c1",
+  "weight": 620,
   "metadata": {
     "name": "BenQ ScreenBar Pro Black",
     "manufacturer": "BenQ",
     "part_numbers": [],
+    "series": "ScreenBar Pro",
+    "variant": "Black",
     "releaseYear": 2024
   },
   "general_product_information": {

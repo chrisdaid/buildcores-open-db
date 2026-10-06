@@ -17,7 +17,13 @@
   "has_microphone": true,
   "microphone_type": "Detachable Boom",
   "noise_cancellation_mic": true,
-  "features": [],
+  "features": [
+    "EQ Customization",
+    "App Support",
+    "Multi-Device Pairing",
+    "Spatial Audio",
+    "Dolby Atmos"
+  ],
   "use_cases": ["Casual", "Gaming", "Audiophile"],
   "platforms": ["PC", "Mobile", "Console"],
   "lighting": ["None"],
@@ -25,6 +31,8 @@
     "name": "Audeze Maxwell 2 Wireless Gaming Headset PlayStation",
     "manufacturer": "Audeze",
     "part_numbers": [],
+    "series": "Maxwell",
+    "variant": "2 - Playstation",
     "releaseYear": 2026
   },
   "general_product_information": {

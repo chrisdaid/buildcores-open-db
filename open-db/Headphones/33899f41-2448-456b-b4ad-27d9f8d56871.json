@@ -17,7 +17,13 @@
   "has_microphone": true,
   "microphone_type": "Detachable Boom",
   "noise_cancellation_mic": true,
-  "features": [],
+  "features": [
+    "Spatial Audio",
+    "Multi-Device Pairing",
+    "Dolby Atmos",
+    "App Support",
+    "EQ Customization"
+  ],
   "use_cases": ["Casual", "Gaming", "Audiophile"],
   "platforms": ["PC", "Mobile", "Console"],
   "lighting": ["None"],
@@ -25,6 +31,8 @@
     "name": "Audeze Maxwell Wireless Gaming Headset Xbox",
     "manufacturer": "Audeze",
     "part_numbers": [],
+    "series": "Maxwell",
+    "variant": "Xbox",
     "releaseYear": 2023
   },
   "general_product_information": {

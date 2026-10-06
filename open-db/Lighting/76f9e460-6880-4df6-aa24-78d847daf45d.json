@@ -1,9 +1,12 @@
 {
   "opendb_id": "76f9e460-6880-4df6-aa24-78d847daf45d",
+  "weight": 1630,
   "metadata": {
     "name": "Govee RGBICW Smart Floor Lamp Basic (H6076) Champagne",
     "manufacturer": "Govee",
     "part_numbers": [],
+    "series": "Smart Floor Lamp Basic",
+    "variant": "Champagne",
     "releaseYear": 2023
   },
   "general_product_information": {

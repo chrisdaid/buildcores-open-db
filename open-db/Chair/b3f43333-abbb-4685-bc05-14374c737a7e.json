@@ -1,5 +1,25 @@
 {
   "opendb_id": "b3f43333-abbb-4685-bc05-14374c737a7e",
+  "seat_height_range_mm": {
+    "min": 500,
+    "max": 610
+  },
+  "seat_dimensions_mm": {
+    "width": 520,
+    "depth": 70.14
+  },
+  "dimensions_mm": {
+    "width": 580,
+    "depth": 860,
+    "height_min": 1320,
+    "height_max": 1430
+  },
+  "base_diameter_mm": 580,
+  "max_user_weight_kg": 181,
+  "seat_surface_materials": ["Fabric"],
+  "backrest_surface_materials": ["Fabric"],
+  "armrest_adjustability": "HeightAdjustable",
+  "lumbar_support": "Adjustable",
   "metadata": {
     "name": "LiberNovo Maxis Manual Graphite Ergonomic Chair",
     "manufacturer": "LiberNovo",

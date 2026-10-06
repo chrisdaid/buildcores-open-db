@@ -17,7 +17,7 @@
   "has_microphone": true,
   "microphone_type": "Detachable Boom",
   "noise_cancellation_mic": true,
-  "features": [],
+  "features": ["Spatial Audio", "Multi-Device Pairing", "EQ Customization", "App Support"],
   "use_cases": ["Casual", "Gaming", "Audiophile"],
   "platforms": ["Console", "Mobile", "PC"],
   "lighting": ["None"],
@@ -25,6 +25,8 @@
     "name": "Audeze Maxwell Wireless Gaming Headset PlayStation",
     "manufacturer": "Audeze",
     "part_numbers": [],
+    "series": "Maxwell",
+    "variant": "Playstation",
     "releaseYear": 2023
   },
   "general_product_information": {
